@@ -56,12 +56,17 @@
   "sha1": "df967beb08523789866181e29f2b028022baa3c9",
   "status": 200,
   "final_url": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1119253",
-  "chars": 77375,
+  "chars": 78758,
   "error": "",
-  "fetched_at": "2026-09-04T02:17:52Z",
+  "fetched_at": "2026-09-04T02:39:16Z",
   "cited_by": [
    "claude/L06-C16"
-  ]
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "1119253",
+  "titulo": "SOBRE UNIVERSIDADES ESTATALES",
+  "fecha_publicacion": "2018-06-05",
+  "latest_version": "2026-02-05"
  },
  "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3": {
   "sha1": "f8000e5b43f8e765462941c82013ff03b0219f73",
@@ -340,9 +345,9 @@
   "sha1": "b2fc61bc22e7f8d140252be26c647956cde86d55",
   "status": 200,
   "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
-  "chars": 237,
+  "chars": 39572,
   "error": "",
-  "fetched_at": "2026-09-04T02:17:54Z",
+  "fetched_at": "2026-09-04T02:39:16Z",
   "cited_by": [
    "codex/L02-C04",
    "codex/L02-C08",
@@ -364,7 +369,12 @@
    "codex/L12-C09",
    "codex/L12-C12",
    "codex/L12-C13"
-  ]
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "1221526",
+  "titulo": "APRUEBA REGLAMENTO QUE REGULA EL RECONOCIMIENTO Y; REVALIDACIÓN EN CHILE DE TÍTULOS DE EDUCACIÓN SUPERIOR OBTENIDOS EN EL EXTRANJERO, Y LA CONVALIDACIÓN DE ACTIVIDADES CURRICULARES CURSADAS EN UNA INSTITUCIÓN DE EDUCACIÓN SUPERIOR EXTRANJERA, EN CONFORMIDAD A LO DISPUESTO EN EL ARTÍCULO 143 DE LA LEY N° 21.325, DE MIGRACIÓN Y EXTRANJERÍA",
+  "fecha_publicacion": "2026-02-17",
+  "latest_version": "2026-02-17"
  },
  "https://www.colegiomedico.cl/bolsa-laboral-2/": {
   "sha1": "19a20d5e29c8cc4ecf877c92da96470e847ec1a7",
@@ -382,9 +392,9 @@
   "sha1": "adb570a607a577fc0053780f33747365bc1560ef",
   "status": 200,
   "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
-  "chars": 237,
+  "chars": 18946,
   "error": "",
-  "fetched_at": "2026-09-04T02:17:54Z",
+  "fetched_at": "2026-09-04T02:39:17Z",
   "cited_by": [
    "codex/L02-C10",
    "codex/L02-C10",
@@ -394,7 +404,12 @@
    "codex/L07-C10",
    "codex/L12-C14",
    "codex/L12-C14"
-  ]
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "1226114",
+  "titulo": "FIJA ARANCELES PARA LOS TRÁMITES REFERIDOS AL RECONOCIMIENTO Y REVALIDACIÓN DE TÍTULOS PROFESIONALES, TÍTULOS TÉCNICOS DE NIVEL SUPERIOR Y GRADOS ACADÉMICOS OBTENIDOS EN EL EXTRANJERO, ASÍ COMO PARA LA CONVALIDACIÓN DE ACTIVIDADES CURRICULARES CURSADAS EN UNA INSTITUCIÓN DE EDUCACIÓN SUPERIOR EXTRANJERA, CONFORME A LO DISPUESTO EN EL DECRETO SUPREMO Nº 174, DE 2024, DEL MINISTERIO DE EDUCACIÓN",
+  "fecha_publicacion": "2026-07-17",
+  "latest_version": "2026-07-17"
  },
  "https://revistareumatologia.cl/index.php/rcr/article/download/152/116/209": {
   "sha1": "2d3ee4bb2ca9bba21f3800c26328e9ebda3649aa",
@@ -430,13 +445,18 @@
   "sha1": "ba8915e0792fe88c7f8296ee43bc39fdc1773006",
   "status": 200,
   "final_url": "https://nuevo.leychile.cl/navegar?idNorma=1158549",
-  "chars": 21,
+  "chars": 188630,
   "error": "",
-  "fetched_at": "2026-09-04T02:17:54Z",
+  "fetched_at": "2026-09-04T02:39:16Z",
   "cited_by": [
    "codex/L03-C02",
    "codex/L03-C12"
-  ]
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "1158549",
+  "titulo": "LEY DE MIGRACIÓN Y EXTRANJERÍA",
+  "fecha_publicacion": "2021-04-20",
+  "latest_version": "2222-02-02"
  },
  "https://uda.cl/rectoria-al-dia/": {
   "sha1": "f6a14c4bbd0364ea5b43127bcc882d119122730d",
@@ -526,14 +546,19 @@
  "https://www.leychile.cl/navegar?idNorma=1052275": {
   "sha1": "63a45e956167115a6c946fc7bac66bdb48e83353",
   "status": 200,
-  "final_url": "https://www.bcn.cl:443/leychile/navegar?idNorma=1052275",
-  "chars": 237,
+  "final_url": "https://www.leychile.cl/navegar?idNorma=1052275",
+  "chars": 30638,
   "error": "",
-  "fetched_at": "2026-09-04T02:17:55Z",
+  "fetched_at": "2026-09-04T02:39:15Z",
   "cited_by": [
    "codex/L05-C06",
    "codex/L05-C06"
-  ]
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "1052275",
+  "titulo": "REGLAMENTO DE CERTIFICACIÓN DE LAS ESPECIALIDADES DE LOS PRESTADORES INDIVIDUALES DE SALUD Y DE LAS ENTIDADES QUE LAS OTORGAN",
+  "fecha_publicacion": "2013-07-01",
+  "latest_version": "2026-01-02"
  },
  "https://conacem.cl/documentacion_a_presentar.asp?s=2025": {
   "sha1": "d1a633ddc9e6bdbda2ce68fafbdac44151fb4b27",
@@ -888,16 +913,21 @@
  "https://www.leychile.cl/navegar?idNorma=1158549&tipoVersion=0": {
   "sha1": "31b9d4d3dfc3746aa1140593ec8ab1121f2fd80a",
   "status": 200,
-  "final_url": "https://www.bcn.cl:443/leychile/navegar?idNorma=1158549&tipoVersion=0",
-  "chars": 237,
+  "final_url": "https://www.leychile.cl/navegar?idNorma=1158549&tipoVersion=0",
+  "chars": 188630,
   "error": "",
-  "fetched_at": "2026-09-04T02:18:03Z",
+  "fetched_at": "2026-09-04T02:39:16Z",
   "cited_by": [
    "codex/L09-C05",
    "codex/L09-C10",
    "codex/L09-C10",
    "codex/L09-C10"
-  ]
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "1158549",
+  "titulo": "LEY DE MIGRACIÓN Y EXTRANJERÍA",
+  "fecha_publicacion": "2021-04-20",
+  "latest_version": "2222-02-02"
  },
  "https://serviciomigraciones.cl/residencia-temporal/subcategorias/actividades-remuneradas/": {
   "sha1": "02e6e448c9bfe883ee0049cd38155c564da3bfcb",
@@ -990,23 +1020,33 @@
   "sha1": "4e9c5bf547bb3011935d632c44757a42d2359093",
   "status": 200,
   "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=5219&idParte=8825103&idVersion=1960-04-06",
-  "chars": 237,
+  "chars": 187707,
   "error": "",
-  "fetched_at": "2026-09-04T02:18:05Z",
+  "fetched_at": "2026-09-04T02:39:20Z",
   "cited_by": [
    "codex/L09-C16"
-  ]
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "5219",
+  "titulo": "FIJA EL NUEVO ESTATUTO ADMINISTRATIVO PARA LOS\nEMPLEADOS DE LA ADMINISTRACION PUBLICA",
+  "fecha_publicacion": "1953-07-29",
+  "latest_version": "1960-04-06"
  },
  "https://www.bcn.cl/leychile/navegar?idNorma=28031": {
   "sha1": "20a2f39c03046ed0ff606f8e5d0566dce142dafa",
   "status": 200,
   "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=28031",
-  "chars": 237,
+  "chars": 51135,
   "error": "",
-  "fetched_at": "2026-09-04T02:18:05Z",
+  "fetched_at": "2026-09-04T02:39:18Z",
   "cited_by": [
    "codex/L09-C16"
-  ]
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "28031",
+  "titulo": "FIJA EL TEXTO REFUNDIDO DEL ESTATUTO PARA LOS MEDICO-CIRUJANOS, FARMACEUTICOS O QUIMICO-FARMACEUTICOS, BIO-QUIMICOS Y CIRUJANOS DENTISTAS",
+  "fecha_publicacion": "1963-01-08",
+  "latest_version": "1963-01-08"
  },
  "https://serviciomigraciones.cl/aranceles-migratorios/": {
   "sha1": "69f3429759655b99a848a91d075b435c64d8135d",
@@ -1110,7 +1150,7 @@
   "final_url": "https://apostille.in.ua/attachments/4all/%D0%A6%D1%96%D0%BD%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D1%83_ua.pdf",
   "chars": 0,
   "error": "HTTP 404",
-  "fetched_at": "2026-09-04T02:18:07Z",
+  "fetched_at": "2026-09-04T02:37:18Z",
   "cited_by": [
    "codex/L08-C10",
    "codex/L08-C10"
@@ -1302,7 +1342,7 @@
   "final_url": "https://zakon.rada.gov.ua/laws/show/1556-18/ed20150529/print",
   "chars": 0,
   "error": "URLError: <urlopen error timed out>",
-  "fetched_at": "2026-09-04T02:18:41Z",
+  "fetched_at": "2026-09-04T02:37:59Z",
   "cited_by": [
    "codex/L07-C01"
   ]
@@ -1313,7 +1353,7 @@
   "final_url": "https://zakon.rada.gov.ua/laws/show/en/1556-18/ed20220512/comp20190101?dark=1&lang=en",
   "chars": 0,
   "error": "URLError: <urlopen error timed out>",
-  "fetched_at": "2026-09-04T02:18:41Z",
+  "fetched_at": "2026-09-04T02:37:59Z",
   "cited_by": [
    "codex/L07-C03",
    "codex/L07-C03"
@@ -1325,10 +1365,666 @@
   "final_url": "https://zakon.rada.gov.ua/laws/show/1556-18/ed20170105/print/sp%3Adark",
   "chars": 0,
   "error": "URLError: <urlopen error timed out>",
-  "fetched_at": "2026-09-04T02:18:41Z",
+  "fetched_at": "2026-09-04T02:37:59Z",
   "cited_by": [
    "codex/L07-C05",
    "codex/L07-C05"
+  ]
+ },
+ "https://ucampus.uchile.cl/m/prorrectoria_revalidacion_postulacion/login": {
+  "sha1": "18e8dd2bfe1d29a6808a0a0c5f9e41c6bc3f6a97",
+  "status": 200,
+  "final_url": "https://ucampus.uchile.cl/m/prorrectoria_revalidacion_postulacion/login",
+  "chars": 1316,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C03",
+   "claude/L02-C06"
+  ]
+ },
+ "https://uchile.cl/dam/jcr:7333c60f-5463-4f10-ae96-c75fdc8dd448/Reglamento%20de%20Revalidaci%20(1).pdf": {
+  "sha1": "a743c9556c4a602aae2603276b8f427cfbdc81a1",
+  "status": 200,
+  "final_url": "https://uchile.cl/dam/jcr:7333c60f-5463-4f10-ae96-c75fdc8dd448/Reglamento%20de%20Revalidaci%20(1).pdf",
+  "chars": 19177,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C08",
+   "claude/L02-C09",
+   "claude/L02-C18",
+   "claude/L02-C19"
+  ]
+ },
+ "https://uchile.cl/dam/jcr:181ced88-33e1-465d-9935-2616181edd08/DEX%20384%20Aranceles%202026.pdf": {
+  "sha1": "3b3a3b130fad18177ad9e4d979b7da4e82c0495f",
+  "status": 200,
+  "final_url": "https://uchile.cl/dam/jcr:181ced88-33e1-465d-9935-2616181edd08/DEX%20384%20Aranceles%202026.pdf",
+  "chars": 7,
+  "error": "pdf: no extractable text",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C02",
+   "claude/L02-C16",
+   "claude/L02-C16"
+  ]
+ },
+ "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf": {
+  "sha1": "e2161383939a5c6d5d152b9e0eb5a6fe8bd870a6",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+  "chars": 4022,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C11",
+   "claude/L02-C11",
+   "claude/L02-C11",
+   "claude/L02-C12",
+   "claude/L02-C12",
+   "claude/L02-C13",
+   "claude/L02-C14",
+   "claude/L02-C14"
+  ]
+ },
+ "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm": {
+  "sha1": "f9a246f2374e51d15928e8c5da15d447dd917914",
+  "status": 200,
+  "final_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+  "chars": 1696,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C17"
+  ]
+ },
+ "https://uchile.cl/dam/jcr:8c0d501f-dd49-4465-a1f1-8ad4da12ac81/2023-12-27-InstructivoIngreso.pdf": {
+  "sha1": "1d5d1978df1a598949e60972d76966fc01236252",
+  "status": 200,
+  "final_url": "https://uchile.cl/dam/jcr:8c0d501f-dd49-4465-a1f1-8ad4da12ac81/2023-12-27-InstructivoIngreso.pdf",
+  "chars": 3515,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C04",
+   "claude/L02-C05",
+   "claude/L02-C13"
+  ]
+ },
+ "https://uchile.cl/dam/jcr:dff1eef7-ed8d-4ea5-87c7-f996bca0260c/Reglamento%20de%20Revalidacion%20y%20Reconocimiento.pdf": {
+  "sha1": "a4befcc8c34a6bd5196163daa68d363d093b792b",
+  "status": 200,
+  "final_url": "https://uchile.cl/dam/jcr:dff1eef7-ed8d-4ea5-87c7-f996bca0260c/Reglamento%20de%20Revalidacion%20y%20Reconocimiento.pdf",
+  "chars": 44044,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C01",
+   "claude/L02-C02"
+  ]
+ },
+ "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/contactos-y-encargados-de-unidades-academicas": {
+  "sha1": "349d6d655c744453e2478244f094095aa808f06d",
+  "status": 200,
+  "final_url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/contactos-y-encargados-de-unidades-academicas",
+  "chars": 6598,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C23"
+  ]
+ },
+ "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/cifras-revalidacion": {
+  "sha1": "2d5889fd5fd54392ffb615defd786f7977155820",
+  "status": 200,
+  "final_url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/cifras-revalidacion",
+  "chars": 7402,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C22"
+  ]
+ },
+ "http://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/informacion-general": {
+  "sha1": "7c7d6c429e51950281efdae190098a048baea01b",
+  "status": 200,
+  "final_url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/informacion-general",
+  "chars": 8434,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L02-C20"
+  ]
+ },
+ "https://www.suseso.gob.cl/605/w3-article-781252.html": {
+  "sha1": "dbc10f4e400bfac5b5148fedf521cd76a441390b",
+  "status": 200,
+  "final_url": "https://www.suseso.gob.cl/605/w3-article-781252.html",
+  "chars": 3346,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L04-C03",
+   "claude/L04-C06"
+  ]
+ },
+ "https://medicina.uchile.cl/postgrado/programas-de-formacion-de-especialistas/informacion-para-medicos-extranjeros": {
+  "sha1": "5f38456e922879a8fb196fef9caa010de800e4ba",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/postgrado/programas-de-formacion-de-especialistas/informacion-para-medicos-extranjeros",
+  "chars": 3838,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:11Z",
+  "cited_by": [
+   "claude/L04-C05",
+   "claude/L04-C24"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?idNorma=270584": {
+  "sha1": "5f2b0e41b18a4447fe2c67c70fbfec4df2ead261",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=270584",
+  "chars": 34866,
+  "error": "",
+  "fetched_at": "2026-09-04T02:39:17Z",
+  "cited_by": [
+   "claude/L04-C01",
+   "claude/L04-C02",
+   "claude/L04-C03",
+   "claude/L04-C04",
+   "claude/L04-C05",
+   "claude/L04-C06",
+   "claude/L04-C07",
+   "codex/L04-C05",
+   "codex/L04-C07",
+   "codex/L04-C16",
+   "codex/L04-C16",
+   "codex/L04-C17",
+   "codex/L04-C17",
+   "codex/L04-C19",
+   "codex/L04-C21",
+   "codex/L04-C21"
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "270584",
+  "titulo": "CREA EXAMEN ÚNICO NACIONAL DE CONOCIMIENTOS DE MEDICINA, INCORPORA CARGOS QUE INDICA AL SISTEMA DE ALTA DIRECCIÓN PÚBLICA Y MODIFICA LA LEY Nº19.664",
+  "fecha_publicacion": "2008-04-19",
+  "latest_version": "2025-05-24"
+ },
+ "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-en-la-universidad-de-chile": {
+  "sha1": "5f963901fc86e4ed7541948cfb506aece7694089",
+  "status": 200,
+  "final_url": "https://uchile.cl/revalidacion",
+  "chars": 5324,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:12Z",
+  "cited_by": [
+   "claude/L02-C22"
+  ]
+ },
+ "https://www.eunacom.cl/inscripcion/inscripcion.html": {
+  "sha1": "2f7f7015be7a5361889f090999081cb106393078",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/inscripcion/inscripcion.html",
+  "chars": 5278,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:12Z",
+  "cited_by": [
+   "claude/L04-C10",
+   "claude/L04-C11",
+   "claude/L04-C13",
+   "claude/L04-C16",
+   "codex/L04-C03"
+  ]
+ },
+ "https://www.eunacom.cl/home.html": {
+  "sha1": "8925beb495d9762c4e3c6c951c5e339a2a61294b",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/home.html",
+  "chars": 18422,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:12Z",
+  "cited_by": [
+   "claude/L04-C08",
+   "claude/L04-C12",
+   "claude/L04-C15",
+   "claude/L04-C15",
+   "claude/L04-C22"
+  ]
+ },
+ "https://www.eunacom.cl/reglamentacion/DocumentosRequeridos.html": {
+  "sha1": "8dc0f0e88679e504673fa3179048d6559af43c9a",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/reglamentacion/DocumentosRequeridos.html",
+  "chars": 2673,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:12Z",
+  "cited_by": [
+   "claude/L04-C12",
+   "claude/L04-C24",
+   "codex/L04-C08",
+   "codex/L04-C09",
+   "codex/L04-C09",
+   "codex/L04-C09"
+  ]
+ },
+ "http://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/procedimientos-segun-carreragrado": {
+  "sha1": "8396c099d261b6671d8c0978308500d4e83a3e72",
+  "status": 200,
+  "final_url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/procedimientos-segun-carreragrado",
+  "chars": 8015,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:12Z",
+  "cited_by": [
+   "claude/L02-C20",
+   "claude/L02-C21"
+  ]
+ },
+ "https://www.eunacom.cl/reglamentacion/Costos.html": {
+  "sha1": "9e01fc9802caf83466a70f0ffe4efff47d8d639c",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/reglamentacion/Costos.html",
+  "chars": 2506,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:12Z",
+  "cited_by": [
+   "claude/L04-C16",
+   "codex/L04-C12",
+   "codex/L04-C12"
+  ]
+ },
+ "https://www.infomigra.org/las-cifras-del-eunacom-la-mitad-de-los-medicos-extranjeros-lo-aprueba-y-sus-resultados-han-mejorado-sostenidamente/": {
+  "sha1": "fe3d1bb5b3b4fbe4c7f1a059a878e7c77c578496",
+  "status": 200,
+  "final_url": "https://www.infomigra.org/las-cifras-del-eunacom-la-mitad-de-los-medicos-extranjeros-lo-aprueba-y-sus-resultados-han-mejorado-sostenidamente/",
+  "chars": 12503,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:12Z",
+  "cited_by": [
+   "claude/L04-C19"
+  ]
+ },
+ "https://webserver.superdesalud.gob.cl/bases/ManejoSolicitudes.nsf/frmsoltitulo?OpenForm": {
+  "sha1": "3f29c2326066344ec98c7cc1121e239b2081027b",
+  "status": 200,
+  "final_url": "https://webserver.superdesalud.gob.cl/bases/ManejoSolicitudes.nsf/frmsoltitulo?OpenForm",
+  "chars": 26328,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:12Z",
+  "cited_by": [
+   "claude/L05-C04"
+  ]
+ },
+ "https://www.superdesalud.gob.cl/noticias/2025/08/superintendencia-de-salud-reporta-mas-de-946-mil-profesionales-de-la-salud-en-su-rnpi-que-garantizan-su-certificacion/": {
+  "sha1": "c610739b755801b440d3df651db966462ddd86ad",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/noticias/2025/08/superintendencia-de-salud-reporta-mas-de-946-mil-profesionales-de-la-salud-en-su-rnpi-que-garantizan-su-certificacion/",
+  "chars": 6090,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L05-C05",
+   "claude/L05-C05"
+  ]
+ },
+ "https://www.eunacom.cl/reglamentacion/reglamentacion.html": {
+  "sha1": "a177c6b1104a70eb13662228bd8e76b33d4cf47a",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/reglamentacion/reglamentacion.html",
+  "chars": 4251,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L04-C07"
+  ]
+ },
+ "https://www.superdesalud.gob.cl/app/uploads/2013/07/decreto-8_01-jul-2013.pdf": {
+  "sha1": "a64cabdd87940394b2133b6d68350b503bce5ead",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/app/uploads/2013/07/decreto-8_01-jul-2013.pdf",
+  "chars": 36695,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L05-C09"
+  ]
+ },
+ "https://prorrectoria.simplybook.me/v2/": {
+  "sha1": "a852338369dbf40abc6b2f1cac14ca5001b86bfa",
+  "status": 200,
+  "final_url": "https://prorrectoria.simplybook.me/v2/",
+  "chars": 107,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L02-C07"
+  ]
+ },
+ "https://www.chileatiende.gob.cl/fichas/8584-registro-nacional-de-prestadores-individuales-de-salud": {
+  "sha1": "1c7a1dc72593355fcdb18c6395a7bf1c54bb46c8",
+  "status": 200,
+  "final_url": "https://www.chileatiende.gob.cl/fichas/8584-registro-nacional-de-prestadores-individuales-de-salud",
+  "chars": 4769,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L05-C03"
+  ]
+ },
+ "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=cs&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=5595.2026-01-01.0.0%23": {
+  "sha1": "472afd8db206e3aaebd75555491a2d360242e7db",
+  "status": 200,
+  "final_url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=cs&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=5595.2026-01-01.0.0%23",
+  "chars": 179524,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L05-C06",
+   "claude/L05-C06",
+   "claude/L05-C07"
+  ]
+ },
+ "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=l20261&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=270584.2026-01-01.0.0%23": {
+  "sha1": "968c866b2f1257253ff2432eebd7ab431729bfc0",
+  "status": 200,
+  "final_url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=l20261&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=270584.2026-01-01.0.0%23",
+  "chars": 36411,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L05-C11",
+   "claude/L05-C19",
+   "claude/L05-C20"
+  ]
+ },
+ "https://estadodiario.com/noticias/ica-acoge-recurso-de-proteccion-contra-dictamen-de-contraloria-por-examen-de-revalidacion-de-medicos-extranjeros/": {
+  "sha1": "99a800ec6b9c66ff2a6baf5b6a9b4ea70905e0ce",
+  "status": 200,
+  "final_url": "https://estadodiario.com/noticias/ica-acoge-recurso-de-proteccion-contra-dictamen-de-contraloria-por-examen-de-revalidacion-de-medicos-extranjeros/",
+  "chars": 9572,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L04-C20",
+   "claude/L04-C20"
+  ]
+ },
+ "https://www.superdesalud.gob.cl/orientacion-en-salud/que-deben-saber-los-profesionales-especialistas-que-obtuvieron-la-certificacion-de-especialidades-medicas-en-el-extranjero/": {
+  "sha1": "0db402d2172f51999f1539b7a6554a7e8aaf29c4",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/orientacion-en-salud/que-deben-saber-los-profesionales-especialistas-que-obtuvieron-la-certificacion-de-especialidades-medicas-en-el-extranjero/",
+  "chars": 6375,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:13Z",
+  "cited_by": [
+   "claude/L05-C11"
+  ]
+ },
+ "https://www.conacem.cl/tramite_certificacion_de_especialistas.asp": {
+  "sha1": "ff042d903729f2cbdb97795ec1f23cce375adf21",
+  "status": 200,
+  "final_url": "https://www.conacem.cl/tramite_certificacion_de_especialistas.asp",
+  "chars": 4303,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L05-C15",
+   "claude/L05-C15",
+   "claude/L05-C16"
+  ]
+ },
+ "https://www.conacem.cl/requisitos_especialidad.asp": {
+  "sha1": "5727599b940370bbd4dc5af6c2d720c10f452282",
+  "status": 200,
+  "final_url": "https://www.conacem.cl/requisitos_especialidad.asp",
+  "chars": 3311,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L05-C13",
+   "claude/L05-C13"
+  ]
+ },
+ "https://www.conacem.cl/faq.asp": {
+  "sha1": "41f8bc8a65fe30e31ae38ffce117701f524b66c6",
+  "status": 200,
+  "final_url": "https://www.conacem.cl/faq.asp",
+  "chars": 5597,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L05-C17"
+  ]
+ },
+ "https://www.superdesalud.gob.cl/registro/corporacion-nacional-autonoma-de-certificacion-de-especialidades-medicas-conacem/": {
+  "sha1": "7ffa5bc0a12c7a90413869dd977ee2bd52e8f2ab",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/registro/corporacion-nacional-autonoma-de-certificacion-de-especialidades-medicas-conacem/",
+  "chars": 10450,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L05-C18",
+   "claude/L05-C18"
+  ]
+ },
+ "https://www.conacem.cl/Noticias_det.asp?Id=0FK%3D": {
+  "sha1": "52a69ca4dd8f87a2c431818798c3d29fe8a60597",
+  "status": 200,
+  "final_url": "https://www.conacem.cl/Noticias_det.asp?Id=0FK%3D",
+  "chars": 1553,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L05-C15"
+  ]
+ },
+ "https://doe.cl/viewPublic/document/2017/ley/20985.html": {
+  "sha1": "03474a645696a485f575d92404b7f20ac73fb940",
+  "status": 200,
+  "final_url": "https://doe.cl/viewPublic/document/2017/ley/20985.html",
+  "chars": 3253,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L05-C11"
+  ]
+ },
+ "https://www.eunacom.cl/resultados/resultados-actuales.html": {
+  "sha1": "01c65df06ad741d48ddb2a3e0206949586f2cec6",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/resultados/resultados-actuales.html",
+  "chars": 4173,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L04-C18",
+   "claude/L04-C19"
+  ]
+ },
+ "https://www.eunacom.cl/noticias/2019.html": {
+  "sha1": "f8e7e56e8365be462a63c3d32e8c667316162315",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/noticias/2019.html",
+  "chars": 25712,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L04-C10",
+   "claude/L04-C21"
+  ]
+ },
+ "https://www.eunacom.cl/contenidos/contenidos.html": {
+  "sha1": "e9eaff288f62853031317628290617494250c340",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/contenidos/contenidos.html",
+  "chars": 2525,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "codex/L04-C01",
+   "codex/L04-C07"
+  ]
+ },
+ "https://www.eunacom.cl/": {
+  "sha1": "bce6c96f2c9297850f97cbc6a623a260925069c6",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/",
+  "chars": 18422,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "codex/L04-C01",
+   "codex/L04-C10"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?i=1002799": {
+  "sha1": "d3a391c437fb84acae165915ecfc9680ebfcfd83",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?i=1002799",
+  "chars": 237,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "codex/L04-C02",
+   "codex/L04-C02",
+   "codex/L04-C03",
+   "codex/L04-C05",
+   "codex/L04-C06",
+   "codex/L04-C06",
+   "codex/L04-C20"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?idNorma=1221118&idParte=10582304&idVersion=2026-02-05": {
+  "sha1": "eb6d5b9663a668eadaf99d7f4a6145a5401a54e1",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=1221118&idParte=10582304&idVersion=2026-02-05",
+  "chars": 1142642,
+  "error": "",
+  "fetched_at": "2026-09-04T02:39:16Z",
+  "cited_by": [
+   "codex/L04-C18"
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "1221118",
+  "titulo": "OTORGA REAJUSTE GENERAL DE REMUNERACIONES A LAS Y LOS TRABAJADORES DEL SECTOR PÚBLICO, CONCEDE AGUINALDOS QUE SEÑALA, CONCEDE OTROS BENEFICIOS QUE INDICA Y MODIFICA DIVERSOS CUERPOS LEGALES",
+  "fecha_publicacion": "2026-02-05",
+  "latest_version": "2026-02-05"
+ },
+ "https://www.bcn.cl/leychile/navegar?i=1213603": {
+  "sha1": "d0b8ab6d28dd472af09d0d9074e0e96b59cfd86c",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?i=1213603",
+  "chars": 237,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "codex/L04-C18",
+   "codex/L04-C18"
+  ]
+ },
+ "https://www.chileatiende.gob.cl/fichas/65749-modalidad-de-libre-eleccion-mle-de-fonasa-convenio-con-profesionales-de-la-salud": {
+  "sha1": "9685026d28dfdf0f7ac33fb7c4caebec51f96513",
+  "status": 200,
+  "final_url": "https://www.chileatiende.gob.cl/fichas/65749-modalidad-de-libre-eleccion-mle-de-fonasa-convenio-con-profesionales-de-la-salud",
+  "chars": 4879,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "claude/L05-C21",
+   "claude/L05-C21",
+   "claude/L05-C21"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?idNorma=5595&idVersion=2025-11-18": {
+  "sha1": "f43a7ddde23e579db0c2ed09fcc102ef42c61d02",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=5595&idVersion=2025-11-18",
+  "chars": 177925,
+  "error": "",
+  "fetched_at": "2026-09-04T02:39:20Z",
+  "cited_by": [
+   "codex/L04-C19",
+   "codex/L04-C19",
+   "codex/L04-C20"
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "5595",
+  "titulo": "CODIGO SANITARIO",
+  "fecha_publicacion": "1968-01-31",
+  "latest_version": "2025-09-29"
+ },
+ "https://www.superdesalud.gob.cl/app/uploads/2026/01/boletin-n4-2025-rnpi-enero-diciembre-2025.pdf": {
+  "sha1": "2d9c99bc5a95db5ba0602040de2747143bbcd0a3",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/app/uploads/2026/01/boletin-n4-2025-rnpi-enero-diciembre-2025.pdf",
+  "chars": 13802,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "codex/L04-C23"
+  ]
+ },
+ "https://www.eunacom.cl/noticias/2017.html": {
+  "sha1": "6583759efb00917b4cbb59fe4ddd233aad8cefd0",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/noticias/2017.html",
+  "chars": 16089,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:14Z",
+  "cited_by": [
+   "codex/L04-C22",
+   "codex/L04-C22"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?idNorma=1158549": {
+  "sha1": "5c849ed7fb4aad971617e75a888fd3a65cf93683",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=1158549",
+  "chars": 188630,
+  "error": "",
+  "fetched_at": "2026-09-04T02:39:16Z",
+  "cited_by": [
+   "verified/SPINE-02"
+  ],
+  "source": "LeyChile XML API (obtxml opt=7)",
+  "norma_id": "1158549",
+  "titulo": "LEY DE MIGRACIÓN Y EXTRANJERÍA",
+  "fecha_publicacion": "2021-04-20",
+  "latest_version": "2222-02-02"
+ },
+ "https://revistareumatologia.cl/index.php/rcr/article/view/75": {
+  "sha1": "abd000c1ca3a36821a80e8bf560ea26888e84a26",
+  "status": 200,
+  "final_url": "https://revistareumatologia.cl/index.php/rcr/article/view/75",
+  "chars": 3475,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:15Z",
+  "cited_by": [
+   "claude/L05-C23"
+  ]
+ },
+ "http://web.archive.org/web/20260227104901/https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso": {
+  "sha1": "40fdfe78593d465a4896b59d4a96c9c66f1b312e",
+  "status": 200,
+  "final_url": "http://web.archive.org/web/20260227104901/https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+  "chars": 7433,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:15Z",
+  "cited_by": [
+   "claude/L02-C06"
+  ]
+ },
+ "https://sochire.cl/quienes-somos/": {
+  "sha1": "207b29e5966cedeb3264a1e47f5ec59364673965",
+  "status": 200,
+  "final_url": "https://sochire.cl/quienes-somos/",
+  "chars": 3422,
+  "error": "",
+  "fetched_at": "2026-09-04T02:37:17Z",
+  "cited_by": [
+   "claude/L05-C22"
   ]
  }
 }

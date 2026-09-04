@@ -362,6 +362,174 @@
     "regime_side": "POST"
    },
    "note": "OPEN: verify whether the arancel decree was actually published."
+  },
+  {
+   "id": "SPINE-16",
+   "statement": "The fee decree required by Decreto 174 exists: Decreto Exento N 384 of the Ministry of Education, signed 17 June 2026 and published in the Diario Oficial on 17 July 2026. It sets national MAXIMUM fees and applies from the date Decreto 174 entered into force.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto Exento 384/2026 MINEDUC",
+     "date_of_content": "2026-07-17",
+     "quote_original": "El presente acto administrativo comenzará a regir desde la fecha entrada en vigencia del decreto Nº 174, de 2024, del Ministerio de Educación, y será aplicable a las solicitudes de reconocimiento, revalidación y convalidación que se presenten a partir de dicha fecha.",
+     "quote_locator": "Artículo décimo primero"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto Exento 384/2026 MINEDUC Artículo décimo primero",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "Closes the open question in SPINE-15: the new route DOES have a published price."
+  },
+  {
+   "id": "SPINE-17",
+   "statement": "The fees are ceilings, not prices. Institutions may charge less, or grant reductions or exemptions, within their autonomy.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto Exento 384/2026 MINEDUC",
+     "date_of_content": "2026-07-17",
+     "quote_original": "Los aranceles establecidos en el presente acto administrativo tendrán el carácter de máximos",
+     "quote_locator": "Artículo segundo"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto Exento 384/2026 MINEDUC Artículo segundo",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-18",
+   "statement": "Maximum fees: 2 UTM to file and check admissibility; 3 UTM for the academic evaluation; up to 15 UTM for examinations or final activities; up to 20 UTM for additional coursework.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto Exento 384/2026 MINEDUC",
+     "date_of_content": "2026-07-17",
+     "quote_original": "Fíjase como arancel máximo por concepto de presentación de la solicitud y revisión de admisibilidad de los antecedentes requeridos para el reconocimiento o revalidación de títulos técnicos de nivel superior, títulos profesionales y grados académicos obtenidos en el extranjero, o para la convalidación de actividades curriculares cursadas en instituciones de educación superior extranjeras, la suma de hasta 2 unidades tributarias mensuales.",
+     "quote_locator": "Artículos cuarto a séptimo"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto Exento 384/2026 MINEDUC Artículos cuarto a séptimo",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-19",
+   "statement": "The 15 UTM examination fee covers the WHOLE set of requirements and may not be charged per exam, per attempt or per activity. The same rule applies to the 20 UTM coursework fee.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto Exento 384/2026 MINEDUC",
+     "date_of_content": "2026-07-17",
+     "quote_original": "El arancel señalado en el inciso anterior corresponderá al conjunto de exigencias determinadas en el respectivo procedimiento de revalidación, y no podrá aplicarse separadamente por cada examen, intento, actividad final o actuación académica comprendida en dichas exigencias.",
+     "quote_locator": "Artículo sexto inc. 2"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto Exento 384/2026 MINEDUC Artículo sexto inc. 2",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "Materially favourable: three attempts at an exam cost the same as one."
+  },
+  {
+   "id": "SPINE-20",
+   "statement": "In a RECOGNITION procedure — the track for her PhD — the institution may NOT require examinations, final activities or additional coursework. The result can only be pass or fail. The ceiling for recognising an academic degree is therefore 5 UTM.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto Exento 384/2026 MINEDUC",
+     "date_of_content": "2026-07-17",
+     "quote_original": "En los procedimientos de reconocimiento, el resultado del estudio académico solo podrá expresarse como aprobado o reprobado, sin que proceda exigir al solicitante la rendición de exámenes, el cumplimiento de actividades finales de egreso o titulación, ni la aprobación de actividades curriculares adicionales como condición para su otorgamiento.",
+     "quote_locator": "Artículo tercero inc. 3"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto Exento 384/2026 MINEDUC Artículo tercero inc. 3",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "Recognising the PhD is cheap and carries no exam risk. Revalidating the medical title does."
+  },
+  {
+   "id": "SPINE-21",
+   "statement": "Fees accrue stage by stage and only when that stage is actually carried out, and the UTM value used is the one in force in the month of PAYMENT, not the month of application.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto Exento 384/2026 MINEDUC",
+     "date_of_content": "2026-07-17",
+     "quote_original": "Los aranceles establecidos en el presente acto administrativo se devengarán por etapa y solo cuando corresponda ejecutar la etapa o actuación respectiva dentro del procedimiento de reconocimiento, revalidación o convalidación. Los montos se determinarán en unidades tributarias mensuales, según el valor vigente al mes en que se efectúe el pago correspondiente.",
+     "quote_locator": "Artículo noveno"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto Exento 384/2026 MINEDUC Artículo noveno",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-22",
+   "statement": "If an institution loses its authorisation mid-procedure it must refund the fees paid for stages it did not carry out.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto Exento 384/2026 MINEDUC",
+     "date_of_content": "2026-07-17",
+     "quote_original": "deberá restituir los aranceles pagados por el solicitante respecto de aquellas etapas o actuaciones que no hubieren sido ejecutadas",
+     "quote_locator": "Artículo décimo"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto Exento 384/2026 MINEDUC Artículo décimo",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
   }
  ],
  "process_steps": [],

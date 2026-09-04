@@ -1,0 +1,433 @@
+Documento sin título 
+
+ El puntaje del EUNACOM representa el porcentaje de respuestas correctas del EUNACOM-ST. La forma de cálculo del puntaje puede variar de un año a otro, dependiendo de los criterios técnicos sugeridos por el Consejo Estadístico . El método a utilizar se anuncia al menos con 6 meses de anticipación y puede conocerse en la sección Cálculo del puntaje . 
+
+ El examen está diseñado para el grupo de los recién egresados de todas las escuelas de medicina chilenas (población normativa). A partir de los resultados de este grupo se establecen los percentiles y los parámetros técnicos de las preguntas.
+
+ En esta página se entrega el detalle de los resultados 2011. Los resultados históricos están disponibles en la sección Resultados Anteriores .
+
+ Reprobados 
+
+ Universidad 
+
+ N 
+
+ Puntaje 
+
+ DS 
+
+ % 
+
+ N 
+
+ de Antofagasta 
+
+ 49 
+
+ 68.36 
+
+ 9.50 
+
+ 4.1 % 
+
+ 2 
+
+ Austral de Chile 
+
+ 71 
+
+ 72.16 
+
+ 9.70 
+
+ 2.8 % 
+
+ 2 
+
+ Católica de Chile 
+
+ 112 
+
+ 82.84 
+
+ 6.53 
+
+ - 
+
+ - 
+
+ de Chile 
+
+ 175 
+
+ 79.80 
+
+ 9.18 
+
+ 1.1 % 
+
+ 2 
+
+ de Concepción 
+
+ 113 
+
+ 70.16 
+
+ 9.46 
+
+ 2.7 % 
+
+ 3 
+
+ de La Frontera 
+
+ 67 
+
+ 72.41 
+
+ 12.59 
+
+ 7.5 % 
+
+ 5 
+
+ de Los Andes 
+
+ 85 
+
+ 78.52 
+
+ 8.03 
+
+ 1.2 % 
+
+ 1 
+
+ San Sebastián 
+
+ 59 
+
+ 66.95 
+
+ 9.28 
+
+ 5.1 % 
+
+ 3 
+
+ UCSC 
+
+ 44 
+
+ 68.74 
+
+ 10.83 
+
+ 6.8 % 
+
+ 3 
+
+ de Santiago de Chile 
+
+ 69 
+
+ 72.96 
+
+ 8.30 
+
+ - 
+
+ - 
+
+ de Valparaíso 
+
+ 74 
+
+ 75.91 
+
+ 7.35 
+
+ - 
+
+ - 
+
+ Mayor 
+
+ 41 
+
+ 79.90 
+
+ 7.85 
+
+ 2.4 % 
+
+ 1 
+
+ Andrés Bello 
+
+ 96 
+
+ 68.04 
+
+ 10.36 
+
+ 4.2 % 
+
+ 4 
+
+ del Desarrollo 
+
+ 68 
+
+ 79.49 
+
+ 6.59 
+
+ - 
+
+ - 
+
+ Diego Portales 
+
+ 24 
+
+ 73.39 
+
+ 9.30 
+
+ 4.2 % 
+
+ 1 
+
+ Finis Terrae 
+
+ 22 
+
+ 77.94 
+
+ 6.79 
+
+ - 
+
+ - 
+
+ del Mar 
+
+ 51 
+
+ 60.71 
+
+ 11.85 
+
+ 19.6 % 
+
+ 10 
+
+ Católica del Norte 
+
+ 34 
+
+ 71.45 
+
+ 7.19 
+
+ - 
+
+ - 
+
+ Católica del Maule 
+
+ 39 
+
+ 70.26 
+
+ 9.62 
+
+ 2.6 % 
+
+ 1 
+
+ Total Titulados en Chile 
+
+ 1293 
+
+ 74.05 
+
+ 10.67 
+
+ 2.9 % 
+
+ 38 
+
+ Casos especiales 
+
+ 118 
+
+ 57.77 
+
+ 11.85 
+
+ 26.3 % 
+
+ 31 
+
+ Titulados en el extranjero 
+
+ 477 
+
+ 39.39 
+
+ 14.17 
+
+ 78.8 % 
+
+ 376 
+
+ Todos 
+
+ 1888 
+
+ 64.28 
+
+ 19.03 
+
+ 23.6 % 
+
+ 445 
+
+ El promedio obtenido por los egresados de una escuela en el EUNACOM-ST constituye un dato importante y válido de la formación médica entregada en una escuela, pero está lejos de ser el único y debe interpretarse con cuidado. El gráfico inferior muestra los resultados de cada escuela en el contexto de los últimos cinco años, lo que es más confiable que el resultados de un año aislado.
+
+ Cada punto en la línea de una escuela es el promedio flotante (3 últimos años) del percentil de su egresado promedio.
+
+ Esta manera de mostrar la evolución de las escuelas tiene la ventaja de amortiguar fluctuaciones en el puntaje, representando de manera más fidedigna la tendencia de sus puntajes.
+
+ En lugar de promediar el puntaje de sus estudiantes, se promedia el percentil donde se ubica cada estudiante, esto representa el "percentil de un egresado promedio" para esa escuela. Este resultado se promedia a continuación con el mismo valor de los dos años previos.
+
+ El color utilizado con algunas escuelas sólo persigue facilitar la lectura cuando su trazado se cruza con otras y no representa información.
+
+ Los círculos vacíos significan que la escuela no cuenta con suficientes promociones de egresados como para completar 3 generaciones en ese punto y constituyen puntos menos confiables.
+
+ El gráfico está disponible en formato PDF.
+
+ La tabla indica la escuela de origen de los 189 examinados que constituyen el decil superior (el 10% que obtuvo más altos puntajes). 
+
+ U Católica 
+
+ N 
+
+ % de los egresados que se ubican en el decil superior 
+
+ U Católica
+
+ 49 
+
+ 43,8 
+
+ U de Chile
+
+ 57 
+
+ 32,6 
+
+ U Mayor
+
+ 11 
+
+ 26,8 
+
+ U de Los Andes
+
+ 17 
+
+ 20,0
+
+ U del Desarrollo
+
+ 13 
+
+ 19,1 
+
+ U Finis Terrae
+
+ 3 
+
+ 13,6 
+
+ U de Valparaíso
+
+ 8 
+
+ 10,8 
+
+ U Diego Portales
+
+ 2 
+
+ 8,3 
+
+ UC del Maule
+
+ 3 
+
+ 7,7 
+
+ U de La Frontera
+
+ 5 
+
+ 7,5 
+
+ U Andrés Bello
+
+ 5 
+
+ 5,2 
+
+ U de Concepción
+
+ 5 
+
+ 4,4 
+
+ U de Santiago
+
+ 3 
+
+ 4,3 
+
+ U de Antofagasta
+
+ 2 
+
+ 4,1 
+
+ UC del Norte 
+
+ 1 
+
+ 2,9 
+
+ U Austral 
+
+ 2 
+
+ 2,8 
+
+ UCSC 
+
+ 1 
+
+ 2,3 
+
+ U del Mar 
+
+ 1 
+
+ 2,0 
+
+ U San Sebastián 
+
+ 1 
+
+ 1,7

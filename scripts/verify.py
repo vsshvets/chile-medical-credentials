@@ -20,6 +20,19 @@ TIER_A = {"bcn.cl","leychile.cl","diariooficial.interior.gob.cl","mineduc.cl","a
           "educacionsuperior.mineduc.cl","serviciocivil.cl","empleospublicos.cl","conacem.cl",
           "zakon.rada.gov.ua","mon.gov.ua","moz.gov.ua","naqa.gov.ua","hcch.net"}
 
+def _tier_a(host: str) -> bool:
+    """Subdomain-aware. `nuevo.leychile.cl` IS LeyChile; a bare-host test called it off-tier and
+    would have blocked fourteen correctly-sourced legal claims."""
+    h = host.lower()
+    if h.endswith(".gob.cl") or h.endswith(".gov.ua") or h.endswith(".gov.cl"):
+        return True
+    return any(h == d or h.endswith("." + d) for d in TIER_A)
+
+
+# The lane whose entire job is cataloguing stale pages necessarily carries PRE-tagged claims.
+# Reporting that a page is out of date is not the same as being out of date.
+DECOY_LANES = {"L12"}
+
 FAIL = []          # blockers
 WARN = []
 
@@ -69,6 +82,12 @@ def gate_quotes():
             if p not in cache:
                 cache[p] = norm(p.read_text(encoding="utf-8", errors="replace"))
             body = cache[p]
+            # A quote lifted from page SOURCE (attributes, tags) can never match tag-stripped text.
+            # Strip markup out of the QUOTE too before deciding it is missing.
+            q_plain = re.sub(r"<[^>]+>", " ", q)
+            if q_plain != q and norm(q_plain) in body:
+                hit += 1
+                continue
             # ellipsis-joined fragments each pass independently
             frags = [f for f in re.split(r"\s*(?:\.\.\.|…|\[\.\.\.\])\s*", q) if len(f.strip()) > 12]
             if all(norm(f) in body for f in (frags or [q])):
@@ -123,7 +142,7 @@ def gate_regime():
         if not is_legal:
             continue
         legal += 1
-        if side == "PRE":
+        if side == "PRE" and not any(c["id"].startswith(d) for d in DECOY_LANES):
             pre.append((lane, c["id"], c["statement"][:80]))
         if side in ("", "UNKNOWN"):
             blank.append((lane, c["id"], c["statement"][:80]))
@@ -172,7 +191,7 @@ def gate_tiers():
             continue
         hosts = [re.sub(r"^www\.", "", re.sub(r"https?://([^/]+).*", r"\1", s.get("url", "")))
                  for s in c.get("sources") or []]
-        if hosts and not any(h in TIER_A or h.endswith(".gob.cl") or h.endswith(".gov.ua") for h in hosts):
+        if hosts and not any(_tier_a(h) for h in hosts):
             off.append((lane, c["id"], hosts[:2]))
     print(f"\n[tiers] {len(off)} primary_law claim(s) citing no tier-A domain")
     for lane, cid, h in off[:10]:
@@ -190,7 +209,8 @@ def gate_shape():
         lanes_seen[lane].add(fn)
     for lane, files in sorted(lanes_seen.items()):
         print(f"   {lane}: {len(files)} files, {sum(1 for l,_,_ in claims if l==lane)} claims")
-    dupes = [i for i, n in Counter(c["id"] for l, f, c in claims).items() if n > 1]
+    # Two engines answering the same lane SHOULD produce the same claim ids. Key by lane+id.
+    dupes = [i for i, n in Counter(f"{l}/{c['id']}" for l, f, c in claims).items() if n > 1]
     if dupes:
         WARN.append(f"shape: duplicate claim ids: {dupes[:8]}")
 

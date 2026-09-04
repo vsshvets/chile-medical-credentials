@@ -1,0 +1,2295 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="1119253" esTratado="no tratado" fechaVersion="2026-02-05" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="2018-05-25" fechaPublicacion="2018-06-05">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Ley</Tipo>
+        <Numero>21094</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DE EDUCACI&#211;N</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>SOBRE UNIVERSIDADES ESTATALES</TituloNorma>
+    <Materias>
+      <Materia>Contralor&#237;a Universitaria</Materia>
+      <Materia>Sistema de Universidades del Estado</Materia>
+      <Materia>Sistema de Educaci&#243;n Superior</Materia>
+      <Materia>Calidad Acad&#233;mica</Materia>
+      <Materia>Carrera Acad&#233;mica</Materia>
+      <Materia>Calidad Educaci&#243;n P&#250;blica</Materia>
+      <Materia>Consejo Superior</Materia>
+      <Materia>Consejo Universitario</Materia>
+    </Materias>
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>42074</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="2018-06-05" derogado="no derogado">
+    <Texto>LEY N&#218;M. 21.094
+
+SOBRE UNIVERSIDADES ESTATALES
+
+     Teniendo presente que el H. Congreso Nacional ha dado
+su aprobaci&#243;n al siguiente proyecto de ley,
+
+     Proyecto de ley:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920197">
+      <Texto>
+      "T&#205;TULO I
+     DISPOSICIONES GENERALES
+     </Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO I DISPOSICIONES GENERALES</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920198">
+          <Texto>     P&#225;rrafo 1&#176;
+     Definici&#243;n, autonom&#237;a y r&#233;gimen jur&#237;dico de las
+universidades del Estado</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#176; Definici&#243;n, autonom&#237;a y r&#233;gimen jur&#237;dico de las universidades del Estado</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-04-26" derogado="no derogado" idParte="9920199">
+              <Texto>     Art&#237;culo 1.- Definici&#243;n y naturaleza jur&#237;dica. Las
+universidades del Estado son instituciones de Educaci&#243;n
+Superior de car&#225;cter estatal, creadas por ley para el
+cumplimiento de las funciones de docencia, investigaci&#243;n,
+creaci&#243;n art&#237;stica, innovaci&#243;n, extensi&#243;n, vinculaci&#243;n
+con el medio y el territorio, con la finalidad de contribuir
+al fortalecimiento de la democracia, al desarrollo
+sustentable e integral del pa&#237;s y al progreso de la
+sociedad en las diversas &#225;reas del conocimiento y dominios
+de la cultura.
+     Estas instituciones universitarias son organismos
+aut&#243;nomos, dotados de personalidad jur&#237;dica de derecho
+p&#250;blico y patrimonio propio, que forman parte de la
+Administraci&#243;n del Estado y se relacionan con el Presidente
+de la Rep&#250;blica a trav&#233;s del Ministerio de Educaci&#243;n.
+Tendr&#225;n su o sus domicilios en la o las regiones que se&#241;alen        Ley 21661
+sus estatutos.                                                      Art. 1 N&#176; 1 
+     El domicilio de su sede central corresponder&#225; a aquel          a) y b)
+donde se ubican los &#243;rganos superiores del gobierno                 D.O. 26.04.2024
+universitario.
+     Para el cumplimiento de sus funciones, las
+universidades del Estado deben orientar su quehacer
+institucional de conformidad a la misi&#243;n, principios y
+normas establecidas en la presente ley y en sus respectivos
+estatutos.
+     Los estatutos de cada universidad podr&#225;n establecer un         Ley 21661
+&#225;mbito territorial preferente de su quehacer institucional,         Art. 1 N&#176; 1 c)
+en raz&#243;n de su domicilio y la misi&#243;n espec&#237;fica de estas            D.O. 26.04.2024
+instituciones. Las universidades estatales podr&#225;n extender
+su &#225;mbito territorial a dos regiones y adquirir el
+car&#225;cter de birregionales, siempre que se trate de regiones
+contiguas y que no haya otra universidad estatal domiciliada
+en dicha regi&#243;n, en conformidad con lo que se&#241;alen los
+planes de desarrollo institucional respectivos.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">1 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920200">
+              <Texto>
+     Art&#237;culo 2.- Autonom&#237;a universitaria. Las
+universidades del Estado gozan de autonom&#237;a acad&#233;mica,
+administrativa y econ&#243;mica.
+     La autonom&#237;a acad&#233;mica confiere a las universidades
+del Estado la potestad para organizar y desarrollar por s&#237;
+mismas sus planes y programas de estudio y sus l&#237;neas de
+investigaci&#243;n. En las instituciones universitarias
+estatales dicha autonom&#237;a se funda en el principio de
+libertad acad&#233;mica, el cual comprende las libertades de
+c&#225;tedra, de investigaci&#243;n y de estudio.
+     La autonom&#237;a administrativa faculta a las
+universidades del Estado para estructurar su r&#233;gimen de
+gobierno y de funcionamiento interno de conformidad a sus
+estatutos y reglamentos universitarios, teniendo como &#250;nica
+limitaci&#243;n las disposiciones de esta ley y las dem&#225;s
+normas legales que les resulten aplicables. En el marco de
+esta autonom&#237;a, las universidades del Estado pueden,
+especialmente, elegir a su m&#225;xima autoridad unipersonal y
+conformar sus &#243;rganos colegiados de representaci&#243;n.
+     La autonom&#237;a econ&#243;mica autoriza a las universidades
+del Estado a disponer y administrar sus recursos y bienes
+para el cumplimiento de su misi&#243;n y de sus funciones, sin
+la intervenci&#243;n de autoridades u &#243;rganos p&#250;blicos ajenos
+a la universidad. Con todo, el ejercicio de esta autonom&#237;a
+no exime a las universidades del Estado de la aplicaci&#243;n de
+las normas legales que las rijan en la materia.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">2 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920201">
+              <Texto>
+     Art&#237;culo 3.- R&#233;gimen jur&#237;dico especial. En virtud de
+la naturaleza de sus funciones y de su autonom&#237;a
+acad&#233;mica, administrativa y econ&#243;mica, las universidades
+del Estado no estar&#225;n regidas por las normas del p&#225;rrafo
+1&#186; del T&#237;tulo II del decreto con fuerza de ley N&#186; 1, de
+2000, del Ministerio Secretar&#237;a General de la Presidencia,
+que fija el texto refundido, coordinado y sistematizado de
+la ley N&#186; 18.575, org&#225;nica constitucional de Bases
+Generales de la Administraci&#243;n del Estado, salvo lo
+dispuesto en los art&#237;culos 40, 41 y 42 de dicho cuerpo
+legal.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">3 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920202">
+          <Texto>     P&#225;rrafo 2&#176;
+     Misi&#243;n y principios de las universidades del Estado</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#176; Misi&#243;n y principios de las universidades del Estado</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920203">
+              <Texto>     Art&#237;culo 4.- Misi&#243;n. Las universidades del Estado
+tienen como misi&#243;n cultivar, generar, desarrollar y
+transmitir el saber superior en las diversas &#225;reas del
+conocimiento y dominios de la cultura, por medio de la
+investigaci&#243;n, la creaci&#243;n, la innovaci&#243;n y de las dem&#225;s
+funciones de estas instituciones.
+     Como rasgo propio y distintivo de su misi&#243;n, dichas
+instituciones deben contribuir a satisfacer las necesidades
+e intereses generales de la sociedad, colaborando, como
+parte integrante del Estado, en todas aquellas pol&#237;ticas,
+planes y programas que propendan al desarrollo cultural,
+social, territorial, art&#237;stico, cient&#237;fico, tecnol&#243;gico,
+econ&#243;mico y sustentable del pa&#237;s, a nivel nacional y
+regional, con una perspectiva intercultural.
+     En el marco de lo se&#241;alado en el inciso anterior, los
+estatutos de las universidades del Estado podr&#225;n establecer
+una vinculaci&#243;n preferente y pertinente con la regi&#243;n en
+que tienen su domicilio o en que desarrollen sus
+actividades.
+     Asimismo, como elemento constitutivo e ineludible de su
+misi&#243;n, las universidades del Estado deben asumir con
+vocaci&#243;n de excelencia la formaci&#243;n de personas con
+esp&#237;ritu cr&#237;tico y reflexivo, que promuevan el di&#225;logo
+racional y la tolerancia, y que contribuyan a forjar una
+ciudadan&#237;a inspirada en valores &#233;ticos, democr&#225;ticos,
+c&#237;vicos y de solidaridad social, respetuosa de los pueblos
+originarios y del medio ambiente.
+     Las universidades del Estado deber&#225;n promover que sus
+estudiantes tengan una vinculaci&#243;n necesaria con los
+requerimientos y desaf&#237;os del pa&#237;s y sus regiones durante
+su formaci&#243;n profesional.
+     En las regiones donde existen pueblos originarios, las
+universidades del Estado deber&#225;n incluir en su misi&#243;n el
+reconocimiento, promoci&#243;n e incorporaci&#243;n de la
+cosmovisi&#243;n de los mismos.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">4 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920204">
+              <Texto>
+     Art&#237;culo 5.- Principios. Los principios que gu&#237;an el
+quehacer de las universidades del Estado y que fundamentan
+el cumplimiento de su misi&#243;n y de sus funciones son el
+pluralismo, la laicidad, esto es, el respeto de toda
+expresi&#243;n religiosa, la libertad de pensamiento y de
+expresi&#243;n; la libertad de c&#225;tedra, de investigaci&#243;n y de
+estudio; la participaci&#243;n, la no discriminaci&#243;n, la
+equidad de g&#233;nero, el respeto, la tolerancia, la
+valoraci&#243;n y el fomento del m&#233;rito, la inclusi&#243;n, la
+equidad, la solidaridad, la cooperaci&#243;n, la pertinencia, la
+transparencia y el acceso al conocimiento.
+     Los principios antes se&#241;alados deben ser respetados,
+fomentados y garantizados por las universidades del Estado
+en el ejercicio de sus funciones, y son vinculantes para
+todos los integrantes y &#243;rganos de sus comunidades, sin
+excepci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">5 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920205">
+              <Texto>
+     Art&#237;culo 6.- Perfil de los profesionales y t&#233;cnicos.
+Las universidades del Estado deber&#225;n propender a que sus
+graduados, profesionales y t&#233;cnicos dispongan de capacidad
+de an&#225;lisis cr&#237;tico y valores &#233;ticos.
+     Asimismo, deber&#225;n fomentar en sus estudiantes el
+conocimiento y la comprensi&#243;n emp&#237;rica de la realidad
+chilena, sus carencias y necesidades, buscando estimular un
+compromiso con el pa&#237;s y su desarrollo, a trav&#233;s de la
+generaci&#243;n de respuestas innovadoras y multidisciplinarias
+a estas problem&#225;ticas.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">6 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920206">
+          <Texto>     P&#225;rrafo 3&#176;
+     Rol del Estado</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#176; Rol del Estado</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920207">
+              <Texto>
+     Art&#237;culo 7.- Derecho a la educaci&#243;n superior. El
+Estado reconoce el derecho a la educaci&#243;n superior en
+conformidad a lo dispuesto en los tratados internacionales
+sobre derechos humanos ratificados por Chile y que se
+encuentren vigentes. Para estos efectos, el Estado debe
+adoptar las medidas necesarias para proveer el ejercicio de
+este derecho a trav&#233;s de sus instituciones de educaci&#243;n
+superior, las que deber&#225;n garantizar sistemas de acceso
+sobre la base de criterios objetivos fundados en la
+capacidad y el m&#233;rito de los estudiantes, sin importar su
+situaci&#243;n  socioecon&#243;mica, y fomentar mecanismos de
+ingreso especiales de acuerdo a los principios de equidad e
+inclusi&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">7 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920208">
+              <Texto>
+     Art&#237;culo 8.- Provisi&#243;n de educaci&#243;n superior de
+excelencia. El Estado debe fomentar la excelencia de todas
+sus universidades, promoviendo su calidad, la equidad
+territorial y la pertinencia de las actividades docentes,
+acad&#233;micas y de investigaci&#243;n, de acuerdo con las
+necesidades e intereses del pa&#237;s, a nivel nacional y
+regional.
+     El aumento de matr&#237;cula de las universidades del
+Estado deber&#225; velar por el desarrollo de &#225;reas pertinentes
+y estrat&#233;gicas para el pa&#237;s y la regi&#243;n en la que se
+emplace la universidad, de acuerdo a sus respectivos Planes
+de Desarrollo Institucional.
+     Lo establecido en los incisos anteriores es sin
+perjuicio de la obligaci&#243;n del Estado de velar por la
+calidad y el correcto funcionamiento del sistema de
+educaci&#243;n superior en su conjunto.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">8 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920209">
+              <Texto>
+     Art&#237;culo 9.- Visi&#243;n sist&#233;mica. El Estado debe
+promover una visi&#243;n y acci&#243;n sist&#233;mica, coordinada y
+articulada en el quehacer de sus instituciones de educaci&#243;n
+superior, a fin de facilitar la colaboraci&#243;n permanente de
+estas instituciones en el dise&#241;o e implementaci&#243;n de
+pol&#237;ticas p&#250;blicas y proyectos de inter&#233;s general, de
+acuerdo a los requerimientos del pa&#237;s y de sus regiones,
+con una perspectiva estrat&#233;gica y de largo plazo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">9 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920210">
+              <Texto>
+     Art&#237;culo 10.- Diversidad de proyectos. El Estado
+promover&#225; que sus universidades elaboren y desarrollen, en
+el marco de los fines y objetivos generales, proyectos
+educativos diversos, de acuerdo a los requerimientos y
+necesidades de los distintos territorios y realidades del
+pa&#237;s.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">10 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920211">
+              <Texto>
+     Art&#237;culo 11.- Acceso al conocimiento. El Estado debe
+promover el acceso al conocimiento que se genera en el
+interior de sus instituciones con el objeto de contribuir al
+desarrollo social, econ&#243;mico, deportivo, art&#237;stico,
+tecnol&#243;gico, cient&#237;fico y cultural del pa&#237;s.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">11 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920212">
+      <Texto>     T&#205;TULO II
+     NORMAS COMUNES A LAS UNIVERSIDADES DEL ESTADO</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO II NORMAS COMUNES A LAS UNIVERSIDADES DEL ESTADO</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920213">
+          <Texto>     P&#225;rrafo 1&#176;
+     Del gobierno universitario</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#176; Del gobierno universitario</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920214">
+              <Texto>
+     Art&#237;culo 12.- &#211;rganos superiores. El gobierno de las
+universidades del Estado ser&#225; ejercido a trav&#233;s de los
+siguientes &#243;rganos superiores: Consejo Superior, Rector y
+Consejo Universitario. A su vez, la responsabilidad del
+control y de la fiscalizaci&#243;n interna estar&#225; a cargo de la
+Contralor&#237;a Universitaria.
+     Las universidades del Estado deber&#225;n constituir los
+referidos &#243;rganos superiores y de control en sus
+estructuras de gobierno; sin perjuicio de las dem&#225;s
+autoridades unipersonales y colegiadas de la universidad, y
+de las respectivas unidades acad&#233;micas, que puedan
+establecer en sus estatutos.
+     Asimismo, en virtud de su autonom&#237;a administrativa,
+las universidades del Estado podr&#225;n establecer en su
+organizaci&#243;n interna facultades, escuelas, institutos,
+centros de estudios, departamentos y otras unidades
+acad&#233;micas y administrativas necesarias para el
+cumplimiento de sus funciones. Los estatutos de cada
+universidad deber&#225;n se&#241;alar las autoridades facultadas
+para ejercer dicha potestad organizadora en los niveles
+correspondientes.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">12 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920215">
+              <Texto>
+     Art&#237;culo 13.- Consejo Superior. El Consejo Superior es
+el m&#225;ximo &#243;rgano colegiado de la universidad. Le
+corresponde definir la pol&#237;tica general de desarrollo y las
+decisiones estrat&#233;gicas de la instituci&#243;n, velando por su
+cumplimiento, de conformidad a la misi&#243;n, principios y
+funciones de la universidad.
+     Los estatutos de cada universidad podr&#225;n establecer
+una denominaci&#243;n distinta para el m&#225;ximo &#243;rgano
+colegiado.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">13 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-04-26" derogado="no derogado" idParte="9920216">
+              <Texto>
+     Art&#237;culo 14.- Integrantes del Consejo Superior. El
+Consejo Superior estar&#225; integrado por los siguientes
+miembros:
+     a) Tres representantes nombrados por el Presidente de
+la Rep&#250;blica, quienes ser&#225;n titulados o licenciados de
+reconocida experiencia en actividades acad&#233;micas o
+directivas.
+     b) Cuatro miembros de la universidad nombrados por el
+Consejo Universitario de conformidad al procedimiento
+establecido en los estatutos de cada instituci&#243;n. De ellos,
+dos deben ser acad&#233;micos investidos con las dos m&#225;s altas
+jerarqu&#237;as, y los dos restantes deben  corresponder a un
+funcionario no acad&#233;mico y a un estudiante,
+respectivamente, de acuerdo a los requisitos que se&#241;alen
+los estatutos de cada universidad.
+     c) Una persona titulada o licenciada de la instituci&#243;n         Ley 21661
+de destacada trayectoria y de un reconocido v&#237;nculo                 Art. 1 N&#176; 2
+profesional con la o las regiones en que la universidad             D.O. 26.04.2024
+tiene su domicilio, nombrada por el Consejo Universitario a
+partir de una terna propuesta por el Gobierno Regional de la
+regi&#243;n donde se ubica la sede central. Para el caso en que
+la universidad tenga car&#225;cter birregional, la terna deber&#225;
+incorporar, al menos, una persona que junto con cumplir con
+los dem&#225;s requisitos legales, tenga reconocido v&#237;nculo
+profesional con la regi&#243;n en que no se ubica la sede
+central de la universidad.
+     d) El rector, elegido de conformidad a lo se&#241;alado en
+el art&#237;culo 21.
+     Los consejeros se&#241;alados en los literales a) y c)
+durar&#225;n cuatro a&#241;os en sus cargos. Por su parte, los
+consejeros individualizados en la letra b) durar&#225;n dos
+a&#241;os en sus funciones. En ambos casos, los citados
+consejeros podr&#225;n ser designados por un per&#237;odo
+consecutivo por una sola vez. Los consejeros precisados en
+los literales a) y c) no deber&#225;n desempe&#241;ar cargos o
+funciones en la universidad al momento de su designaci&#243;n en
+el Consejo Superior. Los representantes indicados en la
+letra b) no podr&#225;n ser miembros del Consejo Universitario
+una vez que asuman sus funciones en el Consejo Superior,
+siendo incompatibles ambos cargos.
+     La coordinaci&#243;n de la oportuna designaci&#243;n y
+renovaci&#243;n de las vacantes, y la supervisi&#243;n del ejercicio
+de las funciones de los representantes del Presidente de la
+Rep&#250;blica se&#241;alados en la letra a), estar&#225;n a cargo del
+Ministerio de Educaci&#243;n. A su vez, la remoci&#243;n de estos
+representantes por parte del Presidente de la Rep&#250;blica
+deber&#225; ser por motivos fundados.
+     El Consejo Superior se renovar&#225; por parcialidades, de
+acuerdo a las normas internas que establezcan las
+respectivas universidades. En ning&#250;n caso los consejeros
+podr&#225;n ser reemplazados en su totalidad.
+     La inasistencia injustificada de los consejeros
+se&#241;alados en los literales a), b) y c), a tres o m&#225;s
+sesiones del Consejo Superior, durante el a&#241;o acad&#233;mico,
+ser&#225; causal de cesaci&#243;n de sus cargos de consejeros. Las
+dem&#225;s causales, as&#237; como el r&#233;gimen de inhabilidades e
+incompatibilidades de los consejeros indicados en los
+literales b) y c), ser&#225;n reguladas por los estatutos de
+cada universidad. En el caso de los consejeros se&#241;alados en
+el literal a), su r&#233;gimen de inhabilidades e
+incompatibilidades se regir&#225; por lo dispuesto en el
+art&#237;culo 16.
+     El Consejo Superior ser&#225; presidido por uno de los
+consejeros indicados en los literales a) o c), el que
+deber&#225; ser elegido por los miembros del Consejo. Su mandato
+durar&#225; dos a&#241;os sin posibilidad de reelecci&#243;n para un
+nuevo per&#237;odo consecutivo.
+     Los integrantes del Consejo Superior se&#241;alados en el
+literal b) contar&#225;n, cuando les sea aplicable, con fuero
+hasta seis meses despu&#233;s de haber cesado en el ejercicio de
+sus funciones de consejeros.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">14 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920217">
+              <Texto>
+     Art&#237;culo 15.- Dieta de consejeros que no pertenezcan a
+la universidad. Los integrantes se&#241;alados en los literales
+a) y c) del art&#237;culo 14 percibir&#225;n como &#250;nica
+retribuci&#243;n la suma de ocho unidades tributarias mensuales
+por su asistencia a cada sesi&#243;n del Consejo Superior, con
+un tope mensual m&#225;ximo de treinta y dos unidades
+tributarias mensuales, independientemente del n&#250;mero de
+sesiones a las que asistan en el mes respectivo. Esta
+retribuci&#243;n tendr&#225; el car&#225;cter de honorarios para todos
+los efectos legales.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">15 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920218">
+              <Texto>
+     Art&#237;culo 16.- Calidad jur&#237;dica de consejeros que no
+pertenezcan a la universidad. Los miembros del Consejo
+Superior que no tengan la calidad de funcionario p&#250;blico
+tendr&#225;n el car&#225;cter de agente p&#250;blico.
+     En virtud de lo anterior, les ser&#225;n aplicables las
+normas establecidas en el t&#237;tulo III del decreto con fuerza
+de ley N&#186; 1, de 2000, del Ministerio Secretar&#237;a General de
+la Presidencia, que fija el texto refundido, coordinado y
+sistematizado de la ley N&#186; 18.575, org&#225;nica constitucional
+de Bases Generales de la Administraci&#243;n del Estado, y los
+p&#225;rrafos 1&#186; y 5&#186; del t&#237;tulo III y el t&#237;tulo V del
+decreto con fuerza de ley N&#186; 29, de 2004, del Ministerio de
+Hacienda, que fija el texto refundido, coordinado y
+sistematizado de la ley N&#186; 18.834, sobre Estatuto
+Administrativo, sin perjuicio de las responsabilidades
+civiles y penales que correspondan.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">16 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920219">
+              <Texto>
+     Art&#237;culo 17.- Funciones del Consejo Superior. El
+Consejo Superior tendr&#225;, a lo menos, las siguientes
+funciones y atribuciones:
+     a) Aprobar las propuestas de modificaci&#243;n de los
+estatutos de la universidad, elaboradas por el Consejo
+Universitario, que deba presentar al Presidente de la
+Rep&#250;blica para su respectiva aprobaci&#243;n y sanci&#243;n legal.
+     b) Aprobar, a proposici&#243;n del Consejo Universitario,
+el Plan de Desarrollo Institucional de la universidad, as&#237;
+como sus modificaciones, y verificar peri&#243;dicamente su
+estado de avance y cumplimiento.
+     c) Aprobar las pol&#237;ticas financieras y la
+contrataci&#243;n de empr&#233;stitos se&#241;alados en las pautas
+anuales de endeudamiento.
+     d) Aprobar el presupuesto y sus modificaciones,
+debiendo pronunciarse, a lo menos, semestralmente sobre su
+ejecuci&#243;n.
+     e) Conocer las cuentas peri&#243;dicas del rector y
+pronunciarse respecto de ellas de forma trimestral.
+     f) Autorizar la enajenaci&#243;n o el gravamen de activos
+de la universidad cuando correspondan a bienes inmuebles o a
+bienes que hayan sido previamente declarados de especial
+inter&#233;s institucional, en conformidad con los
+procedimientos que defina cada instituci&#243;n en sus
+estatutos.
+     g) Ordenar la ejecuci&#243;n de auditor&#237;as internas. h)
+Nombrar al contralor universitario y aprobar su remoci&#243;n,
+de acuerdo a las causales se&#241;aladas en los estatutos de la
+universidad.
+     i) Proponer al Presidente de la Rep&#250;blica la remoci&#243;n
+del rector, de acuerdo a las causales se&#241;aladas en los
+estatutos de la universidad y lo dispuesto en el art&#237;culo
+22 de la presente ley.
+     j) Ejercer las dem&#225;s funciones y atribuciones que
+se&#241;alen los estatutos y que digan relaci&#243;n con las
+pol&#237;ticas generales de desarrollo de la universidad.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">17 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920220">
+              <Texto>
+     Art&#237;culo 18.- Normas sobre qu&#243;rum de sesiones y de
+aprobaci&#243;n de materias del Consejo Superior. El Consejo
+Superior deber&#225; sesionar con la asistencia de, a lo menos,
+seis de sus miembros. Los acuerdos se adoptar&#225;n por la
+mayor&#237;a de los miembros presentes y, en caso de empate,
+decidir&#225; el voto del presidente del Consejo.
+     Sin embargo, para la aprobaci&#243;n de las materias
+se&#241;aladas en los literales a), b), c), f), h) e i) del
+art&#237;culo 17, se requerir&#225; el voto conforme de dos tercios
+de sus miembros en ejercicio. En el caso del literal i),
+dicho acuerdo se adoptar&#225; excluyendo de la votaci&#243;n al
+afectado. A su vez, el rector no tendr&#225; derecho a voto
+respecto de las materias se&#241;aladas en los literales b), d)
+y h) del art&#237;culo anterior.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">18 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920221">
+              <Texto>
+     Art&#237;culo 19.- Funcionamiento interno del Consejo
+Superior. Las universidades del Estado definir&#225;n a trav&#233;s
+de reglamentos, y previo acuerdo del Consejo Superior, las
+normas sobre el funcionamiento interno de este consejo, en
+todo aquello que no est&#233; previsto en la presente ley.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">19 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920222">
+              <Texto>
+     Art&#237;culo 20.- Rector. El rector es la m&#225;xima
+autoridad unipersonal de la universidad y su representante
+legal, estando a su cargo la representaci&#243;n judicial y
+extrajudicial de la instituci&#243;n. Tiene la calidad de jefe
+superior del servicio, pero no estar&#225; sujeto a la libre
+designaci&#243;n y remoci&#243;n del Presidente de la Rep&#250;blica. Le
+corresponde dirigir, organizar y administrar la universidad;
+supervisar el cumplimiento de sus actividades acad&#233;micas,
+administrativas y financieras; dictar los reglamentos,
+decretos y resoluciones de la instituci&#243;n de conformidad a
+sus estatutos; ejercer la potestad disciplinaria respecto de
+los miembros de la universidad; responder de su gesti&#243;n y
+desempe&#241;ar las dem&#225;s funciones que la ley o los estatutos
+le asignen.
+     Los estatutos de cada universidad definir&#225;n las
+atribuciones espec&#237;ficas del rector en el marco de las
+responsabilidades y funciones se&#241;aladas en los incisos
+precedentes. De la misma forma, los estatutos deber&#225;n
+establecer las causales de remoci&#243;n que le sean aplicables
+e indicar&#225;n las normas para su subrogaci&#243;n.
+     El rector deber&#225; realizar, al menos una vez al a&#241;o,
+una cuenta p&#250;blica detallando la situaci&#243;n financiera y
+administrativa de la universidad, los avances en el
+cumplimiento del Plan de Desarrollo Institucional y los
+logros obtenidos en cada una de las &#225;reas sujetas al
+proceso de acreditaci&#243;n a que se refiere la ley N&#186; 20.129.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">20 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-04-26" derogado="no derogado" idParte="9920223">
+              <Texto>
+     Art&#237;culo 21.- Elecci&#243;n del rector. El rector se
+elegir&#225; de conformidad al procedimiento establecido en la
+ley N&#186; 19.305. No obstante, las universidades del Estado
+deber&#225;n garantizar que en esta elecci&#243;n tengan derecho a
+voto todos los acad&#233;micos con nombramiento o contrataci&#243;n
+vigente y que desempe&#241;en actividades acad&#233;micas de forma
+regular y continua en las respectivas instituciones.
+     El Tribunal Electoral Regional de la regi&#243;n donde se           Ley 21661
+ubica la sede central de la Universidad conocer&#225; de las             Art. 1 N&#176; 3
+reclamaciones que se interpongan con motivo de la elecci&#243;n          D.O. 26.04.2024
+de Rector, las que deber&#225;n ser formuladas por a lo menos
+diez acad&#233;micos con derecho a voto, dentro de los diez
+d&#237;as h&#225;biles siguientes al acto electoral. Contra la
+sentencia del Tribunal Electoral Regional proceder&#225; el
+recurso de apelaci&#243;n para ante el Tribunal Calificador de
+Elecciones, el que deber&#225; interponerse directamente dentro
+de cinco d&#237;as h&#225;biles contados desde la respectiva
+notificaci&#243;n. Contra la sentencia del Tribunal Calificador
+de Elecciones no proceder&#225; recurso alguno.
+     El rector durar&#225; cuatro a&#241;os en su cargo, pudiendo
+ser reelegido, por una sola vez, para el per&#237;odo
+inmediatamente siguiente.
+     Una vez electo, ser&#225; nombrado por el Presidente de la
+Rep&#250;blica mediante decreto supremo expedido a trav&#233;s del
+Ministerio de Educaci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">21 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920224">
+              <Texto>
+     Art&#237;culo 22.- Causales de remoci&#243;n del rector. Los
+estatutos de cada universidad definir&#225;n las causales de
+remoci&#243;n del cargo de rector. Dichas causales deber&#225;n
+considerar, al menos:
+     a) Las faltas graves a la probidad. 
+     b) El notable abandono de deberes. 
+     c) El haber incurrido en comportamientos que afecten
+gravemente el prestigio de la universidad.
+     d) El resguardo a lo se&#241;alado en el art&#237;culo 2 de la
+presente ley y de los principios del sistema de educaci&#243;n
+superior nacional.
+     e) Los resultados de los procesos de acreditaci&#243;n. f)
+Los estados financieros de la instituci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">22 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920225">
+              <Texto>
+     Art&#237;culo 23.- Consejo Universitario. El Consejo
+Universitario es el &#243;rgano colegiado representativo de la
+comunidad universitaria, encargado de ejercer funciones
+resolutivas en las materias relativas al quehacer acad&#233;mico
+e institucional de la universidad.
+     Este &#243;rgano podr&#225; recibir una denominaci&#243;n distinta
+en los estatutos de cada universidad.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">23 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920226">
+              <Texto>
+     Art&#237;culo 24.- Integrantes del Consejo Universitario.
+El Consejo Universitario estar&#225; integrado por acad&#233;micos,
+funcionarios no acad&#233;micos y estudiantes, todos ellos con
+derecho a voto, de acuerdo al n&#250;mero y a la proporci&#243;n que
+definan sus estatutos. Con todo, la participaci&#243;n de los
+acad&#233;micos en este consejo no podr&#225; ser inferior a dos
+tercios del total de sus integrantes.
+     El Consejo Universitario ser&#225; presidido por el rector.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">24 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-04-26" derogado="no derogado" idParte="9920227">
+              <Texto>
+     Art&#237;culo 25.- Funciones del Consejo Universitario. El
+Consejo Universitario ejercer&#225;, entre otras, las siguientes
+funciones y atribuciones:
+     a) Elaborar y definir las propuestas de modificaci&#243;n
+de los estatutos de la universidad que deban ser presentados
+al Presidente de la Rep&#250;blica para su respectiva
+aprobaci&#243;n y sanci&#243;n legal, previa aprobaci&#243;n del Consejo
+Superior. Estas propuestas deber&#225;n realizarse mediante un
+proceso p&#250;blico y participativo que involucre a los
+distintos estamentos de la comunidad universitaria.
+     b) Elaborar el Plan de Desarrollo Institucional de la
+universidad que deba ser presentado al Consejo Superior para
+su respectiva aprobaci&#243;n.
+     c) Nombrar a los miembros de la comunidad universitaria
+que deben integrar el Consejo Superior de conformidad al
+procedimiento establecido en los estatutos de cada
+instituci&#243;n.
+     d) Nombrar a la persona titulada o licenciada de la            Ley 21661
+instituci&#243;n que debe integrar el Consejo Superior, a partir         Art. 1 N&#176; 4
+de una terna propuesta por el Gobierno Regional de la               D.O. 26.04.2024
+regi&#243;n donde se ubica la sede central.
+     e) Aprobar los reglamentos referidos al quehacer
+acad&#233;mico e institucional de la universidad que se&#241;alen
+los respectivos estatutos.
+     f) Aprobar o pronunciarse sobre todas aquellas materias
+acad&#233;micas e institucionales que se&#241;alen los respectivos
+estatutos, y que no contravengan las atribuciones de las
+dem&#225;s autoridades colegiadas y unipersonales de la
+instituci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">25 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920228">
+              <Texto>
+     Art&#237;culo 26.- Organizaci&#243;n y funcionamiento interno
+del Consejo Universitario. Los estatutos de cada universidad
+determinar&#225;n las reglas sobre el procedimiento de elecci&#243;n
+y designaci&#243;n de los integrantes del Consejo Universitario,
+la duraci&#243;n de sus funciones y el qu&#243;rum para sesionar y
+aprobar las materias de su competencia.
+     Asimismo, los estatutos de cada instituci&#243;n deber&#225;n
+establecer un qu&#243;rum m&#237;nimo de participaci&#243;n por cada
+estamento respecto de la elecci&#243;n de los consejeros que
+corresponda, a fin de garantizar el pluralismo y la
+representatividad de sus integrantes.
+     Las normas sobre el funcionamiento interno de este
+consejo ser&#225;n establecidas en reglamentos dictados por cada
+instituci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">26 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920229">
+              <Texto>
+     Art&#237;culo 27.- Contralor&#237;a Universitaria. La
+Contralor&#237;a Universitaria es el &#243;rgano responsable de
+ejercer el control de legalidad de los actos administrativos
+de las autoridades de la universidad, y de auditar la
+gesti&#243;n y el uso de los recursos de la instituci&#243;n, sin
+perjuicio de las dem&#225;s funciones de control interno que le
+encomiende el Consejo Superior.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">27 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920230">
+              <Texto>
+     Art&#237;culo 28.- Contralor universitario. La Contralor&#237;a
+Universitaria estar&#225; a cargo del contralor universitario,
+quien deber&#225; tener el t&#237;tulo de abogado, contar con una
+experiencia profesional de, a lo menos, ocho a&#241;os y poseer
+las dem&#225;s calidades establecidas en los estatutos de la
+universidad. Ser&#225; nombrado por el Consejo Superior por un
+per&#237;odo de seis a&#241;os, pudiendo ser designado, por una sola
+vez, para el per&#237;odo siguiente.
+     Los estatutos de cada instituci&#243;n deber&#225;n establecer
+el procedimiento de selecci&#243;n y las causales de remoci&#243;n
+del contralor e indicar&#225;n las normas para su subrogaci&#243;n.
+     El contralor universitario ser&#225; nombrado por el
+Consejo Superior a partir de una terna elaborada mediante el
+Sistema de Alta Direcci&#243;n P&#250;blica, con el prop&#243;sito de
+garantizar la idoneidad de los candidatos y la imparcialidad
+del proceso de selecci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">28 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920231">
+              <Texto>
+     Art&#237;culo 29.- Dependencia t&#233;cnica. El contralor
+universitario estar&#225; sujeto a la dependencia t&#233;cnica de la
+Contralor&#237;a General de la Rep&#250;blica, de conformidad a lo
+establecido en la ley N&#186; 10.336, de Organizaci&#243;n y
+Atribuciones de la Contralor&#237;a General de la Rep&#250;blica,
+cuyo texto refundido fue fijado por el decreto N&#186; 2.421, de
+1964, del Ministerio de Hacienda.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">29 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920232">
+              <Texto>     Art&#237;culo 30.- Estructura interna de la Contralor&#237;a
+Universitaria. A trav&#233;s de un reglamento interno, cada
+instituci&#243;n definir&#225; la estructura de la Contralor&#237;a
+Universitaria, debiendo garantizar que las funciones de
+control de legalidad y de auditor&#237;a queden a cargo de dos
+unidades independientes dentro del mismo organismo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">30 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920233">
+          <Texto>     P&#225;rrafo 2&#176;
+     De la calidad y acreditaci&#243;n institucional</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#176; De la calidad y acreditaci&#243;n institucional</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920234">
+              <Texto>
+     Art&#237;culo 31.- De la calidad institucional. Las
+universidades del Estado deben orientar su quehacer
+institucional de conformidad a los criterios y est&#225;ndares
+de calidad del sistema de educaci&#243;n superior, en funci&#243;n
+de las caracter&#237;sticas espec&#237;ficas de cada instituci&#243;n,
+la misi&#243;n reconocida en sus estatutos y los objetivos
+estrat&#233;gicos declarados en sus respectivos Planes de
+Desarrollo Institucional.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">31 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920235">
+              <Texto>
+     Art&#237;culo 32.- Del aseguramiento de la calidad y
+procesos de acreditaci&#243;n. Las universidades del Estado
+deber&#225;n determinar un &#243;rgano o unidad responsable y
+mecanismos que permitan coordinar e implementar los procesos
+de gesti&#243;n, evaluaci&#243;n y aseguramiento de la calidad, as&#237;
+como los procesos de acreditaci&#243;n de la instituci&#243;n y de
+sus respectivas carreras y programas acad&#233;micos.
+     Los estatutos de cada universidad determinar&#225;n la
+forma en que se implementar&#225; lo se&#241;alado en el inciso
+anterior. Asimismo, mediante reglamentos dictados por las
+respectivas instituciones se regular&#225; la organizaci&#243;n
+interna para el ejercicio de esta funci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">32 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920236">
+              <Texto>
+     Art&#237;culo 33.- Planes de tutor&#237;a. En caso que una
+universidad del Estado pierda su acreditaci&#243;n institucional
+u obtenga una inferior a cuatro a&#241;os, el Ministerio de
+Educaci&#243;n designar&#225; a otra universidad del Estado para que
+se desempe&#241;e como instituci&#243;n tutora.
+     Para estos efectos, el Ministerio solicitar&#225; al
+Consejo de Coordinaci&#243;n de Universidades del Estado,
+establecido en el art&#237;culo 53, que proponga a una
+universidad estatal, con al menos cinco a&#241;os de
+acreditaci&#243;n institucional, para desempe&#241;arse como
+instituci&#243;n tutora. El Ministerio de Educaci&#243;n la
+designar&#225; mediante decreto supremo.
+     La instituci&#243;n tutora presentar&#225; al Ministerio de
+Educaci&#243;n un plan de tutor&#237;a, el que tendr&#225; car&#225;cter
+vinculante para ambas instituciones de educaci&#243;n superior,
+y cuyas medidas ser&#225;n financiadas con cargo a los recursos
+establecidos para la universidad tutorada en su respectivo
+Aporte Institucional Universidades Estatales. Este plan
+deber&#225; comprender el fortalecimiento integral de las
+actividades de la universidad tutorada, con especial
+&#233;nfasis en aquellas materias que fueron objeto de
+observaciones por parte de la Comisi&#243;n Nacional de
+Acreditaci&#243;n.
+     El plan de tutor&#237;a ser&#225; aprobado por decreto supremo
+expedido a trav&#233;s del Ministerio de Educaci&#243;n, suscrito
+adem&#225;s por el Ministerio de Hacienda. Adicionalmente, dicho
+decreto deber&#225; establecer las medidas que se implementar&#225;n
+y los instrumentos que se utilizar&#225;n con el fin de que la
+instituci&#243;n tutorada obtenga una acreditaci&#243;n
+institucional de al menos cuatro a&#241;os.
+     Tanto el r&#233;gimen de tutor&#237;a, como el plan de
+tutor&#237;a, cesar&#225;n cuando la universidad tutorada obtenga
+una acreditaci&#243;n institucional de al menos cuatro a&#241;os.
+Este plan durar&#225; como m&#225;ximo seis a&#241;os.
+     Si transcurrido el plazo m&#225;ximo se&#241;alado en el inciso
+anterior la universidad tutorada no obtuviere una
+acreditaci&#243;n institucional de a lo menos cuatro a&#241;os, el
+Ministerio de Educaci&#243;n nombrar&#225; directamente un
+administrador provisional con las facultades establecidas en
+los  art&#237;culos 13, 17 y 18 de la ley N&#186; 20.800, quien se
+desempe&#241;ar&#225; en sus funciones hasta que entre en vigencia
+la ley referida en el inciso siguiente.
+     Dentro del plazo de seis meses contado desde la
+designaci&#243;n del administrador provisional, el Presidente de
+la Rep&#250;blica enviar&#225; al Congreso Nacional un proyecto de
+ley que defina el destino de la respectiva instituci&#243;n,
+pudiendo considerar, entre otras medidas, su reorganizaci&#243;n
+interna o formas de administraci&#243;n especial dirigidas a
+recuperar su calidad acad&#233;mica y a garantizar la
+continuidad de los estudios de sus alumnos. De ser
+necesario, dicho proyecto de ley podr&#225; contemplar la
+reestructuraci&#243;n de la instituci&#243;n, el t&#233;rmino de sus
+actividades o un procedimiento mediante el cual pueda ser
+fusionada o absorbida por otra universidad del Estado.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">33 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920237">
+              <Texto>
+     Art&#237;culo 34.- Continuidad del servicio p&#250;blico
+educacional. Las universidades del Estado que se sometan al
+plan de tutor&#237;a se&#241;alado en el art&#237;culo precedente
+recibir&#225;n un apoyo financiero destinado a garantizar la
+prestaci&#243;n regular y continua de las actividades de
+docencia de pregrado de la instituci&#243;n, en especial los
+recursos que se requieran para otorgar estudios gratuitos a
+sus estudiantes que cumplan los requisitos para beneficiarse
+de la pol&#237;tica de acceso gratuito a la educaci&#243;n superior.
+     Dichos recursos estar&#225;n contemplados en el Aporte
+Institucional Universidades Estatales de la universidad
+tutorada, mientras dure el r&#233;gimen de tutor&#237;a.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">34 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920238">
+          <Texto>     P&#225;rrafo 3&#176;
+     De la gesti&#243;n administrativa y financiera</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#176; De la gesti&#243;n administrativa y financiera</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920239">
+              <Texto>
+     Art&#237;culo 35.- R&#233;gimen jur&#237;dico de la gesti&#243;n
+administrativa y financiera. En el ejercicio de su gesti&#243;n
+administrativa y financiera, las universidades del Estado
+deber&#225;n regirse especialmente por los principios de
+responsabilidad, eficiencia, transparencia y rendici&#243;n de
+cuentas, as&#237; como por las normas de derecho p&#250;blico que
+regulan los actos de los &#243;rganos de la Administraci&#243;n del
+Estado.
+     En cumplimiento de lo anterior, las universidades del
+Estado deber&#225;n llevar contabilidad completa de sus ingresos
+y gastos, conforme a principios de contabilidad generalmente
+aceptados, siguiendo las orientaciones de la Contralor&#237;a
+General de la Rep&#250;blica.
+     En raz&#243;n de la especificidad de sus funciones, la
+autonom&#237;a propia de su quehacer institucional y la
+necesidad de propender a una gesti&#243;n administrativa y
+financiera m&#225;s expedita y eficiente, las universidades del
+Estado dispondr&#225;n de un r&#233;gimen especial en las materias
+se&#241;aladas en los siguientes art&#237;culos del presente
+p&#225;rrafo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">35 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920240">
+              <Texto>
+     Art&#237;culo 36.- Normas aplicables a los contratos
+administrativos de suministro y prestaci&#243;n de servicios.
+Los contratos que celebren las universidades del Estado, a
+t&#237;tulo oneroso, para el suministro de bienes muebles y de
+los servicios que se requieran para el desarrollo de sus
+funciones, se regir&#225;n por el art&#237;culo 9 del decreto con
+fuerza de ley N&#186; 1, de 2000, del Ministerio Secretar&#237;a
+General de la Presidencia, que fija el texto refundido,
+coordinado y sistematizado de la ley N&#186; 18.575, org&#225;nica
+constitucional de Bases Generales de la Administraci&#243;n del
+Estado; y por las disposiciones de la ley N&#186; 19.886, de
+Bases sobre Contratos Administrativos de Suministro y
+Prestaci&#243;n de Servicios, y de su reglamento.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">36 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-02-05" derogado="no derogado" idParte="9920241">
+              <Texto>
+     Art&#237;culo 37.- Convenios excluidos de la ley N&#186;
+19.886. No obstante lo se&#241;alado en el art&#237;culo anterior,
+quedar&#225;n excluidos de la aplicaci&#243;n de la ley N&#186; 19.886
+los convenios que celebren las universidades del Estado con
+los organismos p&#250;blicos que formen parte de la
+Administraci&#243;n del Estado y los convenios que celebren
+dichas universidades entre s&#237; y con otras instituciones de
+educaci&#243;n superior domiciliadas en Chile o en el
+extranjero.
+     De la misma manera, estar&#225;n excluidos de la
+aplicaci&#243;n de la citada ley los contratos que celebren las
+universidades del Estado con personas jur&#237;dicas extranjeras
+o internacionales para el suministro de bienes muebles o la
+prestaci&#243;n de servicios, en tanto estos o aquellos sean
+necesarios para el cumplimiento de sus funciones y que, por
+sus caracter&#237;sticas espec&#237;ficas, no puedan ser adquiridos
+en Chile o, pudiendo serlo, se ofrezcan en condiciones m&#225;s
+ventajosas desde el extranjero.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">37 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-07-11" derogado="no derogado" idParte="10554699">
+              <Texto>     Art&#237;culo 37 bis.- Quedar&#225;n excluidos de la
+aplicaci&#243;n de la ley N&#176; 19.886, de bases sobre contratos
+administrativos de suministro y prestaci&#243;n de servicios,
+los centros de investigaci&#243;n, desarrollo, innovaci&#243;n o
+transferencia tecnol&#243;gica, y en cuya administraci&#243;n o
+direcci&#243;n participen dos o m&#225;s universidades estatales, o
+una universidad estatal y una o m&#225;s personas jur&#237;dicas de
+derecho privado, en virtud de lo dispuesto en el literal e)
+del inciso segundo del art&#237;culo 39.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">37 BIS</NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-02-05" derogado="no derogado" idParte="10582704">
+              <Texto>Art&#237;culo 37 ter.- Contratos de infraestructura. Asimismo,
+los contratos que celebren las universidades del Estado para
+la construcci&#243;n y mantenci&#243;n de infraestructura por sobre
+el umbral de inversi&#243;n que establezca el reglamento
+establecido en el inciso final de este art&#237;culo, se
+encontrar&#225;n excluidos de la ley N&#176; 19.886. Sin perjuicio
+de ello, a dichos contratos se les aplicar&#225;, solo respecto
+de la etapa de contrataci&#243;n, la normativa contenida en los
+Cap&#237;tulos V y VII de dicha ley, a excepci&#243;n de los
+numerales 2, 3 y 4 del art&#237;culo 24, y las disposiciones
+que, a consecuencia de ello no les sean aplicables, as&#237;
+como el inciso s&#233;ptimo de su art&#237;culo 25 bis, y sus
+art&#237;culos 35 bis y 35 sexies, sin perjuicio de las
+sanciones que sean procedentes.
+    Las etapas de dicho proceso de contrataci&#243;n deber&#225;n
+desarrollarse &#237;ntegramente a trav&#233;s del Sistema de
+Informaci&#243;n y Gesti&#243;n de Compras y Contrataciones del
+Estado, con las excepciones establecidas en los art&#237;culos
+20 y 21 de la ley N&#176; 19.886. Con todo, las garant&#237;as,
+planos, antecedentes legales, muestras y dem&#225;s antecedentes
+que no est&#233;n disponibles en formato digital o electr&#243;nico
+podr&#225;n ser enviados por los proveedores de manera f&#237;sica,
+de acuerdo con lo que establezcan las bases en cada caso.
+    Un reglamento, expedido a trav&#233;s del Ministerio de
+Obras P&#250;blicas, y suscrito adem&#225;s por los Ministros de
+Hacienda y de Educaci&#243;n, establecer&#225; las condiciones que
+deber&#225;n cumplir los contratos regulados en este art&#237;culo,
+incluyendo, al menos, el monto m&#237;nimo de inversi&#243;n al que
+ser&#225; aplicable lo establecido en este art&#237;culo, los
+requisitos que deber&#225;n cumplir los contratistas, entre los
+cuales estar&#225; mantener su inscripci&#243;n vigente en el
+Registro General de Contratistas que lleva la Direcci&#243;n
+General de Obras P&#250;blicas, y los contenidos y requisitos
+m&#237;nimos que se incluir&#225;n en las bases de licitaci&#243;n y en
+el contrato. El reglamento deber&#225; dar cumplimiento a lo
+dispuesto en el art&#237;culo 9&#176; del decreto con fuerza de ley
+N&#176; 1-19.653, del Ministerio Secretar&#237;a General de la
+Presidencia, de 2000, que fija el texto refundido,
+coordinado y sistematizado de la Ley N&#176; 18.575, org&#225;nica
+constitucional de Bases Generales de la Administraci&#243;n del
+Estado, y definir&#225; aquellos casos en que se podr&#225; recurrir
+a licitaci&#243;n privada, o trato directo, en atenci&#243;n a la
+naturaleza de la negociaci&#243;n.     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">37 TER</NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-02-05" derogado="no derogado" idParte="9920242">
+              <Texto>
+     Art&#237;culo 38.- Licitaci&#243;n privada o trato directo. Las
+universidades del Estado, de forma individual o conjunta,
+podr&#225;n celebrar contratos a trav&#233;s de licitaci&#243;n privada
+o trato directo en virtud de las causales se&#241;aladas en el
+art&#237;culo 8 bis de la ley N&#186; 19.886 y su reglamento, y,
+adem&#225;s, en los siguientes casos:
+
+    1. Cuando se trate de la compra de bienes o la
+contrataci&#243;n de servicios, incluida la contrataci&#243;n de
+cr&#233;ditos, que se requieran para la implementaci&#243;n de
+actividades o la ejecuci&#243;n de proyectos de gesti&#243;n
+institucional, de docencia, de creaci&#243;n art&#237;stica, de
+extensi&#243;n o de vinculaci&#243;n con el medio de dichas
+instituciones, en que la utilizaci&#243;n del procedimiento de
+licitaci&#243;n p&#250;blica ponga en riesgo la oportunidad, la
+finalidad o la eficacia de la respectiva actividad o
+proyecto.
+    2. Cuando se trate de la compra de bienes o la
+contrataci&#243;n de servicios que se requieran de manera
+imprevista o urgente para actividades de docencia en cursos
+de pregrado o posgrado, siempre que dichas actividades sean
+coherentes con los objetivos espec&#237;ficos de estos,
+contenidos en los respectivos planes de estudio.
+    3. Cuando se trate de la compra de bienes o la
+contrataci&#243;n de servicios que se requieran para
+actividades, labores o proyectos necesarios para el
+cumplimiento de objetivos de investigaci&#243;n cient&#237;fica,
+innovaci&#243;n o transferencia tecnol&#243;gica, siempre que dichos
+objetivos hayan sido reconocidos previa y formalmente por
+alguna facultad, escuela, instituto, centro de estudios,
+departamento u otra unidad acad&#233;mica de la instituci&#243;n, en
+los instrumentos que &#233;sta disponga para tal efecto.
+    4. Cuando se trate de la compra de bienes o
+contrataci&#243;n de servicios que se requieran en los &#225;mbitos
+de alimentaci&#243;n, aseo o seguridad, cuya interrupci&#243;n
+actual o inminente afecte la continuidad o calidad del
+servicio educativo o la seguridad o bienestar del
+estudiantado.
+     En todos estos casos, las universidades del Estado
+deber&#225;n establecer por medio de una resoluci&#243;n, disponible
+en el Sistema de Informaci&#243;n de Compras y Contrataci&#243;n
+P&#250;blica, los procedimientos internos que permitan
+resguardar la publicidad, la transparencia, la igualdad de
+trato y la no discriminaci&#243;n arbitraria en esta clase de
+adquisiciones y contrataci&#243;n de servicios.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">38 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-07-11" derogado="no derogado" idParte="9920243">
+              <Texto>
+     Art&#237;culo 39.- Ejecuci&#243;n y celebraci&#243;n de actos y
+contratos. Las universidades del Estado podr&#225;n ejecutar y
+celebrar todos los actos y contratos que contribuyan al
+cumplimiento de su misi&#243;n y de sus funciones.
+     En virtud de lo anterior, dichas instituciones estar&#225;n
+expresamente facultadas para:
+     a) Prestar servicios remunerados, conforme a la
+naturaleza de sus funciones y actividades, y vender los
+productos y bienes muebles que puedan producirse a partir de
+dichas funciones y actividades, tales como, las relativas a
+creaci&#243;n art&#237;stica y cultural, innovaci&#243;n, investigaci&#243;n
+y transferencia tecnol&#243;gica o extensi&#243;n cultural, a
+personas naturales o jur&#237;dicas de derecho p&#250;blico o
+privado, nacionales, extranjeras o internacionales.
+     b) Emitir estampillas y fijar aranceles por los
+servicios que presten a trav&#233;s de sus distintos organismos.
+     c) Crear fondos espec&#237;ficos para su desarrollo
+institucional. 
+     d) Solicitar las patentes y generar las respectivas
+licencias que se deriven de su trabajo de investigaci&#243;n,
+creaci&#243;n e innovaci&#243;n.
+     e) Crear y organizar sociedades, corporaciones o
+fundaciones cuyos objetivos digan directa relaci&#243;n con el
+cumplimiento de la misi&#243;n y de las funciones de la
+universidad.
+     f) Contratar empr&#233;stitos y emitir bonos, pagar&#233;s y
+dem&#225;s documentos de cr&#233;dito con cargo a sus respectivos
+patrimonios, de acuerdo a los l&#237;mites que establece la ley.
+     g) Castigar en sus contabilidades los cr&#233;ditos
+incobrables, siempre que hayan sido contabilizados
+oportunamente y hubieren prescrito las acciones judiciales
+para su cobro.
+     h) Celebrar avenimientos judiciales respecto de las
+acciones o derechos que le correspondan.
+     i) Celebrar pactos de arbitraje, compromisos o
+cl&#225;usulas compromisorias, para someter a la decisi&#243;n de
+&#225;rbitros de derecho las controversias que surjan en la
+aplicaci&#243;n de los contratos que suscriban.
+     j) Aceptar donaciones, las que estar&#225;n exentas del
+tr&#225;mite de la insinuaci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">39 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920244">
+              <Texto>
+     Art&#237;culo 40.- Exenci&#243;n de tributos. Las universidades
+del Estado estar&#225;n exentas de cualquier impuesto,
+contribuci&#243;n, tasa, tarifa, patente y otras cargas o
+tributos. Lo anterior, sin perjuicio de determinarse
+previamente las sumas afectas a impuestos que resulten
+exentas.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">40 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920245">
+              <Texto>
+     Art&#237;culo 41.- Control y fiscalizaci&#243;n de la
+Contralor&#237;a General de la Rep&#250;blica. Las instituciones de
+educaci&#243;n superior del Estado ser&#225;n fiscalizadas por la
+Contralor&#237;a General de la Rep&#250;blica, de acuerdo con su Ley
+Org&#225;nica Constitucional.
+     Con todo, quedar&#225;n exentas del tr&#225;mite de toma de
+raz&#243;n las materias que a continuaci&#243;n se se&#241;alan:
+     a) Contrataciones, modificaciones y terminaciones de
+contratos del personal a honorarios acad&#233;mico y no
+acad&#233;mico.
+     b) Designaciones a contrata por plazos no superiores a
+seis meses. 
+     c) Nombramientos y ceses en calidad de suplente. 
+     d) Designaciones en consejos internos de la
+instituci&#243;n, efectuadas por las autoridades universitarias.
+     e) Contrataciones bajo el C&#243;digo del Trabajo cuya
+remuneraci&#243;n mensual bruta no supere las 35 unidades
+tributarias mensuales.
+     f) Sobreseimientos, absoluciones y aplicaci&#243;n de
+medidas disciplinarias no expulsivas, con excepci&#243;n de
+aquellas dispuestas en procedimientos disciplinarios
+instruidos u ordenados instruir por la Contralor&#237;a General
+de la Rep&#250;blica, o cuya instrucci&#243;n haya sido confirmada
+en un informe de auditor&#237;a emitido por &#233;sta.
+     g) Bases de licitaci&#243;n, adjudicaciones y contratos de
+bienes muebles mediante licitaci&#243;n p&#250;blica por montos
+inferiores a 10.000 unidades tributarias mensuales.
+     h) Bases de licitaci&#243;n, adjudicaciones y contratos de
+bienes muebles mediante licitaci&#243;n privada o trato directo
+por montos inferiores a 5.000 unidades tributarias
+mensuales.
+     i) Bases de licitaci&#243;n, adjudicaciones y contratos de
+prestaci&#243;n de servicios mediante licitaci&#243;n p&#250;blica por
+montos inferiores a 10.000 unidades tributarias mensuales.
+     j) Bases de licitaci&#243;n, adjudicaciones y contratos de
+prestaci&#243;n de servicios mediante licitaci&#243;n privada o
+trato directo por montos inferiores a 5.000 unidades
+tributarias mensuales.
+     k) Bases de licitaci&#243;n, adjudicaciones y contratos
+para la adquisici&#243;n de bienes inmuebles mediante
+licitaci&#243;n p&#250;blica por montos inferiores a 15.000 unidades
+tributarias mensuales.
+     l) Bases de licitaci&#243;n, adjudicaciones y contratos
+para la adquisici&#243;n de bienes inmuebles mediante
+licitaci&#243;n privada o trato directo por montos inferiores a
+10.000 unidades tributarias mensuales.
+     m) Bases de licitaci&#243;n, adjudicaciones y contratos
+para la enajenaci&#243;n de bienes inmuebles mediante
+licitaci&#243;n p&#250;blica por montos inferiores a 15.000 unidades
+tributarias mensuales.
+     n) Bases de licitaci&#243;n, adjudicaciones y contratos
+para la enajenaci&#243;n de bienes inmuebles mediante
+licitaci&#243;n privada o trato directo por montos inferiores a
+10.000 unidades tributarias mensuales.
+     o) Bases de licitaci&#243;n, adjudicaciones y contratos
+para la construcci&#243;n de obra p&#250;blica mediante licitaci&#243;n
+p&#250;blica por montos inferiores a 10.000 unidades tributarias
+mensuales.
+     p) Bases de licitaci&#243;n, adjudicaciones y contratos
+para la construcci&#243;n de obra p&#250;blica mediante licitaci&#243;n
+privada o trato directo por montos inferiores a 5.000
+unidades tributarias mensuales.
+     q) Las operaciones de endeudamiento o cr&#233;ditos por
+montos inferiores a 10.000 unidades tributarias mensuales,
+siempre que no comprometan el patrimonio de la instituci&#243;n
+a trav&#233;s de hipotecas o grav&#225;menes.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">41 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920246">
+          <Texto>     P&#225;rrafo 4&#176;
+     De los acad&#233;micos y funcionarios no acad&#233;micos</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 4&#176; De los acad&#233;micos y funcionarios no acad&#233;micos</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920247">
+              <Texto>
+     Art&#237;culo 42.- R&#233;gimen jur&#237;dico de acad&#233;micos y
+funcionarios no acad&#233;micos. Los acad&#233;micos y funcionarios
+no acad&#233;micos de las universidades del Estado tienen la
+calidad de empleados p&#250;blicos. Los acad&#233;micos se regir&#225;n
+por los reglamentos que al efecto dicten las universidades
+y, en lo no previsto por dichos reglamentos, por las
+disposiciones del decreto con fuerza de ley N&#186; 29, de 2004,
+del Ministerio de Hacienda, que fija el texto refundido,
+coordinado y sistematizado de la ley N&#186; 18.834, sobre
+Estatuto Administrativo. Por su parte, los funcionarios no
+acad&#233;micos se regir&#225;n por las normas del decreto con
+fuerza de ley precitado y por las dem&#225;s disposiciones
+legales que les resulten aplicables.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">42 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920248">
+              <Texto>     Art&#237;culo 43.- Carrera acad&#233;mica. La carrera
+acad&#233;mica en las universidades del Estado se organizar&#225; en
+raz&#243;n de requisitos objetivos de m&#233;rito y estar&#225;
+sustentada en los principios de excelencia, pluralismo, no
+discriminaci&#243;n, publicidad y transparencia.
+     A trav&#233;s de un reglamento de carrera acad&#233;mica, las
+universidades del Estado deber&#225;n establecer las funciones,
+los derechos y las obligaciones de sus acad&#233;micos. Este
+reglamento deber&#225; contener las normas sobre la jerarqu&#237;a,
+el ingreso, la permanencia, la promoci&#243;n, la remoci&#243;n y la
+cesaci&#243;n de funciones, as&#237; como los respectivos
+procedimientos de evaluaci&#243;n y calificaci&#243;n de los
+acad&#233;micos, de acuerdo a las exigencias y principios
+se&#241;alados en el inciso precedente.
+     El reglamento, adem&#225;s, establecer&#225; metas y objetivos
+concretos relacionados con las &#225;reas de docencia,
+investigaci&#243;n y vinculaci&#243;n con el medio, acorde a los
+Planes de Desarrollo de las Instituciones; y se&#241;alar&#225;,
+asimismo, las pol&#237;ticas de est&#237;mulos e incentivos
+tendientes a fomentar su cumplimiento.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">43 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920249">
+              <Texto>
+     Art&#237;culo 44.- M&#225;xima jerarqu&#237;a acad&#233;mica nacional.
+Sin perjuicio de los requisitos internos para acceder a las
+jerarqu&#237;as acad&#233;micas de Instructor, Profesor Asistente,
+Profesor Asociado y Profesor Titular, u otras equivalentes,
+las universidades del Estado podr&#225;n establecer, de consuno,
+una jerarqu&#237;a m&#225;xima nacional situada por sobre la
+jerarqu&#237;a de Profesor Titular, que disponga de requisitos
+comunes y pueda ser aplicable y oponible a todas las
+instituciones universitarias estatales en el quehacer propio
+de sus funciones de educaci&#243;n superior.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">44 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920250">
+              <Texto>
+     Art&#237;culo 45.- Comisiones de servicio en el extranjero.
+Las comisiones de servicio de los funcionarios acad&#233;micos y
+no acad&#233;micos que deban efectuarse en el extranjero se
+regir&#225;n por los reglamentos universitarios dictados por
+cada instituci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">45 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-02-05" derogado="no derogado" idParte="9920251">
+              <Texto>
+     Art&#237;culo 46.- Actividades de acad&#233;micos extranjeros.
+Los acad&#233;micos, investigadores, profesionales,
+conferencistas o expertos extranjeros, y que tengan
+residencia o domicilio permanente fuera del territorio
+nacional, estar&#225;n exentos de solicitar la autorizaci&#243;n
+para desarrollar actividades remuneradas, se&#241;alada en el
+art&#237;culo 50 de la ley N&#176; 21.325, de Migraci&#243;n y
+Extranjer&#237;a, siempre que dichas labores correspondan a 
+actividades acad&#233;micas organizadas por instituciones
+universitarias y no se extiendan m&#225;s all&#225; de noventa d&#237;as
+o del t&#233;rmino del respectivo permiso de permanencia
+transitoria.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">46 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920252">
+              <Texto>
+     Art&#237;culo 47.- Capacitaci&#243;n y perfeccionamiento de
+funcionarios no acad&#233;micos. Las universidades del Estado
+deber&#225;n promover la capacitaci&#243;n de sus funcionarios no
+acad&#233;micos, con el objeto de que puedan perfeccionar,
+complementar o actualizar sus conocimientos y competencias
+necesarias para el eficiente desempe&#241;o de sus funciones.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">47 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2022-12-28" derogado="no derogado" idParte="9920253">
+              <Texto>
+     Art&#237;culo 48.- Contrataci&#243;n para labores accidentales
+y no habituales. Las universidades del Estado podr&#225;n
+contratar, sobre la base de honorarios, s&#243;lo la prestaci&#243;n
+de servicios o labores accidentales y que no sean las
+habituales de la instituci&#243;n. Las personas contratadas a
+honorarios se regir&#225;n por las cl&#225;usulas del respectivo
+contrato de conformidad a la legislaci&#243;n civil y no les
+ser&#225;n aplicables las disposiciones del decreto con fuerza
+de ley N&#186; 29, de 2004, del Ministerio de Hacienda, que fija
+el texto refundido, coordinado y sistematizado de la ley N&#186;
+18.834, sobre Estatuto Administrativo.
+     Adem&#225;s, las universidades del Estado podr&#225;n contratar
+sobre la base de honorarios, la prestaci&#243;n de servicios o
+labores de investigaci&#243;n, docencia acad&#233;mica de pre y
+postgrado hasta un m&#225;ximo de 12 horas semanales o para
+impartir hasta cuatro asignaturas o por un semestre
+acad&#233;mico. Asimismo, podr&#225;n contratar a honorarios
+aquellos servicios que se requieran para la ejecuci&#243;n de
+proyectos y actividades espec&#237;ficas que cuentan con
+financiamiento propio para su ejecuci&#243;n, incluyendo labores
+de docencia, investigaci&#243;n o extensi&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">48 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920254">
+              <Texto>
+     Art&#237;culo 49.- Actos atentatorios a la dignidad de los
+integrantes de la comunidad universitaria. Las prohibiciones
+para el personal acad&#233;mico y no acad&#233;mico de las
+universidades del Estado, relativas a actos atentatorios a
+la dignidad de los dem&#225;s funcionarios, incluido el acoso
+sexual, el acoso laboral y la discriminaci&#243;n arbitraria, se
+entender&#225;n referidas tambi&#233;n a conductas del mismo tipo
+que resulten atentatorias a la dignidad de estudiantes, y de
+toda persona vinculada, de cualquier forma, a las
+actividades de la respectiva instituci&#243;n.
+     Adem&#225;s, en los procedimientos instruidos para
+determinar la responsabilidad administrativa en este tipo de
+casos, las v&#237;ctimas y personas afectadas por las eventuales
+infracciones tendr&#225;n derecho a aportar antecedentes a la
+investigaci&#243;n, a conocer su contenido desde la formulaci&#243;n
+de cargos, a ser notificadas e interponer recursos en contra
+de los actos administrativos, en los mismos t&#233;rminos que el
+funcionario inculpado.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">49 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920255">
+      <Texto>     T&#205;TULO III
+     DE LA COORDINACI&#211;N DE LAS UNIVERSIDADES DEL ESTADO</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO III DE LA COORDINACI&#211;N DE LAS UNIVERSIDADES DEL ESTADO</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920256">
+          <Texto>     P&#225;rrafo 1&#176;
+     Principio basal y objetivos
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#176; Principio basal y objetivos</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920257">
+              <Texto>    Art&#237;culo 50.- Principio de coordinaci&#243;n. En el
+cumplimiento de su misi&#243;n y de sus funciones, las
+universidades del Estado deber&#225;n actuar de conformidad al
+principio de coordinaci&#243;n, con el prop&#243;sito de fomentar
+una labor conjunta y articulada en todas aquellas materias
+que tengan por finalidad contribuir al progreso nacional y
+regional del pa&#237;s, y a elevar los est&#225;ndares de calidad de
+la educaci&#243;n p&#250;blica en todos sus niveles, con una visi&#243;n
+estrat&#233;gica y de largo plazo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">50 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920258">
+              <Texto>    Art&#237;culo 51.- Colaboraci&#243;n con los &#243;rganos del
+Estado. Las universidades reguladas en la presente ley
+deber&#225;n colaborar, de conformidad a su misi&#243;n, con los
+diversos &#243;rganos del Estado que as&#237; lo requieran, en la
+elaboraci&#243;n de pol&#237;ticas, planes y programas que propendan
+al desarrollo cultural, social, territorial, art&#237;stico,
+cient&#237;fico, tecnol&#243;gico, econ&#243;mico y sustentable del
+pa&#237;s, a nivel nacional y regional, contribuyendo a
+satisfacer los intereses generales de la sociedad y de las
+futuras generaciones.
+     En este marco, el Ministerio de Educaci&#243;n podr&#225;
+solicitar a una o m&#225;s universidades del Estado
+directamente, o al Consejo de Coordinaci&#243;n establecido en
+el art&#237;culo 53, que elaboren planes de crecimiento de su
+oferta acad&#233;mica o de su matr&#237;cula cada vez que se
+requiera apoyar el desarrollo estrat&#233;gico del pa&#237;s y sus
+regiones. En el dise&#241;o y ejecuci&#243;n de los mismos, las
+universidades deber&#225;n cautelar y preservar su calidad
+acad&#233;mica y fomentar, de manera particular, el ingreso de
+estudiantes procedentes de sus respectivas regiones. Estos
+planes no se considerar&#225;n sujetos a las restricciones de
+vacantes m&#225;ximas que establezca la pol&#237;tica de acceso
+gratuito a la educaci&#243;n superior, siempre que sean
+aprobados previamente por decreto del Ministerio de
+Educaci&#243;n, expedido bajo la f&#243;rmula "por orden del
+Presidente de la Rep&#250;blica", y suscrito adem&#225;s por el
+Ministro de Hacienda.
+     La implementaci&#243;n de estos planes se establecer&#225;
+mediante convenios que las universidades del Estado deber&#225;n
+firmar con el Ministerio de Educaci&#243;n, los que deber&#225;n ser
+visados por la Direcci&#243;n de Presupuestos.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">51 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920259">
+              <Texto>
+     Art&#237;culo 52.- Colaboraci&#243;n entre las universidades
+del Estado y con otras instituciones de educaci&#243;n. Las
+universidades del Estado deber&#225;n colaborar entre s&#237; y con
+otras instituciones de educaci&#243;n con el prop&#243;sito de
+desarrollar, entre otros, los siguientes objetivos:
+     a) Promover la conformaci&#243;n de equipos de trabajo
+interdisciplinarios entre sus comunidades acad&#233;micas, as&#237;
+como con otras instituciones de educaci&#243;n superior, para
+realizar actividades de pregrado y posgrado, investigaci&#243;n,
+innovaci&#243;n, creaci&#243;n art&#237;stica, extensi&#243;n y vinculaci&#243;n
+con el medio, de acuerdo a criterios de pertinencia y
+equidad territorial.
+     b) Fomentar relaciones institucionales de cooperaci&#243;n
+y colaboraci&#243;n con universidades y entidades nacionales y
+extranjeras, en el &#225;mbito propio de las funciones de
+educaci&#243;n superior.
+     c) Promover criterios y requisitos comunes para el
+establecimiento de una carrera acad&#233;mica nacional aplicable
+y oponible a todas las universidades del Estado.
+     d) Promover la movilidad acad&#233;mica entre sus docentes.
+
+     e) Facilitar la movilidad estudiantil entre ellas, y
+entre las instituciones t&#233;cnico profesionales y las
+universidades del Estado.
+     f) Propender a un crecimiento equilibrado y pertinente
+de su oferta acad&#233;mica, de conformidad a lo previsto en sus
+respectivos Planes de Desarrollo Institucional, pudiendo
+considerar las propuestas del Consejo de Coordinaci&#243;n de
+Universidades del Estado.
+     g) Promover acciones colaborativas destinadas al
+aseguramiento de la calidad de las universidades del Estado,
+de manera que alcancen o mantengan los m&#225;s altos
+est&#225;ndares en este &#225;mbito.
+     h) Colaborar con otras instituciones de educaci&#243;n
+superior del Estado que requieran asesor&#237;a en el dise&#241;o y
+ejecuci&#243;n de proyectos acad&#233;micos e institucionales, y con
+aquellas instituciones estatales que presenten dificultades
+en sus procesos de acreditaci&#243;n, de acuerdo a lo
+establecido en el art&#237;culo 33 de la presente ley.
+     i) Vincular sus actividades con los centros de
+formaci&#243;n t&#233;cnica estatales. 
+     j) Colaborar con el Ministerio de Educaci&#243;n en los
+procesos de reubicaci&#243;n de los estudiantes provenientes de
+instituciones de educaci&#243;n superior cuyo reconocimiento
+oficial haya sido revocado.
+     k) Impulsar programas dirigidos a alumnos de
+establecimientos educacionales p&#250;blicos, a fin de fomentar
+su acceso a la educaci&#243;n superior de acuerdo a criterios de
+equidad y m&#233;rito acad&#233;mico.
+     l) Vincular sus actividades con el aseguramiento de la
+calidad de las escuelas y liceos p&#250;blicos, contribuyendo de
+manera activa en la innovaci&#243;n pedag&#243;gica y en el
+desarrollo de los profesionales de la educaci&#243;n de estos
+establecimientos.
+     m) Establecer procedimientos y protocolos de acci&#243;n
+conjunta en materia de compras p&#250;blicas, con el objeto de
+promover la eficacia y eficiencia de los contratos que
+celebren las universidades del Estado para el suministro de
+bienes muebles y de los servicios que requieran para el
+desarrollo de sus funciones, de conformidad a la ley N&#186;
+19.886.
+     n) Compartir las buenas pr&#225;cticas de gesti&#243;n
+institucional que propendan a un mejoramiento continuo de
+las universidades del Estado y que permitan elevar
+progresivamente sus est&#225;ndares de excelencia, eficiencia y
+calidad.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">52 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920260">
+          <Texto>     P&#225;rrafo 2&#176;
+     Del Consejo de Coordinaci&#243;n de Universidades del
+Estado</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#176; Fuentes de financiamiento</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920261">
+              <Texto>
+     Art&#237;culo 53.- Del Consejo. Existir&#225; un Consejo de
+Coordinaci&#243;n de Universidades del Estado (en adelante
+tambi&#233;n "el Consejo"), el que tendr&#225; por finalidad
+promover la acci&#243;n articulada y colaborativa de las
+instituciones universitarias estatales, con miras a
+desarrollar los objetivos y proyectos comunes se&#241;alados en
+el P&#225;rrafo 1&#186; del presente T&#237;tulo, adem&#225;s de la
+aprobaci&#243;n, supervisi&#243;n y seguimiento de las iniciativas y
+proyectos propuestos por las universidades del Estado que se
+financien en virtud del Plan de Fortalecimiento establecido
+en el P&#225;rrafo 2&#186; del T&#237;tulo IV de esta ley.
+     Corresponder&#225; particularmente a este Consejo de
+Coordinaci&#243;n asesorar al Ministerio de Educaci&#243;n en el
+dise&#241;o de proyectos conjuntos entre el Estado y sus
+universidades en torno a objetivos espec&#237;ficos que atiendan
+los problemas y requerimientos del pa&#237;s y sus regiones.
+Adem&#225;s, elaborar&#225; propuestas para la conformaci&#243;n de
+redes de cooperaci&#243;n en &#225;reas de inter&#233;s com&#250;n para las
+universidades del Estado, especialmente en gesti&#243;n
+institucional, docencia, investigaci&#243;n, extensi&#243;n y
+vinculaci&#243;n con el medio.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">53 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920262">
+              <Texto>
+     Art&#237;culo 54.- Integraci&#243;n del Consejo y Secretar&#237;a
+T&#233;cnica. El Consejo estar&#225; integrado por los rectores de
+las universidades del Estado, por el Ministro de Educaci&#243;n
+y por el Ministro de Estado a cargo del sector de Ciencia y
+Tecnolog&#237;a.
+     El Consejo de Coordinaci&#243;n ser&#225; presidido y convocado
+por el Ministro de Educaci&#243;n. Contar&#225; con el apoyo de una
+Secretar&#237;a T&#233;cnica, radicada en la Subsecretar&#237;a del
+Ministerio de Educaci&#243;n con competencia sobre educaci&#243;n
+superior, que le prestar&#225; respaldo material y t&#233;cnico a su
+gesti&#243;n administrativa, y le facilitar&#225; la infraestructura
+necesaria para desempe&#241;ar sus tareas.
+     El Consejo podr&#225; autoconvocarse a requerimiento
+escrito de dos tercios de sus integrantes. Sin perjuicio de
+los representantes del Gobierno que integrar&#225;n el Consejo
+de Coordinaci&#243;n, podr&#225;n ser invitados a sus sesiones otras
+autoridades o representantes gubernamentales sectoriales,
+as&#237; como autoridades o representantes de otros &#243;rganos del
+Estado, para tratar temas, iniciativas o propuestas que
+digan relaci&#243;n con materias de su competencia.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">54 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920263">
+              <Texto>
+     Art&#237;culo 55.- Organizaci&#243;n del Consejo y comit&#233;s
+internos. La organizaci&#243;n y las tareas espec&#237;ficas del
+Consejo, de acuerdo a lo establecido en los art&#237;culos 53 y
+siguientes de la presente ley, ser&#225;n establecidas mediante
+decreto supremo expedido a trav&#233;s del Ministerio de
+Educaci&#243;n, suscrito adem&#225;s por el Ministro de Hacienda.
+     El Consejo funcionar&#225; a trav&#233;s de comit&#233;s internos.
+Estos comit&#233;s estar&#225;n integrados por cinco rectores de
+universidades del Estado y por dos autoridades de Gobierno,
+una de las cuales ser&#225; del Ministerio de Educaci&#243;n, seg&#250;n
+se defina en el decreto se&#241;alado en el inciso anterior.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">55 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920264">
+      <Texto>     T&#205;TULO IV
+     DEL FINANCIAMIENTO DE LAS UNIVERSIDADES DEL ESTADO</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO IV DEL FINANCIAMIENTO DE LAS UNIVERSIDADES DEL ESTADO</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920265">
+          <Texto>     P&#225;rrafo 1&#176;
+     Fuentes de financiamiento</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#176; Plan de Fortalecimiento</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920266">
+              <Texto>
+     Art&#237;culo 56.- Aporte Institucional Universidades
+Estatales. En su calidad de instituciones de educaci&#243;n
+superior estatales, creadas para el cumplimiento de las
+funciones de docencia, investigaci&#243;n, creaci&#243;n art&#237;stica,
+innovaci&#243;n, extensi&#243;n y vinculaci&#243;n con el medio, de
+acuerdo a la misi&#243;n y a los principios que les son propios,
+se&#241;alados en el T&#237;tulo I de esta ley, las universidades
+del Estado tendr&#225;n un financiamiento permanente a trav&#233;s
+de un instrumento denominado "Aporte Institucional
+Universidades Estatales".
+     Los montos espec&#237;ficos de este instrumento de
+financiamiento ser&#225;n establecidos en virtud de la Ley de
+Presupuestos del Sector P&#250;blico de cada a&#241;o. A su vez, los
+criterios de distribuci&#243;n de dichos recursos ser&#225;n fijados
+mediante un decreto que dictar&#225; anualmente el Ministerio de
+Educaci&#243;n, suscrito adem&#225;s por el Ministro de Hacienda.
+Dicha distribuci&#243;n deber&#225; basarse en criterios objetivos,
+considerando especialmente las necesidades espec&#237;ficas de
+cada instituci&#243;n. El citado instrumento considerar&#225;, al
+menos, los recursos de la asignaci&#243;n "Convenio Marco
+Universidades Estatales" establecido en la ley N&#186; 20.882.
+     Las universidades del Estado s&#243;lo deber&#225;n rendir los
+recursos del aporte regulado en el presente art&#237;culo al
+Ministerio de Educaci&#243;n, en la forma que &#233;ste defina
+mediante resoluci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">56 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920267">
+              <Texto>
+     Art&#237;culo 57.- Otras fuentes de financiamiento. Lo
+expresado en el art&#237;culo anterior es sin perjuicio de los
+aportes que les corresponda percibir a las universidades del
+Estado, de conformidad al decreto con fuerza de ley N&#186; 4,
+de 1981, del Ministerio de Educaci&#243;n, que fija las Normas
+sobre Financiamiento de las universidades; de los recursos
+p&#250;blicos a los que puedan acceder a trav&#233;s de fondos
+concursables u otros instrumentos de financiamiento que
+disponga el Estado, para sus universidades, los que deber&#225;n
+incorporar criterios de apoyo especial para las
+universidades estatales de regiones; y de los ingresos que
+se&#241;alen sus respectivos estatutos por derechos de
+matr&#237;cula, aranceles, impuestos universitarios, prestaci&#243;n
+de servicios, frutos de sus bienes, donaciones, herencias o
+legados, entre otros.
+     Los recursos se&#241;alados en el inciso anterior deber&#225;n
+ajustarse a criterios de transparencia, pertinencia y no
+discriminaci&#243;n arbitraria.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">57 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920268">
+          <Texto>     P&#225;rrafo 2&#176;
+     Plan de Fortalecimiento
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#176; Plan de Fortalecimiento</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920269">
+              <Texto>     Art&#237;culo 58.- Objetivo y vigencia. Con el prop&#243;sito
+de apoyar el desarrollo institucional de las universidades
+del Estado, se implementar&#225; un Plan de Fortalecimiento de
+car&#225;cter transitorio, que tendr&#225; una duraci&#243;n de diez
+a&#241;os contados desde el a&#241;o de entrada en vigencia de la
+presente ley, destinado a los usos y ejes estrat&#233;gicos que
+ser&#225;n estipulados en los convenios que, para  estos
+efectos, se suscriban entre el Ministerio de Educaci&#243;n y
+cada una de las universidades referidas.
+     La aprobaci&#243;n, supervisi&#243;n y seguimiento de las
+iniciativas y proyectos que se financien en virtud del Plan
+estar&#225; a cargo de un Comit&#233; interno del Consejo, integrado
+por cinco rectores de universidades del Estado, un
+representante del Ministro de Educaci&#243;n, un representante
+del Ministro a cargo del sector de Ciencia y Tecnolog&#237;a y
+un representante de la Direcci&#243;n de Presupuestos. Dichas
+iniciativas y proyectos ser&#225;n propuestas por el Consejo de
+Coordinaci&#243;n o por una o m&#225;s instituciones, considerando
+tanto el trabajo en conjunto o en red de las universidades
+del Estado como l&#237;neas de acci&#243;n espec&#237;ficas de cada
+instituci&#243;n. Por su parte, la gesti&#243;n y administraci&#243;n de
+los recursos asignados y la rendici&#243;n de cuentas de los
+mismos ser&#225; de responsabilidad de cada universidad</Texto>
+              <Metadatos>
+                <NombreParte presente="si">58 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920270">
+              <Texto>    
+     Art&#237;culo 59.- Evaluaci&#243;n internacional. El Plan de
+Fortalecimiento ser&#225; evaluado cada cinco a&#241;os por un panel
+de expertos internacionales, de acuerdo a los t&#233;rminos de
+referencia que propongan, de manera conjunta, los
+Ministerios de Hacienda y de Educaci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">59 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920271">
+              <Texto>
+     Art&#237;culo 60.- Recursos del Plan de Fortalecimiento.
+Los recursos destinados al financiamiento del Plan de
+Fortalecimiento ascender&#225;n a $300.000.000 miles. Dicha
+cantidad se dividir&#225; en montos anuales, seg&#250;n lo
+establezcan las Leyes de Presupuestos del Sector P&#250;blico
+correspondientes, que considerar&#225;n al menos los recursos de
+la asignaci&#243;n "Plan de Fortalecimiento Universidades
+Estatales" establecida en la ley N&#186; 20.981. Con todo,
+dentro de los primeros cinco a&#241;os de vigencia del Plan se
+deber&#225;n destinar al menos $150.000.000 miles.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">60 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920272">
+              <Texto>
+     Art&#237;culo 61.- Aprobaci&#243;n y visaci&#243;n del Comit&#233;. Los
+recursos se&#241;alados en el art&#237;culo anterior deber&#225;n
+ejecutarse en conformidad a las iniciativas y proyectos que
+apruebe el Comit&#233; a que hace referencia el art&#237;culo 58 de
+la presente ley.
+     El Comit&#233; ser&#225; el encargado de evaluar el nivel de
+cumplimiento de dichas iniciativas y proyectos, y otorgar la
+visaci&#243;n para que el Ministerio de Educaci&#243;n realice las
+siguientes transferencias.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">61 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920273">
+              <Texto>
+     Art&#237;culo 62.- L&#237;neas de acci&#243;n del Plan. A trav&#233;s
+del Plan de Fortalecimiento, las universidades del Estado
+podr&#225;n desarrollar, entre otras, las siguientes
+iniciativas:
+     1) Desarrollo institucional. Las universidades del
+Estado podr&#225;n actualizar su Plan de Desarrollo
+Institucional con el fin de concordar sus iniciativas de
+fortalecimiento con dicho Plan. 
+     2) Fortalecimiento de la gesti&#243;n institucional. Las
+universidades del Estado podr&#225;n implementar programas de
+mejoramiento y actualizaci&#243;n de los procesos internos de
+gesti&#243;n institucional y de recursos humanos, con especial
+&#233;nfasis en la modernizaci&#243;n y fortalecimiento de sus
+respectivas contralor&#237;as universitarias.
+     3) Crecimiento de su oferta acad&#233;mica o de su
+matr&#237;cula. Las universidades del Estado podr&#225;n establecer
+planes de crecimiento de su oferta acad&#233;mica o de su
+matr&#237;cula. Dichos planes deber&#225;n obedecer a necesidades
+estrat&#233;gicas del pa&#237;s y sus regiones, basarse en
+indicadores objetivos, considerar mecanismos de equidad e
+inclusi&#243;n para el acceso de los nuevos estudiantes y estar
+contemplados, con la debida antelaci&#243;n, en sus respectivos
+Planes de Desarrollo Institucional. A su vez, los referidos
+planes de crecimiento no se considerar&#225;n sujetos a las
+restricciones de vacantes m&#225;ximas que establezca la
+pol&#237;tica de acceso gratuito a la educaci&#243;n superior,
+siempre que sean aprobados previamente por decreto del
+Ministerio de Educaci&#243;n, expedido bajo la f&#243;rmula "por
+orden del Presidente de la Rep&#250;blica", y suscrito adem&#225;s
+por el Ministro de Hacienda.
+     4) Fortalecimiento de la calidad acad&#233;mica y la
+formaci&#243;n profesional. Las universidades del Estado podr&#225;n
+dise&#241;ar e implementar acciones destinadas a preservar o
+elevar su calidad acad&#233;mica, incluyendo planes de
+evaluaci&#243;n y redise&#241;o curricular. Asimismo, podr&#225;n
+fomentar la incorporaci&#243;n de acad&#233;micos e investigadores
+con grado de Doctor con el objetivo de potenciar
+especialmente las actividades de docencia e investigaci&#243;n.
+     5) Fortalecimiento de la investigaci&#243;n e incidencia en
+la elaboraci&#243;n e implementaci&#243;n de pol&#237;ticas p&#250;blicas.
+Las universidades del Estado podr&#225;n crear o fortalecer
+centros de investigaci&#243;n destinados a profundizar el
+conocimiento o la innovaci&#243;n y aportar en la elaboraci&#243;n
+de pol&#237;ticas p&#250;blicas de relevancia estrat&#233;gica para el
+pa&#237;s o sus regiones, en materias tales como: desarrollo
+sustentable, cambio clim&#225;tico, sismolog&#237;a, cuidado y
+protecci&#243;n de ni&#241;os y adultos mayores, inclusi&#243;n y no
+discriminaci&#243;n, y planificaci&#243;n urbana sostenible.
+     6) Vinculaci&#243;n con el medio y el territorio. Las
+universidades del Estado podr&#225;n elaborar programas y
+acciones de vinculaci&#243;n con el medio que promuevan el
+desarrollo regional, la  interculturalidad, el respeto de
+los pueblos originarios y el cuidado del medio ambiente. En
+este marco, dichas universidades podr&#225;n promover
+actividades acad&#233;micas y formativas destinadas a vincular a
+los estudiantes con su &#225;mbito profesional en el territorio
+en que se emplace la respectiva instituci&#243;n.
+     7) Otras l&#237;neas de acci&#243;n. Sin perjuicio de lo
+se&#241;alado en los numerales precedentes, a trav&#233;s del Plan
+de Fortalecimiento se podr&#225;n destinar recursos para
+conservar y mejorar la infraestructura de las universidades
+del Estado, crear o fortalecer planes de apoyo para la
+permanencia y titulaci&#243;n de estudiantes, y apoyar la
+obtenci&#243;n de la acreditaci&#243;n institucional de las
+universidades creadas por la ley N&#186; 20.842.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">62 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920274">
+      <Texto>     T&#205;TULO V
+     DISPOSICIONES FINALES</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO V DISPOSICIONES FINALES</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920275">
+          <Texto>
+     Art&#237;culo 63.- Pol&#237;tica de propiedad intelectual e
+industrial. Las universidades del Estado deber&#225;n
+establecer, a trav&#233;s de reglamentos, una pol&#237;tica de
+propiedad intelectual e industrial que permita fomentar las
+actividades de investigaci&#243;n, creaci&#243;n e innovaci&#243;n de
+sus acad&#233;micos, resguardando los derechos de estas
+instituciones. Asimismo, dichos reglamentos establecer&#225;n
+las formas de acceso p&#250;blico al conocimiento creado en las
+universidades del Estado, debiendo en todo caso respetar los
+derechos de terceros en virtud de la legislaci&#243;n vigente.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">63 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920276">
+          <Texto>
+     Art&#237;culo 64.- Relevancia de los planes de desarrollo
+de la regi&#243;n. Las universidades del Estado deber&#225;n
+considerar especialmente para la elaboraci&#243;n de sus
+respectivos Planes de Desarrollo Institucional, los planes
+de desarrollo de la regi&#243;n a la que pertenezcan, a fin de
+que exista entre ellos la debida correspondencia y armon&#237;a.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">64 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920277">
+          <Texto>
+     Art&#237;culo 65.- Modificaci&#243;n del Estatuto
+Administrativo. Incorp&#243;rase en el inciso final del
+art&#237;culo 7 del decreto con fuerza de ley N&#186; 29, de 2004,
+del Ministerio de Hacienda, que fija el texto refundido,
+coordinado y sistematizado de la ley N&#186; 18.834, sobre
+Estatuto Administrativo, entre la expresi&#243;n "Ley Org&#225;nica
+Constitucional de Ense&#241;anza" y la conjunci&#243;n "y", la frase
+", la Ley sobre Universidades del Estado".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">65 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920278">
+          <Texto>
+     Art&#237;culo 66.- Modificaci&#243;n de la ley N&#186; 20.800.
+Modif&#237;case el art&#237;culo 24 de la ley N&#186; 20.800, que crea
+el administrador provisional y administrador de cierre de
+instituciones de educaci&#243;n superior y establece
+regulaciones en materia de administraci&#243;n provisional de
+sostenedores educacionales, incorporando en su inciso
+quinto, a continuaci&#243;n de la expresi&#243;n "ley N&#186; 20.129" la
+frase ", preferentemente una universidad del Estado".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">66 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920279">
+          <Texto>
+     Art&#237;culo 67.- Mayor gasto fiscal. El mayor gasto
+fiscal que irrogue la aplicaci&#243;n de esta ley se financiar&#225;
+con cargo al presupuesto del Ministerio de Educaci&#243;n y, en
+lo que faltare, con cargo a la Partida Presupuestaria Tesoro
+P&#250;blico.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">67 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920280">
+      <Texto>     DISPOSICIONES TRANSITORIAS</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">DISPOSICIONES TRANSITORIAS</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2021-06-04" derogado="no derogado" idParte="9920281">
+          <Texto>
+     Art&#237;culo primero.- La presente ley entrar&#225; en
+vigencia en el momento de su publicaci&#243;n. Para los efectos
+de adecuar los actuales estatutos de las universidades del
+Estado a las disposiciones del T&#237;tulo II de esta ley que
+as&#237; lo exijan, dichas instituciones deber&#225;n proponer al
+Presidente de la Rep&#250;blica, por intermedio del Ministerio
+de Educaci&#243;n, la modificaci&#243;n de sus respectivos estatutos
+dentro del plazo de cuatro a&#241;os, contado desde la entrada
+en vigencia del referido texto legal.
+     Sin perjuicio de lo anterior, las universidades del
+Estado cuyos estatutos hayan entrado en vigencia con
+posterioridad al 11 de marzo de 1990 no tendr&#225;n la
+obligaci&#243;n se&#241;alada en el inciso precedente, en la medida
+que propongan al Presidente de la Rep&#250;blica, por intermedio
+del Ministerio de Educaci&#243;n y en el plazo establecido en el
+referido inciso, un mecanismo institucional permanente que
+asegure la participaci&#243;n y corresponsabilidad del Estado en
+la aprobaci&#243;n del Plan de Desarrollo Institucional y del
+presupuesto de la universidad.
+     Si una universidad del Estado no cumpliere con las
+obligaciones establecidas en los incisos anteriores, dentro
+del plazo m&#225;ximo all&#237; se&#241;alado, al vencimiento del mismo
+regir&#225;n, por el solo ministerio de la ley, las normas
+estatutarias relativas a la organizaci&#243;n, gobierno,
+funciones y atribuciones de las universidades del Estado
+establecidas en el estatuto general que, mediante decreto
+con fuerza de ley, haya dictado el Presidente de la
+Rep&#250;blica. Para estos efectos, fac&#250;ltase al Presidente de
+la Rep&#250;blica para que, dentro del plazo de un a&#241;o desde la
+publicaci&#243;n de esta ley, establezca, mediante uno o m&#225;s
+decretos con fuerza de ley, expedidos a trav&#233;s del 
+Ministerio de Educaci&#243;n y suscritos tambi&#233;n por el
+Ministro de Hacienda, un estatuto general para las
+universidades del Estado, el cual, vencidos los plazos
+establecidos en los incisos anteriores, sustituir&#225;
+&#237;ntegramente las normas de los estatutos vigentes de las
+universidades del Estado en todo aquello que sea
+incompatible con las disposiciones del estatuto general. El
+ejercicio de esta facultad deber&#225; respetar estrictamente la
+misi&#243;n, principios y normas que se establecen en la
+presente ley, y en especial, ajustarse a las regulaciones de
+su T&#237;tulo II.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">PRIMERO </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920282">
+          <Texto>    
+     Art&#237;culo segundo.- Las universidades del Estado
+deber&#225;n adoptar procesos p&#250;blicos y participativos, en que
+intervengan los distintos estamentos de la comunidad
+universitaria, para el cumplimiento de lo dispuesto en el
+art&#237;culo primero transitorio, seg&#250;n corresponda.
+     Con todo, la propuesta de modificaci&#243;n de estatutos
+que efect&#250;en dichas instituciones al Presidente de la
+Rep&#250;blica deber&#225; realizarse a trav&#233;s de sus &#243;rganos
+competentes, seg&#250;n lo dispuesto en sus estatutos vigentes.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">SEGUNDO</NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920283">
+          <Texto>
+     Art&#237;culo tercero.- Se considerar&#225; como primer
+per&#237;odo del cargo, para la aplicaci&#243;n del art&#237;culo 21 de
+esta ley, aquel que haya asumido el rector bajo la vigencia
+de la presente ley. A su vez, a partir de la entrada en
+vigencia de esta ley ser&#225;n aplicables las disposiciones de
+dicho art&#237;culo.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">TERCERO</NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920284">
+          <Texto>
+     Art&#237;culo cuarto.- A las instituciones de educaci&#243;n
+superior creadas por la ley N&#186; 20.842 no les ser&#225;n
+exigibles los requisitos de acreditaci&#243;n institucional y de
+carreras, de conformidad a la ley N&#186; 20.129, para efectos
+de acceder a fondos otorgados por el Estado o que cuenten
+con su garant&#237;a, mientras est&#233; pendiente el plazo m&#225;ximo
+para obtener la acreditaci&#243;n institucional de conformidad a
+la ley N&#186; 20.842.
+     Asimismo, los estudiantes matriculados en las
+instituciones de educaci&#243;n superior antedichas podr&#225;n
+acceder a los recursos y becas otorgados por el Estado o que
+cuenten con su garant&#237;a y que se encuentren contempladas en
+la normativa vigente, operando respecto de estas
+instituciones la misma exenci&#243;n.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">CUARTO</NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920285">
+          <Texto>
+     Art&#237;culo quinto.- El plazo para dictar el decreto
+supremo que regular&#225; el Consejo de Coordinaci&#243;n de
+Universidades del Estado ser&#225; de seis meses desde la
+entrada en vigencia de la presente ley.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">QUINTO</NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920286">
+          <Texto>
+     Art&#237;culo sexto.- En tanto no entren en vigencia las
+normas estatutarias y reglamentos internos que deban
+dictarse en virtud de esta ley, las universidades del Estado
+seguir&#225;n rigi&#233;ndose por las respectivas normas
+estatutarias y reglamentos internos que actualmente les son
+aplicables.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">SEXTO</NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-06-05" derogado="no derogado" idParte="9920287">
+          <Texto>
+     Art&#237;culo s&#233;ptimo.- Las universidades del Estado
+estar&#225;n adscritas a la pol&#237;tica de gratuidad universal, de
+conformidad a las reglas transitorias de progresi&#243;n para
+los deciles de m&#225;s altos ingresos que se establecen en la
+Ley sobre Educaci&#243;n Superior o en la Ley de Presupuestos,
+seg&#250;n corresponda.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">S&#201;PTIMO</NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="2018-06-05" derogado="no derogado">
+    <Texto>
+     Habi&#233;ndose cumplido con lo establecido en el N&#186; 1 del
+Art&#237;culo 93 de la Constituci&#243;n Pol&#237;tica de la Rep&#250;blica
+y por cuanto he tenido a bien aprobarlo y sancionarlo; por
+tanto, prom&#250;lguese y ll&#233;vese a efecto como Ley de la
+Rep&#250;blica.
+     Santiago, 25 de mayo de 2018.- SEBASTI&#193;N PI&#209;ERA
+ECHENIQUE, Presidente de la Rep&#250;blica.- Gerardo Varela
+Alfonso, Ministro de Educaci&#243;n.- Felipe Larra&#237;n
+Bascu&#241;&#225;n, Ministro de Hacienda.- Gonzalo Blumel Mac-Iver,
+Ministro Secretario General de la Presidencia.
+     Lo que transcribo a usted para su conocimiento.- Saludo
+atentamente a usted, Ra&#250;l Figueroa Salas, Subsecretario de
+Educaci&#243;n.</Texto>
+  </Promulgacion>
+  <Anexos>
+    <Anexo fechaVersion="2018-06-05" derogado="no derogado" idParte="9920289" transitorio="no transitorio">
+      <Metadatos>
+        <Titulo>Proyecto de ley sobre universidades del Estado, correspondiente al bolet&#237;n N&#176; 11.329-04</Titulo>
+        
+      </Metadatos>
+      <Texto>
+     Tribunal Constitucional
+
+     Proyecto de ley sobre universidades del Estado,
+correspondiente al bolet&#237;n N&#176; 11.329-04
+
+     El Secretario del Tribunal Constitucional, quien
+suscribe, certifica que la Honorable C&#225;mara de Diputados
+envi&#243; el proyecto de ley enunciado en el rubro, aprobado
+por el Congreso Nacional, a fin de que este Tribunal
+ejerciera el control de constitucionalidad respecto los 
+art&#237;culos 2; 3; 13; 16; 17; 20; 21, inciso segundo; 23; 25;
+28, inciso final; 29; 41; 43 y 53, del proyecto de ley, y
+por sentencia de 8 de mayo de 2018, en los autos Rol N&#186;
+4316-18-CPR.
+
+     Se declara:
+
+     1&#176;. Que, las disposiciones del proyecto de ley
+contenidas en los art&#237;culos 3; 12; 13; 14, literal c); 16;
+17; 20; 21, inciso segundo, segunda parte; 23; 24; 25; 28,
+inciso final; 29; 41; 42; 43; 53; 54; 55; y 56, inciso
+final, son conformes con la Constituci&#243;n Pol&#237;tica.
+     2&#176;. Que no se emite pronunciamiento, en examen
+preventivo de constitucionalidad, de las disposiciones
+contenidas en los art&#237;culos 2; y, 21, inciso segundo,
+primera parte, del proyecto de ley, por no versar sobre
+materias reguladas en ley org&#225;nica constitucional.
+     Santiago, 8 de mayo de 2018.- Rodrigo Pica Flores,
+Secretario.</Texto>
+    </Anexo>
+  </Anexos>
+</Norma>
