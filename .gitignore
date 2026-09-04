@@ -3,3 +3,10 @@ raw/
 __pycache__/
 .DS_Store
 .venv/
+
+# Codex per-job event streams and stderr: regenerable machine output, not evidence.
+# The .json result files ARE the evidence and stay tracked.
+research/**/*.events.jsonl
+research/**/*.stderr.log
+sources/*.txt
+sources/leychile/*.xml

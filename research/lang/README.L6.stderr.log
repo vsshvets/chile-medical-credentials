@@ -1,3 +1,0 @@
-2026-09-04T02:37:20.505750Z ERROR codex_core::session::session: failed to load skill /Users/vladshvets/.agents/skills/mystery-demo-transcript-editor/SKILL.md: missing YAML frontmatter delimited by ---
-2026-09-04T02:37:20.505802Z ERROR codex_core::session::session: failed to load skill /Users/vladshvets/.agents/skills/qvery-supabase-data-researcher/SKILL.md: missing YAML frontmatter delimited by ---
-2026-09-04T02:37:20.505807Z ERROR codex_core::session::session: failed to load skill /Users/vladshvets/.agents/skills/supabase-assistant/SKILL.md: missing YAML frontmatter delimited by ---
