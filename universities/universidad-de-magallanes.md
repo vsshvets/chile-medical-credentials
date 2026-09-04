@@ -17,6 +17,8 @@
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
 | **Вакансії** | [Dirección de Gestión y Desarrollo de Personas](https://umag.cl/nuestra-universidad/vicerrectoria-de-adm-y-finanzas/direccion-de-gestion-y-desarrollo-de-personas/) |
 
+> ⚠️ **Юридично може, але з застереженням.** Університет державний і має потрібну інституційну акредитацію, проте акредитація його програми з медицини **в процесі**. Оскільки ст. 4 **Decreto 174** вимагає чинної акредитації програми, це треба уточнювати в самому університеті.
+
 ## Про факультет
 
 Підготовку за спеціальністю «Медицина» в Universidad de Magallanes веде Escuela de Medicina, а не Facultad de Medicina. Підрозділ належить до академічної проректури; його директор — Mario Mayanz Csato. Програма передбачає професійний титул Médico/a Cirujano/a та науковий ступінь Licenciado/a en Medicina.
