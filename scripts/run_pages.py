@@ -11,7 +11,7 @@ spec.loader.exec_module(cx)
 OUT = REPO / "research/pages"; OUT.mkdir(parents=True, exist_ok=True)
 STAGE = cx.workspace("chile-med-pages")
 SCHEMA = REPO / "scripts/schema_page.json"
-SPEC = (REPO / "scripts/uni_page_spec.md").read_text(encoding="utf-8")
+SPEC = (REPO / "scripts/uni_page_spec.txt").read_text(encoding="utf-8")
 TERMS = (REPO / "data/terms.csv").read_text(encoding="utf-8")
 
 RULES = """

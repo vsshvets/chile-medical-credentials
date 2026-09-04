@@ -110,7 +110,7 @@ LeyChile; напрям, чия робота — каталогізувати з�
 
 | Файл | Що це |
 |---|---|
-| [`scripts/uni_page_spec.md`](../scripts/uni_page_spec.md) | Шаблон сторінки університету, за яким писалися всі 31 |
+| [`scripts/uni_page_spec.txt`](../scripts/uni_page_spec.txt) | Шаблон сторінки університету, за яким писалися всі 31 |
 | [`data/terms.csv`](../data/terms.csv) | Замок термінології |
 | [`data/institution-names.csv`](../data/institution-names.csv) | Офіційні іспанські назви з наголосами |
 | [`data/aliases.csv`](../data/aliases.csv) | Оголошені варіанти назв для звірки реєстрів |

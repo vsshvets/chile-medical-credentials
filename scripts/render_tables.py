@@ -8,6 +8,7 @@ import csv
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
+(REPO / "raw").mkdir(exist_ok=True)
 rows = list(csv.DictReader((REPO / "data/medical-schools.csv").open()))
 rows.sort(key=lambda r: -int(r["matricula_total_2026"]))
 
@@ -61,6 +62,6 @@ foot = (
     f"{'🆕 позначає програми, що стартували 2026 року (' + str(new) + ' шт.): у них перший курс дорівнює всім студентам.' if new else ''}\n"
 )
 
-(REPO / "data/_table_universities_root.md").write_text(build("universities/") + "\n" + foot, encoding="utf-8")
-(REPO / "data/_table_universities_local.md").write_text(build("") + "\n" + foot, encoding="utf-8")
+(REPO / "raw/_table_universities_root.md").write_text(build("universities/") + "\n" + foot, encoding="utf-8")
+(REPO / "raw/_table_universities_local.md").write_text(build("") + "\n" + foot, encoding="utf-8")
 print(f"wrote both depth variants · {len(rows)} rows · total {tot:,} · first-year {p1:,}")
