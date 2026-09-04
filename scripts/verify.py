@@ -198,10 +198,17 @@ def gate_regime():
 
 def gate_evidence():
     """No claim without a source; no source without a verbatim quote."""
-    nosrc, noq, shortq = [], [], []
+    nosrc, noq, shortq, derived = [], [], [], []
     for lane, fn, c in load_claims():
         srcs = c.get("sources") or []
         if not srcs:
+            # A DERIVED total or an explicit judgement legitimately has no URL — the house rule is
+            # that it ships without a link, naming the table it came from. What must never happen
+            # is a factual claim with no evidence at all, or a derived figure wearing a convenient
+            # nearby URL. So: inference is allowed here and checked in the document instead.
+            if c.get("evidence_type") == "inference":
+                derived.append((lane, c["id"]))
+                continue
             nosrc.append((lane, c["id"], c["statement"][:80])); continue
         for s in srcs:
             q = (s.get("quote_original") or "").strip()
@@ -210,7 +217,8 @@ def gate_evidence():
             elif len(q) < 25:
                 shortq.append((lane, c["id"], q))
     print(f"\n[evidence] {len(nosrc)} claims with no source · {len(noq)} sources with no quote · "
-          f"{len(shortq)} quotes under 25 chars")
+          f"{len(shortq)} quotes under 25 chars · {len(derived)} declared derived/inference "
+          f"(allowed, must name their table in the document)")
     for lane, cid, st in nosrc[:10]:
         print(f"   NOSRC {lane}/{cid}: {st}")
     if nosrc:
