@@ -85,7 +85,7 @@ Profesor Asociado → Profesor Titular**) присвоює комісія кож
 
 ### Шлях А — ревалідація диплома (**revalidación**) через університет
 
-Класична процедура: університет вивчає ваш навчальний план, порівнює його з чилійським і, якщо
+Класична процедура: університет вивчає її навчальний план, порівнює його з чилійським і, якщо
 збіг неповний, призначає іспити.
 
 **Хто може це робити.** З 17 серпня 2026 року набув чинності **Decreto 174/2024** Міністерства
@@ -110,23 +110,24 @@ Profesor Asociado → Profesor Titular**) присвоює комісія кож
 
 | Університет | Акредитація закладу | Акредитація програми | Студентів медицини |
 |---|---|---|--:|
-| [Universidad de Valparaíso](universities/universidad-de-valparaiso.md) | Excelencia  6 р. (до 2029-03-08) | 7 р.  до 09-08-2030 | 897 |
-| [Universidad de Talca](universities/universidad-de-talca.md) | Excelencia  7 р. (до 2033-06-01) | 5 р.  до 20-03-2029 | 620 |
-| [Universidad de Santiago de Chile](universities/universidad-de-santiago-de-chile.md) | Excelencia  7 р. (до 2028-02-25) | 5 р.  до 06-08-2030 | 525 |
-| [Universidad de La Frontera](universities/universidad-de-la-frontera.md) | Avanzado  5 р. (до 2030-09-03) | 6 р.  до 05-01-2028 | 507 |
-| [Universidad de Antofagasta](universities/universidad-de-antofagasta.md) | Avanzado  5 р. (до 2027-09-07) | 5 р.  до 21-09-2027 | 392 |
-| [Universidad de Atacama](universities/universidad-de-atacama.md) | Avanzado  5 р. (до 2031-04-01) | 4 р.  до 19-08-2030 | 344 |
-| [Universidad de Tarapacá](universities/universidad-de-tarapaca.md) | Excelencia  6 р. (до 2029-06-22) | 5 р.  до 19-03-2030 | 260 |
-| ⚠️ [Universidad de Magallanes](universities/universidad-de-magallanes.md) | Avanzado  5 р. | **In progress(*)** — акредитація в процесі | 355 |
+| [Universidad de Valparaíso](universities/universidad-de-valparaiso.md) | Excelencia, 6 р. (до 2029-03-08) | 7 р., до 09-08-2030 | 897 |
+| [Universidad de Talca](universities/universidad-de-talca.md) | Excelencia, 7 р. (до 2033-06-01) | 5 р., до 20-03-2029 | 620 |
+| [Universidad de Santiago de Chile](universities/universidad-de-santiago-de-chile.md) | Excelencia, 7 р. (до 2028-02-25) | 5 р., до 06-08-2030 | 525 |
+| [Universidad de La Frontera](universities/universidad-de-la-frontera.md) | Avanzado, 5 р. (до 2030-09-03) | 6 р., до 05-01-2028 | 507 |
+| [Universidad de Antofagasta](universities/universidad-de-antofagasta.md) | Avanzado, 5 р. (до 2027-09-07) | 5 р., до 21-09-2027 | 392 |
+| [Universidad de Atacama](universities/universidad-de-atacama.md) | Avanzado, 5 р. (до 2031-04-01) | 4 р., до 19-08-2030 | 344 |
+| [Universidad de Tarapacá](universities/universidad-de-tarapaca.md) | Excelencia, 6 р. (до 2029-06-22) | 5 р., до 19-03-2030 | 260 |
+| ⚠️ [Universidad de Magallanes](universities/universidad-de-magallanes.md) | Avanzado, 5 р. (до 2028-12-31) | **акредитація програми в процесі** | 355 |
 
 **Universidad de Chile** до цієї таблиці не входить — і не тому, що не проходить. Він працює за
 власним статутом (**DFL 3/2006**, ст. 6), який Decreto 174 прямо зберіг.
 
 Ще п’ять державних університетів мають потрібну акредитацію закладу, але **не можуть** розглядати
 справи щодо медичних дипломів: **Universidad Arturo Prat** і **Universidad de Playa Ancha** не мають
-спеціальності «Медицина»; **Universidad del Bío-Bío** не має спеціальності «Медицина» в реєстрі
-акредитацій; **Universidad de La Serena** і **Universidad de Los Lagos** відкрили спеціальність
-«Медицина» лише 2026 року, тож не мають ані акредитації програми, ані жодного випуску.
+спеціальності «Медицина»; **Universidad del Bío-Bío** має спеціальність «Медицина», але її програми
+немає в реєстрі акредитацій CNA; **Universidad de La Serena** і **Universidad de Los Lagos**
+відкрили спеціальність «Медицина» лише 2026 року, тож не мають ані акредитації програми, ані жодного
+випуску.
 
 > ⚠️ **Але юридична здатність — це ще не робоча процедура.** Станом на 3 вересня 2026 року **жоден
 > із них не опублікував порядку подання** для іноземних дипломів. Немає й
