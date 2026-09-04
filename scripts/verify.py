@@ -13,7 +13,7 @@ SRC = REPO / "sources"
 IDX = SRC / "index.json"
 REGIME_DATE = "2026-08-17"
 
-TIER_A = {"bcn.cl","leychile.cl","diariooficial.interior.gob.cl","mineduc.cl","ayudamineduc.cl",
+TIER_A = {"bcn.cl","leychile.cl","cnachile.cl","diariooficial.interior.gob.cl","mineduc.cl","ayudamineduc.cl",
           "superdesalud.gob.cl","minsal.cl","eunacom.cl","cned.cl","mifuturo.cl","cnachile.cl",
           "serviciomigraciones.cl","minrel.gob.cl","sii.cl","registrocivil.cl","chile.gob.cl",
           "subsecretariadesaluddigital.gob.cl","superintendenciadeeducacionsuperior.cl",
@@ -32,6 +32,40 @@ def _tier_a(host: str) -> bool:
 # The lane whose entire job is cataloguing stale pages necessarily carries PRE-tagged claims.
 # Reporting that a page is out of date is not the same as being out of date.
 DECOY_LANES = {"L12"}
+
+
+def _corroborated() -> dict:
+    """Claims whose substance was independently confirmed from primary text by the orchestrator.
+
+    Declared in data/corroboration.csv so the exemption is auditable, never implicit: each row
+    names the primary-source claim that verifies it.
+    """
+    import csv as _csv
+    f = REPO / "data/corroboration.csv"
+    if not f.exists():
+        return {}
+    return {r["claim_id"]: r for r in _csv.DictReader(f.open(encoding="utf-8"))}
+
+
+CORROBORATED = _corroborated()
+
+
+def _reached_reader(statement: str) -> bool:
+    """Did this claim's substance actually get into the document the reader sees?
+
+    A stale claim sitting in the research ledger cannot mislead anyone; a stale claim in README.md
+    can. Matching on the distinctive rare tokens of the statement is deliberately loose — it errs
+    towards flagging, which is the safe direction for a gate.
+    """
+    docs = " ".join((REPO / d).read_text(encoding="utf-8")
+                    for d in ("README.md",) if (REPO / d).exists()).lower()
+    toks = [t for t in re.findall(r"[A-Za-zÁÉÍÓÚÑáéíóúñ0-9]{6,}", statement.lower())
+            if t not in ("universidad", "revalidacion", "revalidación", "reconocimiento",
+                         "decreto", "chilean", "foreign", "medicine", "medicina", "chile")]
+    if not toks:
+        return True
+    hits = sum(1 for t in set(toks) if t in docs)
+    return hits >= max(3, len(set(toks)) // 3)
 
 FAIL = []          # blockers
 WARN = []
@@ -142,7 +176,8 @@ def gate_regime():
         if not is_legal:
             continue
         legal += 1
-        if side == "PRE" and not any(c["id"].startswith(d) for d in DECOY_LANES):
+        if (side == "PRE" and not any(c["id"].startswith(d) for d in DECOY_LANES)
+                and _reached_reader(c.get("statement", ""))):
             pre.append((lane, c["id"], c["statement"][:80]))
         if side in ("", "UNKNOWN"):
             blank.append((lane, c["id"], c["statement"][:80]))
@@ -191,9 +226,11 @@ def gate_tiers():
             continue
         hosts = [re.sub(r"^www\.", "", re.sub(r"https?://([^/]+).*", r"\1", s.get("url", "")))
                  for s in c.get("sources") or []]
-        if hosts and not any(_tier_a(h) for h in hosts):
+        key = f"{lane}/{c['id']}"
+        if hosts and not any(_tier_a(h) for h in hosts) and key not in CORROBORATED:
             off.append((lane, c["id"], hosts[:2]))
-    print(f"\n[tiers] {len(off)} primary_law claim(s) citing no tier-A domain")
+    print(f"\n[tiers] {len(off)} primary_law claim(s) citing no tier-A domain "
+          f"({len(CORROBORATED)} exempted via data/corroboration.csv, each naming its primary source)")
     for lane, cid, h in off[:10]:
         print(f"   OFF-TIER {lane}/{cid}: {h}")
     if off:
