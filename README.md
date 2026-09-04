@@ -399,6 +399,7 @@ varsovia@consulado.gob.cl, +48 22 858 23 30.
 |---|--:|---|
 | **[data/medical-schools.csv](data/medical-schools.csv)** | 31 | Головна таблиця університетів |
 | [data/terms.csv](data/terms.csv) | 27 | Замок термінології: іспанський термін → український відповідник |
+| **[data/vacancies.csv](data/vacancies.csv)** | 31 | Вакансії, контакти деканатів, підрозділи ревматології |
 | [data/cna-medicina-accreditation.json](data/cna-medicina-accreditation.json) | 27 | Акредитація програм з медицини (CNA) |
 
 ---

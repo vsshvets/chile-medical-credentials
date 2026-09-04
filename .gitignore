@@ -10,3 +10,7 @@ research/**/*.events.jsonl
 research/**/*.stderr.log
 sources/*.txt
 sources/leychile/*.xml
+
+# Generated table fragments. They are INCLUDED into README.md and universities/README.md at two
+# different depths, so their links only resolve from their destination, never from data/.
+data/_table_universities_*.md
