@@ -1,0 +1,12 @@
+#!/bin/bash
+# Run every gate before a commit is allowed. This exists because a commit was once pushed with a
+# broken anchor: the gates were run AFTER the commit, which is the same as not running them.
+# Bypass deliberately with `git commit --no-verify` when committing work-in-progress research.
+out=$(./scripts/gates.sh 2>&1)
+if echo "$out" | grep -q "ALL GATES PASS"; then
+  exit 0
+fi
+echo "$out" | grep -E "FAIL|BROKEN|MISMATCH|MISSING|DO NOT SHIP|BLOCKER" | head -20
+echo
+echo "COMMIT BLOCKED: gates failed. Fix them, or use --no-verify for work in progress."
+exit 1
