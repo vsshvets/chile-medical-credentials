@@ -4,8 +4,10 @@
 Disk-idempotent: a URL already stored is skipped. One bad URL never kills the batch.
 """
 import concurrent.futures as cf
-import gzip, hashlib, io, json, re, sys, time, urllib.request, urllib.error
+import gzip, hashlib, io, json, re, sys, time, urllib.error
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import fetchlib
 
 REPO = Path(__file__).resolve().parent.parent
 SRC = REPO / "sources"; SRC.mkdir(exist_ok=True)
@@ -48,19 +50,10 @@ def strip_html(h: str) -> str:
 
 def fetch(u: str) -> tuple:
     """-> (status, text, final_url, err)"""
-    req = urllib.request.Request(u, headers={
-        "User-Agent": UA,
-        "Accept": "text/html,application/xhtml+xml,application/pdf,*/*",
-        "Accept-Language": "es-CL,es;q=0.9,en;q=0.8,uk;q=0.7",
-    })
     try:
-        with urllib.request.urlopen(req, timeout=45) as r:
-            raw = r.read()
-            if r.headers.get("Content-Encoding") == "gzip":
-                raw = gzip.decompress(raw)
-            ct = (r.headers.get_content_type() or "").lower()
-            final = r.geturl()
-            code = r.status
+        code, raw, final, ct = fetchlib.get(u)
+        if raw[:2] == b"\x1f\x8b":
+            raw = gzip.decompress(raw)
     except urllib.error.HTTPError as e:
         return e.code, "", u, f"HTTP {e.code}"
     except Exception as e:
