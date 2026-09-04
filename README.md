@@ -589,7 +589,7 @@ EUNACOM: **1 030 000 CLP** зборів, іспит іспанською, лиш
 | **[data/process-steps.csv](data/process-steps.csv)** | 128 | Кожен крок кожного сценарію з вартістю, строком і тим, чи потрібна присутність у Чилі |
 | **[data/norms.csv](data/norms.csv)** | 13 | Усі чилійські норми, прочитані дослівно, з датами чинності |
 | [data/terms.csv](data/terms.csv) | 27 | Фіксована термінологія: іспанський термін → український відповідник |
-| **[data/vacancies.csv](data/vacancies.csv)** | 31 | Вакансії, контакти деканатів, підрозділи ревматології |
+| **[data/vacancies.csv](data/vacancies.csv)** | 31 | Конкурси на академічні посади, контакти деканатів, підрозділи ревматології |
 | [data/cna-medicina-accreditation.json](data/cna-medicina-accreditation.json) | 27 | Акредитація програм зі спеціальності «Медицина» (CNA) |
 
 ---
