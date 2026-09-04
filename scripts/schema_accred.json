@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "properties": {
+    "threshold_rule": {
+      "type": "object",
+      "properties": {
+        "verbatim_text": {"type": "string", "description": "The VERBATIM Spanish text of the eligibility requirement in Decreto 174/2024 or Ley 21.325 art.143 that a university must meet to recognise/revalidate foreign degrees"},
+        "source_url": {"type": "string"},
+        "required_years": {"type": "integer", "description": "-1 if the rule is not expressed in years"},
+        "required_level": {"type": "string", "description": "e.g. 'avanzado' / 'excelencia' / none"},
+        "state_only": {"type": "boolean", "description": "Does the rule restrict this to STATE universities?"},
+        "interpretation": {"type": "string"}
+      },
+      "required": ["verbatim_text", "source_url", "required_years", "required_level", "state_only", "interpretation"]
+    },
+    "universities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string"},
+          "is_state": {"type": "boolean"},
+          "accreditation_years": {"type": "integer", "description": "-1 if not found"},
+          "accreditation_level": {"type": "string", "description": "Nivel: Basico / Avanzado / Excelencia, or UNKNOWN"},
+          "accreditation_from": {"type": "string"},
+          "accreditation_until": {"type": "string"},
+          "meets_threshold": {"type": "string", "enum": ["yes", "no", "unknown"]},
+          "source_url": {"type": "string"},
+          "quote": {"type": "string", "description": "Verbatim text from the source showing these accreditation details"},
+          "has_published_revalidation_procedure": {"type": "string", "enum": ["yes", "no", "unknown"]},
+          "revalidation_procedure_url": {"type": "string"},
+          "revalidation_notes": {"type": "string", "description": "What the procedure actually says, incl. whether it covers Medicina and whether it accepts applicants from abroad. Say 'no published procedure found' plainly if that is the case."},
+          "contact_email": {"type": "string"}
+        },
+        "required": ["name", "is_state", "accreditation_years", "accreditation_level", "accreditation_from", "accreditation_until", "meets_threshold", "source_url", "quote", "has_published_revalidation_procedure", "revalidation_procedure_url", "revalidation_notes", "contact_email"]
+      }
+    },
+    "bottom_line": {"type": "string", "description": "One paragraph: as of today, which institutions can she REALISTICALLY apply to, and is Universidad de Chile still in practice the only working route?"},
+    "unknowns": {"type": "array", "items": {"type": "string"}}
+  },
+  "required": ["threshold_rule", "universities", "bottom_line", "unknowns"]
+}

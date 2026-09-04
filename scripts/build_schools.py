@@ -27,7 +27,16 @@ def slug(s):
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
 
 
+def display_names():
+    """Official Spanish names with accents. SIES ships ALL CAPS unaccented; .title() mangles them
+    ('Universidad De Chile'), and a mangled institution name is the entity-verification failure."""
+    f = REPO / "data/institution-names.csv"
+    return {r["sies_name"]: (r["display_name"], r["short_name"])
+            for r in csv.DictReader(f.open(encoding="utf-8"))}
+
+
 def main():
+    names = display_names()
     rows = list(csv.DictReader(SRC.open(encoding="latin-1"), delimiter=";"))
     med = [r for r in rows
            if r["ÁREA CARRERA GENÉRICA"].strip().upper() == "MEDICINA"
@@ -58,12 +67,19 @@ def main():
         d["duration"].add(r["DURACIÓN TOTAL DE CARRERA"].strip())
         d["modes"].add(r["JORNADA"].strip())
 
+    missing = sorted(set(inst) - set(names))
+    if missing:
+        raise SystemExit("no display name for: " + " | ".join(missing) +
+                         "\nAdd them to data/institution-names.csv — an unaccented name is a defect.")
     out = []
     for name, d in sorted(inst.items(), key=lambda x: -x[1]["total"]):
         is_state = "Estatal" in d["type2"] or "estatal" in d["type2"].lower()
+        disp, short = names[name]
         out.append({
-            "slug": slug(name),
-            "institution": name,
+            "slug": slug(disp),
+            "institution": disp,
+            "short_name": short,
+            "sies_name": name,
             "type": d["type1"],
             "subtype": d["type2"],
             "is_state": "yes" if is_state else "no",
