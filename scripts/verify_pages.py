@@ -35,6 +35,19 @@ def main():
         checked += 1
         if r["institution"] not in t:
             bad.append((slug, "official name", r["institution"]))
+        # A page must never assert a rheumatology unit the dataset records as unverified —
+        # that is the exact direction in which a model embellishes.
+        vf = REPO / "data/vacancies.csv"
+        if vf.exists():
+            import csv as _csv
+            vac = {x["slug"]: x for x in _csv.DictReader(vf.open(encoding="utf-8"))}
+            v = vac.get(slug)
+            if v:
+                checked += 1
+                m = re.search(r"\|\s*\*\*Ревматологія\*\*\s*\|([^|]*)\|", t)
+                claimed = (m.group(1) if m else "")
+                if v["rheumatology_unit"] == "unknown" and "є підрозділ" in claimed:
+                    bad.append((slug, "rheumatology unit asserted but dataset says unknown", claimed.strip()))
         # accreditation, where the register has it
         if r["prog_accred_years"] and "progress" not in r["prog_accred_until"].lower():
             checked += 1
