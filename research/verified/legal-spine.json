@@ -530,6 +530,54 @@
     "regime_side": "POST"
    },
    "note": ""
+  },
+  {
+   "id": "SPINE-23",
+   "statement": "A foreign academic whose permanent residence is OUTSIDE Chile is exempt from needing work authorisation for paid academic activity organised by a university, for up to ninety days or the end of her transitory-stay permit. Combined with visa-free entry, this lets her do paid academic work in Chile without any visa at all.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1119253",
+     "publisher": "BCN — Ley Chile",
+     "title": "Ley 21.094 sobre Universidades Estatales",
+     "date_of_content": "2026-02-05",
+     "quote_original": "Artículo 46.- Actividades de académicos extranjeros. Los académicos, investigadores, profesionales, conferencistas o expertos extranjeros, y que tengan residencia o domicilio permanente fuera del territorio nacional, estarán exentos de solicitar la autorización para desarrollar actividades remuneradas, señalada en el artículo 50 de la ley N° 21.325, de Migración y Extranjería, siempre que dichas labores correspondan a actividades académicas organizadas por instituciones universitarias y no se extiendan más allá de noventa días o del término del respectivo permiso de permanencia transitoria.",
+     "quote_locator": "Artículo 46"
+    }
+   ],
+   "regime": {
+    "norm": "Ley 21.094 art. 46",
+    "vigencia": "2026-02-05",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "NEUTRAL"
+   },
+   "note": "The single most practically useful finding for her: a paid trial run is possible with no visa."
+  },
+  {
+   "id": "SPINE-24",
+   "statement": "State universities may engage people on honorarios; such contracts are governed by civil law and the Estatuto Administrativo does NOT apply to them. That is why an honorarios teaching engagement escapes the article 12 nationality-or-residence requirement, while a planta or contrata post does not.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1119253",
+     "publisher": "BCN — Ley Chile",
+     "title": "Ley 21.094 sobre Universidades Estatales",
+     "date_of_content": "2022-12-28",
+     "quote_original": "Las personas contratadas a honorarios se regirán por las cláusulas del respectivo contrato de conformidad a la legislación civil y no les serán aplicables las disposiciones del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo.",
+     "quote_locator": "Artículo 48"
+    }
+   ],
+   "regime": {
+    "norm": "Ley 21.094 art. 48",
+    "vigencia": "2022-12-28",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "NEUTRAL"
+   },
+   "note": "Explains why the nationality rule bites at some state universities and not others."
   }
  ],
  "process_steps": [],
