@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "slug": {"type": "string"},
+    "markdown": {"type": "string", "description": "The COMPLETE page in Ukrainian markdown, exactly per the template. This string is written to disk verbatim."},
+    "unverified_items": {"type": "array", "items": {"type": "string"}, "description": "Everything you wrote as «не вдалося підтвердити» rather than inventing"},
+    "longest_paragraph_chars": {"type": "integer"},
+    "spanish_terms_kept": {"type": "array", "items": {"type": "string"}, "description": "Proper nouns you deliberately left in Spanish"}
+  },
+  "required": ["slug", "markdown", "unverified_items", "longest_paragraph_chars", "spanish_terms_kept"]
+}
