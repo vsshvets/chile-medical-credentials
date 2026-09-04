@@ -34,6 +34,19 @@ def main() -> int:
             if m.group(1) not in heads:
                 print(f"  BROKEN {rel} -> #{m.group(1)}")
                 bad += 1
+        # CROSS-FILE anchors: a link into another document's heading. The repo validator checks
+        # that the FILE exists; nobody checks that the heading inside it does. Nine banner links
+        # were added pointing at one heading in README.md — if it is ever reworded they all die
+        # silently, and this is the only check that would notice.
+        for m in re.finditer(r"\]\(([^)#\s]+\.md)#([^)]+)\)", t):
+            dest = (f.parent / m.group(1)).resolve()
+            if not dest.exists():
+                continue  # the repo validator already reports a missing file
+            dt = dest.read_text(encoding="utf-8")
+            dheads = {slug(x.group(1)) for x in re.finditer(r"(?m)^#{1,6}\s+(.+?)\s*$", dt)}
+            if m.group(2) not in dheads:
+                print(f"  BROKEN {rel} -> {m.group(1)}#{m.group(2)}")
+                bad += 1
     print(f"{'FAIL' if bad else 'OK'}: {bad} broken in-page anchor(s)")
     return 1 if bad else 0
 
