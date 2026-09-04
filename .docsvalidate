@@ -1,0 +1,4 @@
+{
+  "_comment": "research/ holds one JSON per research agent and per language-review pass: machine state and provenance, not a published dataset. Everything a human reader needs from it IS shipped as flat CSV and linked from the README - data/claims.csv (every claim, its source, its verbatim quote, and whether that quote was found on the cited page), data/vacancies.csv, data/medical-schools.csv, data/norms.csv. sources/ holds stored copies of cited pages so quotes stay checkable after the run.",
+  "exempt_data": ["research", "sources"]
+}
