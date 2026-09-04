@@ -1,0 +1,1294 @@
+{
+  "lane_id": "L05",
+  "status": "complete",
+  "claims": [
+    {
+      "id": "L05-C01",
+      "statement": "Inscription in the Registro Nacional de Prestadores Individuales de Salud (RNPI), run by the Superintendencia de Salud under D.S. N°16/2007 MINSAL, is NOT in itself a legal requirement to practise a health profession in Chile, but it IS a requirement in order to deliver the prestaciones guaranteed under the AUGE/GES regime.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-titulo-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Inscripción de título en el Registro Nacional de Prestadores Individuales de Salud",
+          "date_of_content": "2026-03-27",
+          "quote_original": "Debe tenerse presente que la inscripción en dicho Registro Público no constituye un requisito para el ejercicio de la respectiva profesión. Sin perjuicio de lo anterior, la inscripción de la respectiva habilitación constituye un requisito para el otorgamiento de las prestaciones garantizadas por el Régimen AUGE/GES",
+          "quote_locator": "sección «Importante»"
+        }
+      ],
+      "regime": {
+        "norm": "D.S. N°16, de 2007, Ministerio de Salud (Reglamento sobre los Registros relativos a los Prestadores Individuales de Salud); D.S. N°4, 2013, MINSAL, art. 14",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "registry_membership_is_not_a_licence",
+        "many_blogs_call_the_RNPI_a_medical_licence"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Relevant only once she holds a Chilean-recognised or revalidated title, or a Ley 20.985 specialty certificate."
+    },
+    {
+      "id": "L05-C02",
+      "statement": "RNPI inscription of a title is free of charge, and the Superintendencia publishes no fixed processing time, stating only that it depends on how long the official sources take to confirm the applicant's information.",
+      "answers_question": [
+        2,
+        7
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-titulo-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Inscripción de título en el Registro Nacional de Prestadores Individuales de Salud",
+          "date_of_content": "2026-03-27",
+          "quote_original": "El tiempo de realización dependerá de cada caso, en base al tiempo requerido por la o las fuentes oficiales para confirmar la información aportada por el solicitante. Es Gratuito.",
+          "quote_locator": "bloque de plazo y costo, bajo «Está dirigido a»"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "no_published_SLA"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C03",
+      "statement": "To be inscribed in the RNPI a foreign-trained doctor must already be habilitada to practise in Chile, either through a title from a Chilean institution or through the reconocimiento or revalidación of the foreign title; the RNPI does not itself recognise a foreign degree.",
+      "answers_question": [
+        2,
+        5
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-titulo-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Inscripción de título en el Registro Nacional de Prestadores Individuales de Salud",
+          "date_of_content": "2026-03-27",
+          "quote_original": "Estar habilitado para ejercer la profesión en el país, ya sea a través de un título profesional otorgado por una institución de educación superior oficialmente reconocida en el país; o a través del reconocimiento o revalidación de su título profesional obtenido en el extranjero.",
+          "quote_locator": "sección «Documentos requeridos», primer requisito"
+        },
+        {
+          "url": "https://www.chileatiende.gob.cl/fichas/8584-registro-nacional-de-prestadores-individuales-de-salud",
+          "publisher": "ChileAtiende (Gobierno de Chile)",
+          "title": "Registro Nacional de Prestadores Individuales de Salud",
+          "date_of_content": "2026-03-16",
+          "quote_original": "Para inscribirte en el Registro Nacional de Prestadores Individuales de Salud debes estar habilitado para ejercer tu profesión en Chile, ya sea a través de un título profesional otorgado por una institución de educación superior oficialmente reconocida en el país o a través del reconocimiento o revalidación de tu título profesional obtenido en el extranjero.",
+          "quote_locator": "pestaña «Inscribe tu título», bloque «Importante»"
+        }
+      ],
+      "regime": {
+        "norm": "D.S. N°16, de 2007, Ministerio de Salud",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "the_page_does_not_say_WHICH_university_may_now_revalidate_post_2026-08-17"
+      ],
+      "applies_to_her": "yes",
+      "condition": "She has no Chilean title and no revalidación, so today she cannot be inscribed by this route."
+    },
+    {
+      "id": "L05-C04",
+      "statement": "The Superintendencia's online RNPI title-registration form cannot in practice be completed from Ukraine: it makes RUN a mandatory field and offers only Chilean regiones and comunas for the applicant's address, so a RUN and a Chilean domicile are needed even though the trámite is nominally online.",
+      "answers_question": [
+        2,
+        6
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://webserver.superdesalud.gob.cl/bases/ManejoSolicitudes.nsf/frmsoltitulo?OpenForm",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Inscripción de Titulos en el Registro Nacional de Prestadores Individuales de Salud (formulario en línea)",
+          "date_of_content": "UNDATED",
+          "quote_original": "<label for=\"RutSol\"><span class=\"campo_obligatorio\">*</span> RUN</label><span class=\"texto_ayuda\">(sin puntos y con guión)</span>",
+          "quote_locator": "Paso 1, fieldset «Antecedentes personales», campo RutSol (HTML de la página, consultada 2026-09-03); el asterisco es el marcador de «Campos de ingreso obligatorio». La lista «Región» sólo ofrece regiones chilenas."
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "online_does_not_mean_from_abroad",
+        "nationality_dropdown_does_include_Ucraniana_so_nationality_is_not_the_barrier"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Blocking while she is in Ukraine without a RUN. Whether the Superintendencia accepts a paper submission by an apoderado from abroad is untested — see open questions."
+    },
+    {
+      "id": "L05-C05",
+      "statement": "Being in the RNPI is not required to practise in the PRIVATE health sector, but the Superintendencia states plainly that it IS a requirement in order to work in State health institutions, and that in practice more and more hospitals, clínicas and medical centres demand it before employing a health professional.",
+      "answers_question": [
+        2,
+        4
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.superdesalud.gob.cl/noticias/2025/08/superintendencia-de-salud-reporta-mas-de-946-mil-profesionales-de-la-salud-en-su-rnpi-que-garantizan-su-certificacion/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Superintendencia de Salud reporta más de 946 mil profesionales de la salud en su RNPI, que garantizan su certificación",
+          "date_of_content": "2025-08-13",
+          "quote_original": "Aunque estar inscrito en este registro no es un requisito para ejercer la profesión en el sector privado de salud, desde el 1 de junio de 2013, con la implementación de la Garantía Explícita en Salud (GES) de Calidad, los miembros de los equipos de salud que otorguen prestaciones GES deben estar registrados en él.",
+          "quote_locator": "cuerpo de la noticia, párrafo 5"
+        },
+        {
+          "url": "https://www.superdesalud.gob.cl/noticias/2025/08/superintendencia-de-salud-reporta-mas-de-946-mil-profesionales-de-la-salud-en-su-rnpi-que-garantizan-su-certificacion/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Superintendencia de Salud reporta más de 946 mil profesionales de la salud en su RNPI (párrafo sobre el sector estatal)",
+          "date_of_content": "2025-08-13",
+          "quote_original": "Para trabajar en instituciones de salud del Estado, es requisito estar inscrito en el Registro Nacional de Prestadores de Salud (RNPI). Cada vez más instituciones, como hospitales, clínicas, centros médicos, centros de diálisis, laboratorios y otros centros de atención, exigen estar registrado en este sistema para poder emplear a profesionales y técnicos de la salud.",
+          "quote_locator": "cuerpo de la noticia, párrafo 6"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "de_jure_optional_de_facto_mandatory_for_employment"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C06",
+      "statement": "The base rule for practising medicine in Chile is Código Sanitario art. 112: only holders of the respective title granted by the Universidad de Chile or another State-recognised university, who are additionally legally habilitados, may perform activities proper to medicine.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=cs&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=5595.2026-01-01.0.0%23",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "DFL 725 — Código Sanitario (PDF oficial exportado desde LeyChile, idNorma 5595)",
+          "date_of_content": "2025-11-18",
+          "quote_original": "Artículo 112°.- Sólo podrán desempeñar actividades propias de la medicina, odontología, química y farmacia u otras relacionadas con la conservación y restablecimiento de la salud, quienes poseen el título respectivo otorgado por la Universidad de Chile u otra Universidad reconocida por el Estado y estén habilitados legalmente para el ejercicio de sus profesiones.",
+          "quote_locator": "LIBRO V, Artículo 112 inciso 1; banner del PDF: «Versión: Última Versión De : 18-NOV-2025»"
+        },
+        {
+          "url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=cs&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=5595.2026-01-01.0.0%23",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "DFL 725 — Código Sanitario, Artículo 113 (ejercicio ilegal)",
+          "date_of_content": "2025-11-18",
+          "quote_original": "Artículo 113°.- Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.",
+          "quote_locator": "LIBRO V, Artículo 113 inciso 1"
+        }
+      ],
+      "regime": {
+        "norm": "DFL 725/1967 (Código Sanitario), arts. 112 y 113",
+        "vigencia": "2025-11-18",
+        "version_consulted": "Versión: Última Versión De : 18-NOV-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "art_112_still_names_Universidad_de_Chile_but_this_is_about_WHO_MAY_PRACTISE_not_who_may_revalidate"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C07",
+      "statement": "Código Sanitario art. 112 inciso 3 keeps a narrow exception under which a person holding a foreign professional title MAY act as a médico in ships, islands or remote places with the authorisation of the Director General de Salud; I found no current MINSAL procedure page operating this exception, so whether it is live today is unknown.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "medium",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=cs&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=5595.2026-01-01.0.0%23",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "DFL 725 — Código Sanitario (PDF oficial exportado desde LeyChile, idNorma 5595)",
+          "date_of_content": "2025-11-18",
+          "quote_original": "No obstante lo dispuesto en el inciso primero, con la autorización del Director General de Salud podrán desempeñarse como médicos, dentistas, químico-farmacéuticos o matronas en barcos, islas o lugares apartados, aquellas personas que acreditaren título profesional otorgado en el extranjero.",
+          "quote_locator": "Artículo 112 inciso 3"
+        }
+      ],
+      "regime": {
+        "norm": "DFL 725/1967 (Código Sanitario), art. 112 inc. 3",
+        "vigencia": "2025-11-18",
+        "version_consulted": "Versión: Última Versión De : 18-NOV-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "law_permits_but_no_operational_process_found",
+        "the_office_named_Director_General_de_Salud_no_longer_exists_under_that_name"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Only if she were willing to take an isolated posting AND a live administrative channel for this authorisation still exists. Not verified."
+    },
+    {
+      "id": "L05-C08",
+      "statement": "To have a SPECIALTY inscribed in the RNPI a doctor must be habilitada to practise in Chile and must additionally hold either a specialty título or grado from a State or State-recognised university, or a certificate from CONACEM, CONACEO or another authorised certifying entity; this inscription is also free.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-especialidades-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Inscripción de especialidades en el Registro Nacional de Prestadores Individuales de Salud",
+          "date_of_content": "2026-03-27",
+          "quote_original": "Quienes posean un título o grado académico relativo a dichas especialidades o subespecialidades otorgado por una Universidad del Estado o reconocida por éste;",
+          "quote_locator": "sección «Documentos requeridos», lista «Encontrarse en alguna de las siguientes situaciones (para la inscripción de especialidades)», primera viñeta"
+        },
+        {
+          "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-especialidades-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Inscripción de especialidades en el RNPI — vía certificadora",
+          "date_of_content": "2026-03-27",
+          "quote_original": "Quienes posean certificado extendido por CONACEM (Corporación Nacional de Certificación de Especialidades Médicas) O CONACEO (Corporación Nacional Autónoma de Certificación de Especialidades Odontológicas) u otras cuyos estatutos contemplen entre sus objetivos emitir certificaciones.",
+          "quote_locator": "sección «Documentos requeridos», segunda alternativa"
+        }
+      ],
+      "regime": {
+        "norm": "D.S. N°8, de 2013, Ministerios de Salud y Educación",
+        "vigencia": "2024-08-17",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "specialty_inscription_page_presumes_prior_habilitación_which_conflicts_with_the_Ley_20.985_route"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C09",
+      "statement": "Reumatología is one of the medical specialties covered by the Chilean certification system, and DS 8/2013 art. 2 states that the system applies to prestadores individuales titled in Chile OR whose foreign title has been legally recognised for practice in Chile, so the ORDINARY specialty-certification route presupposes that degree recognition has already happened.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.superdesalud.gob.cl/app/uploads/2013/07/decreto-8_01-jul-2013.pdf",
+          "publisher": "Ministerio de Salud / Ministerio de Educación (texto LeyChile publicado por la Superintendencia de Salud)",
+          "title": "Decreto 8, SALUD (2013) — Reglamento de certificación de las especialidades de los prestadores individuales de salud y de las entidades que las otorgan",
+          "date_of_content": "2024-08-17",
+          "quote_original": "Artículo 2°.- El Sistema de Certificación será aplicable a los prestadores individuales que otorguen acciones de salud, titulados en el país o cuyo título otorgado en el extranjero haya sido legalmente reconocido para su ejercicio en Chile, y comprenderá las especialidades de los prestadores individuales de salud que a continuación se señalan y son materia de este Reglamento:",
+          "quote_locator": "Artículo 2°, encabezado. La lista A «Especialidades y Subespecialidades Médicas» incluye «Reumatología». Banner del PDF: «Versión: Última Versión De : 17-AGO-2024»"
+        }
+      ],
+      "regime": {
+        "norm": "D.S. N°8/2013 MINSAL-MINEDUC, art. 2°",
+        "vigencia": "2024-08-17",
+        "version_consulted": "Versión: Última Versión De : 17-AGO-2024 (Ultima Modificación: 17-AGO-2024 Decreto 30)",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "ordinary_route_requires_recognition_first_but_Ley_20.985_is_an_exception_see_L05-C11"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C10",
+      "statement": "CONACEM's published general requirement N°1 is that an applicant must hold a médico-cirujano title from a Chilean university, or, if the title is foreign, legal authorisation to practise the profession in Chile; this is the ordinary gate and it is why revalidación normally comes BEFORE specialty certification.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM — Corporación Nacional Autónoma de Certificación de Especialidades Médicas",
+          "title": "Requisitos Generales para la Certificación de Especialistas",
+          "date_of_content": "2025-11-26",
+          "quote_original": "1.- Título de médico-cirujano otorgado por las universidades chilenas o autorización legal para ejercer la profesión en Chile, si el título fue otorgado por universidades extranjeras.",
+          "quote_locator": "«REQUISITOS GENERALES PARA LA CERTIFICACIÓN DE ESPECIALISTAS», punto 1; pie de página «Actualizado el 26-11-2025»"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (reglamento privado de CONACEM)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C11",
+      "statement": "THE KEY EXCEPTION: Ley 20.261 art. 2 bis inciso 2 (inserted by Ley 20.985) provides that MINSAL-authorised certifying entities MAY certify the specialty of doctors who obtained their médico cirujano title abroad, who are NOT habilitados to practise in Chile and who have NOT passed EUNACOM; once certified they are exempt from EUNACOM, but their practice is limited to the certified specialty and only in the public sector.",
+      "answers_question": [
+        2,
+        5
+      ],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=l20261&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=270584.2026-01-01.0.0%23",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20.261, texto consolidado vigente (PDF oficial exportado desde LeyChile, idNorma 270584)",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Las entidades certificadoras autorizadas por el Ministerio de Salud, en virtud del citado artículo 4, podrán certificar la especialidad o subespecialidad de quienes hayan obtenido su título profesional de médico cirujano en el extranjero, que no se encuentren habilitados para ejercer su profesión en Chile y que no cuenten con el examen único nacional de conocimientos de medicina.",
+          "quote_locator": "Artículo 2 bis, inciso 2; banner del PDF: «Versión: Última Versión De : 24-MAY-2025»"
+        },
+        {
+          "url": "https://doe.cl/viewPublic/document/2017/ley/20985.html",
+          "publisher": "Diario Oficial de la República de Chile (base de datos DOE)",
+          "title": "LEY NÚM. 20.985 — Establece normas sobre certificación de especialidades médicas obtenidas en el extranjero",
+          "date_of_content": "2017-01-03",
+          "quote_original": "Con todo, el ejercicio de su profesión quedará limitado al de la especialidad o subespecialidad que le fuere certificada, y sólo para el sector público.",
+          "quote_locator": "Artículo único, nuevo artículo 2 bis de la ley N° 20.261, inciso 2, frase final"
+        },
+        {
+          "url": "https://www.superdesalud.gob.cl/orientacion-en-salud/que-deben-saber-los-profesionales-especialistas-que-obtuvieron-la-certificacion-de-especialidades-medicas-en-el-extranjero/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "¿Qué deben saber los profesionales especialistas que obtuvieron la Certificación de Especialidades Médicas en el extranjero?",
+          "date_of_content": "2025-03-07",
+          "quote_original": "Esta ley establece un régimen excepcional para que las y los médicos que posean una especialidad obtenida en el extranjero, pero que no se encuentran habilitados para ejercer en Chile y que no cuentan con la aprobación del Examen Único Nacional de Conocimientos de Medicina (EUNACOM), puedan ejercer su especialidad o subespecialidad en Chile, exclusivamente en el sector público, siempre que obtengan su certificación",
+          "quote_locator": "pregunta 1"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261, art. 2 bis (incorporado por Ley 20.985, D.O. 03-01-2017)",
+        "vigencia": "2025-05-24",
+        "version_consulted": "Versión: Última Versión De : 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "the_six_month_deadline_in_the_articulo_transitorio_applied_only_to_doctors_already_working_in_the_public_system_in_2017_and_does_NOT_close_the_permanent_route_in_inciso_2",
+        "public_sector_only_limitation_has_reportedly_been_declared_inaplicable_by_the_Tribunal_Constitucional_in_individual_cases_but_that_is_inter_partes_not_a_repeal_and_I_could_not_fetch_the_ruling"
+      ],
+      "applies_to_her": "yes",
+      "condition": "This is the ONLY route found that lets her be certified and practise in Chile WITHOUT revalidating her Ukrainian degree and WITHOUT EUNACOM, at the price of being confined to rheumatology in the public sector."
+    },
+    {
+      "id": "L05-C12",
+      "statement": "CONACEM actually operates the Ley 20.985 route today: it publishes a dedicated reglamento under which applicants without legal authorisation to practise in Chile are exempted from producing the habilitación document and are entered in a separate register, and the resulting certificate expressly states that the recognition is for the public health sector.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — Reglamento de CONACEM para postulantes acogidos a la Ley 20.985",
+          "date_of_content": "2025-11-26",
+          "quote_original": "Quienes postulen, acogiéndose a la Ley 20.985, sin tener la habilitación legal para ejercer la medicina en Chile, estarán eximidos de presentar el documento habilitante y para ellos se abrirá un registro diferente del usado por CONACEM para quienes sí lo tienen.",
+          "quote_locator": "sección «REGLAMENTO DE CONACEM PARA LA EVALUACIÓN DE POSTULANTES AL RECONOCIMIENTO DE UNA ESPECIALIDAD OBTENIDA EN EL EXTRANJERO Y QUE CARECEN DEL TÍTULO PROFESIONAL DE MÉDICO-CIRUJANO VÁLIDO PARA EJERCER LA MEDICINA EN CHILE (LEY 20.985)», párrafo 1"
+        },
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — sección CERTIFICACIÓN",
+          "date_of_content": "2025-11-26",
+          "quote_original": "En el caso de postulantes acogidos a la Ley 20.985, el certificado estipulará que tal reconocimiento y especialidad son para desempeño como tal en el sector público de salud.",
+          "quote_locator": "sección «CERTIFICACIÓN», cuarta viñeta"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 2 bis; reglamento interno CONACEM",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "operational_confirmation_is_CONACEM_own_page_not_a_case_record"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Assumes CONACEM still accepts new Ley 20.985 applications in 2026; the page is dated 26-11-2025 and does not say the route is closed."
+    },
+    {
+      "id": "L05-C13",
+      "statement": "CRITICAL FOR HER SPECIALTY: in Chile Reumatología is a derived specialty and CONACEM requires prior certification in Medicina Interna; a foreign-trained applicant holding a foreign internal-medicine specialist title MUST first be certified in Medicina Interna through the Formación en el Extranjero route before she may sit the Reumatología theoretical and practical exams.",
+      "answers_question": [
+        2,
+        7
+      ],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.conacem.cl/requisitos_especialidad.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos por Especialidad — Reumatología",
+          "date_of_content": "UNDATED",
+          "quote_original": "Se atiene a requisitos generales. Pre-requisito, formación previa en Medicina Interna, la que deberá ser comprobada mediante el título de especialista emitido por una universidad chilena cuyo programa esté acreditado por ASOFAMECH y/o la o las agencias debidamente autorizadas por la Comisión Nacional de Acreditación (CNA); o el certificado de especialista otorgado por CONACEM.",
+          "quote_locator": "resultado del selector «Seleccione Especialidad» = Reumatología (ID_Especialidad=40, POST a la misma URL), consultado 2026-09-03; primera frase. La página no muestra fecha."
+        },
+        {
+          "url": "https://www.conacem.cl/requisitos_especialidad.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos por Especialidad — Reumatología, regla para títulos extranjeros",
+          "date_of_content": "UNDATED",
+          "quote_original": "Quienes posean el título de especialista en Medicina Interna emitido por una autoridad competente extranjera, cumpliendo las exigencias en el punto de Formación en el Extranjero de los requisitos generales, deberán certificarse previamente en ésta, antes de rendir las evaluaciones teóricas y prácticas de Reumatología.",
+          "quote_locator": "mismo bloque «Reumatología», segunda frase, consultado 2026-09-03"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (reglamento privado de CONACEM)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "doubles_the_exam_count_and_the_fee",
+        "tension_with_the_FE_general_rule_on_a_single_integrated_foreign_programme",
+        "requires_her_Ukrainian_credentials_to_evidence_INTERNAL_MEDICINE_as_well_as_rheumatology"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Unless her Ukrainian training is documented as ONE integrated programme covering both internal medicine and rheumatology, in which case the FE general rule may allow a single derived-specialty certification — see open questions."
+    },
+    {
+      "id": "L05-C14",
+      "statement": "Under the Formación en el Extranjero (FE) route she MUST submit the official foreign training programme translated into Spanish plus a specialist-title certificate with the corresponding legalisations, have the specialty committee approve equivalence, and then pass a theoretical exam followed by a practical exam; both exams are sat ONLY in Spanish, and the alternative Adiestramiento en Práctica route is expressly closed to foreign-trained candidates.",
+      "answers_question": [
+        2,
+        5,
+        7
+      ],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — F.E. FORMACIÓN EN EL EXTRANJERO",
+          "date_of_content": "2025-11-26",
+          "quote_original": "Los postulantes a certificación por la vía de FE deberán presentar el programa oficial que cursaron, traducido al español, con la certificación que éste se desarrolló completamente y fue aprobado formalmente por la institución universitaria donde se efectuó.",
+          "quote_locator": "sección «F.E. FORMACIÓN EN EL EXTRANJERO», párrafo 1, primera frase"
+        },
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — F.E., documentos del título de especialista",
+          "date_of_content": "2025-11-26",
+          "quote_original": "El postulante deberá además presentar un certificado de título de especialista otorgado por la universidad donde desarrolló el programa o las instituciones oficiales de cada país que reconozcan su especialidad, con las legalizaciones correspondientes.",
+          "quote_locator": "sección «F.E. FORMACIÓN EN EL EXTRANJERO», párrafo 1, segunda frase"
+        },
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — EXÁMENES DE CONTENIDOS TEÓRICOS Y PRÁCTICOS",
+          "date_of_content": "2025-11-26",
+          "quote_original": "Los exámenes para la evaluación de los contenidos teóricos y prácticos se regirán por el reglamento vigente de evaluación propio de CONACEM. Ambos exámenes se rendirán solo en castellano.",
+          "quote_locator": "sección «EXÁMENES DE CONTENIDOS TEÓRICOS Y PRÁCTICOS»"
+        },
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — A.P. ADIESTRAMIENTO EN PRACTICA",
+          "date_of_content": "2025-11-26",
+          "quote_original": "Se refrenda que no se considera la vía de adiestramiento en práctica para candidatos con formación en el extranjero.",
+          "quote_locator": "final de la sección «A.P. ADIESTRAMIENTO EN PRACTICA»"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (reglamento privado de CONACEM)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "Spanish_only_exams_are_the_hard_constraint_for_her",
+        "practical_exam_is_conducted_with_real_or_simulated_patients_in_a_Chilean_teaching_hospital"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Her stated Spanish level is none; the exams, not the paperwork, are the binding constraint."
+    },
+    {
+      "id": "L05-C15",
+      "statement": "CONACEM fees are published in Chilean pesos, NOT in UTM: $230.000 for the certification itself ($150.000 at application and $80.000 on collecting the diploma), plus, for Formación en el Extranjero applicants, $300.000 for each written exam (up to 3 attempts) and $450.000 for each practical exam (up to 2 attempts).",
+      "answers_question": [
+        2,
+        7
+      ],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.conacem.cl/tramite_certificacion_de_especialistas.asp",
+          "publisher": "CONACEM",
+          "title": "Cómo Postular",
+          "date_of_content": "2025-09-02",
+          "quote_original": "Para todos los postulantes a certificación (incluyendo aquellos provenientes de programa universitario) el costo por concepto de certificación es de $230.000 debiendo cancelar al momento de la postulación la suma de $150.000 y el saldo ($80.000) al retirar el Diploma que acredita la certificación.",
+          "quote_locator": "punto 4, primera parte; pie de página «Información actualizada el 02-09-2025»"
+        },
+        {
+          "url": "https://www.conacem.cl/tramite_certificacion_de_especialistas.asp",
+          "publisher": "CONACEM",
+          "title": "Cómo Postular — recargo por exámenes para postulantes de Formación en el Extranjero",
+          "date_of_content": "2025-09-02",
+          "quote_original": "Los postulantes a certificación por adiestramiento en práctica o formación en el extranjero deberán pagar adicionalmente $300.000 por cada examen escrito a rendir (3 oportunidades) y $450.000 por cada examen práctico a rendir (2 oportunidades)",
+          "quote_locator": "punto 4, segunda parte"
+        },
+        {
+          "url": "https://www.conacem.cl/Noticias_det.asp?Id=0FK%3D",
+          "publisher": "CONACEM",
+          "title": "Reajuste de Arancel para exámenes prácticos 2024",
+          "date_of_content": "2023-12-28",
+          "quote_original": "Información Aranceles 2024 Postulación: $150.000 Por cada examen teórico: $300.000 Por cada examen práctico: $450.000 Gastos de certificación: $80.000",
+          "quote_locator": "cuerpo de la noticia; firma «CONACEM | 28-12-2023»"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "fees_are_nominal_CLP_reajustados_by_board_decision_so_confirm_before_budgeting",
+        "no_UTM_figure_is_published_for_CONACEM"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C16",
+      "statement": "Because Reumatología is gated behind Medicina Interna, a clean first-time-pass FE path would cost at minimum about CLP 1,960,000 in CONACEM fees alone (two certifications at $230.000, two written exams at $300.000, two practical exams at $450.000); this total is my arithmetic on the published unit fees, not a figure CONACEM publishes.",
+      "answers_question": [
+        7
+      ],
+      "confidence": "medium",
+      "evidence_type": "inference",
+      "sources": [
+        {
+          "url": "https://www.conacem.cl/tramite_certificacion_de_especialistas.asp",
+          "publisher": "CONACEM",
+          "title": "Cómo Postular",
+          "date_of_content": "2025-09-02",
+          "quote_original": "el costo por concepto de certificación es de $230.000 debiendo cancelar al momento de la postulación la suma de $150.000 y el saldo ($80.000) al retirar el Diploma que acredita la certificación",
+          "quote_locator": "punto 4"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "computed_not_quoted",
+        "excludes_travel_translation_apostille_and_any_retakes",
+        "a_single_practical_retake_adds_CLP_450.000"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Assumes both specialties are pursued and everything passes first time."
+    },
+    {
+      "id": "L05-C17",
+      "statement": "CONACEM exam logistics: the written exam is multiple-choice with a 65% pass mark and may be sat a maximum of three times, the practical exam a maximum of twice; exam dates are scheduled at least twice a year with one month's notice; after passing the written exam the candidate has 18 months to finish the whole process; and a CONACEM certificate carries a ten-year expiry.",
+      "answers_question": [
+        2,
+        7
+      ],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — REQUISITOS EXAMEN TEÓRICO, aspectos técnicos",
+          "date_of_content": "2025-11-26",
+          "quote_original": "El examen será preferentemente en modalidad elección múltiple, con un porcentaje mínimo de 65% de respuestas correctas para su aprobación.",
+          "quote_locator": "«REQUISITOS EXAMEN TEÓRICO (O EXAMEN ESCRITO)», 2. Aspectos técnicos, punto 1"
+        },
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — plazo de 18 meses",
+          "date_of_content": "2025-11-26",
+          "quote_original": "Un vez aprobado el examen teórico, el candidato tendrá un máximo de 18 meses para terminar la totalidad del proceso de evaluación.",
+          "quote_locator": "«REQUISITOS EXAMEN TEÓRICO», 1. Aspectos administrativos, punto 11"
+        },
+        {
+          "url": "https://www.conacem.cl/faq.asp",
+          "publisher": "CONACEM",
+          "title": "Preguntas Frecuentes",
+          "date_of_content": "UNDATED",
+          "quote_original": "El postulante tiene 3 oportunidades para rendir el examen teórico y 2 oportunidades para el práctico.",
+          "quote_locator": "pregunta «¿Cuántos intentos tengo para dar mi examen teórico y práctico?»"
+        },
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — CERTIFICACIÓN, vigencia del certificado",
+          "date_of_content": "2025-11-26",
+          "quote_original": "El documento lo firma el presidente de CONACEM, el secretario ejecutivo de CONACEM y el presidente del comité respectivo; incluye la fecha de otorgación y de vencimiento (diez años).",
+          "quote_locator": "sección «CERTIFICACIÓN», última viñeta"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (reglamento privado de CONACEM)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "the_practical_exam_runs_three_to_five_half_days_in_a_Chilean_teaching_hospital_so_it_requires_physical_presence",
+        "final_failure_locks_the_candidate_out_for_three_years"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C18",
+      "statement": "CONACEM is officially registered by the Superintendencia de Salud as certifying entity N°10 and is expressly authorised by MINSAL to certify Reumatología, with an authorisation dated 23-02-2017, which is what makes a CONACEM rheumatology certificate registrable in the RNPI.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.superdesalud.gob.cl/registro/corporacion-nacional-autonoma-de-certificacion-de-especialidades-medicas-conacem/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Corporación Nacional Autónoma de Certificación de Especialidades Médicas (CONACEM) — Registro de Entidades Certificadoras",
+          "date_of_content": "2025-05-29",
+          "quote_original": "Reumatología | Ministerio de Salud | 5 Años | 23-02-2017",
+          "quote_locator": "tabla «Especialidades que certifica», fila Reumatología (columnas: Especialidad | Organismo Autorizador | Vigencia de la autorización | Fecha de autorización)"
+        },
+        {
+          "url": "https://www.superdesalud.gob.cl/registro/corporacion-nacional-autonoma-de-certificacion-de-especialidades-medicas-conacem/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "CONACEM — Datos de la entidad",
+          "date_of_content": "2025-05-29",
+          "quote_original": "Domicilio | Esmeralda N°678-Interior, 3er piso, comuna de Santiago, ciudad de Santiago, Región Metropolitana",
+          "quote_locator": "tabla «Datos de la entidad»; la misma tabla da N° de registro 10, Rut 71.235.800-9 y Fecha de Autorización 11-02-2014"
+        }
+      ],
+      "regime": {
+        "norm": "D.S. N°8/2013 MINSAL-MINEDUC, arts. 3° y 9°",
+        "vigencia": "2024-08-17",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "the_listed_authorisation_vigencia_of_5_años_from_2017_appears_lapsed_on_its_face_and_the_page_shows_no_renewal_row"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C19",
+      "statement": "Without a certified specialty, passing EUNACOM is a statutory entry requirement for any médico cirujano post in the Servicios de Salud, in experimental establishments and in municipal primary care (APS), and those institutions may contract such doctors 'en cualquier calidad jurídica y modalidad' only if they hold the minimum score, so a general-practitioner or honorarios post in the public system is NOT open to her without either EUNACOM or a certified specialty.",
+      "answers_question": [
+        2,
+        5
+      ],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=l20261&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=270584.2026-01-01.0.0%23",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20.261, artículo 1º (PDF oficial exportado desde LeyChile, idNorma 270584)",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Las instituciones señaladas sólo podrán contratar, en cualquier calidad jurídica y modalidad, a médicos cirujanos que hayan obtenido, de conformidad a lo que establezca el reglamento, la puntuación mínima requerida en dicho examen.",
+          "quote_locator": "Artículo 1º, inciso 1, frase final"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261, art. 1º",
+        "vigencia": "2025-05-24",
+        "version_consulted": "Versión: Última Versión De : 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "honorarios_does_NOT_escape_this_because_the_text_says_cualquier_calidad_juridica_y_modalidad",
+        "art_2_bis_exempts_certified_specialists_from_this_requirement"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C20",
+      "statement": "Ley 20.261 art. 1 inciso 3 states in terms that professionals who pass EUNACOM are deemed to have AUTOMATICALLY revalidated their médico cirujano title without needing to meet any other requirement, a text that materially changes the ordering of her options and that most immigration-agency pages omit.",
+      "answers_question": [
+        2,
+        5
+      ],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=l20261&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=270584.2026-01-01.0.0%23",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20.261, artículo 1º inciso 3 (PDF oficial exportado desde LeyChile, idNorma 270584)",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Se entenderá que los profesionales que aprueben el examen único nacional de conocimientos de medicina, habrán revalidado automáticamente su título profesional de médico cirujano, sin necesitar cumplir ningún otro requisito para este efecto.",
+          "quote_locator": "Artículo 1º, inciso 3"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261, art. 1º inc. 3",
+        "vigencia": "2025-05-24",
+        "version_consulted": "Versión: Última Versión De : 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "LANE_L04_OWNS_THE_DEEP_READING_OF_THIS",
+        "the_relationship_between_this_inciso_and_the_university_revalidación_track_is_the_single_highest_risk_question_in_the_project",
+        "it_speaks_of_the_TITLE_only_and_says_nothing_about_any_specialty"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Only if she can sit and pass EUNACOM, which is in Spanish and sat in Chile. Cross-check against lane L04 before relying on it."
+    },
+    {
+      "id": "L05-C21",
+      "statement": "To bill FONASA patients in private practice she would have to sign a Modalidad de Libre Elección convenio, whose published requirements are legal habilitación (a Chilean title or a recognised/revalidated foreign one), RNPI membership, EUNACOM approval unless she has a specialty accredited at the Superintendencia, a valid Chilean cédula de identidad and/or a valid temporary or permanent residence visa, SII iniciación de actividades, a bank account, and ClaveÚnica to file.",
+      "answers_question": [
+        2,
+        6,
+        7
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.chileatiende.gob.cl/fichas/65749-modalidad-de-libre-eleccion-mle-de-fonasa-convenio-con-profesionales-de-la-salud",
+          "publisher": "ChileAtiende / Fondo Nacional de Salud (FONASA)",
+          "title": "Modalidad de Libre Elección (MLE) de Fonasa: convenio con profesionales de la salud",
+          "date_of_content": "2026-07-08",
+          "quote_original": "Tener la aprobación de la EUNACOM, en el caso de los médicos, titulados o con títulos reconocidos con posterioridad al 18 de abril 2009 (Ley N° 20.261), sin especialidad acreditada en la Superintendencia de Salud.",
+          "quote_locator": "sección «Inscribe un convenio con Fonasa», tercer requisito; «Última actualización: 8 de julio, 2026»"
+        },
+        {
+          "url": "https://www.chileatiende.gob.cl/fichas/65749-modalidad-de-libre-eleccion-mle-de-fonasa-convenio-con-profesionales-de-la-salud",
+          "publisher": "ChileAtiende / Fondo Nacional de Salud (FONASA)",
+          "title": "Modalidad de Libre Elección (MLE) — requisitos de identidad y tributarios",
+          "date_of_content": "2026-07-08",
+          "quote_original": "Contar con cédula nacional de identidad vigente y/o visa de residencia temporal o permanente vigente.",
+          "quote_locator": "sección «Inscribe un convenio con Fonasa», cuarto requisito"
+        },
+        {
+          "url": "https://www.chileatiende.gob.cl/fichas/65749-modalidad-de-libre-eleccion-mle-de-fonasa-convenio-con-profesionales-de-la-salud",
+          "publisher": "ChileAtiende / Fondo Nacional de Salud (FONASA)",
+          "title": "Modalidad de Libre Elección (MLE) — incorporación de especialidad",
+          "date_of_content": "2026-07-08",
+          "quote_original": "Si eres médico cirujano y deseas incorporar una especialidad, esta debe encontrarse certificada y registrada ante la Superintendencia de Salud.",
+          "quote_locator": "sección «Actualiza información», último párrafo"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 1 inc. 4; Resolución Exenta 11507, de 2024 (procedimiento de convenios MLE)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "billing_as_a_SPECIALIST_requires_the_specialty_to_be_REGISTERED_at_the_Superintendencia_not_merely_held",
+        "a_valid_residence_visa_or_cedula_is_an_explicit_requirement_so_immigration_status_gates_private_FONASA_billing"
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L05-C22",
+      "statement": "SOCHIRE (Sociedad Chilena de Reumatología) is a non-profit scientific society founded in 1950 with NO regulatory or licensing role: it neither certifies specialists nor authorises practice, and its Socio Titular category requires a legally valid Chilean médico cirujano title plus certification in Medicina Interna, Pediatría or Inmunología AND in Reumatología, plus written sponsorship by two existing members.",
+      "answers_question": [
+        2,
+        4
+      ],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://sochire.cl/hazte-socio/",
+          "publisher": "Sociedad Chilena de Reumatología (SOCHIRE)",
+          "title": "Hazte Socio",
+          "date_of_content": "UNDATED",
+          "quote_original": "Poseer título de médico cirujano legalmente válido en Chile. Ser especialista en Medicina Interna, Pediatría o Inmunología, con certificación otorgada por una universidad nacional o la Corporación Nacional Autónoma de Certificación de Especialidades Médicas (CONACEM).",
+          "quote_locator": "bloque «Requisitos Socios Titulares», viñetas 1 y 2"
+        },
+        {
+          "url": "https://sochire.cl/hazte-socio/",
+          "publisher": "Sociedad Chilena de Reumatología (SOCHIRE)",
+          "title": "Hazte Socio — requisito de certificación en Reumatología",
+          "date_of_content": "UNDATED",
+          "quote_original": "Ser especialista en Reumatología / Reumatología Pediátrica, con certificación otorgada por una universidad nacional o CONACEM.",
+          "quote_locator": "bloque «Requisitos Socios Titulares», viñeta 3"
+        },
+        {
+          "url": "https://sochire.cl/quienes-somos/",
+          "publisher": "Sociedad Chilena de Reumatología (SOCHIRE)",
+          "title": "Quiénes Somos",
+          "date_of_content": "UNDATED",
+          "quote_original": "La Sociedad Chilena de Reumatología (SOCHIRE) es una organización científica sin fines de lucro, fundada en 1950.",
+          "quote_locator": "primer párrafo"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "SOCHIRE_is_a_network_and_a_sponsor_route_not_a_credentialing_body",
+        "the_Socio_Adherente_category_only_needs_a_legally_valid_Chilean_professional_title_and_two_sponsors"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "She cannot be a Socio Titular until certified in Chile; SOCHIRE membership is a networking asset, never a licence."
+    },
+    {
+      "id": "L05-C23",
+      "statement": "A published, sourced rheumatology-workforce number exists only for PAEDIATRIC rheumatology: 31 paediatric rheumatologists registered with the Superintendencia de Salud, present in only 7 regions and 14 public centres, 61.3% of them in the Región Metropolitana, against an estimated need of 25 full-time clinical posts; I found NO equivalent published national count or brecha figure for ADULT rheumatology.",
+      "answers_question": [
+        4
+      ],
+      "confidence": "medium",
+      "evidence_type": "secondary",
+      "sources": [
+        {
+          "url": "https://revistareumatologia.cl/index.php/rcr/article/view/75",
+          "publisher": "Revista Chilena de Reumatología (SOCHIRE), vol. 39 núm. 2, pp. 60-65",
+          "title": "Reumatología pediátrica en Chile: pasado, presente y futuro",
+          "date_of_content": "2023-12-07",
+          "quote_original": "Sólo 7 regiones y 14 centros públicos cuentan con algún reumatólogo pediatra. El 61,3% de los especialistas se encuentran en la Región Metropolitana. Hay dos patologías incorporadas en el régimen GES. Se estima que se requieren 25 médicos a tiempo completo para labores exclusivamente clínicas para suplir la demanda de la población infantil hasta los 18 años.",
+          "quote_locator": "Resumen; la frase inmediatamente anterior dice que el país cuenta con 31 reumatólogos pediatras registrados en la superintendencia de salud"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "PAEDIATRIC_not_adult_rheumatology",
+        "2023_data",
+        "do_not_generalise_this_number_to_adult_rheumatology"
+      ],
+      "applies_to_her": "no",
+      "condition": "She is an adult rheumatologist; this figure describes a different subspecialty and is recorded only because it is the sole hard, sourced rheumatology workforce number I could verify."
+    },
+    {
+      "id": "L05-C24",
+      "statement": "At the level of the whole medical workforce there is a documented and quantified gap: MINSAL counted 24,073.25 full-time-equivalent (JCE) medical posts at December 2024 and the Plan de Inversiones en Salud 2025-2035 says a further 7,156.5 JCE, about 30% more, would be needed for the infrastructure to function properly; the shortage specialties that source names are oncology-related, intensive care, emergency medicine, geriatrics and anaesthesia, NOT rheumatology.",
+      "answers_question": [
+        4
+      ],
+      "confidence": "medium",
+      "evidence_type": "press",
+      "sources": [
+        {
+          "url": "https://www.cepchile.cl/brecha-de-especialistas-en-salud/",
+          "publisher": "Centro de Estudios Públicos (CEP Chile) — columna de Alfonso España M. publicada en La Segunda",
+          "title": "Brecha de especialistas en salud",
+          "date_of_content": "2026-07-30",
+          "quote_original": "según estimaciones del Minsal, a diciembre 2024 había 24.073,25 JCE de médicos. Según el Plan de Inversiones en Salud 2025-2035, para que la infraestructura pueda funcionar adecuadamente harían falta otras 7.156,5 JCE (un 30% más).",
+          "quote_locator": "bajada destacada, repetida en el cuerpo, párrafo 3"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "think_tank_column_quoting_MINSAL_not_the_MINSAL_document_itself",
+        "JCE_gap_is_not_a_headcount_and_is_not_rheumatology_specific"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Useful as background on public-sector demand; it is NOT evidence of demand for rheumatologists specifically."
+    },
+    {
+      "id": "L05-C25",
+      "statement": "There is a real, unresolved procedural conflict on the Ley 20.985 route: the Superintendencia's specialty-inscription page requires the applicant to be already habilitada to practise in Chile, while Ley 20.261 art. 2 bis expressly contemplates certifying doctors who are NOT habilitados, and CONACEM says enforcement of that norm rests with the Superintendencia's Intendencia de Prestadores; no published page explains how such a certificate is actually recorded.",
+      "answers_question": [
+        2
+      ],
+      "confidence": "low",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.conacem.cl/requisitos_generales.asp",
+          "publisher": "CONACEM",
+          "title": "Requisitos Generales — cierre del reglamento Ley 20.985",
+          "date_of_content": "2025-11-26",
+          "quote_original": "Los postulantes certificados por ley 20.985 y que con posterioridad obtengan el título de médico-cirujano, válido para el ejercicio de la profesión en Chile, podrán solicitar el certificado oficial regular de especialista de CONACEM. El control de cumplimiento de esta norma legal depende de la Superintendencia de Salud (Intendencia de Prestadores).",
+          "quote_locator": "final de la sección del reglamento Ley 20.985"
+        },
+        {
+          "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-especialidades-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+          "publisher": "Superintendencia de Salud (Chile)",
+          "title": "Inscripción de especialidades en el Registro Nacional de Prestadores Individuales de Salud",
+          "date_of_content": "2026-03-27",
+          "quote_original": "Estar habilitado/a para ejercer la profesión en el país, ya sea a través de un título profesional otorgado por una institución de educación superior oficialmente reconocida en el país; o a través del reconocimiento o revalidación de su título profesional obtenido en el extranjero.",
+          "quote_locator": "sección «Documentos requeridos», primer requisito"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 2 bis frente al D.S. N°16/2007 y la práctica administrativa de la Superintendencia",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "law_permits_but_the_published_administrative_procedure_does_not_visibly_implement_it",
+        "resolve_in_writing_with_the_Intendencia_de_Prestadores_before_spending_money"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Blocking for the Ley 20.985 route: worth a written query to the Superintendencia before paying any CONACEM fee."
+    }
+  ],
+  "process_steps": [
+    {
+      "step_no": 1,
+      "name": "Assemble and legalise the Ukrainian specialty dossier (diploma, specialist certificate, the OFFICIAL training programme, evidence of continuous practice in the specialty)",
+      "actor": "The applicant, with Ukrainian apostille and a Spanish translator",
+      "where": "Ukraine",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [
+        "titulo de medico cirujano apostillado",
+        "certificado de especialista en reumatologia apostillado",
+        "certificado de especialista en medicina interna si existe",
+        "programa oficial de la formacion de especialista traducido al espanol",
+        "certificado de continuidad en el ejercicio de la especialidad",
+        "curriculum vitae respaldado"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 120,
+      "source_claim_ids": [
+        "L05-C14"
+      ]
+    },
+    {
+      "step_no": 2,
+      "name": "Write to the Superintendencia de Salud (Intendencia de Prestadores) and to CONACEM to confirm in writing that the Ley 20.985 route is open to a doctor still resident abroad, and how such a certificate is recorded in the RNPI",
+      "actor": "The applicant or an apoderado",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [
+        "consulta escrita"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 10,
+      "duration_days_max": 60,
+      "source_claim_ids": [
+        "L05-C25",
+        "L05-C11",
+        "L05-C12"
+      ]
+    },
+    {
+      "step_no": 3,
+      "name": "Register online with CONACEM and lodge the Formacion en el Extranjero application for MEDICINA INTERNA, since Reumatologia is gated behind it",
+      "actor": "The applicant; the CONACEM Comite de Medicina Interna decides equivalence",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [
+        "programa oficial traducido al espanol",
+        "certificado de titulo de especialista con legalizaciones o apostilla",
+        "declaracion jurada simple",
+        "curriculum vitae"
+      ],
+      "cost_amount": 150000,
+      "cost_unit": "CLP",
+      "cost_as_of": "2025-09-02",
+      "duration_days_min": 60,
+      "duration_days_max": 240,
+      "source_claim_ids": [
+        "L05-C13",
+        "L05-C14",
+        "L05-C15"
+      ]
+    },
+    {
+      "step_no": 4,
+      "name": "Sit the CONACEM written exam in Medicina Interna (multiple choice, Spanish only, 65% pass, up to 3 attempts, scheduled at least twice a year)",
+      "actor": "The applicant",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": [
+        "citacion por correo electronico"
+      ],
+      "cost_amount": 300000,
+      "cost_unit": "CLP",
+      "cost_as_of": "2025-09-02",
+      "duration_days_min": 30,
+      "duration_days_max": 210,
+      "source_claim_ids": [
+        "L05-C14",
+        "L05-C15",
+        "L05-C17"
+      ]
+    },
+    {
+      "step_no": 5,
+      "name": "Sit the CONACEM practical exam in Medicina Interna (three to five half-days with real or simulated patients in a Chilean teaching hospital, Spanish only, up to 2 attempts)",
+      "actor": "The applicant; the examiner is a professor at an ASOFAMECH medical school",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 450000,
+      "cost_unit": "CLP",
+      "cost_as_of": "2025-09-02",
+      "duration_days_min": 30,
+      "duration_days_max": 240,
+      "source_claim_ids": [
+        "L05-C14",
+        "L05-C15",
+        "L05-C17"
+      ]
+    },
+    {
+      "step_no": 6,
+      "name": "Repeat the application and the two exams for REUMATOLOGIA once Medicina Interna is certified",
+      "actor": "The applicant; the CONACEM Comite de Reumatologia",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": [
+        "certificado CONACEM de Medicina Interna",
+        "programa oficial de reumatologia traducido al espanol"
+      ],
+      "cost_amount": 1060000,
+      "cost_unit": "CLP",
+      "cost_as_of": "2025-09-02",
+      "duration_days_min": 180,
+      "duration_days_max": 540,
+      "source_claim_ids": [
+        "L05-C13",
+        "L05-C15",
+        "L05-C16",
+        "L05-C17"
+      ]
+    },
+    {
+      "step_no": 7,
+      "name": "Collect the CONACEM diplomas; under Ley 20.985 the certificate will state that it is valid for the public health sector",
+      "actor": "The applicant",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 160000,
+      "cost_unit": "CLP",
+      "cost_as_of": "2025-09-02",
+      "duration_days_min": 15,
+      "duration_days_max": 60,
+      "source_claim_ids": [
+        "L05-C12",
+        "L05-C15"
+      ]
+    },
+    {
+      "step_no": 8,
+      "name": "Obtain a RUN and a Chilean domicile, then inscribe title and specialty in the Registro Nacional de Prestadores Individuales de Salud",
+      "actor": "The applicant; the Superintendencia de Salud validates with the entidad habilitante",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": true,
+      "documents": [
+        "formulario en linea con RUN, direccion chilena, region y comuna",
+        "certificado CONACEM",
+        "documento habilitante (revalidacion) si se sigue la via ordinaria"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "CLP",
+      "cost_as_of": "2026-03-27",
+      "duration_days_min": 15,
+      "duration_days_max": 90,
+      "source_claim_ids": [
+        "L05-C01",
+        "L05-C02",
+        "L05-C03",
+        "L05-C04",
+        "L05-C08"
+      ]
+    },
+    {
+      "step_no": 9,
+      "name": "OPTIONAL, private practice only: sign the FONASA Modalidad de Libre Eleccion convenio",
+      "actor": "The applicant, via ClaveUnica on the FONASA site",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": true,
+      "documents": [
+        "cedula nacional de identidad vigente o visa de residencia vigente",
+        "inscripcion RNPI",
+        "iniciacion de actividades SII",
+        "cuenta bancaria",
+        "patente comercial o profesional del lugar de atencion"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "CLP",
+      "cost_as_of": "2026-07-08",
+      "duration_days_min": 15,
+      "duration_days_max": 90,
+      "source_claim_ids": [
+        "L05-C21"
+      ]
+    },
+    {
+      "step_no": 10,
+      "name": "OPTIONAL, networking only: apply to SOCHIRE as Socio Adherente, then as Socio Titular once certified",
+      "actor": "The applicant; the SOCHIRE Directorio",
+      "where": "Chile",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [
+        "fotocopia del titulo de medico cirujano",
+        "certificado de especialidad",
+        "curriculum vitae actualizado",
+        "patrocinio escrito de dos socios titulares"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 180,
+      "source_claim_ids": [
+        "L05-C22"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "name": "Superintendencia de Salud — Intendencia de Prestadores (Registro Nacional de Prestadores Individuales de Salud)",
+      "role": "Runs the RNPI; inscribes titles and specialties; per CONACEM it also polices compliance with the Ley 20.985 public-sector limitation. Public consultation portal: https://rnpi.superdesalud.gob.cl/",
+      "url": "https://www.superdesalud.gob.cl/tramites/registro-nacional-de-prestadores-individuales-de-salud/",
+      "email": "unknown — the trámite page publishes a phone line, not an email; the online application is at https://webserver.superdesalud.gob.cl/bases/ManejoSolicitudes.nsf/frmsoltitulo?OpenForm",
+      "phone": "600 836 9000"
+    },
+    {
+      "name": "CONACEM — Corporación Nacional Autónoma de Certificación de Especialidades Médicas",
+      "role": "Registered certifying entity N°10 (RUT 71.235.800-9, authorised 11-02-2014), authorised by MINSAL to certify Reumatología since 23-02-2017; operates the Formación en el Extranjero and Ley 20.985 routes. Office at Esmeralda 678, Santiago; hours Mon-Fri 09:30-13:30.",
+      "url": "https://www.conacem.cl/",
+      "email": "informaciones@conacem.cl",
+      "phone": "+569 4219 4379"
+    },
+    {
+      "name": "CONACEM — Comité de Reumatología",
+      "role": "Decides equivalence of the foreign rheumatology programme and applies the specialty-specific requirement of prior Medicina Interna certification",
+      "url": "https://www.conacem.cl/comites.asp",
+      "email": "informaciones@conacem.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "SOCHIRE — Sociedad Chilena de Reumatología",
+      "role": "Scientific society, no regulatory role; possible route to the two Socio Titular sponsors and to the specialty community. Av. Nueva Providencia 2214, oficina 126, 12º piso, Providencia, Santiago. Contact: Srta. Claudia Bustos.",
+      "url": "https://sochire.cl/hazte-socio/",
+      "email": "sochire@sochire.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "FONASA — Modalidad de Libre Elección",
+      "role": "The convenio that lets a private-practice doctor bill FONASA patients; requires RNPI membership, a valid cédula or residence visa, and a registered specialty to be paid at specialist tariffs",
+      "url": "https://adjuntos.fonasa.gob.cl/sites/fonasa/prestadores/tramites/inscripcion-p-salud",
+      "email": "unknown",
+      "phone": "101 (ChileAtiende)"
+    },
+    {
+      "name": "Universidad de Santiago de Chile and Agencia de Certificación de la Universidad de Concepción (ACUDEC)",
+      "role": "Other MINSAL-authorised certifying entities named by the Superintendencia alongside CONACEM; I did NOT verify whether either certifies Reumatología or accepts Ley 20.985 applicants",
+      "url": "https://www.superdesalud.gob.cl/tramites/registro-de-entidades-certificadoras/",
+      "email": "unknown",
+      "phone": "unknown"
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "Does the Superintendencia de Salud actually record a CONACEM certificate issued under Ley 20.985 to a doctor who is NOT habilitada to practise, given that its own specialty-inscription page demands prior habilitación?",
+      "why_it_matters": "If the certificate cannot be recorded in the RNPI it may be unusable for public-sector hiring and for FONASA specialist tariffs, which would destroy the value of the whole Ley 20.985 route.",
+      "how_to_resolve": "Written query to the Intendencia de Prestadores citing Ley 20.261 art. 2 bis, plus a query to CONACEM asking how many Ley 20.985 certificates have been issued and registered in the last three years.",
+      "blocking": true
+    },
+    {
+      "question": "Do her Ukrainian credentials evidence a separate INTERNAL MEDICINE qualification, or a single integrated programme covering internal medicine and rheumatology?",
+      "why_it_matters": "CONACEM's Reumatología rule demands prior Medicina Interna certification, but the general Formación en el Extranjero rule allows a single derived-specialty certification where the foreign programme was one integrated course of usually not less than four years. Which applies decides whether she faces two exam pairs or one.",
+      "how_to_resolve": "Obtain the official Ukrainian programme document and put it to the CONACEM Comité de Reumatología in writing before paying any fee.",
+      "blocking": true
+    },
+    {
+      "question": "Can any part of the CONACEM process be done from abroad, and is a mandatario with a poder notarial accepted for lodging documents and collecting the diploma?",
+      "why_it_matters": "The written and practical exams clearly require presence in Chile, but if the application itself can be lodged and decided remotely she could learn whether equivalence is accepted before spending on travel.",
+      "how_to_resolve": "Ask CONACEM directly (informaciones@conacem.cl) whether the online registration and the antecedentes review can proceed with an address abroad.",
+      "blocking": false
+    },
+    {
+      "question": "Is CONACEM's MINSAL authorisation for Reumatología currently in force? The Superintendencia registry page shows an authorisation dated 23-02-2017 with a stated vigencia of 5 years and no renewal row.",
+      "why_it_matters": "If the authorisation has lapsed for that specialty, a CONACEM rheumatology certificate might not be registrable.",
+      "how_to_resolve": "Ask the Intendencia de Prestadores for the current Registro de Entidades Certificadoras extract for CONACEM.",
+      "blocking": false
+    },
+    {
+      "question": "Does the Tribunal Constitucional case law reported to have declared the Ley 20.261 art. 2 bis 'sólo para el sector público' limitation inapplicable in individual cases create any usable route to private practice, or is it strictly inter partes?",
+      "why_it_matters": "It is the difference between being confined to public hospitals and being able to work in a clínica privada.",
+      "how_to_resolve": "Obtain the TC rulings (the 2020 inaplicabilidad reported by Diario Constitucional, whose page returned HTTP 403 to me) and a Chilean health-law opinion. Treat it as litigation, not as a procedure.",
+      "blocking": false
+    },
+    {
+      "question": "Do ISAPREs pay a doctor at specialist rates when the specialty is not registered at the Superintendencia?",
+      "why_it_matters": "It determines her realistic private income in the years before certification.",
+      "how_to_resolve": "Read the Superintendencia's Compendio de Normas Administrativas en Materia de Beneficios and confirm with two ISAPREs directly. I did not verify this and make no claim about it.",
+      "blocking": false
+    },
+    {
+      "question": "How many adult rheumatologists are registered in the RNPI today, and is adult rheumatology on any MINSAL brecha-de-especialistas priority list?",
+      "why_it_matters": "It is the demand side of the whole plan, and lane L11's verdict depends on it.",
+      "how_to_resolve": "Query the RNPI search at https://rnpi.superdesalud.gob.cl/ filtering by specialty, and request the MINSAL brechas dataset under the Ley de Transparencia.",
+      "blocking": false
+    },
+    {
+      "question": "Will the Superintendencia accept, for RNPI inscription, a revalidación granted by a State university other than the Universidad de Chile under the post-17-August-2026 regime?",
+      "why_it_matters": "Every Superintendencia page I read speaks generically of 'reconocimiento o revalidación' and was last updated in March 2026, i.e. before the change. If the RNPI back-office validation is hard-wired to the Universidad de Chile, a revalidación from USACH or Valparaíso could stall at the registry.",
+      "how_to_resolve": "Written query to the Intendencia de Prestadores. Cross-reference lanes L01 and L03.",
+      "blocking": false
+    }
+  ],
+  "unknowns_declared": [
+    "I could not find any published national count of ADULT rheumatologists in Chile, nor any MINSAL brecha figure specific to rheumatology. The only hard, sourced rheumatology workforce number I verified is for PAEDIATRIC rheumatology (31 registered, 2023 article).",
+    "I did not verify how ISAPREs treat an uncertified specialist for billing purposes. The FONASA MLE rule is documented; the ISAPRE side is not, and I make no claim about it.",
+    "I could not retrieve the Tribunal Constitucional ruling on the 'sólo para el sector público' limitation (diarioconstitucional.cl returned HTTP 403). Its existence is reported by search results only, so I recorded it as a trap flag rather than as a claim.",
+    "I did not verify whether Universidad de Santiago de Chile or ACUDEC (Universidad de Concepción) certify Reumatología or accept Ley 20.985 applicants; only CONACEM was verified for Reumatología.",
+    "The CONACEM Reumatología requirements page carries no date at all, so under this project's rules it is treated as stale, even though the general-requirements page it depends on was updated 26-11-2025.",
+    "CONACEM publishes no total processing time. Every duration in process_steps is my estimate derived from the published exam cadence (at least twice a year), the one-month notice, the roughly one-month marking period and the 18-month completion window; they are NOT quoted from any source.",
+    "The Superintendencia publishes no processing time for RNPI inscription either; the 15-90 day range in process_steps is my estimate, not a source figure.",
+    "No fee in this lane is expressed in UTM. CONACEM fees are nominal Chilean pesos set by board resolution (last published reajuste effective 1 January 2024) and RNPI inscription is free, so there is no UTM figure to record.",
+    "I did not test whether the Superintendencia will accept a paper RNPI application from an apoderado for a person with no RUN; I established only that the ONLINE form makes RUN mandatory and offers Chilean regiones and comunas only.",
+    "Whether her Ukrainian rheumatology qualification will be judged equivalent in duration, content and depth to the Chilean programme is a discretionary decision of the CONACEM Comité, is expressly unappealable on the equivalence point, and cannot be predicted from any public source.",
+    "I did not establish whether a Ley 20.985 certified specialist can be appointed to a Servicio de Salud post under Ley 19.664 without also satisfying the Estatuto Administrativo nationality rule; that interacts with lane L06 and lane L09 and is unresolved here."
+  ]
+}

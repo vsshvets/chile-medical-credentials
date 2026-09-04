@@ -1,0 +1,1093 @@
+{
+  "lane_id": "L02",
+  "status": "partial",
+  "claims": [
+    {
+      "id": "L02-C01",
+      "statement": "Decreto 174/2024 does NOT govern Universidad de Chile's revalidacion of a foreign PROFESSIONAL title: article 1 of the new reglamento states it applies to Universidad de Chile only for foreign TECHNICAL titles and for convalidacion of curricular activities, so revalidacion of a titulo de Medico Cirujano at Universidad de Chile must still run under DFL 3/2006 art. 6 and the university's own DU Exento N0030.203 of 2005.",
+      "answers_question": [2, 3],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://uchile.cl/dam/jcr:dff1eef7-ed8d-4ea5-87c7-f996bca0260c/Reglamento%20de%20Revalidacion%20y%20Reconocimiento.pdf",
+          "publisher": "Ministerio de Educacion / Diario Oficial de la Republica de Chile (PDF hosted by Universidad de Chile)",
+          "title": "Decreto 174 de 2024 - Aprueba reglamento que regula el reconocimiento y revalidacion en Chile de titulos de educacion superior obtenidos en el extranjero (Diario Oficial Num. 44.378)",
+          "date_of_content": "2026-02-17",
+          "quote_original": "En el caso de la Universidad de Chile, el presente reglamento le es aplicable en lo referido al reconocimiento y revalidación de títulos técnicos otorgados por instituciones de educación superior extranjeras y a la convalidación de actividades curriculares cursadas en dichas instituciones.",
+          "quote_locator": "Titulo Primero, Articulo 1 (Objeto), inciso 2, page 2 of the Diario Oficial PDF"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Procedimiento de Revalidacion de la Facultad de Medicina",
+          "date_of_content": "UNDATED",
+          "quote_original": "Este proceso es regido por el Decreto Universitario Exento N°0030.203, del 27 de octubre de 2005.",
+          "quote_locator": "section '1. Introduccion', subsection 'b. Revalidacion'"
+        }
+      ],
+      "regime": {
+        "norm": "Decreto 174/2024 MINEDUC art. 1 inc. 2; DFL 3/2006 MINEDUC art. 6; DU Exento UChile N0030.203/2005",
+        "vigencia": "2026-08-17",
+        "version_consulted": "Diario Oficial Num. 44.378, Martes 17 de Febrero de 2026, CVE 2769106",
+        "regime_side": "POST"
+      },
+      "trap_flags": [
+        "Widely reported as 'the UChile monopoly ended'. For a MEDICAL professional title the practical consequence at UChile itself is nil: UChile keeps running the same 2005 procedure.",
+        "The Facultad de Medicina page carries no publication date and is treated as stale."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Applies if she chooses to revalidate at Universidad de Chile rather than at a newly-eligible State university (see lane L03)."
+    },
+    {
+      "id": "L02-C02",
+      "statement": "Decreto 174/2024 was published in the Diario Oficial on 17 February 2026 and entered into force on 17 August 2026, six months later, as stated both by its own transitional article and by MINEDUC's own arancel decree.",
+      "answers_question": [2, 3, 7],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://uchile.cl/dam/jcr:dff1eef7-ed8d-4ea5-87c7-f996bca0260c/Reglamento%20de%20Revalidacion%20y%20Reconocimiento.pdf",
+          "publisher": "Ministerio de Educacion / Diario Oficial de la Republica de Chile",
+          "title": "Decreto 174 de 2024, Diario Oficial Num. 44.378",
+          "date_of_content": "2026-02-17",
+          "quote_original": "Artículo primero transitorio.- Vigencia del presente reglamento. El presente reglamento entrará en vigor contados seis meses desde la fecha de su publicación en el Diario Oficial.",
+          "quote_locator": "Disposiciones transitorias, Articulo primero transitorio, page 9"
+        },
+        {
+          "url": "https://uchile.cl/dam/jcr:181ced88-33e1-465d-9935-2616181edd08/DEX%20384%20Aranceles%202026.pdf",
+          "publisher": "Subsecretaria de Educacion Superior, Ministerio de Educacion (PDF hosted by Universidad de Chile)",
+          "title": "Decreto Exento N384 - Fija aranceles para los tramites referidos al reconocimiento y revalidacion de titulos, conforme al Decreto Supremo N174 de 2024",
+          "date_of_content": "2026-06-17",
+          "quote_original": "Dicho Decreto fue publicado en el Diario Oficial el 17 de febrero de 2026 y entrará en vigencia el 17 de agosto de 2026.",
+          "quote_locator": "Considerando 8, page 3 of the scanned decree"
+        }
+      ],
+      "regime": {
+        "norm": "Decreto 174/2024 MINEDUC, articulo primero transitorio",
+        "vigencia": "2026-08-17",
+        "version_consulted": "Diario Oficial Num. 44.378, 17 de Febrero de 2026 (as published); Decreto Exento 384 stamped 'MINISTERIO DE EDUCACION 07 JUL 2026 DOCUMENTO TOTALMENTE TRAMITADO'",
+        "regime_side": "POST"
+      },
+      "trap_flags": [
+        "DEX 384 is a scanned image PDF with no text layer; the quote was transcribed visually from the rendered page."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    },
+    {
+      "id": "L02-C03",
+      "statement": "The entry step is fully online through Ucampus: the applicant must create a Cuenta Uchile, open the 'Revalidacion de titulo' menu in the Ucampus platform, complete the form and upload every document as PDF; the exact portal is https://ucampus.uchile.cl/m/prorrectoria_revalidacion_postulacion/ .",
+      "answers_question": [2, 5],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Etapas del Proceso en la Universidad de Chile",
+          "date_of_content": "UNDATED",
+          "quote_original": "Acceder con dicha cuenta en la Plataforma Ucampus y luego presionar el menú Revalidación de título, ubicado en el menú lateral de la plataforma.",
+          "quote_locator": "section '1. Ingreso y revision de solicitud', second bullet; page retrieved 2026-09-03"
+        },
+        {
+          "url": "https://ucampus.uchile.cl/m/prorrectoria_revalidacion_postulacion/login",
+          "publisher": "Universidad de Chile - Ucampus",
+          "title": "Revalidacion de Titulo - Ucampus Uchile",
+          "date_of_content": "UNDATED",
+          "quote_original": "Para iniciar el trámite o consultar el estado, debes usar una \"Cuenta Uchile\"; si no tienes una puedes crearla en Mi Cuenta Uchile",
+          "quote_locator": "module landing text under 'El tramite considera los siguientes pasos'; page retrieved 2026-09-03"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "Neither page carries a publication date."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    },
+    {
+      "id": "L02-C04",
+      "statement": "A person with no Chilean identity document MAY open the file: the official Instructivo de Ingreso instructs the applicant to register the Cuenta Uchile with either a Chilean cedula OR a passport, explicitly not both, so no RUT and no ClaveUnica is required to create the account and submit the application.",
+      "answers_question": [2, 6],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/dam/jcr:8c0d501f-dd49-4465-a1f1-8ad4da12ac81/2023-12-27-InstructivoIngreso.pdf",
+          "publisher": "Universidad de Chile, Oficina de Revalidacion y Reconocimiento",
+          "title": "Instructivo de Ingreso al proceso de Revalidacion y Reconocimiento de titulos profesionales y grados academicos obtenidos en el extranjero",
+          "date_of_content": "2024-01-01",
+          "quote_original": "Ingresar el documento de identidad vigente: cédula de identidad chilena o pasaporte (no los dos) y el correo electrónico que utilizará para todo el proceso.",
+          "quote_locator": "section 'GENERACION DE CUENTA'; the document states 'Este instructivo entra en vigencia desde el 1 de enero de 2024'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "2024-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "This proves the ACCOUNT accepts a passport. It does not prove the whole file can be completed from abroad - see L02-C05 (Chilean bank payment) and L02-C06 (in-person cita).",
+        "Instructivo predates the 17 Aug 2026 change and predates the current version of the Etapas page."
+      ],
+      "applies_to_her": "yes",
+      "condition": "She must have a valid Ukrainian passport and an email address she will keep for the whole process."
+    },
+    {
+      "id": "L02-C05",
+      "statement": "The 2 UTM entry fee MUST be paid in Chilean pesos from a Chilean bank account or by deposit at Banco Santander, which means a person in Ukraine cannot pay it directly and must use a third party in Chile; the instructivo permits third-party payment but tells the payer to put the applicant's name and RUT in the transfer reference.",
+      "answers_question": [2, 6, 7],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Etapas del Proceso en la Universidad de Chile",
+          "date_of_content": "UNDATED",
+          "quote_original": "Este pago debe ser realizado en pesos chilenos desde una cuenta chilena.",
+          "quote_locator": "section '1. Ingreso y revision de solicitud', last bullet; page retrieved 2026-09-03"
+        },
+        {
+          "url": "https://uchile.cl/dam/jcr:8c0d501f-dd49-4465-a1f1-8ad4da12ac81/2023-12-27-InstructivoIngreso.pdf",
+          "publisher": "Universidad de Chile, Oficina de Revalidacion y Reconocimiento",
+          "title": "Instructivo de Ingreso al proceso de Revalidacion y Reconocimiento",
+          "date_of_content": "2024-01-01",
+          "quote_original": "*Si la transferencia es realizada por un tercero, debe indicar el nombre y rut del solicitante en el asunto o en los comentarios.",
+          "quote_locator": "section 'PAGO DE ARANCEL', footnote below the bank details"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The transfer note asks for the applicant's RUT. Whether the office accepts a passport number instead is NOT documented anywhere I could find - this is a real operational risk for an applicant who has never been to Chile."
+      ],
+      "applies_to_her": "yes",
+      "condition": "She will need her son in Chile, or another Chilean-resident proxy, to make each payment."
+    },
+    {
+      "id": "L02-C06",
+      "statement": "Whether an in-person appointment in Santiago to check the original documents is still required is CONTESTED as of 3 September 2026: the archived 27 February 2026 version of the Etapas page described a 'cita de ingreso y verificacion de documentos originales' and expressly allowed a third party with a poder notarial to attend, but the live version of that page has deleted both bullets, while the live Ucampus module and the live Revalidacion y Reconocimiento page still describe an appointment.",
+      "answers_question": [2, 5, 6],
+      "confidence": "contested",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260227104901/https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+          "publisher": "Universidad de Chile (archived by the Internet Archive)",
+          "title": "Etapas del Proceso en la Universidad de Chile (snapshot 27 Feb 2026)",
+          "date_of_content": "2026-02-27",
+          "quote_original": "Si no es posible asistir personalmente a la cita, puede enviar a un tercero con poder notarial. Si es emitido en el extranjero, debe estar apostillado o legalizado vía consular.",
+          "quote_locator": "section '1. Ingreso y revision de solicitud', bullet 5 in the 27 Feb 2026 snapshot; this bullet is ABSENT from the live page on 2026-09-03"
+        },
+        {
+          "url": "https://ucampus.uchile.cl/m/prorrectoria_revalidacion_postulacion/login",
+          "publisher": "Universidad de Chile - Ucampus",
+          "title": "Revalidacion de Titulo - Ucampus Uchile",
+          "date_of_content": "UNDATED",
+          "quote_original": "Agendar y asistir a una Cita con ejecutivos de la Oficina de Revalidación y Reconocimiento",
+          "quote_locator": "step 4 of 'El tramite considera los siguientes pasos'; live page retrieved 2026-09-03"
+        },
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Revalidacion y Reconocimiento",
+          "date_of_content": "UNDATED",
+          "quote_original": "Los documentos originales, una vez verificados y cotejados en la cita presencial, se devuelven al solicitante (este proceso se realiza sólo con los documentos en formato digital).",
+          "quote_locator": "section 'Informacion Importante', bullet 4; page retrieved 2026-09-03"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "UNKNOWN"
+      },
+      "trap_flags": [
+        "The live Etapas page was rewritten between 27 Feb 2026 and 3 Sep 2026 (its attached regulations changed from the 2005 ones to the 2026 ones), so the removal of the cita may be deliberate - or may be an incomplete edit.",
+        "The appointment-booking system prorrectoria.simplybook.me is still live and its own description is signed 'UNIVERSIDA DE CHILE - 2022'.",
+        "The published contact address differs between surfaces: 'Portugal 84, Torre 15, oficina 302' on uchile.cl vs 'Diagonal Paraguay 265, oficina 302' on the booking site."
+      ],
+      "applies_to_her": "yes",
+      "condition": "This is the single decisive operational question for someone in Vinnytsia. It must be settled by written enquiry to contactorevalidacion@uchile.cl before any documents are apostilled."
+    },
+    {
+      "id": "L02-C07",
+      "statement": "The appointment agenda is explicitly NOT the way to start a file: the booking site states that available appointments are only for applications already in process at the office, so the file must be opened through Ucampus first.",
+      "answers_question": [2, 6],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://prorrectoria.simplybook.me/v2/",
+          "publisher": "Universidad de Chile, Oficina de Revalidacion y Reconocimiento de Titulos y Grados Extranjeros (SimplyBook.me)",
+          "title": "Revalidacion y Reconocimiento de Titulos y Grados Extranjeros UChile | Scheduling and Booking Website",
+          "date_of_content": "UNDATED",
+          "quote_original": "ATENCIÓN: Nuestra agenda de citas disponible es UNICAMENTE para solicitudes que ya se encuentran en trámite en nuestra Oficina.",
+          "quote_locator": "meta description / og:description of the booking page; retrieved 2026-09-03. The same description ends 'UNIVERSIDA DE CHILE - 2022'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The description text is self-dated 2022 and may be stale even though the booking system is live."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    },
+    {
+      "id": "L02-C08",
+      "statement": "The ORIGINAL apostilled diploma, transcript, study plan and professional-habilitation certificate must be produced - the university states plainly that copies are not accepted - and the 2005 reglamento requires the original diploma plus photocopies to be lodged with Prorrectoria.",
+      "answers_question": [2, 5],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/dam/jcr:7333c60f-5463-4f10-ae96-c75fdc8dd448/Reglamento%20de%20Revalidaci%20(1).pdf",
+          "publisher": "Universidad de Chile",
+          "title": "Decreto Universitario Exento N0030.203 - Aprueba reglamento sobre reconocimiento, revalidacion y convalidacion de titulos profesionales y grados academicos obtenidos en el extranjero",
+          "date_of_content": "2005-10-27",
+          "quote_original": "a) Diploma original del título profesional y/o del grado académico extranjero, según corresponda, y fotocopias de los mismos.",
+          "quote_locator": "Del Procedimiento, Articulo 6, letter a)"
+        },
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Revalidacion y Reconocimiento",
+          "date_of_content": "UNDATED",
+          "quote_original": "Diploma de título o grado original, legalizado vía consular o apostillado",
+          "quote_locator": "section 'Documentos requeridos', item 1. The bracketed clause '(no se aceptan copias ni fondos negros)' follows immediately after a non-breaking space and is therefore not included in this verbatim span."
+        }
+      ],
+      "regime": {
+        "norm": "DU Exento UChile N0030.203/2005 art. 6",
+        "vigencia": "2005-10-27",
+        "version_consulted": "NONE (university decree, not on LeyChile)",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "'Habilitacion profesional' is a document Ukraine may not issue in a recognisable form; UChile requires proof from the competent authority if it is not required in the country of origin."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Applies to the revalidacion of the medical title. Habilitacion profesional is not required for the reconocimiento of a postgraduate degree."
+    },
+    {
+      "id": "L02-C09",
+      "statement": "Non-Spanish-speaking foreigners MUST demonstrate a reasonable command of Spanish, and the Faculty decides how that is tested; the 2005 reglamento imposes this and names no certificate, so the requirement exists but its form is undefined.",
+      "answers_question": [1, 2, 5],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/dam/jcr:7333c60f-5463-4f10-ae96-c75fdc8dd448/Reglamento%20de%20Revalidaci%20(1).pdf",
+          "publisher": "Universidad de Chile",
+          "title": "Decreto Universitario Exento N0030.203 (2005)",
+          "date_of_content": "2005-10-27",
+          "quote_original": "Los extranjeros que no sean de habla hispana deberán acreditar que poseen un dominio razonable del idioma español. La Facultad o Instituto Interdisciplinario correspondiente adoptará los procedimientos más adecuados al efecto.",
+          "quote_locator": "Del Procedimiento, Articulo 6, final inciso"
+        }
+      ],
+      "regime": {
+        "norm": "DU Exento UChile N0030.203/2005 art. 6 inc. final",
+        "vigencia": "2005-10-27",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "No published Faculty of Medicine procedure for testing Spanish was found; the exams themselves are in Spanish and are sat in person in Santiago, which is the de facto test."
+      ],
+      "applies_to_her": "yes",
+      "condition": "She is described as having no Spanish. This is a hard gate on the UChile revalidacion route, independent of her clinical competence."
+    },
+    {
+      "id": "L02-C10",
+      "statement": "For Medicina the curricular study MUST find at least 70 to 80 per cent equivalence between the foreign curriculum and Universidad de Chile's Medicina curriculum, judged on subjects, hours/credits and curriculum similarity.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Procedimiento de Revalidacion de la Facultad de Medicina",
+          "date_of_content": "UNDATED",
+          "quote_original": "Esta determinación de similitud se realiza basándose en el porcentaje mínimo de equivalencias que debe tener el plan cursado en el extranjero versus el plan cursado en Chile, que para efectos de la revalidación de títulos de la Facultad de Medicina está fijado en al menos un 70 a 80%.",
+          "quote_locator": "section '2. Proceso general de revalidacion', subsection 'b) Evaluacion curricular'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The threshold is stated as a range ('70 a 80%'), not a single number, so the outcome of the curricular study is not predictable in advance.",
+        "A Soviet/Ukrainian six-year medical curriculum with hour-based (not credit-based) transcripts may be hard to map; no published guidance on post-Soviet curricula was found."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Her transcript must show hours or credits per subject; the study plan must be apostilled."
+    },
+    {
+      "id": "L02-C11",
+      "statement": "The Medicina theory examination consists of 5 parts of 20 multiple-choice questions each, drawn from EUNACOM content, covering Medicina Interna, Pediatria, Ginecologia-Obstetricia, Cirugia General y Anestesia, and Psiquiatria y Salud Publica; the pass mark is 60 per cent, there are at most three attempts, and it is sat in person once a month at the Facultad de Medicina, sede Eloisa Diaz.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Revalida para el Titulo de Medico(a) Cirujano(a)",
+          "date_of_content": "2025-08-11",
+          "quote_original": "Los exámenes teóricos constan de 5 partes, cada una con 20 preguntas de opción múltiple basadas en los contenidos de EUNACOM.",
+          "quote_locator": "section 'Examen Teorico', first paragraph (quote spans two printed lines). Date is the PDF's own embedded CreationDate/ModDate, 11 Aug 2025; the page linking it shows no date."
+        },
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Revalida para el Titulo de Medico(a) Cirujano(a)",
+          "date_of_content": "2025-08-11",
+          "quote_original": "La aprobación del examen teórico requiere un mínimo del 60 % de respuestas correctas, y el resultado se expresará en términos de aprobado o reprobado. El o la postulante cuenta con un máximo de tres oportunidades para aprobar las exigencias teóricas.",
+          "quote_locator": "section 'Examen Teorico', third paragraph (spans three printed lines)"
+        },
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Revalida para el Titulo de Medico(a) Cirujano(a)",
+          "date_of_content": "2025-08-11",
+          "quote_original": "El examen teórico se realiza una vez al mes de manera presencial en la Facultad de Medicina, sede Eloísa Díaz.",
+          "quote_locator": "section 'Examen Teorico', fourth paragraph (spans two printed lines)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The exam language is not stated anywhere in this PDF; it is sat in person in Chile and the reglamento demands Spanish, so Spanish is the only reasonable reading, but it is an inference not a quoted fact.",
+        "The PDF's only date is file metadata (11 Aug 2025), so this exam design could have changed since."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Only reached after the curricular study concludes 'cumplimiento de exigencias'."
+    },
+    {
+      "id": "L02-C12",
+      "statement": "After passing the theory exam the candidate MUST sit practical ECOE examinations in Medicina Interna, Pediatria, Ginecologia y Obstetricia and Cirugia, each with up to three attempts; failing the theory exam ends the process immediately.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Revalida para el Titulo de Medico(a) Cirujano(a)",
+          "date_of_content": "2025-08-11",
+          "quote_original": "Deberá rendir evaluaciones prácticas en modalidad ECOE (Examen Clínico Objetivo Estructurado) de las siguientes especialidades:",
+          "quote_locator": "section 'Evaluaciones Practicas', opening sentence (spans two printed lines); the four listed specialties follow as bullets"
+        },
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Revalida para el Titulo de Medico(a) Cirujano(a)",
+          "date_of_content": "2025-08-11",
+          "quote_original": "Es necesario aprobar el examen teórico para poder rendir los exámenes prácticos. Si reprueba el examen teórico, su proceso será finalizado y el acta será entregada a la Secretaría de Estudios.",
+          "quote_locator": "section 'Examen Teorico', fifth paragraph (spans three printed lines)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "ECOE stations are patient-facing simulations conducted in Spanish; this is a far higher language bar than a multiple-choice paper."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Rheumatology is NOT one of the examined areas; the exam is general Medico Cirujano competence, not specialty competence."
+    },
+    {
+      "id": "L02-C13",
+      "statement": "Theory and practical evaluations run MONTHLY between March and December with limited places allocated only after the 15 UTM fee has been paid, so there is no fixed annual convocatoria for entry but there is a capped monthly examination calendar.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Revalida para el Titulo de Medico(a) Cirujano(a)",
+          "date_of_content": "2025-08-11",
+          "quote_original": "Las evaluaciones teóricas y prácticas se realizan mensualmente entre los meses de marzo y diciembre. Los cupos son limitados y se asignan una vez efectuado el pago correspondiente a las exigencias (15 UTM).",
+          "quote_locator": "section 'Evaluaciones Practicas', warning paragraph (spans three printed lines)"
+        },
+        {
+          "url": "https://uchile.cl/dam/jcr:8c0d501f-dd49-4465-a1f1-8ad4da12ac81/2023-12-27-InstructivoIngreso.pdf",
+          "publisher": "Universidad de Chile, Oficina de Revalidacion y Reconocimiento",
+          "title": "Instructivo de Ingreso al proceso de Revalidacion y Reconocimiento",
+          "date_of_content": "2024-01-01",
+          "quote_original": "Las solicitudes son tramitadas por estricto orden de fecha de recepción y las solicitudes duplicadas serán desestimadas.",
+          "quote_locator": "opening paragraphs, before 'PAGO DE ARANCEL'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "No published 2026 exam calendar for Medicina was found; dates appear to be notified individually.",
+        "'Cupos limitados' means the effective queue length is not published anywhere."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Entry is rolling; exam scheduling is not."
+    },
+    {
+      "id": "L02-C14",
+      "statement": "EUNACOM practical stages passed at Universidad de Chile within the previous two years MAY be homologated into the revalidacion (and revalidacion stages into EUNACOM), on written request to the Faculty's revalidacion coordinator, per specialty stage.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Revalida para el Titulo de Medico(a) Cirujano(a)",
+          "date_of_content": "2025-08-11",
+          "quote_original": "La solicitud de homologación sólo será válida si la etapa fue rendida y aprobada dentro de los plazos establecidos por EUNACOM y Universidad de Chile (2 años) contado desde la fecha específica en que se evaluó cada etapa.",
+          "quote_locator": "section 'Homologacion Evaluaciones Practicas', second paragraph (spans three printed lines)"
+        },
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:9249dc8b-7403-44e8-8252-0720d6625ab7/pag%20web%20medicina.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Revalida para el Titulo de Medico(a) Cirujano(a)",
+          "date_of_content": "2025-08-11",
+          "quote_original": "Para homologar etapas del EUNACOM en el proceso de revalidación de la U de Chile, la solicitud debe enviarse a Eduardo Aguayo, Coordinador del proceso de Revalidación, al correo: eduardo.aguayo@uchile.cl.",
+          "quote_locator": "section 'Homologacion Evaluaciones Practicas', last paragraph (spans three printed lines)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "This is the ONLY documented link between EUNACOM and the UChile revalidacion found in this lane. It shows the two are separate processes with a partial credit bridge - NOT that passing EUNACOM revalidates a degree. See lane L04."
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Only useful if she sits EUNACOM's practical stage at Universidad de Chile, which itself has prerequisites investigated in lane L04."
+    },
+    {
+      "id": "L02-C15",
+      "statement": "The published fee schedule for revalidating a medical degree at Universidad de Chile is 2 UTM for entry and verification of records, 3 UTM for the curricular evaluation and 15 UTM for the fulfilment of requirements covering the theory and practical exams, plus CLP 52,000 for the diploma and CLP 26,000 for a certificate.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Procedimiento de Revalidacion de la Facultad de Medicina",
+          "date_of_content": "UNDATED",
+          "quote_original": "Arancel por concepto de cumplimiento de exigencias: 15 UTM (por transferencia electrónica a la cuenta de la Universidad de Chile, por caja del Banco de Chile o con tarjeta de crédito).",
+          "quote_locator": "section '2. Proceso general de revalidacion', subsection 'c) Cumplimiento de Exigencias'. The same page's 'Aranceles' block lists: Ingreso y verificacion de Antecedentes 2 UTM; Evaluacion Curricular 3 UTM; Examen Teorico y Examen Practico 15 UTM; Obtencion de Diploma $52.000; Obtencion de Certificados $26.000"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Procedimiento de Revalidacion de la Facultad de Medicina",
+          "date_of_content": "UNDATED",
+          "quote_original": "Arancel por ingreso y verificación de antecedentes: 2 UTM",
+          "quote_locator": "section '2. Proceso general de revalidacion', subsection 'a) Ingreso y Verificacion de antecedentes'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The page is undated and is therefore treated as stale; it must be re-checked before payment.",
+        "The 15 UTM covers the SET of requirements, not each exam - see L02-C16.",
+        "CLP 52,000 / CLP 26,000 are peso amounts with no stated month; they will drift."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    },
+    {
+      "id": "L02-C16",
+      "statement": "MINEDUC's Decreto Exento N384 of 17 June 2026 fixes NATIONAL MAXIMUM aranceles of up to 2 UTM for lodging and admissibility review, up to 3 UTM for the academic analysis, up to 15 UTM for examinations and final activities in revalidacion, and up to 20 UTM for additional curricular activities, and states that the exam arancel covers the whole set of requirements and may not be charged per exam or per attempt.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://uchile.cl/dam/jcr:181ced88-33e1-465d-9935-2616181edd08/DEX%20384%20Aranceles%202026.pdf",
+          "publisher": "Subsecretaria de Educacion Superior, Ministerio de Educacion (PDF hosted by Universidad de Chile)",
+          "title": "Decreto Exento N384, Santiago 17 de junio de 2026 - Fija aranceles para los tramites referidos al reconocimiento y revalidacion de titulos",
+          "date_of_content": "2026-06-17",
+          "quote_original": "El arancel señalado en el inciso anterior corresponderá al conjunto de exigencias determinadas en el respectivo procedimiento de revalidación, y no podrá aplicarse separadamente por cada examen, intento, actividad final o actuación académica comprendida en dichas exigencias.",
+          "quote_locator": "ARTICULO SEXTO, second inciso, page 5. Transcribed visually from a scanned page with no text layer."
+        },
+        {
+          "url": "https://uchile.cl/dam/jcr:181ced88-33e1-465d-9935-2616181edd08/DEX%20384%20Aranceles%202026.pdf",
+          "publisher": "Subsecretaria de Educacion Superior, Ministerio de Educacion",
+          "title": "Decreto Exento N384 de 2026",
+          "date_of_content": "2026-06-17",
+          "quote_original": "ARTÍCULO QUINTO: Arancel por análisis y evaluación académica. Fíjase como arancel máximo por concepto de análisis y evaluación académica de los antecedentes curriculares por parte de la unidad académica competente o de la comisión que corresponda, en los procedimientos de reconocimiento o revalidación, la suma de hasta 3 unidades tributarias mensuales.",
+          "quote_locator": "ARTICULO QUINTO, page 4. Transcribed visually from a scanned page with no text layer."
+        }
+      ],
+      "regime": {
+        "norm": "Decreto Exento N384/2026 MINEDUC, arts. 4, 5, 6, 7; implementing Decreto 174/2024 art. 20",
+        "vigencia": "2026-08-17 (tied to the entry into force of Decreto 174/2024; the decree itself is stamped totalmente tramitado 07 JUL 2026)",
+        "version_consulted": "Scanned original of Decreto Exento N384, Solicitud 476, published on uchile.cl as 'Reglamento de aranceles Revalidacion 2026 - DEX 384'",
+        "regime_side": "POST"
+      },
+      "trap_flags": [
+        "Because art. 1 of Decreto 174/2024 excludes Universidad de Chile's PROFESSIONAL-title revalidacion, it is not certain that DEX 384 legally binds UChile for a medical title. UChile nonetheless now publishes DEX 384 on its own Etapas page, and UChile's medicina fees (2/3/15 UTM) sit exactly at the national ceilings.",
+        "Quotes transcribed visually from a scanned image; wording checked twice but character-level fidelity cannot be guaranteed as with a text-layer PDF."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Directly relevant if she instead files at a newly-eligible State university, where DEX 384 unambiguously applies."
+    },
+    {
+      "id": "L02-C17",
+      "statement": "At the September 2026 UTM of CLP 71,721, the 20 UTM of Universidad de Chile revalidacion fees for Medicina amount to CLP 1,434,420, and with the CLP 52,000 diploma the total university cost is about CLP 1,486,420, excluding apostilles, translations, travel and accommodation.",
+      "answers_question": [7],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+          "publisher": "Servicio de Impuestos Internos (SII), Chile",
+          "title": "UTM - UTA - IPC 2026",
+          "date_of_content": "UNDATED",
+          "quote_original": "En la siguiente tabla se presenta para los meses del 2026, los respectivos valores de la UTM y la UTA, expresados en pesos (en la primera y segunda columna, respectivamente).",
+          "quote_locator": "table 'UTM - UTA - IPC 2026', row 'Septiembre': UTM 71.721, UTA 860.652. Retrieved 2026-09-03; the page carries no publication date."
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "UTM changes every month; the instructivo warns that payment must be made in the same month as the request and that a shortfall will be demanded if last month's UTM is used.",
+        "This is an arithmetic derivation from a quoted UTM value, not a quoted total."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Valid only for September 2026."
+    },
+    {
+      "id": "L02-C18",
+      "statement": "The regulated timings are approximately 20 working days from lodging to official registration, then 60 working days for the academic unit's curricular study counted from payment of the 3 UTM, with the university stating an overall MINIMUM duration of 6 months; separately the 2005 reglamento caps the requirement-fulfilment phase at three academic semesters of scheduling and two years for the candidate to pass everything.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Etapas del Proceso en la Universidad de Chile",
+          "date_of_content": "UNDATED",
+          "quote_original": "Posterior al registro oficial (20 días hábiles aprox.) el expediente digital del solicitante es derivado a la respectiva Unidad Académica",
+          "quote_locator": "section '2. Estudio de solicitud', first bullet; retrieved 2026-09-03. The bullet continues after a non-breaking space with 'estudio curricular (3 UTM)'."
+        },
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Revalidacion y Reconocimiento",
+          "date_of_content": "UNDATED",
+          "quote_original": "El proceso de Revalidación y Reconocimiento tiene una duración mínima de 6 meses.",
+          "quote_locator": "section 'Informacion Importante', last bullet; retrieved 2026-09-03"
+        },
+        {
+          "url": "https://uchile.cl/dam/jcr:7333c60f-5463-4f10-ae96-c75fdc8dd448/Reglamento%20de%20Revalidaci%20(1).pdf",
+          "publisher": "Universidad de Chile",
+          "title": "Decreto Universitario Exento N0030.203 (2005)",
+          "date_of_content": "2005-10-27",
+          "quote_original": "En todo caso, la programación de las referidas exigencias curriculares no podrá exceder de tres semestres académicos. El interesado, por su parte, no podrá emplear más de dos años en la aprobación de éstas, contados desde la fecha de conformidad del Prorrector al informe y propuesta señalada en el artículo 9°.",
+          "quote_locator": "Articulo 10, penultimate inciso"
+        }
+      ],
+      "regime": {
+        "norm": "DU Exento UChile N0030.203/2005 arts. 9 and 10",
+        "vigencia": "2005-10-27",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "'Minimo 6 meses' is the REGULATORY / institutional floor. No official OBSERVED duration statistic for Medicina was found; treat any figure circulating online as unverified.",
+        "The two-year clock starts at the Prorrector's approval of the curricular report, not at lodging - so the realistic worst case is roughly 6 months of paperwork plus up to 2 years of examinations."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    },
+    {
+      "id": "L02-C19",
+      "statement": "Failure is terminal for a long period: each examination MAY be sat at most three times, the candidate is declared REPROBADO if all examinations are not passed within two years of acceptance, and a failed, abandoned or renounced process MAY only be restarted after 12 months.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/dam/jcr:7333c60f-5463-4f10-ae96-c75fdc8dd448/Reglamento%20de%20Revalidaci%20(1).pdf",
+          "publisher": "Universidad de Chile",
+          "title": "Decreto Universitario Exento N0030.203 (2005)",
+          "date_of_content": "2005-10-27",
+          "quote_original": "Los postulantes a quienes se haya denegado o que hayan reprobado, abandonado o renunciado el proceso de revalidación o reconocimiento, no podrán reiniciar un nuevo trámite referente al mismo título o grado académico antes de transcurrido el plazo de un año contado desde que se notifique el resultado del proceso.",
+          "quote_locator": "Articulo 20, first inciso"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Procedimiento de Revalidacion de la Facultad de Medicina",
+          "date_of_content": "UNDATED",
+          "quote_original": "-ABANDONO cuando el candidato abandone el proceso, al dejar transcurrir más de 6 meses sin dar cumplimiento a alguno de los deberes que le impone el Decreto Universitario Exento N° 0030.203 de 2005, o mantener sin actividad el desarrollo de las exigencias curriculares.",
+          "quote_locator": "section 'Termino del proceso', third outcome"
+        }
+      ],
+      "regime": {
+        "norm": "DU Exento UChile N0030.203/2005 arts. 10, 12 and 20",
+        "vigencia": "2005-10-27",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "Six months of inactivity is enough to be declared ABANDONO. A candidate who opens the file from Ukraine and then cannot travel risks losing the whole thing plus the fees."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Strong argument against opening the file before her travel and language plan is settled."
+    },
+    {
+      "id": "L02-C20",
+      "statement": "Universidad de Chile states that revalidating there lets the holder practise medicine PRIVATELY or hold public posts not involving the practice of medicine, and presents EUNACOM as a separate additional exam for practising in the public or private health system, so revalidacion alone does not open the public health system.",
+      "answers_question": [2],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "http://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/procedimientos-segun-carreragrado",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Procedimientos segun carrera/grado (Preguntas y Respuestas Frecuentes)",
+          "date_of_content": "UNDATED",
+          "quote_original": "Revalidando en la Universidad de Chile, podrá ejercer su profesión de médico cirujano en el ámbito privado u optar a cargos públicos no referentes al ejercicio de la medicina.",
+          "quote_locator": "section 'Ejercicio profesional del titulo de Medico Cirujano'; retrieved 2026-09-03"
+        },
+        {
+          "url": "http://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/informacion-general",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Informacion General (Preguntas y Respuestas Frecuentes)",
+          "date_of_content": "UNDATED",
+          "quote_original": "La Universidad de Chile no se encuentra facultada para determinar si se debe o no debe revalidar para poder ejercer en nuestro país, ya que su competencia se refiere solamente a la realización del proceso de revalidación y reconocimiento.",
+          "quote_locator": "section 'Es obligacion revalidar mi titulo para ejercer mi profesion en Chile?'; retrieved 2026-09-03"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "This is the university's own summary of a legal question it says it is not competent to answer. Treat as a signpost, not as the legal position; lanes L04 and L05 own the authoritative answer.",
+        "Undated page."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    },
+    {
+      "id": "L02-C21",
+      "statement": "Universidad de Chile's own live FAQ still asserts that it is the ONLY entity performing revalidacion and reconocimiento of foreign titles and degrees, which contradicts Decreto 174/2024 in force since 17 August 2026 and is a live example of official-page staleness.",
+      "answers_question": [2, 3],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "http://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/procedimientos-segun-carreragrado",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Procedimientos segun carrera/grado (Preguntas y Respuestas Frecuentes)",
+          "date_of_content": "UNDATED",
+          "quote_original": "A la fecha, la Universidad de Chile es la única entidad que realiza la revalidación y reconocimiento de títulos y grados extranjeros.",
+          "quote_locator": "closing line of section 'Sobre titulos tecnicos o tecnologicos'; live page retrieved 2026-09-03"
+        }
+      ],
+      "regime": {
+        "norm": "Decreto 174/2024 MINEDUC (in force 2026-08-17) versus an undated UChile web statement",
+        "vigencia": "2026-08-17",
+        "version_consulted": "NONE",
+        "regime_side": "PRE"
+      },
+      "trap_flags": [
+        "The page is undated, so 'a la fecha' has no date. It may still be operationally TRUE (no other university may yet have a working procedure - lane L03 owns that), while being legally wrong.",
+        "Do not cite this page as evidence that other universities cannot act."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    },
+    {
+      "id": "L02-C22",
+      "statement": "Ukraine is not a treaty country, so the Universidad de Chile route is the applicable one; and Ukrainian-titled applicants are almost unprecedented at this office, with only 3 applications carrying Ukrainian titles recorded across 2024 and 2025 out of 2,996 in total.",
+      "answers_question": [2, 5],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-en-la-universidad-de-chile",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Revalidacion y Reconocimiento U. de Chile (Portada)",
+          "date_of_content": "UNDATED",
+          "quote_original": "Es labor de la Universidad de Chile reconocer y revalidar, según corresponda, títulos profesionales y grados académicos, obtenidos en países que no tengan un convenio de reconocimiento vigente con Chile.",
+          "quote_locator": "opening paragraph; retrieved 2026-09-03"
+        },
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/cifras-revalidacion",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Cifras sobre solicitudes de revalidacion",
+          "date_of_content": "UNDATED",
+          "quote_original": "Número de solicitudes de revalidación y reconocimiento según el país de origen del título o grado extranjero a tramitar",
+          "quote_locator": "table heading. The table's row 'Ucrania' shows blank for 2024, 3 for 2025 and 3 as 'Suma total'; the row 'Suma total' shows 1.713 (2024), 1.283 (2025), 2.996 total. Retrieved 2026-09-03."
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The 3 Ukrainian applications are of ANY profession, not necessarily Medicina. The office publishes a separate 'Titulos Solicitados' PDF which was not cross-tabulated by country.",
+        "Low volume means low institutional familiarity with Ukrainian transcripts - a practical risk for the curricular study."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    },
+    {
+      "id": "L02-C23",
+      "statement": "The operative contact points are the Oficina de Revalidacion in Prorrectoria (contactorevalidacion@uchile.cl, +562 29781066 / +569 31092434, Portugal 84 Torre 15 oficina 302 Santiago, appointments only) and, inside the Faculty of Medicine, the Unidad de Coordinacion de Revalidacion (serevalida.med@uchile.cl) whose coordinator is Eduardo Aguayo (eduardo.aguayo@uchile.cl).",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Revalidacion y Reconocimiento",
+          "date_of_content": "UNDATED",
+          "quote_original": "Atención Telefónica: De 9:30 a 12:30 hrs.",
+          "quote_locator": "section 'Contacto'. The same block gives '+562 29781066 / +569 31092434 (Martes, Jueves y Viernes)' and 'Direccion (solo para citas): Portugal 84, Torre 15, oficina 302, Santiago de Chile'. Retrieved 2026-09-03."
+        },
+        {
+          "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/contactos-y-encargados-de-unidades-academicas",
+          "publisher": "Universidad de Chile, Prorrectoria - Oficina de Revalidacion",
+          "title": "Contactos y Encargados de las Unidades Academicas",
+          "date_of_content": "UNDATED",
+          "quote_original": "Secretaría de Estudios - Unidad de Coordinación Revalidación",
+          "quote_locator": "table 'Unidad academica / Oficina responsable / Correo', row 'Facultad de Medicina', middle cell; the third cell of that row reads 'serevalida.med@uchile.cl'. Retrieved 2026-09-03."
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Procedimiento de Revalidacion de la Facultad de Medicina",
+          "date_of_content": "UNDATED",
+          "quote_original": "Para las carreras de Enfermería, Fonoaudiología, Kinesiología, Medicina Nutrición y Dietética, Obstetricia y Puericultura,Tecnología Médica y Terapia Ocupacional:",
+          "quote_locator": "section 'Contacto', introducing 'Eduardo Aguayo : eduardo.aguayo@uchile.cl'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "Two different postal addresses are published for the same office (Portugal 84 on uchile.cl, Diagonal Paraguay 265 on the booking site) and three different mailboxes appear across surfaces (contactorevalidacion@uchile.cl, consultasrevalidacion@u.uchile.cl, citasrevalidacion@uchile.cl). Confirm by phone before travelling."
+      ],
+      "applies_to_her": "yes",
+      "condition": "None."
+    }
+  ],
+  "process_steps": [
+    {
+      "step_no": 1,
+      "name": "Assemble and apostille the Ukrainian documents (diploma, transcript with hours, study plan, subject programmes, professional habilitation) and have them officially translated into Spanish",
+      "actor": "Applicant, Ukrainian authorities, translator",
+      "where": "Ukraine",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Diploma original apostillado", "Concentracion de notas original apostillada", "Plan de estudios original apostillado", "Programas de estudios", "Curriculum Vitae", "Habilitacion profesional apostillada", "Pasaporte"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 120,
+      "source_claim_ids": ["L02-C08", "L02-C09"]
+    },
+    {
+      "step_no": 2,
+      "name": "Create a Cuenta Uchile using the passport as identity document",
+      "actor": "Applicant",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Pasaporte"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 7,
+      "source_claim_ids": ["L02-C03", "L02-C04"]
+    },
+    {
+      "step_no": 3,
+      "name": "Pay the 2 UTM entry arancel in Chilean pesos from a Chilean bank account or by Banco Santander deposit, in the SAME calendar month as the application",
+      "actor": "Applicant or a third party resident in Chile",
+      "where": "Chile",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Comprobante de pago"],
+      "cost_amount": 2,
+      "cost_unit": "UTM",
+      "cost_as_of": "2026-09 (UTM CLP 71.721, so 2 UTM = CLP 143.442)",
+      "duration_days_min": 1,
+      "duration_days_max": 5,
+      "source_claim_ids": ["L02-C05", "L02-C15", "L02-C17"]
+    },
+    {
+      "step_no": 4,
+      "name": "Lodge the application in the Ucampus 'Revalidacion de titulo' module: three-step form, all documents as PDF, signed declaracion jurada, payment receipt attached",
+      "actor": "Applicant",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["All apostilled and translated documents as PDF", "Ficha Declaracion de Solicitud firmada a mano", "Comprobante de pago"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 14,
+      "source_claim_ids": ["L02-C03", "L02-C05"]
+    },
+    {
+      "step_no": 5,
+      "name": "Attend (or send an apoderado to) the cita to verify the ORIGINAL documents, then official registration - STATUS CONTESTED, may no longer exist",
+      "actor": "Applicant or a third party holding an apostilled poder notarial",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": ["Original apostilled diploma, transcript, study plan and habilitacion", "Poder notarial apostillado if a proxy attends"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 20,
+      "duration_days_max": 60,
+      "source_claim_ids": ["L02-C06", "L02-C07", "L02-C08"]
+    },
+    {
+      "step_no": 6,
+      "name": "Pay 3 UTM and undergo the curricular study at the Faculty of Medicine (70 to 80 per cent equivalence threshold)",
+      "actor": "Unidad de Revalida, Secretaria de Estudios, Facultad de Medicina",
+      "where": "Chile",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Expediente digital"],
+      "cost_amount": 3,
+      "cost_unit": "UTM",
+      "cost_as_of": "2026-09 (CLP 215.163)",
+      "duration_days_min": 60,
+      "duration_days_max": 180,
+      "source_claim_ids": ["L02-C10", "L02-C15", "L02-C18"]
+    },
+    {
+      "step_no": 7,
+      "name": "Pay 15 UTM for cumplimiento de exigencias and be allocated a place in the monthly exam calendar",
+      "actor": "Applicant",
+      "where": "Chile",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Comprobante de pago"],
+      "cost_amount": 15,
+      "cost_unit": "UTM",
+      "cost_as_of": "2026-09 (CLP 1.075.815)",
+      "duration_days_min": 1,
+      "duration_days_max": 60,
+      "source_claim_ids": ["L02-C13", "L02-C15", "L02-C16"]
+    },
+    {
+      "step_no": 8,
+      "name": "Sit the theory exam in person at sede Eloisa Diaz: five parts of 20 MCQ on EUNACOM content, 60 per cent pass, up to three attempts, monthly March to December",
+      "actor": "Applicant",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": ["Pasaporte"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 365,
+      "source_claim_ids": ["L02-C11", "L02-C13"]
+    },
+    {
+      "step_no": 9,
+      "name": "Sit the ECOE practical examinations in Medicina Interna, Pediatria, Ginecologia y Obstetricia and Cirugia, up to three attempts each, in Spanish",
+      "actor": "Applicant",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": ["Pasaporte"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 60,
+      "duration_days_max": 540,
+      "source_claim_ids": ["L02-C12", "L02-C14", "L02-C19"]
+    },
+    {
+      "step_no": 10,
+      "name": "Prorrector resolves the revalidacion; Oficina de Titulos y Grados issues the diploma; the Registro Civil is notified for the Registro Publico de Profesionales",
+      "actor": "Prorrectoria and Oficina de Titulos y Grados, Universidad de Chile",
+      "where": "Chile",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Oficio de aprobacion", "Diploma de revalidacion"],
+      "cost_amount": 52000,
+      "cost_unit": "CLP",
+      "cost_as_of": "UNDATED page, retrieved 2026-09-03",
+      "duration_days_min": 15,
+      "duration_days_max": 90,
+      "source_claim_ids": ["L02-C15", "L02-C18"]
+    }
+  ],
+  "entities": [
+    {
+      "name": "Oficina de Revalidacion y Reconocimiento de Titulos y Grados Extranjeros, Prorrectoria, Universidad de Chile",
+      "role": "Owns the whole revalidacion process: receives the application, verifies documents, routes to the faculty, and the Prorrector resolves",
+      "url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+      "email": "contactorevalidacion@uchile.cl",
+      "phone": "+562 29781066 / +569 31092434"
+    },
+    {
+      "name": "Unidad de Coordinacion de Revalidacion, Secretaria de Estudios, Facultad de Medicina, Universidad de Chile",
+      "role": "Runs the curricular study and the theory and ECOE examinations for the titulo de Medico Cirujano; address Av. Independencia 1027, Independencia, Santiago (sede Eloisa Diaz)",
+      "url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+      "email": "serevalida.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Eduardo Aguayo, Coordinador del proceso de Revalidacion, Facultad de Medicina",
+      "role": "Named contact for Medicina, Enfermeria, Fonoaudiologia, Kinesiologia, Nutricion, Obstetricia, Tecnologia Medica and Terapia Ocupacional; handles EUNACOM stage homologation requests",
+      "url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+      "email": "eduardo.aguayo@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Ucampus - modulo Revalidacion de Titulo",
+      "role": "The only portal for lodging and tracking the application",
+      "url": "https://ucampus.uchile.cl/m/prorrectoria_revalidacion_postulacion/",
+      "email": "mesadeayuda@u.uchile.cl",
+      "phone": "+562 2978 0911"
+    },
+    {
+      "name": "Agenda de citas de la Oficina de Revalidacion (SimplyBook)",
+      "role": "Appointment booking, stated to be only for files already in process; published address Diagonal Paraguay 265, oficina 302, Santiago",
+      "url": "https://prorrectoria.simplybook.me/v2/",
+      "email": "consultasrevalidacion@u.uchile.cl",
+      "phone": "+56 9 3109 2434"
+    },
+    {
+      "name": "Consulta de Titulos Profesionales Extranjeros revalidados por la Universidad de Chile",
+      "role": "Public register to verify who has completed a revalidacion or reconocimiento",
+      "url": "https://revalidaciones.uchile.cl/",
+      "email": "contactorevalidacion@uchile.cl",
+      "phone": "+562 29781066"
+    },
+    {
+      "name": "Oficina de Titulos y Grados, Universidad de Chile",
+      "role": "Issues the revalidacion diploma (CLP 52.000) and certificates (CLP 26.000) and reports monthly to the Registro Civil for the Registro Publico de Profesionales",
+      "url": "https://uchile.cl/presentacion/prorrectoria/oficina-de-titulos-y-grados/oficina-de-titulos-y-grados",
+      "email": "unknown",
+      "phone": "unknown"
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "Is the in-person cita to cotejar the original documents still required at Universidad de Chile after the 2026 rewrite of the Etapas page, and can an apoderado with an apostilled poder notarial still attend in the applicant's place?",
+      "why_it_matters": "This single point decides whether she can open and advance a file from Vinnytsia at all, or whether someone must physically carry the apostilled originals to Santiago. It also decides whether her son in Chile can act for her.",
+      "how_to_resolve": "Write in Spanish to contactorevalidacion@uchile.cl and consultasrevalidacion@u.uchile.cl citing the two contradicting pages, and ask (a) whether a cita presencial is still part of the flow, (b) whether a tercero con poder notarial apostillado is accepted, (c) whether the originals must be physically in Santiago. Phone +569 31092434 Tuesday, Thursday and Friday 09:30-12:30 Chile time.",
+      "blocking": true
+    },
+    {
+      "question": "Will the Oficina de Revalidacion accept a bank transfer whose reference carries a PASSPORT number instead of a RUT, and will it accept payment from a third party who is not the applicant?",
+      "why_it_matters": "The instructivo tells third-party payers to quote the applicant's RUT. She has no RUT. If a passport number is not accepted, every one of the three payments is blocked.",
+      "how_to_resolve": "Same email and phone enquiry, asking for written confirmation of the reference format for a non-resident applicant.",
+      "blocking": true
+    },
+    {
+      "question": "How does the Facultad de Medicina actually verify 'dominio razonable del idioma espanol', and is there a minimum level or certificate?",
+      "why_it_matters": "She is assumed to have no Spanish. If there is a formal test at entry, the whole route is blocked until she reaches a working level; if it is de facto tested only by the exams, she can start the paperwork while learning.",
+      "how_to_resolve": "Ask serevalida.med@uchile.cl and eduardo.aguayo@uchile.cl directly, citing art. 6 inciso final of DU Exento N0030.203.",
+      "blocking": true
+    },
+    {
+      "question": "What is the OBSERVED elapsed time from Ucampus lodgement to a revalidated titulo de Medico Cirujano at Universidad de Chile, as opposed to the published 'minimo 6 meses'?",
+      "why_it_matters": "The planning horizon for her whole move depends on it; the regulatory floor is almost certainly far below reality given monthly capped exam slots.",
+      "how_to_resolve": "Ask the Oficina de Revalidacion for the median duration of Medicina files closed in 2025 and 2026, and request the 'Titulos Solicitados proceso de Revalidacion' dataset broken down by outcome. A Ley de Transparencia request via the 'Solicitud de informacion' link on uchile.cl is the fallback.",
+      "blocking": false
+    },
+    {
+      "question": "Does Decreto Exento N384/2026 legally bind Universidad de Chile's revalidacion of a foreign PROFESSIONAL title, given that art. 1 of Decreto 174/2024 limits the reglamento's application to UChile to technical titles and convalidacion?",
+      "why_it_matters": "It determines whether the 2/3/15/20 UTM ceilings are a legal cap on UChile's medicina fees or merely a coincidence, and therefore whether UChile could raise the medicina fees unilaterally.",
+      "how_to_resolve": "Read the full text of DFL 3/2006 art. 6 on bcn.cl/leychile, and check for any Contraloria dictamen after 17 Aug 2026 on the interaction. Lane L01 owns the legal reading.",
+      "blocking": false
+    },
+    {
+      "question": "Is there a published 2026 examination calendar for the Medicina revalidacion, and how long is the current queue for a cupo?",
+      "why_it_matters": "'Cupos limitados' with monthly sittings and a hard two-year completion clock means a long queue could itself cause a REPROBADO.",
+      "how_to_resolve": "Ask eduardo.aguayo@uchile.cl for the 2026 and 2027 calendar and the typical wait between paying the 15 UTM and being given a date.",
+      "blocking": false
+    },
+    {
+      "question": "Does the Faculty of Medicine ever require 'actividades curriculares adicionales' under art. 10 c) rather than only examinations for a foreign medical graduate, and at what additional cost?",
+      "why_it_matters": "Art. 10 c) lets the Faculty impose additional coursework priced by reference to a first-year Medicina arancel, and DEX 384 allows up to 20 UTM for this. That would add a year and a large sum that none of the published medicina material mentions.",
+      "how_to_resolve": "Ask the Faculty whether art. 10 c) has ever been applied to a Medicina revalidante and what it cost.",
+      "blocking": false
+    }
+  ],
+  "unknowns_declared": [
+    "The language of the Medicina revalidacion examinations is NOT stated on any page found. Spanish is overwhelmingly likely (sat in person in Santiago, and the reglamento requires Spanish proficiency) but it is an inference, not a sourced fact.",
+    "No official OBSERVED duration for a Medicina revalidacion was found. The only sourced number is the university's own 'duracion minima de 6 meses'. Any total-duration figure elsewhere in this project should be labelled an estimate.",
+    "No published pass rate, application count or approval count specific to Medicina revalidacion was found. The 'Titulos Solicitados proceso de Revalidacion' PDF was identified on the Cifras page but was not opened or cross-tabulated by country or outcome.",
+    "Whether the in-person cita still exists is genuinely unresolved (L02-C06). Three live official surfaces disagree with each other today.",
+    "It is unknown whether a Chilean bank account is needed for the later 3 UTM and 15 UTM payments too. The 'pesos chilenos desde una cuenta chilena' rule is stated only for the 2 UTM entry fee; the Faculty page lists 'transferencia electronica, caja del Banco de Chile, o tarjeta de credito' for the other two, which might admit a foreign credit card - not verified.",
+    "It is unknown whether the Oficina de Revalidacion will accept a Ukrainian equivalent of 'habilitacion profesional', or what document Ukraine issues that satisfies art. 6 f). Lane L08 owns the Ukrainian document chain.",
+    "Decreto Exento N384/2026 was read from a scanned image with no text layer. The quoted articles were transcribed visually; the substance is certain but character-level fidelity is not guaranteed.",
+    "The Facultad de Medicina revalidacion PDF is dated only by its file metadata (11 Aug 2025) and the linking web page carries no date at all, so the exam design and fees could have changed in the year since.",
+    "No evidence was found either way on whether Universidad de Chile changed anything operationally because of Decreto 174/2024 entering into force on 17 August 2026, beyond swapping the attached regulations on the Etapas page and deleting the cita bullets.",
+    "The correct postal address of the Oficina de Revalidacion is uncertain: uchile.cl publishes Portugal 84, Torre 15, oficina 302 while the live booking site publishes Diagonal Paraguay 265, oficina 302.",
+    "No information was found on whether the Facultad de Medicina gives any weight to a foreign specialty (rheumatology) or postgraduate degree during the curricular study; the published exam design is entirely general-practice."
+  ]
+}
