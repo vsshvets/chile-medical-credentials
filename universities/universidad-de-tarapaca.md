@@ -14,7 +14,7 @@
 | **Акредитація програми (CNA)** | 5 років, до 19-03-2030 |
 | **Медичний факультет** | [Facultad de Medicina](https://www.uta.cl/index.php/portada-facultad-de-medicina/) |
 | **Декан** | Andrea Larrazábal Miranda |
-| **Ревматологія** | є підрозділ у клінічній базі · немає ординатури |
+| **Ревматологія** | є підрозділ у клінічній базі · немає програми підготовки за спеціальністю |
 | **Вакансії** | [сторінка конкурсів](https://www.uta.cl/transparencia/actosyresoluciones_d/concursos/2026/) |
 
 ## Про факультет

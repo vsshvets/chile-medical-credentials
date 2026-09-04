@@ -14,7 +14,7 @@
 | **Акредитація програми (CNA)** | 3 роки, до 02-09-2029 |
 | **Медичний факультет** | [Facultad de Medicina y Ciencias de la Salud (FAMEDSA)](https://famedsa.ucentral.cl/) |
 | **Декан** | Dra. Gisela Alarcón Rojas (Decana (I)) |
-| **Ревматологія** | є підрозділ · немає ординатури |
+| **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
 | **Вакансії** | [сторінка конкурсів](https://funcionarios.ucentral.cl/sgca/pages/ofertaPublica.xhtml) |
 
 ## Про факультет
@@ -27,7 +27,7 @@ Facultad de Medicina y Ciencias de la Salud (FAMEDSA) створено 2009 ро
 
 ## Ревматологія
 
-У Hospital Clínico San Borja Arriarán, який входить до переліку клінічних баз, діють Reumatología Adulto та Reumatología Infantil. Окремого підрозділу ревматології UCEN не підтверджено. На сторінці післядипломних програм FAMEDSA спеціальність або ординатуру з ревматології не зазначено.
+У Hospital Clínico San Borja Arriarán, який входить до переліку клінічних баз, діють Reumatología Adulto та Reumatología Infantil. Окремого підрозділу ревматології UCEN не підтверджено. На сторінці післядипломних програм FAMEDSA спеціальність або програму підготовки з ревматології не зазначено.
 
 ## Чи наймають
 

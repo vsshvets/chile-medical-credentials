@@ -27,7 +27,7 @@ Facultad de Medicina y Odontología міститься в Campus Coloso Universi
 
 ## Ревматологія
 
-У HCUA є Servicio de Telemedicina del Hospital Clínico de la Universidad de Antofagasta (atención de Reumatología): сервіс надає дистанційні консультації з ревматології. Це клінічна допомога, а не окрема освітня програма. Лікарська спеціальність Reumatología у поточному переліку програм факультету не зазначена, тому ординатури з ревматології немає.
+У HCUA є Servicio de Telemedicina del Hospital Clínico de la Universidad de Antofagasta (atención de Reumatología): сервіс надає дистанційні консультації з ревматології. Це клінічна допомога, а не окрема освітня програма. Лікарська спеціальність Reumatología у поточному переліку програм факультету не зазначена, тому програми підготовки з ревматології немає.
 
 ## Чи наймають
 

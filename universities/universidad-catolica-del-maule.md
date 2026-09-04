@@ -14,7 +14,7 @@
 | **Акредитація програми (CNA)** | 5 років, до 05-10-2027 |
 | **Медичний факультет** | [Facultad de Medicina](https://www.ucm.cl/facultades/facultad-de-medicina/) |
 | **Декан** | Dr. Iván Castillo Montecino |
-| **Ревматологія** | є підрозділ · немає ординатури |
+| **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
 | **Вакансії** | [сторінка конкурсів](https://ucatolicamaule.trabajando.cl/) |
 
 ## Про факультет
@@ -27,7 +27,7 @@ Facultad de Medicina розташований у Campus San Miguel за адре
 
 ## Ревматологія
 
-У Hospital Regional de Talca задокументовано амбулаторний Subproceso de Atención de Reumatología, зокрема «Consulta de Reumatología». В оприлюдненому UCM переліку лікарських спеціальностей і субспеціальностей ревматології немає, тому ординатуру з ревматології в UCM не пропонують.
+У Hospital Regional de Talca задокументовано амбулаторний Subproceso de Atención de Reumatología, зокрема «Consulta de Reumatología». В оприлюдненому UCM переліку лікарських спеціальностей і субспеціальностей ревматології немає, тому програму підготовки з ревматології в UCM не пропонують.
 
 ## Чи наймають
 

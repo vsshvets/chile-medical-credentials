@@ -14,7 +14,7 @@
 | **Акредитація програми (CNA)** | 4 років, до In progress(*) |
 | **Медичний факультет** | [Escuela de Medicina](https://umag.cl/facultades-2/escuela-de-medicina/) |
 | **Декан** | не вдалося підтвердити |
-| **Ревматологія** | є підрозділ · немає ординатури |
+| **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
 | **Вакансії** | [Dirección de Gestión y Desarrollo de Personas](https://umag.cl/nuestra-universidad/vicerrectoria-de-adm-y-finanzas/direccion-de-gestion-y-desarrollo-de-personas/) |
 
 ## Про факультет

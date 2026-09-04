@@ -14,7 +14,7 @@
 | **Акредитація програми (CNA)** | 6 років, до 24-07-2030 |
 | **Медичний факультет** | [Facultad de Medicina](https://www.ucn.cl/universidad/facultades-escuelas-y-departamentos/facultad-de-medicina/) |
 | **Декан** | Paula Ligeti Stuardo |
-| **Ревматологія** | є підрозділ · немає ординатури |
+| **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
 | **Вакансії** | [сторінка конкурсів](https://www.ucn.cl/trabaja-con-nosotros/) |
 
 ## Про факультет

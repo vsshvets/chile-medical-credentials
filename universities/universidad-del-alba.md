@@ -14,7 +14,7 @@
 | **Акредитація програми (CNA)** | 3 роки, до 07-01-2029 |
 | **Медичний факультет** | [Facultad de Ciencias de la Salud](https://www.udalba.cl/medicina/) |
 | **Декан** | Dra. María Verónica Morales Vaccarezza |
-| **Ревматологія** | є підрозділ · ординатуру не вдалося підтвердити |
+| **Ревматологія** | є підрозділ · програму підготовки за спеціальністю не вдалося підтвердити |
 | **Вакансії** | [Portal de Provisión Docente](https://postulaciondocente.udalba.cl/) |
 
 ## Про факультет
