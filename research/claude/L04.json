@@ -1,0 +1,1121 @@
+{
+  "lane_id": "L04",
+  "status": "complete",
+  "claims": [
+    {
+      "id": "L04-C01",
+      "statement": "The scouting claim is CONFIRMED at statute level: Ley 20.261 art. 1 inciso 3 states that professionals who pass EUNACOM 'habran revalidado automaticamente' their professional title of medico cirujano, needing no other requirement for that purpose; this is original 2008 text carrying no modification marker in the LeyChile consolidated version.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.bcn.cl/leychile/navegar?idNorma=270584",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20261 - CREA EXAMEN UNICO NACIONAL DE CONOCIMIENTOS DE MEDICINA, INCORPORA CARGOS QUE INDICA AL SISTEMA DE ALTA DIRECCION PUBLICA Y MODIFICA LA LEY Nº19.664",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Se entenderá que los profesionales que aprueben el examen único nacional de conocimientos de medicina, habrán revalidado automáticamente su título profesional de médico cirujano, sin necesitar cumplir ningún otro requisito para este efecto.",
+          "quote_locator": "Artículo 1º, inciso tercero. Page banner reads 'Versión: Última Versión - 24-MAY-2025'; 'Última modificación: 24-MAY-2025 - Ley 21746'. This inciso carries NO modification marker, i.e. it is unmodified original text of 2008."
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 1 inciso 3",
+        "vigencia": "2009-04-20 (per art. primero transitorio and ASOFAMECH's own statement); text as consolidated at 2025-05-24",
+        "version_consulted": "Última Versión - 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The statutory revalidation is of the TITULO PROFESIONAL de medico cirujano only. It is NOT recognition of an academic degree (grado de doctor / PhD) and NOT certification of a specialty. Do not extend it.",
+        "The scope of this inciso has been administratively contested since 2009 - see L04-C20 and L04-C21.",
+        "Decreto 174/2024 + Ley 21.325 art. 143 changed WHO may revalidate a foreign degree. It did not touch the EUNACOM route, which is a separate statutory mechanism under Ley 20.261."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Applies to her as a foreign-titled medico. She must actually pass BOTH sections of the exam (see L04-C09 and L04-C10) - the revalidation attaches to passing the whole EUNACOM, not the theoretical section alone."
+    },
+    {
+      "id": "L04-C02",
+      "statement": "Ley 20.261 art. 1 inciso 1 makes passing EUNACOM a MUST for entry to medico cirujano posts in the Servicios de Salud, in the experimental establishments of Ley 19.650 art. 6, and in municipal primary-care (APS) establishments; those institutions may not contract a doctor in any legal capacity without the minimum score.",
+      "answers_question": [2, 4],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.bcn.cl/leychile/navegar?idNorma=270584",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20261 - Crea examen único nacional de conocimientos de medicina",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Las instituciones señaladas sólo podrán contratar, en cualquier calidad jurídica y modalidad, a médicos cirujanos que hayan obtenido, de conformidad a lo que establezca el reglamento, la puntuación mínima requerida en dicho examen.",
+          "quote_locator": "Artículo 1º, inciso primero, final sentence"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 1 inciso 1",
+        "vigencia": "2009-04-20",
+        "version_consulted": "Última Versión - 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "'en cualquier calidad jurídica y modalidad' closes the honorarios / contrata loophole for these employers specifically."
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Binds her only if she seeks a post in a Servicio de Salud, an Ley 19.650 experimental establishment, or municipal APS. It does not by its terms reach a university teaching post."
+    },
+    {
+      "id": "L04-C03",
+      "statement": "Since 24 May 2026, a medico cirujano who obtained his or her title from 19 April 2009 onward MUST hold a passed EUNACOM to remain enabled to issue licencias medicas; the norm is Ley 20.261 art. 1 inciso 2 as inserted by Ley 21.746 (D.O. 24.05.2025), and the reported 'May 2026 rule' is the deferred entry into force of that 2025 law, not a new 2026 statute.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.bcn.cl/leychile/navegar?idNorma=270584",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20261 - Crea examen único nacional de conocimientos de medicina",
+          "date_of_content": "2025-05-24",
+          "quote_original": "También el examen único nacional de conocimientos de medicina será requisito para otorgar licencias médicas, de conformidad con la ley Nº 20.585, sobre otorgamiento y uso de licencias médicas.",
+          "quote_locator": "Artículo 1º, inciso segundo, carrying the marginal note 'Ley 21746 Art. 3 N° 1 D.O. 24.05.2025'. The LeyChile markdown interleaves that marker mid-sentence after the words 'También el examen único nacional de'."
+        },
+        {
+          "url": "https://www.suseso.gob.cl/605/w3-article-781252.html",
+          "publisher": "Superintendencia de Seguridad Social (SUSESO), Gobierno de Chile",
+          "title": "Normativa exige Eunacom para emitir licencias médicas desde mayo de 2026",
+          "date_of_content": "2026-05-22",
+          "quote_original": "las y los médicos cirujanos que hayan obtenido su título profesional a partir del 19 de abril de 2009, deberán acreditar la aprobación del Examen Único Nacional de Conocimientos de Medicina (Eunacom) para mantener la habilitación para emitir licencias médicas.",
+          "quote_locator": "Body, fourth paragraph"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 1 inciso 2, inserted by Ley 21.746 art. 3 N° 1 (D.O. 24.05.2025)",
+        "vigencia": "2026-05-24 for the licencias medicas requirement",
+        "version_consulted": "Última Versión - 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "Do NOT date this rule to 2026 legislation. The law is Ley 21.746, published 24 May 2025; only the effect was deferred one year.",
+        "SUSESO also records a CONACEM/certified-specialist exception - see L04-C06."
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Bites only if she ever wants to sign sick-leave certificates in Chile. Irrelevant to a pure teaching post."
+    },
+    {
+      "id": "L04-C04",
+      "statement": "A medico cirujano MUST have the minimum EUNACOM score in order to deliver services to FONASA beneficiaries under the modalidad de libre eleccion, and that fact must be recorded in the convenio.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.bcn.cl/leychile/navegar?idNorma=270584",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20261 - Crea examen único nacional de conocimientos de medicina",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Los médicos cirujanos, para otorgar las prestaciones de salud a los beneficiarios del régimen que regula el Libro II del decreto con fuerza de ley Nº 1, del Ministerio de Salud, de 2005, en la modalidad de libre elección, deberán haber obtenido",
+          "quote_locator": "Artículo 1º, inciso cuarto (opening)"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 1 inciso 4",
+        "vigencia": "2009-04-20",
+        "version_consulted": "Última Versión - 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [],
+      "applies_to_her": "conditional",
+      "condition": "Relevant only to Scenario C (clinical practice billing FONASA libre eleccion)."
+    },
+    {
+      "id": "L04-C05",
+      "statement": "Ley 20.261 art. 2 makes the minimum EUNACOM score a MUST in order to apply to perfeccionamiento, postitulo, postgrado (including degree-conferring), specialisation and subspecialisation programmes that are State-financed OR run wholly or partly in State health establishments; Universidad de Chile applies this to its own specialist programmes.",
+      "answers_question": [2, 3],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.bcn.cl/leychile/navegar?idNorma=270584",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20261 - Crea examen único nacional de conocimientos de medicina",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Sin perjuicio de los demás requisitos que se exijan, los médicos cirujanos deberán haber obtenido, a lo menos, la puntuación mínima que establezca el reglamento respecto del examen señalado en el artículo anterior para postular a programas de perfeccionamiento, de postítulo, de postgrado",
+          "quote_locator": "Artículo 2º (opening)"
+        },
+        {
+          "url": "https://medicina.uchile.cl/postgrado/programas-de-formacion-de-especialistas/informacion-para-medicos-extranjeros",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Información para médicos extranjeros",
+          "date_of_content": "UNDATED",
+          "quote_original": "Por mandato de la Ley 20.261 que entró en vigor en abril del año 2009, los médicos titulados en Chile y en universidades extranjeras deben rendir y haber aprobado el Examen Único Nacional de Conocimientos de Medicina (EUNACOM) con anterioridad a la postulación a los programas",
+          "quote_locator": "Section 'Ley 20.261', first paragraph"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 2",
+        "vigencia": "2009-04-20",
+        "version_consulted": "Última Versión - 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "This is the article that would bite if she ever tried to enter a Chilean rheumatology residency rather than import her Ukrainian specialty.",
+        "The Universidad de Chile page is UNDATED and treated as stale; it is cited only as corroboration of practice, not as the norm."
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Applies if she pursues Chilean specialty training. Not needed if her Ukrainian rheumatology specialty is certified through CONACEM instead (L05)."
+    },
+    {
+      "id": "L04-C06",
+      "statement": "Ley 20.261 art. 2 bis creates an EUNACOM-FREE alternative that fits her profile: a MINSAL-authorised certifying body (e.g. CONACEM) MAY certify the specialty of a doctor titled abroad who is not yet enabled to practise in Chile and has no EUNACOM, and such a doctor is then not required to sit EUNACOM at all - but the practice so unlocked is limited to the certified specialty and only in the public sector.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.bcn.cl/leychile/navegar?idNorma=270584",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20261 - Crea examen único nacional de conocimientos de medicina",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Con todo, el ejercicio de su profesión quedará limitado al de la especialidad o subespecialidad que le fuere certificada, y sólo para el sector público.",
+          "quote_locator": "Artículo 2 bis, inciso segundo, final sentence (article added by Ley 20985, Art. ÚNICO, D.O. 12.01.2017)"
+        },
+        {
+          "url": "https://www.suseso.gob.cl/605/w3-article-781252.html",
+          "publisher": "Superintendencia de Seguridad Social (SUSESO), Gobierno de Chile",
+          "title": "Normativa exige Eunacom para emitir licencias médicas desde mayo de 2026",
+          "date_of_content": "2026-05-22",
+          "quote_original": "La ley contempla una excepción para médicos especialistas y subespecialistas certificados en Chile ante entidades autorizadas por el Ministerio de Salud, como la Corporación Nacional de Certificación de Especialidades Médicas (Conacem)",
+          "quote_locator": "Body, fifth paragraph"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 2 bis (added by Ley 20.985, D.O. 12.01.2017)",
+        "vigencia": "2017-01-12",
+        "version_consulted": "Última Versión - 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "This is a genuine ALTERNATIVE ROUTE for a foreign specialist and is routinely missed. It buys public-sector specialty practice without EUNACOM, but it does NOT revalidate the title and does NOT open private practice.",
+        "Whether CONACEM will accept a Ukrainian rheumatology specialty certificate as input is a separate question and belongs to L05 - do not assume it will."
+      ],
+      "applies_to_her": "yes",
+      "condition": "She is a practising rheumatologist holding a Ukrainian specialty, so this route is on the table. Its value depends entirely on whether CONACEM accepts her dossier (L05)."
+    },
+    {
+      "id": "L04-C07",
+      "statement": "Articles 1 and 2 of Ley 20.261 entered into force one year after publication, i.e. 2009 (ASOFAMECH states 20 April 2009), and they expressly do not apply to doctors titled in Chile before that date nor to doctors who had already obtained reconocimiento, revalidacion or convalidacion of a foreign title in Chile before that date.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.bcn.cl/leychile/navegar?idNorma=270584",
+          "publisher": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+          "title": "Ley 20261 - Crea examen único nacional de conocimientos de medicina",
+          "date_of_content": "2025-05-24",
+          "quote_original": "Los artículos 1º y 2º entrarán en vigencia a contar del año siguiente a la fecha de publicación de la presente ley en el Diario Oficial. Dichos artículos no serán aplicables a los médicos cirujanos titulados en Chile antes de la entrada en vigencia de los mismos.",
+          "quote_locator": "ARTÍCULOS TRANSITORIOS, Artículo primero, inciso primero"
+        },
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/reglamentacion.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Reglamentación - Leyes y reglamentos",
+          "date_of_content": "UNDATED",
+          "quote_original": "Publicada el 19 de abril de 2008, entró en vigencia el 20 de abril de 2009. Establece que para acceder a cargos médicos financiados por el estado, los médicos deberán obtener un puntaje mínimo en un examen de conocimientos médicos.",
+          "quote_locator": "Column 'Leyes y reglamentos', note under Ley 20.261 (page reflows the text across lines)"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. primero transitorio",
+        "vigencia": "2009-04-20",
+        "version_consulted": "Última Versión - 24-MAY-2025",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The grandfather clause protects people ALREADY revalidated before 2009. It is of no use to her - she has nothing in Chile."
+      ],
+      "applies_to_her": "no",
+      "condition": "The exemption does not reach her: she has never revalidated anything in Chile."
+    },
+    {
+      "id": "L04-C08",
+      "statement": "ASOFAMECH's own binding Normativa EUNACOM, in force since 1 January 2026, restates the automatic revalidation but adds a qualifier the statute does not contain - 'para ejercer la profesión en Chile' - so the operating body itself reads the revalidation as being for PROFESSIONAL PRACTICE, not as a general academic equivalence.",
+      "answers_question": [2, 3],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "Cualquier médico titulado en el extranjero que apruebe el EUNACOM habrá revalidado automáticamente su título para ejercer la profesión en Chile, sin necesidad de cumplir ningún otro requisito para este efecto.",
+          "quote_locator": "Art. 2.2. Document header: 'Aprobada en: Directorio EUNACOM el día lunes 29 de diciembre de 2025. Anuncio: 31 de diciembre de 2025. En vigencia desde: 1ro de enero de 2026.'"
+        },
+        {
+          "url": "https://www.eunacom.cl/home.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "EUNACOM - Home",
+          "date_of_content": "2026-07-15",
+          "quote_original": "La aprobación del EUNACOM significa la revalidación automática del título de médico obtenido en el extranjero.",
+          "quote_locator": "Home page 'Qué es' block, sentence following the a)-d) list of legal uses. Most recent news item on the page is dated [15 jul 2026]."
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM (ASOFAMECH) art. 2.2; glossing Ley 20.261 art. 1 inc. 3",
+        "vigencia": "2026-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The added words 'para ejercer la profesión en Chile' are ASOFAMECH's gloss, not the statute. A Chilean university evaluating an academic hire is not bound by it and is not bound to treat EUNACOM as saying anything about her PhD or her docent rank.",
+        "The Normativa is a private association's rulebook, not a reglamento. It cannot enlarge or shrink Ley 20.261, but it is what the office in Merced 280 will actually apply."
+      ],
+      "applies_to_her": "yes",
+      "condition": "This is the text the registration office operates on."
+    },
+    {
+      "id": "L04-C09",
+      "statement": "EUNACOM has two sections and the revalidation attaches only to passing BOTH: the theoretical EUNACOM-ST and the practical EUNACOM-SP, the latter composed of four etapas (Medicina Interna, Pediatria, Obstetricia-ginecologia, Cirugia) which MUST be sat exclusively in person.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "El EUNACOM-SP se compone de 4 etapas: Medicina Interna, Pediatría, Obstetricia-ginecología y Cirugía, que se rinden en forma exclusivamente presencial, en el orden que determine la escuela examinadora.",
+          "quote_locator": "Art. 7.2"
+        },
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "Al aprobar el EUNACOM-SP, y sólo si la aprobación de la Sección Teórica se encuentra vigente, se considerará aprobado el EUNACOM.",
+          "quote_locator": "Art. 3.6"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM arts. 3.1, 3.5, 3.6, 7.2",
+        "vigencia": "2026-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "Passing only the ST is NOT a revalidation. Blogs routinely conflate 'passing EUNACOM' with 'passing the written exam'.",
+        "The SP is a four-station OSCE run by an assigned Chilean medical school, with real or simulated patients, and art. 7.4.1 expressly assesses the ability to communicate effectively with the patient."
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L04-C10",
+      "statement": "Because Ukraine has no bilateral degree-recognition treaty with Chile, she MUST actually sit the practical EUNACOM-SP: homologation without sitting is available only to doctors titled in Argentina, Brasil, Colombia, Ecuador, Espana, Reino Unido or Uruguay, or to those who have already completed revalidation at Universidad de Chile.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/inscripcion/inscripcion.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Inscripción al EUNACOM",
+          "date_of_content": "UNDATED",
+          "quote_original": "Argentina, Brasil, Colombia, Ecuador, España, Reino Unido y Uruguay poseen convenios bilaterales de reconocimiento de título y pueden solicitar homologar la sección práctica, sin necesidad de rendirla.",
+          "quote_locator": "Section 'Inscripción EUNACOM-SP', point 1 'Homologación de la sección práctica'"
+        },
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "Los médicos titulados en el extranjero que hayan completado y aprobado el proceso de reválida o de reconocimiento en la Universidad de Chile.",
+          "quote_locator": "Art. 6.1.2.2"
+        },
+        {
+          "url": "https://www.eunacom.cl/noticias/2019.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Noticias 2019 - Procedimiento de homologación del EUNACOM-SP para médicos titulados en países con convenio",
+          "date_of_content": "2019-08-30",
+          "quote_original": "Uruguay (1918), Colombia (1922), Brasil (1979), Argentina (2012), Ecuador (1917, 2015), Reino Unido (2018) y España (2018), poseen convenios bilaterales con nuestro país que permiten a profesionales titulados en esos países ejercer su profesión en Chile",
+          "quote_locator": "News item dated [30 ago 2019], opening paragraph (page renders the years in bold)"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM art. 6.1.2; Contraloría dictamen 19.401 of 19-07-2019 as applied by ASOFAMECH",
+        "vigencia": "2026-01-01 (current Normativa)",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "STALENESS RISK ON A POST-2026-08-17 POINT: art. 6.1.2.2 of the Normativa in force since 1 Jan 2026 still names ONLY Universidad de Chile as the revalidation body whose output homologates the SP. It was drafted before the 17 August 2026 change that lets other accredited State universities revalidate. Whether ASOFAMECH will accept a revalidation granted by, say, USACH is UNRESOLVED and is a real open question.",
+        "The seven-country list is a closed list. Ukraine is not on it and no source found suggests any Chile-Ukraine convention exists."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Unless she first completes a full revalidation at Universidad de Chile (in which case the SP homologates and EUNACOM becomes largely redundant), she must sit all four SP etapas."
+    },
+    {
+      "id": "L04-C11",
+      "statement": "ORDERING ANSWER: revalidacion is NOT a prerequisite for EUNACOM - it is an alternative to it. A doctor titled abroad whose degree has never been revalidated in Chile MAY register for EUNACOM directly; revalidation at Universidad de Chile only matters as a route to skip the practical section.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "Médicos titulados en el extranjero con anterioridad al 20 de abril de 2009 que no hayan revalidado su título profesional en Chile.",
+          "quote_locator": "Art. 5.3 letter c), in the list 'Podrán inscribirse para rendir el EUNACOM-ST'"
+        },
+        {
+          "url": "https://www.eunacom.cl/inscripcion/inscripcion.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Inscripción al EUNACOM",
+          "date_of_content": "UNDATED",
+          "quote_original": "Para rendir el EUNACOM-ST es necesario estar en posesión del título chileno de médico cirujano o del título equivalente obtenido en el extranjero.",
+          "quote_locator": "Section 'Inscripción EUNACOM-ST', opening sentence"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM arts. 5.3, 1.4",
+        "vigencia": "2026-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The only entry condition is holding the foreign medical title, duly apostilled. There is no prior Chilean administrative act to obtain first.",
+        "Art. 5.3.c) is written for pre-2009 graduates; art. 5.3.a) covers those titled after 20 April 2009. Either way a never-revalidated foreign title is admissible."
+      ],
+      "applies_to_her": "yes",
+      "condition": "She holds a Ukrainian medical title. She can start with EUNACOM without touching any Chilean university."
+    },
+    {
+      "id": "L04-C12",
+      "statement": "She does NOT need a RUT, a Chilean ID card, a visa or Chilean residency to register for or sit EUNACOM: a valid passport is expressly accepted for foreign nationals who do not yet hold a Chilean cedula, and examinees present with 'RUT o Pasaporte, segun corresponda'.",
+      "answers_question": [2, 6],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/DocumentosRequeridos.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Documentación requerida para inscripción presencial al ST (Procedimiento 02-2010)",
+          "date_of_content": "UNDATED",
+          "quote_original": "Los médicos de otra nacionalidad deberán inscribirse con cédula de identidad chilena o con pasaporte vigente si aún no han obtenido su cédula chilena; en cualquiera de los dos casos deberán dejar una copia simple del documento en poder de ASOFAMECH.",
+          "quote_locator": "Point 1 'Documento oficial de identidad', second bullet (the words 'Los médicos de otra nacionalidad' are italicised on the page)"
+        },
+        {
+          "url": "https://www.eunacom.cl/home.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "EUNACOM - Home, news item on sedes for EUNACOM-ST July 2026",
+          "date_of_content": "2026-06-26",
+          "quote_original": "Los examinados deberán presentarse con el mismo documento de identidad con que se inscribieron para el EUNACOM, RUT o Pasaporte, según corresponda.",
+          "quote_locator": "News item dated [26 junio 2026]"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (administrative practice of ASOFAMECH)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "No immigration status is tested at the EUNACOM door. That is a fact about EUNACOM, NOT about entering Chile - she still needs lawful entry to be physically present (L09).",
+        "Passing EUNACOM confers no immigration right whatsoever."
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L04-C13",
+      "statement": "First-time registration MUST be done in person at the ASOFAMECH office in Santiago with a prior appointment, BUT a third party holding a written authorisation (the website says a 'poder simple') MAY present the documents and formalise the registration on her behalf - so the paperwork step can be done for her while she is still in Ukraine.",
+      "answers_question": [2, 5, 6],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/inscripcion/inscripcion.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Inscripción al EUNACOM",
+          "date_of_content": "UNDATED",
+          "quote_original": "Preséntese a la cita asignada con la documentación y formulario completo en nuestra Oficina de inscripciones. Esta inscripción puede ser realizada por un tercero, presentando un poder simple del examinado.",
+          "quote_locator": "Section 'Inscripción presencial', step 4"
+        },
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "El interesado podrá autorizar por escrito a un tercero para que presente la documentación correspondiente y formalice la inscripción en su nombre.",
+          "quote_locator": "Art. 5.7.2"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM art. 5.7.2",
+        "vigencia": "2026-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The originals or notarially-certified copies must be physically in Santiago for the appointment, and ASOFAMECH KEEPS a copy of each document.",
+        "The Normativa says 'autorizar por escrito'; the web page says 'poder simple'. It is unverified whether an ordinary signed letter suffices or a Chilean notarised poder is demanded in practice. Confirm with mdw@eunacom.cl before couriering originals.",
+        "Registration by proxy does NOT extend to sitting the exam. She must be in Chile on exam day."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Her son in Chile is the obvious candidate to act as the third party. Confirm the exact form of authorisation ASOFAMECH will accept from Ukraine before relying on this."
+    },
+    {
+      "id": "L04-C14",
+      "statement": "EUNACOM is NEVER available outside Chile: the Normativa states in terms that the theoretical section is sat on Chilean territory, that no venues will be set up in diplomatic missions, and that it cannot be taken online; the practical section is likewise sat on Chilean territory and exclusively in person.",
+      "answers_question": [2, 6, 7],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "El EUNACOM-ST se rinde en territorio chileno, en una o más ciudades del país. No se habilitarán sedes en representaciones diplomáticas ni podrá rendirse el examen en línea.",
+          "quote_locator": "Art. 5.2. NOTE: the PDF line-wraps the word 'habilitarán' as 'habili- tarán'; the quote joins it."
+        },
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "El EUNACOM-SP se rinde en territorio chileno, en los lugares que la escuela examinadora determine, que deberán ser espacios especialmente habilitados",
+          "quote_locator": "Art. 7.7 (opening)"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM arts. 5.2, 7.7",
+        "vigencia": "2026-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "This is the hardest physical constraint in the whole EUNACOM route: at minimum one trip for the ST and a further stay in Chile of up to three months for the four SP etapas.",
+        "For a candidate in Ukraine with no Chilean status, that means at least two entries to Chile and a residence problem the exam itself does not solve."
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L04-C15",
+      "statement": "For the next 12 months the only scheduled EUNACOM-ST sitting is 16 December 2026, nationwide, with registration open until 30 October 2026; the July 2026 sitting (8 July, Santiago only) has already passed, and dates are announced at least four months in advance in a national newspaper.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/home.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "EUNACOM - Home",
+          "date_of_content": "2026-07-15",
+          "quote_original": "Las inscripciones para el EUNACOM del 16 de diciembre de 2026, que se rendirá en todo el país, se encuentran abiertas hasta el 30 de octubre.",
+          "quote_locator": "Standing banner immediately below the main navigation"
+        },
+        {
+          "url": "https://www.eunacom.cl/home.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "EUNACOM - Home, news item [31 mar 2026] 'El EUNACOM-ST se rendirá los días 8 de julio y 16 de diciembre'",
+          "date_of_content": "2026-03-31",
+          "quote_original": "El día de hoy, en conformidad con la normativa vigente, se publicó en un diario digital de circulación nacional (La Nación) el aviso oficial que informa las fechas de los dos exámenes teóricos correspondientes al año 2026.",
+          "quote_locator": "News item dated [31 mar 2026]"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM art. 5.1",
+        "vigencia": "2026-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "2027 dates are NOT yet published as of today (3 September 2026). Historically the announcement comes in the first quarter for a July and a December sitting.",
+        "A first registration is only complete when ALL required documentation has been delivered before the closing date - paying alone does not register her.",
+        "The Perfil de Conocimientos version 3 (1,557 topics) applies from the December 2026 exam onward, superseding the profile used since 2010."
+      ],
+      "applies_to_her": "yes",
+      "condition": "The 30 October 2026 deadline is a hard, near-term gate if December 2026 is the target. The document chain from Ukraine (L08) plus the in-person Santiago appointment almost certainly cannot be completed in time."
+    },
+    {
+      "id": "L04-C16",
+      "statement": "The published EUNACOM fees, in Chilean pesos and NOT in UTM, are CLP 310,000 for the theoretical section and CLP 720,000 for the four-etapa practical section (CLP 655,000 for two or three etapas, CLP 470,000 for one), in force since 1 July 2025 - so her realistic minimum exam outlay is about CLP 1,030,000 assuming she passes everything first time.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/Costos.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Costos de inscripción al EUNACOM vigentes desde 1 de julio de 2025",
+          "date_of_content": "2025-07-01",
+          "quote_original": "Costos de inscripción al EUNACOM vigentes desde 1 de julio de 2025",
+          "quote_locator": "Page heading immediately above the fee table; table rows read 'a) Inscripción al EUNACOM-ST $ 310.000.-' and 'b) Inscripción al EUNACOM-SP (4 etapas) $ 720.000.-'"
+        },
+        {
+          "url": "https://www.eunacom.cl/inscripcion/inscripcion.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Inscripción al EUNACOM",
+          "date_of_content": "UNDATED",
+          "quote_original": "El costo de inscripción para el EUNACOM-SP de 4 etapas es de $ 720.000. La inscripción de SP de 2 y 3 etapas es de $655.000 y la de una etapa es $ 470.000.",
+          "quote_locator": "Section 'Inscripción EUNACOM-SP', point 2 'Inscripción para la sección práctica', step 2"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (ASOFAMECH tariff, reviewed annually per Normativa arts. 5.8.1 and 8.3)",
+        "vigencia": "2025-07-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "These are CLP, NOT UTM. No source states any EUNACOM fee in UTM. They are set annually by ASOFAMECH and were last published as effective 1 July 2025; a July 2026 revision is possible and the Costos page may lag - re-check before budgeting.",
+        "The CLP 20,000 first-sitting price announced from the July 2026 exam applies ONLY to fresh graduates of ASOFAMECH member schools. She pays the full CLP 310,000.",
+        "Refunds are partial at best and always net of a 3.5% retention.",
+        "Add the cost of failing: the ST is CLP 310,000 every time, and roughly half of foreign candidates fail it (L04-C19)."
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L04-C17",
+      "statement": "A pass does NOT expire - the Normativa states the approval of EUNACOM has indefinite validity and the Certificado de Aprobacion has indefinite validity - but the intermediate stages do expire: a passed ST is valid only 2 years, within which the SP must be registered or homologated, and each passed SP etapa is valid 2 years.",
+      "answers_question": [2, 7],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "3.9.- La aprobación del EUNACOM tendrá vigencia indefinida.",
+          "quote_locator": "Art. 3.9"
+        },
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "La aprobación del EUNACOM-ST mantendrá su vigencia por 2 años desde la fecha de rendición, plazo dentro del cual el interesado deberá inscribir u homologar la sección práctica.",
+          "quote_locator": "Art. 3.2.2"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM arts. 3.2.2, 3.4, 3.9, 10.1.1",
+        "vigencia": "2026-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The 2-year ST clock is the real scheduling risk: if she passes the ST in December 2026 she has until December 2028 to get the SP registered, and if she then fails the SP the prórroga of the ST is extinguished immediately (art. 8.1.2) and she must pass the ST again.",
+        "The 2026 Normativa abolished the old 'etapa de repetición' and lengthened etapa validity from 1 to 2 years in exchange."
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L04-C18",
+      "statement": "The pass mark is 51 points out of 100 on the theoretical section, which is 180 multiple-choice questions across 7 subject areas sat in one morning in two 90-question sessions; the exam is calibrated on the population of fresh Chilean graduates, not on foreign doctors.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "3.2.1.- Se considerará aprobada la sección teórica con la obtención de 51 puntos o más.",
+          "quote_locator": "Art. 3.2.1; art. 3.7 adds 'El reglamento establece en 51 puntos el puntaje de aprobación del Examen.'"
+        },
+        {
+          "url": "https://www.eunacom.cl/resultados/resultados-actuales.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Resultados actuales",
+          "date_of_content": "UNDATED",
+          "quote_original": "El examen está diseñado para el grupo de los recién egresados de todas las escuelas de medicina chilenas (población normativa). A partir de los resultados de este grupo se establecen los percentiles y los parámetros técnicos de las preguntas.",
+          "quote_locator": "Introductory text above the results table"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM arts. 3.2.1, 3.7, 4.1; Reglamento MINSAL published in the Diario Oficial 30-05-2009",
+        "vigencia": "2026-01-01 (Normativa); 2009-05-30 (Reglamento setting the minimum score)",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The 51-point threshold is set by the MINSAL Reglamento, not by ASOFAMECH, and MINSAL may revise it by decree at least every five years (Ley 20.261 art. 1 final inciso)."
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L04-C19",
+      "statement": "Published pass rates for foreign-trained doctors are poor and dated: roughly half fail. ASOFAMECH figures reported by La Tercera give 49.84% approval for foreign examinees over 2020-2022 (2,404 of 4,823) and 36.44% cumulatively since 2009, against 95.4% for Chileans, and no pass rate is published for Ukrainians or for any year after 2022.",
+      "answers_question": [2, 7],
+      "confidence": "medium",
+      "evidence_type": "press",
+      "sources": [
+        {
+          "url": "https://www.infomigra.org/las-cifras-del-eunacom-la-mitad-de-los-medicos-extranjeros-lo-aprueba-y-sus-resultados-han-mejorado-sostenidamente/",
+          "publisher": "Infomigra (republishing La Tercera of 11 July 2022)",
+          "title": "LAS CIFRAS DEL EUNACOM: LA MITAD DE LOS MÉDICOS EXTRANJEROS LO APRUEBA Y SUS RESULTADOS HAN MEJORADO SOSTENIDAMENTE",
+          "date_of_content": "2022-07-12",
+          "quote_original": "entre 2020 y este año, donde se tuvieron que poner al día las rendiciones postergadas a causa de la pandemia, el porcentaje de aprobación llegó a un 49,84% (2.404 de 4.823 personas que lo dieron)",
+          "quote_locator": "Body, fifth paragraph; figures attributed to 'los propios responsables del examen'. The article's cumulative table row 'TOTAL' gives 33.516 foreign examinees / 12.216 approved / 36,44%, and 19.852 Chilean / 18.939 / 95,4%."
+        },
+        {
+          "url": "https://www.eunacom.cl/resultados/resultados-actuales.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Resultados actuales",
+          "date_of_content": "UNDATED",
+          "quote_original": "En esta página se entrega el detalle de los resultados 2011. Los resultados históricos están disponibles en la sección Resultados Anteriores.",
+          "quote_locator": "Introductory text. The 2011 table row reads 'Titulados en el extranjero | 477 | 39.39 | 14.17 | 78.8 % | 376', i.e. mean 39.39 against a 51 pass mark and a 78.8% failure rate that year."
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "TRAP INSIDE THE SOURCE: the La Tercera table headed 'APROBACIÓN POR NACIONALIDAD (% versus personas que rinden)' is NOT a pass-rate table. Its percentages are each nationality's SHARE of foreign examinees - they sum to 100% and reconcile exactly to the 4,823 total. Anyone reading 'Otros: 2,7% de 128' as a 2.7% pass rate for non-listed nationalities (which would include Ukraine) is wrong. Do not repeat that error.",
+        "eunacom.cl's own results pages have not been updated since the 2011 sitting. There is NO official published pass rate for 2012-2026.",
+        "A figure circulating in search results for 2024 (a claimed 66.3% foreign failure rate) was NOT verified against a primary or dated source and is not asserted here."
+      ],
+      "applies_to_her": "yes",
+      "condition": "She is a rheumatology subspecialist and teacher, not a generalist; EUNACOM tests general medicine including surgery, paediatrics and obstetrics, and the practical section assesses patient communication. Her personal risk of failing is plausibly at or above the foreign average, not below it."
+    },
+    {
+      "id": "L04-C20",
+      "statement": "The SCOPE of the automatic revalidation was genuinely contested and both readings are on the record: the Contraloria held (Oficio 880 of 11 January 2019, following its 2009 criterion) that EUNACOM-passers from countries with no bilateral treaty were NOT enabled for the private sector, while the Corte de Apelaciones de Santiago set that oficio aside and declared they are enabled to practise in both the public and the private system without any further requirement.",
+      "answers_question": [2],
+      "confidence": "contested",
+      "evidence_type": "press",
+      "sources": [
+        {
+          "url": "https://estadodiario.com/noticias/ica-acoge-recurso-de-proteccion-contra-dictamen-de-contraloria-por-examen-de-revalidacion-de-medicos-extranjeros/",
+          "publisher": "EstadoDiario",
+          "title": "ICA acoge recurso de protección contra dictamen de Contraloría por examen de revalidación de médicos extranjeros",
+          "date_of_content": "2019-07-03",
+          "quote_original": "los médicos cirujanos con títulos obtenidos en el extranjero que han aprobado el examen único nacional de conocimientos de medicina, EUNACOM, han revalidado en Chile dichos títulos profesionales y éstos los habilitan sin otro requisito para ejercer la profesión de médico cirujano",
+          "quote_locator": "Quoted operative part of the judgment in causa rol 6.325-2019, Undécima Sala, Corte de Apelaciones de Santiago; the article links the PJUD PDF of the ruling"
+        },
+        {
+          "url": "https://estadodiario.com/noticias/ica-acoge-recurso-de-proteccion-contra-dictamen-de-contraloria-por-examen-de-revalidacion-de-medicos-extranjeros/",
+          "publisher": "EstadoDiario",
+          "title": "ICA acoge recurso de protección contra dictamen de Contraloría por examen de revalidación de médicos extranjeros",
+          "date_of_content": "2019-07-03",
+          "quote_original": "la aprobación del EUNACOM por parte de médicos cirujanos que hubieren obtenido su título en el extranjero y provenientes de países sin convenio internacional bilateral de reconocimiento de título, no se encuentran habilitados para  desempeñarse en el sector privado",
+          "quote_locator": "The judgment's own characterisation of Contraloría Dictamen 880 of 11 January 2019, i.e. the restrictive reading. The page contains a double space before 'desempeñarse'."
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 art. 1 inc. 3; Contraloría Oficio 880 de 11-01-2019 (left without effect for the petitioner); Corte de Apelaciones de Santiago rol 6.325-2019",
+        "vigencia": "Judgment of 2019; Contraloría criterion originating in Oficio 23.459 of 2009",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "A recurso de protección binds inter partes. This judgment protected the individual petitioner (Dr. Guillermo Guevara Aliaga); it did not formally annul the Contraloría's general criterion for everyone.",
+        "I did NOT locate the primary text of Contraloría Oficio 880/2019 or Oficio 23.459/2009 on contraloria.cl. Both are cited here only through the judgment as reported by a legal news outlet.",
+        "I found no source confirming or refuting whether the Contraloría has since formally reconsidered, nor whether the ruling was appealed to the Corte Suprema. Treat the private-sector question as settled in PRACTICE but not proven settled in doctrine."
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Matters only if she wants PRIVATE clinical practice. Both readings agree that EUNACOM enables the public sector; the dispute was only ever about the private sector."
+    },
+    {
+      "id": "L04-C21",
+      "statement": "In practice the broad reading now governs: ASOFAMECH, which runs the exam, states that foreign-trained doctors who pass are thereby enabled to practise the profession in any sphere of the country, and the Normativa in force since January 2026 restates the automatic revalidation with no sector limitation.",
+      "answers_question": [2],
+      "confidence": "medium",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/noticias/2019.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Noticias 2019, news item [22 nov 2019]",
+          "date_of_content": "2019-11-22",
+          "quote_original": "Un número cada vez más importante de médicos formados en el extranjero aprueba el EUNACOM, habilitándose con ello para ejercer la profesión en cualquier ámbito del país.",
+          "quote_locator": "News item dated [22 nov 2019], paragraph beginning 'Un número cada vez más importante'"
+        },
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "2.2.- Cualquier médico titulado en el extranjero que apruebe el EUNACOM habrá revalidado automáticamente su título para ejercer la profesión en Chile, sin necesidad de cumplir ningún otro requisito para este efecto.",
+          "quote_locator": "Art. 2.2, appearing immediately after the art. 2.1 list of purposes for which the law compels the exam"
+        }
+      ],
+      "regime": {
+        "norm": "Normativa EUNACOM art. 2.2",
+        "vigencia": "2026-01-01",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "ASOFAMECH is an interested party: it sells the exam. Its statement is evidence of operating practice, not of law.",
+        "The 2019 statement is nearly 7 years old; the 2026 Normativa is current and consistent with it."
+      ],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L04-C22",
+      "statement": "EUNACOM is NOT legally required for university teaching: the purposes for which Ley 20.261 compels it are a closed enumeration - public Servicios de Salud posts, municipal APS posts, FONASA libre eleccion convenios, State-financed or State-facility postgraduate programmes, and (from 24 May 2026) issuing licencias medicas - and an academic post with no patient contact appears in none of them.",
+      "answers_question": [1, 2],
+      "confidence": "medium",
+      "evidence_type": "inference",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Normativa EUNACOM",
+          "date_of_content": "2025-12-31",
+          "quote_original": "2.1.- La ley obliga a cualquier médico titulado en Chile o en el extranjero a aprobar el Examen para:",
+          "quote_locator": "Art. 2.1, introducing the closed list 2.1.1 to 2.1.5. No item in that list refers to university teaching, academic appointment, or research."
+        },
+        {
+          "url": "https://www.eunacom.cl/home.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "EUNACOM - Home",
+          "date_of_content": "2026-07-15",
+          "quote_original": "La ley exige la obtención de un puntaje mínimo (definido por el Ministerio de Salud) para que un médico pueda a) ser contratado en cargos médicos en los servicios de salud dependientes del Ministerio de Salud b) ser contratado en establecimientos de salud municipal",
+          "quote_locator": "Home page 'Qué es' block; the list continues c) otorgar prestaciones a beneficiarios FONASA en modalidad de libre elección and d) postular a programas de especialización médica, and contains no teaching item"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 20.261 arts. 1 and 2 (closed enumeration); Normativa EUNACOM art. 2.1",
+        "vigencia": "2009-04-20 (law) / 2026-01-01 (Normativa)",
+        "version_consulted": "Última Versión - 24-MAY-2025 (for the law)",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "This is a NEGATIVE claim resting on the exhaustiveness of an enumeration. I searched for and did NOT find any norm extending EUNACOM to academic appointments. Absence of a finding is not proof of absence - L06 must verify the academic side independently.",
+        "The moment teaching involves patients in a public hospital, or a State-financed postgraduate programme, arts. 1 and 2 re-engage. The line is patient contact and the employer, not the word 'docencia'.",
+        "A university may still demand EUNACOM contractually even where the law does not. That is a hiring-practice question for L06/L11."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Holds for Scenario A (academic post, no patient contact). Does not hold once clinical teaching in a Servicio de Salud facility is involved."
+    },
+    {
+      "id": "L04-C23",
+      "statement": "Passing EUNACOM does not by itself put her in the Registro Nacional de Prestadores Individuales de Salud, but the Superintendencia states plainly that inscription in that registry is NOT a requirement for practising the profession - it is required for AUGE/GES benefits and, since 24 May 2026, for issuing licencias medicas.",
+      "answers_question": [2],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-titulo-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+          "publisher": "Superintendencia de Salud, Gobierno de Chile",
+          "title": "Inscripción de título en el Registro Nacional de Prestadores Individuales de Salud",
+          "date_of_content": "2026-03-27",
+          "quote_original": "Debe tenerse presente que la inscripción en dicho Registro Público no constituye un requisito para el ejercicio de la respectiva profesión.",
+          "quote_locator": "Section 'Importante', second paragraph. Page metadata article:modified_time is 2026-03-27."
+        },
+        {
+          "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-titulo-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+          "publisher": "Superintendencia de Salud, Gobierno de Chile",
+          "title": "Inscripción de título en el Registro Nacional de Prestadores Individuales de Salud",
+          "date_of_content": "2026-03-27",
+          "quote_original": "Estar habilitado para ejercer la profesión en el país, ya sea a través de un título profesional otorgado por una institución de educación superior oficialmente reconocida en el país; o a través del reconocimiento o revalidación de su título profesional obtenido en el extranjero.",
+          "quote_locator": "Section 'Documentos requeridos', first bullet"
+        }
+      ],
+      "regime": {
+        "norm": "D.S. N°16 de 2007 del Ministerio de Salud (Reglamento sobre los Registros relativos a los Prestadores Individuales de Salud)",
+        "vigencia": "UNKNOWN (2007 decree; page last updated 2026-03-27)",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "The registry page speaks of 'reconocimiento o revalidación' and does NOT mention EUNACOM anywhere. Whether the Superintendencia accepts a Certificado de Aprobación EUNACOM as the 'revalidación' is not stated and was not verified in this lane.",
+        "The SUSESO licencia médica rule assumes it does - it requires RNPI inscription AND EUNACOM together - which strongly implies the two are compatible, but that is an inference, not a source."
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Relevant to Scenarios B and C only. L05 owns the registry lane and must confirm the EUNACOM certificate is accepted input."
+    },
+    {
+      "id": "L04-C24",
+      "statement": "For EUNACOM the foreign diploma MUST be apostilled with an apostille that is verifiable online (consular legalisation only where the origin country cannot apostille), and any non-Spanish document MUST carry an official translation - which contradicts the Universidad de Chile postgraduate page still telling foreign doctors to legalise certificates at a Chilean embassy or consulate.",
+      "answers_question": [5],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.eunacom.cl/reglamentacion/DocumentosRequeridos.html",
+          "publisher": "EUNACOM / ASOFAMECH",
+          "title": "Documentación requerida para inscripción presencial al ST (Procedimiento 02-2010)",
+          "date_of_content": "UNDATED",
+          "quote_original": "El diploma o título de médico debidamente apostillado. Si el país de origen del título no puede apostillar el documento, éste deberá ser legalizado ante el Consulado de Chile en el país de origen del título.",
+          "quote_locator": "Point 3.2, second bullet. Point 3.2.3 adds: 'Las apostillas deben tener verificación en línea. No se aceptarán apostillas sin verificación.' Point 3.2.2 adds the official-translation requirement."
+        },
+        {
+          "url": "https://medicina.uchile.cl/postgrado/programas-de-formacion-de-especialistas/informacion-para-medicos-extranjeros",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Información para médicos extranjeros",
+          "date_of_content": "UNDATED",
+          "quote_original": "Estos certificados deben ser legalizados en la Embajada o el Consulado General de Chile en el país que los emite.",
+          "quote_locator": "Paragraph on documents required from graduates of foreign universities applying to postítulo programmes"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (administrative requirements of ASOFAMECH and of the Universidad de Chile faculty)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "'Las apostillas deben tener verificación en línea. No se aceptarán apostillas sin verificación.' is a hard, easily-missed condition. Ukraine's electronic apostille register must be checkable online or the registration will be refused. Flag to L08 - it is the single most likely point of failure in the document chain.",
+        "Point 3.2.1 additionally demands any document the issuing country requires in order to practise there - for Ukraine that plausibly means the сертифікат лікаря-спеціаліста. Verify with ASOFAMECH before assembling the file.",
+        "The Universidad de Chile page is UNDATED and appears to predate the apostille regime. Do not follow it for EUNACOM. It is an example of an official .cl page giving stale advice."
+      ],
+      "applies_to_her": "yes",
+      "condition": "Her documents are in Ukrainian, so an official Spanish translation is mandatory in addition to the apostille."
+    }
+  ],
+  "process_steps": [
+    {
+      "step_no": 1,
+      "name": "Assemble and apostille the Ukrainian medical diploma (plus any Ukrainian professional-habilitation document), with an apostille verifiable online",
+      "actor": "Candidate, via the competent Ukrainian ministry",
+      "where": "Ukraine",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["диплом лікаря (original or notarised copy)", "apostille with online verification", "сертифікат лікаря-спеціаліста if Ukraine requires it to practise", "passport"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 14,
+      "duration_days_max": 90,
+      "source_claim_ids": ["L04-C24"]
+    },
+    {
+      "step_no": 2,
+      "name": "Obtain an official Spanish translation of every non-Spanish document",
+      "actor": "Candidate",
+      "where": "either",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["traducción oficial of the diploma and of any habilitación document"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 7,
+      "duration_days_max": 30,
+      "source_claim_ids": ["L04-C24"]
+    },
+    {
+      "step_no": 3,
+      "name": "Pay the EUNACOM-ST registration fee online via Flow",
+      "actor": "Candidate",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["comprobante de pago Flow"],
+      "cost_amount": 310000,
+      "cost_unit": "CLP",
+      "cost_as_of": "2025-07-01",
+      "duration_days_min": 1,
+      "duration_days_max": 1,
+      "source_claim_ids": ["L04-C16"]
+    },
+    {
+      "step_no": 4,
+      "name": "Book an appointment at reservas.eunacom.cl and formalise the first registration in person at the ASOFAMECH office in Santiago - may be done by an authorised third party with a poder simple",
+      "actor": "Candidate or an authorised third party (e.g. her son in Chile)",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": ["passport, or a notarised or apostilled copy", "4x4 cm photo on photographic paper", "apostilled diploma, original or notarised copy", "Formulario de inscripción, unsigned until the appointment", "comprobante de pago"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 30,
+      "source_claim_ids": ["L04-C12", "L04-C13", "L04-C24"]
+    },
+    {
+      "step_no": 5,
+      "name": "Sit the EUNACOM-ST in Chile (next sitting 16 December 2026; registration closes 30 October 2026)",
+      "actor": "Candidate in person",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": ["the same identity document used at registration", "pencil No2 and eraser"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 1,
+      "source_claim_ids": ["L04-C14", "L04-C15", "L04-C18"]
+    },
+    {
+      "step_no": 6,
+      "name": "Receive the ST result and, if 51 or more, register online for the EUNACOM-SP - the first registration must be for all four etapas",
+      "actor": "Candidate",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["photographs of the identity document"],
+      "cost_amount": 720000,
+      "cost_unit": "CLP",
+      "cost_as_of": "2025-07-01",
+      "duration_days_min": 14,
+      "duration_days_max": 730,
+      "source_claim_ids": ["L04-C09", "L04-C16", "L04-C17"]
+    },
+    {
+      "step_no": 7,
+      "name": "Wait for ASOFAMECH to propose the examining school and dates (up to 45 days), then accept within 3 working days; a second rejection withdraws the registration",
+      "actor": "ASOFAMECH assigns; candidate accepts",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 3,
+      "duration_days_max": 93,
+      "source_claim_ids": ["L04-C09"]
+    },
+    {
+      "step_no": 8,
+      "name": "Sit the four EUNACOM-SP etapas in person at the assigned Chilean medical school, all within a maximum of three months",
+      "actor": "Candidate in person",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": false,
+      "documents": ["identity document"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 90,
+      "source_claim_ids": ["L04-C09", "L04-C14"]
+    },
+    {
+      "step_no": 9,
+      "name": "Receive the digital Certificado de Aprobación EUNACOM by email - at this point and only at this point is the title automatically revalidated",
+      "actor": "ASOFAMECH",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Certificado de Aprobación EUNACOM, indefinite validity"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 10,
+      "duration_days_max": 40,
+      "source_claim_ids": ["L04-C01", "L04-C08", "L04-C17"]
+    }
+  ],
+  "entities": [
+    {
+      "name": "EUNACOM (Examen Único Nacional de Conocimientos de Medicina) - Dirección Técnica",
+      "role": "Body that designs and administers the exam; delegated by MINSAL Resolución Exenta 640 of 20 August 2009 to ASOFAMECH. Director: Dr. Beltrán Mena.",
+      "url": "https://www.eunacom.cl/",
+      "email": "bmena@eunacom.cl",
+      "phone": "+56-2-26324846"
+    },
+    {
+      "name": "ASOFAMECH - Oficina de inscripciones EUNACOM",
+      "role": "Where the first, in-person registration is formalised; by appointment only via reservas.eunacom.cl. Address Merced 280, Of. 42, Santiago Centro; main offices Rosal 349 A, Santiago Centro. Closed for holidays during February and during exam weeks.",
+      "url": "https://reservas.eunacom.cl/",
+      "email": "mdw@eunacom.cl",
+      "phone": "+56-2-26324846"
+    },
+    {
+      "name": "María de Weerdt - Coordinadora académica EUNACOM",
+      "role": "Named contact for registration and SP homologation questions; the person to write to before couriering originals from Ukraine",
+      "url": "https://www.eunacom.cl/contacto.html",
+      "email": "mdw@eunacom.cl",
+      "phone": "+56-2-26324846"
+    },
+    {
+      "name": "Verónica Navarrete - Coordinadora Exámenes prácticos EUNACOM",
+      "role": "Contact for EUNACOM-SP scheduling and examining-school assignment",
+      "url": "https://www.eunacom.cl/contacto.html",
+      "email": "vnavarrete@eunacom.cl",
+      "phone": "+56-2-26324846"
+    },
+    {
+      "name": "Superintendencia de Salud - Registro Nacional de Prestadores Individuales de Salud",
+      "role": "Public registry of health professionals; expressly NOT required in order to practise, but required for AUGE/GES benefits and, from 24 May 2026, for issuing licencias médicas. Online procedure, free of charge.",
+      "url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-titulo-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "Superintendencia de Seguridad Social (SUSESO)",
+      "role": "Regulator that instructed the electronic licencia médica operators (Imed, Medipass) to disable doctors without EUNACOM from 24 May 2026",
+      "url": "https://www.suseso.gob.cl/605/w3-article-781252.html",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "Since 17 August 2026 other accredited State universities may revalidate foreign degrees, but Normativa EUNACOM art. 6.1.2.2 (in force 1 January 2026, drafted before the change) still names ONLY Universidad de Chile as the revalidation whose holder may homologate the practical section. Will ASOFAMECH accept a revalidation granted by, say, USACH or Universidad de Valparaíso?",
+      "why_it_matters": "It is the only lever that could spare her the four-etapa practical exam, which is the most expensive, most time-consuming and most failure-prone step of the EUNACOM route and the one that forces a stay of up to three months in Chile.",
+      "how_to_resolve": "Write to mdw@eunacom.cl and bmena@eunacom.cl citing Normativa art. 6.1.2.2 and Decreto 174/2024, and ask in terms whether a revalidación granted by an accredited State university other than Universidad de Chile is accepted for SP homologation. Cross-check with L03.",
+      "blocking": false
+    },
+    {
+      "question": "Will the Superintendencia de Salud accept a Certificado de Aprobación EUNACOM, on its own, as the 'reconocimiento o revalidación' needed to enter the Registro Nacional de Prestadores Individuales?",
+      "why_it_matters": "If it will not, the automatic revalidation is a paper right with no operational effect for AUGE/GES work or for issuing licencias médicas, and the whole EUNACOM route needs re-costing.",
+      "how_to_resolve": "Ask the Superintendencia directly through its online enquiry channel, and ask ASOFAMECH what document its passers actually present to the RNPI. The SUSESO licencia médica rule strongly implies the two are compatible, but no source states it.",
+      "blocking": true
+    },
+    {
+      "question": "Is the Contraloría's restrictive criterion (Oficio 23.459 of 2009, reaffirmed in Oficio 880 of 11 January 2019) still formally alive after the 2019 Corte de Apelaciones ruling, which bound only the individual petitioner?",
+      "why_it_matters": "It decides whether an EUNACOM-only revalidation opens PRIVATE clinical practice, or only the public sector and FONASA libre elección. For a rheumatologist, private consulting is likely the realistic earning route in Chile.",
+      "how_to_resolve": "Search the Contraloría's own dictámenes database for 23.459/2009 and 880/2019 and for any later reconsideration; retrieve the PJUD PDF of rol 6.325-2019 and check whether it was appealed to the Corte Suprema.",
+      "blocking": false
+    },
+    {
+      "question": "Exactly what form of authorisation does ASOFAMECH accept from a candidate abroad - a simple signed letter, or a notarised poder, and must it be apostilled?",
+      "why_it_matters": "It determines whether her son can complete the in-person registration for her while she is in Ukraine, or whether she must travel to Chile twice.",
+      "how_to_resolve": "Email mdw@eunacom.cl. The Normativa (art. 5.7.2) says 'autorizar por escrito'; the website says 'poder simple'; the two are not obviously the same standard.",
+      "blocking": false
+    },
+    {
+      "question": "Is there any published norm fixing the LANGUAGE of the EUNACOM, or is Spanish simply the de facto medium?",
+      "why_it_matters": "She has no Spanish. The practical section is a four-station OSCE in which effective communication with the patient is expressly assessed (Normativa art. 7.4.1). Language is the binding constraint on this entire route.",
+      "how_to_resolve": "Read the Reglamento MINSAL published 30 May 2009 and the Procedimiento de evaluación para el EUNACOM-SP in full, and ask ASOFAMECH whether any language accommodation has ever been granted. I found no language provision in Ley 20.261 or in the 2026 Normativa.",
+      "blocking": false
+    },
+    {
+      "question": "Will ASOFAMECH require an additional Ukrainian professional-habilitation document under Procedimiento point 3.2.1, and is Ukraine on the country list for which such a document is demanded?",
+      "why_it_matters": "A missing habilitación document means the registration is not completed by the closing date and she loses a whole sitting - which, given two sittings a year, costs six to twelve months.",
+      "how_to_resolve": "Ask ASOFAMECH for the current country list. Venezuela was reportedly added to that list in July 2026, so the list is actively maintained and is not published on any page read in this lane.",
+      "blocking": true
+    },
+    {
+      "question": "What are the actual EUNACOM pass rates for foreign-trained doctors in 2023-2026, and specifically for candidates from non-Spanish-speaking countries?",
+      "why_it_matters": "The realistic probability of her passing drives the whole cost and time estimate for Scenarios B and C. The most recent verified figure is 49.84% for 2020-2022, and eunacom.cl has published nothing since 2011.",
+      "how_to_resolve": "Request the figures from ASOFAMECH directly, or file a Ley de Transparencia request to MINSAL, which receives the results. CIPER Chile published analysis of EUNACOM data in August 2025 that may contain the underlying dataset.",
+      "blocking": false
+    }
+  ],
+  "unknowns_declared": [
+    "I did NOT read the primary text of the Reglamento MINSAL published in the Diario Oficial on 30 May 2009 (the reglamento of Ley 20.261). Everything asserted about the 51-point pass mark comes from the ASOFAMECH Normativa's restatement of it, not from the decree itself.",
+    "I did NOT retrieve the primary text of Contraloría Oficio 23.459 (2009) or Oficio 880 (11 January 2019). Both are cited only as characterised in the Corte de Apelaciones judgment as reported by EstadoDiario. I did not reach contraloria.cl's dictamen database in this lane.",
+    "I did NOT read the PJUD PDF of the judgment in rol 6.325-2019; I read a legal news outlet quoting its operative part at length. I do not know whether it was appealed to the Corte Suprema.",
+    "No official EUNACOM pass rate has been published for any year after 2011 on eunacom.cl. The 2020-2022 figure of 49.84% comes from La Tercera as republished by Infomigra, attributed to the exam's own administrators. There is NO published pass rate for Ukrainian candidates or for any non-Spanish-speaking cohort, and I found none.",
+    "A 2024 figure of a 66.3% foreign failure rate appeared in search snippets. I did not verify it against a primary or dated source and therefore did not assert it.",
+    "The language of the exam is not stated in Ley 20.261 nor in the Normativa EUNACOM as read. Spanish is overwhelmingly the operating language (all published materials, the Perfil de Conocimientos, the instructions, the OSCE) but I found NO explicit norm saying so and I have not asserted one.",
+    "I could not verify whether the Superintendencia de Salud accepts an EUNACOM certificate as the 'revalidación' input for the Registro Nacional de Prestadores Individuales. Its page names 'reconocimiento o revalidación' and does not mention EUNACOM at all.",
+    "The country list for which ASOFAMECH demands an extra professional-habilitación document is not published on any page I read. Whether Ukraine is on it is UNKNOWN.",
+    "2027 EUNACOM dates are not published as of 3 September 2026.",
+    "Several EUNACOM pages carrying operative rules (DocumentosRequeridos, Costos, inscripcion, FAQ, contacto, resultados) show NO publication or update date and are recorded as UNDATED, i.e. treated as stale. The Costos page is self-dated only by its heading 'vigentes desde 1 de julio de 2025' and may have been superseded by a July 2026 revision I could not see.",
+    "The eunacom.cl FAQ page specifically for foreign doctors (FAQ/extranjeros.html) rendered empty on scrape - it appears broken or image-based - so any FAQ content aimed at foreign doctors could not be read.",
+    "I did not read Decreto 174/2024 or Ley 21.325 art. 143 in this lane; that is L01's job. Nothing in the LeyChile modification history of Ley 20.261 (last modified 24 May 2025 by Ley 21.746) indicates that either instrument amended Ley 20.261, but I did not verify this from the 2024 decree itself.",
+    "I did not establish whether any Chilean medical faculty demands EUNACOM contractually for an academic post even though the law does not. That negative belongs to L06 and L11 to confirm."
+  ]
+}

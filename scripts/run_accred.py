@@ -31,6 +31,11 @@ every page on the open web still describes the old regime.
 THE PERSON THIS IS FOR: a Ukrainian doctor, PhD, associate professor of rheumatology, currently in
 Ukraine with no Chilean visa or residency. She needs to know WHERE she can actually file.
 
+
+DO NOT RUN SHELL COMMANDS. No curl, no wget, no scripts, no file writes. Use ONLY your built-in
+web search and page reading. A job that runs a shell command is discarded in full, however good
+its findings are.
+
 EVIDENCE RULES:
 - Every fact needs a real URL you fetched and a VERBATIM quote from that page. Never invent a quote.
 - Authoritative sources: bcn.cl/leychile, diariooficial.interior.gob.cl, cnachile.cl (the CNA

@@ -1,0 +1,1133 @@
+{
+  "lane_id": "L11",
+  "status": "complete",
+  "claims": [
+    {
+      "id": "L11-C01",
+      "statement": "Universidad de Chile's Facultad de Medicina runs rolling monthly batches of academic concursos, and as of 3 September 2026 four separate batches (concursos MD2620 to MD2636, 17 posts) are published on its site with staggered application windows, so a new batch opens roughly every month rather than once a year.",
+      "answers_question": [1, 4],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para provisión de cargos académicos en calidad de contrata 3",
+          "date_of_content": "UNDATED",
+          "quote_original": "La recepción de postulaciones estará disponible desde el día 03 de septiembre de 2026 hasta el día 03 de octubre de 2026.",
+          "quote_locator": "Table 'Los antecedentes necesarios para hacer efectiva la postulación son los siguientes', closing line. Page itself carries no publication date; the four bases it links are Resoluciones Exentas of 2026."
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para cargos académicos en calidad de contrata 2",
+          "date_of_content": "UNDATED",
+          "quote_original": "La recepción de postulaciones estará disponible desde el día 10 de septiembre de 2026 hasta el día 10 de octubre de 2026.",
+          "quote_locator": "Antecedentes table, closing line (batch MD2633-MD2636)"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-4",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para provisión de cargo académico en calidad de contrata 4",
+          "date_of_content": "UNDATED",
+          "quote_original": "La recepción de postulaciones estará disponible desde el día 08 de septiembre de 2026 hasta el día 08 de octubre de 2026.",
+          "quote_locator": "Antecedentes table, closing line (batch MD2628-MD2632)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["listing pages carry no publication date", "a batch page URL is reused and recycled: an older sibling URL now returns HTTP 404, so links go stale"],
+      "applies_to_her": "yes",
+      "condition": "She should check all four sibling pages under medicina.uchile.cl/informacion-academicos every month, not just the index page, which lists no vacancies itself."
+    },
+    {
+      "id": "L11-C02",
+      "statement": "The Universidad de Chile Facultad de Medicina concurso batch MD2620-MD2623 is open until 6 September 2026 and includes two posts whose only admissibility requirements are a medical degree plus a named clinical specialty (Neurología, 22 h; Medicina Interna plus Medicina Intensiva, 11 h), which is the exact shape of post a foreign specialist would target.",
+      "answers_question": [1, 4],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para provisión de cargo académico en calidad de contrata 1",
+          "date_of_content": "UNDATED",
+          "quote_original": "La recepción de postulaciones estará disponible desde el día 07 de agosto de 2026 hasta el día 06 de septiembre de 2026.",
+          "quote_locator": "Antecedentes table, closing line"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para provisión de cargo académico en calidad de contrata 1",
+          "date_of_content": "UNDATED",
+          "quote_original": "DEPARTAMENTO DE CIENCIAS NEUROLÓGICAS ORIENTE CONCURSO MD2620 RESOLUCIÓN EXENTA N°210/2026 01 cargo de 22 horas en Carrera Ordinaria. Requisitos de admisibilidad: Título profesional de Médico/a Cirujano/a. Especialidad Médica en Neurología.",
+          "quote_locator": "Section 'DEPARTAMENTO DE CIENCIAS NEUROLÓGICAS ORIENTE'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["deadline is 3 days from 2026-09-03 and will be noise very soon"],
+      "applies_to_her": "conditional",
+      "condition": "Neither of these two posts is rheumatology; they show the template, not a fit for her."
+    },
+    {
+      "id": "L11-C03",
+      "statement": "The batch opening 10 September and closing 10 October 2026 contains a Departamento de Medicina Interna Centro post (11 hours, Carrera Docente) whose entire admissibility test is a medical degree, an Internal Medicine specialty and one year of experience, which is the lowest-barrier medical academic post found anywhere in this lane.",
+      "answers_question": [1, 4],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para cargos académicos en calidad de contrata 2",
+          "date_of_content": "UNDATED",
+          "quote_original": "DEPARTAMENTO DE MEDICINA INTERNA CENTRO CONCURSO MD2634 RESOLUCIÓN EXENTA N°413/2026 01 cargo de 11 horas en Carrera Docente. Requisitos de admisibilidad: Título profesional de Médico(a) Cirujano(a). Especialidad Médica en Medicina Interna. Experiencia laboral mínima de un año en su ámbito disciplinar.",
+          "quote_locator": "Section 'DEPARTAMENTO DE MEDICINA INTERNA CENTRO'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["11 hours per week is a fraction of a full jornada and pays accordingly", "'Especialidad Médica en Medicina Interna' is not the same as her Ukrainian rheumatology specialty and it is unknown whether the Comisión would accept a foreign internal-medicine/rheumatology certificate as satisfying it"],
+      "applies_to_her": "conditional",
+      "condition": "Only if the Comisión de Concursos accepts her Ukrainian specialty certificate as an 'Especialidad Médica en Medicina Interna'. Unverified."
+    },
+    {
+      "id": "L11-C04",
+      "statement": "The bases of a Universidad de Chile academic concurso expressly state that foreigners may apply and that article 12 of the Estatuto Administrativo (the general Chilean-nationality/residence rule for public employment) does NOT apply to Universidad de Chile academics, but they add that a foreigner must additionally accredit compliance with immigration rules.",
+      "answers_question": [1, 4, 6],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Resolución Exenta N°374 de 2026 - Bases concurso MD2624, Departamento de Atención Primaria y Salud Familiar, 22 horas Carrera Docente",
+          "date_of_content": "2026-07-24",
+          "quote_original": "Podrán postular al cargo en concurso, los chilenos y extranjeros que cumplan los requisitos generales señalados en el D.U. Nº0035864 de 2019",
+          "quote_locator": "Section 'II. REQUISITOS GENERALES DE POSTULACIÓN', first paragraph"
+        },
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Resolución Exenta N°374 de 2026 - Bases concurso MD2624",
+          "date_of_content": "2026-07-24",
+          "quote_original": "No será aplicable a los académicos de la Universidad de Chile, lo establecido en el artículo 12 del D.F.L. N°29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la Ley N°18834, sobre Estatuto Administrativo, referido a los requisitos de ingreso a la Administración Pública. En caso de tratarse de extranjeros, deberá acreditarse además el cumplimiento de las normas sobre extranjería.",
+          "quote_locator": "Section II, closing paragraphs, immediately before 'III. REQUISITOS ESPECÍFICOS DE POSTULACIÓN'"
+        }
+      ],
+      "regime": {
+        "norm": "D.F.L. N°29 de 2004 (Ley 18.834, Estatuto Administrativo) art. 12, disapplied by D.U. N°3099/1992 and D.U. N°0035864/2019 of Universidad de Chile",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["'cumplimiento de las normas sobre extranjería' is undefined in the bases: it is unknown at which point (application, award, or contract signature) a residence permit becomes mandatory"],
+      "applies_to_her": "yes",
+      "condition": "She may apply from Ukraine on her passport; the immigration condition would bite at appointment, not at application. The exact trigger point is unverified - see open questions."
+    },
+    {
+      "id": "L11-C05",
+      "statement": "Universidad de Chile academic concursos do NOT require a Chilean revalidated title: a foreign professional title or academic degree must merely be apostilled (or carry a MINREL validation) and, if not in Spanish, be accompanied by an official translation.",
+      "answers_question": [1, 4, 5],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para provisión de cargos académicos en calidad de contrata 3",
+          "date_of_content": "UNDATED",
+          "quote_original": "En el caso de certificaciones de título profesional y/o grado(s) académico(s) obtenidos en el extranjero, estos deberán encontrarse debidamente apostillados y/o contar con la validación correspondiente emitida por el Ministerio de Relaciones Exteriores de Chile. Asimismo, cuando dichos documentos se encuentren en un idioma distinto del español, deberán presentarse acompañados de su traducción oficial.",
+          "quote_locator": "Antecedentes table, bullet 'Copias de certificados de títulos, grados académicos...'"
+        },
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Resolución Exenta N°374 de 2026 - Bases concurso MD2624",
+          "date_of_content": "2026-07-24",
+          "quote_original": "En el caso de certificaciones de título profesional y/o grado(s) académico(s) obtenidos en el extranjero, estos deberán encontrarse debidamente apostillados y/o contar con la validación correspondiente emitida por el Ministerio de Relaciones Exteriores de Chile.",
+          "quote_locator": "Section 'IV. ANTECEDENTES PARA POSTULAR', bullet on certificados de títulos"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (institutional concurso rules, not the degree-recognition regime)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["this is an APPLICATION requirement; it does not prove that a revalidated title is unnecessary for the CONTRACT, for clinical teaching, or for pay-grade purposes", "the word 'validación' from MINREL is not revalidación of the degree; do not conflate them"],
+      "applies_to_her": "yes",
+      "condition": "Directly applicable: her Ukrainian diploma, apostilled by MON and officially translated, satisfies the stated documentary test for applying."
+    },
+    {
+      "id": "L11-C06",
+      "statement": "The identity document a Universidad de Chile Facultad de Medicina concurso accepts is inconsistent between concurrent batches: three batches accept a passport, but the batch closing 10 October 2026 demands a Chilean Cédula de Identidad only, which a non-resident applicant does not have.",
+      "answers_question": [4, 5, 6],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para provisión de cargos académicos en calidad de contrata 3",
+          "date_of_content": "UNDATED",
+          "quote_original": "Documento vigente que acredite la identidad del/la postulante al momento de la postulación (Cédula de Identidad o Pasaporte).",
+          "quote_locator": "Antecedentes table, bullet 3"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para cargos académicos en calidad de contrata 2",
+          "date_of_content": "UNDATED",
+          "quote_original": "Copia simple de la Cédula de Identidad por ambos lados.",
+          "quote_locator": "Antecedentes table, bullet 3 (batch MD2633-MD2636)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["same faculty, same month, two different documentary tests: never assume one batch's rule applies to another", "a strict admissibility reviewer could rule her application 'No Admisible' on this alone"],
+      "applies_to_her": "yes",
+      "condition": "She must read the specific batch's antecedentes list before applying, and email rrhhacademicos.med@uchile.cl / concursos.med@uchile.cl to confirm passport acceptance for a batch that says cédula."
+    },
+    {
+      "id": "L11-C07",
+      "statement": "The entire Universidad de Chile academic concurso, including the final oposición stage, may be conducted virtually, so competing for a Chilean medical-faculty post does not by itself require travelling to Chile.",
+      "answers_question": [1, 4, 6, 7],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Resolución Exenta N°374 de 2026 - Bases concurso MD2624",
+          "date_of_content": "2026-07-24",
+          "quote_original": "Todo el proceso se llevará a cabo de manera presencial, en dependencias del Campus Norte de la Facultad de Medicina (Av. Independencia #1027, Independencia, Santiago de Chile) o de manera virtual, mediante medios electrónicos idóneos que aseguren la seguridad y respaldo de todo el procedimiento",
+          "quote_locator": "Section 'VII. ETAPAS DEL CONCURSO', second paragraph"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["'o de manera virtual' is a discretion of the Comisión, not an entitlement of the applicant"],
+      "applies_to_her": "yes",
+      "condition": "She should ask the Comisión in writing, at application, for the virtual modality on account of being abroad."
+    },
+    {
+      "id": "L11-C08",
+      "statement": "The decisive stage of a Universidad de Chile academic concurso is a live teaching presentation before the Comisión, scored on how clearly and coherently the candidate expounds, which means a working command of spoken Spanish is in practice unavoidable even though no language certificate is ever demanded.",
+      "answers_question": [1, 4],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Resolución Exenta N°374 de 2026 - Bases concurso MD2624",
+          "date_of_content": "2026-07-24",
+          "quote_original": "La Comisión de Concursos citará a cada uno de los preseleccionados en la etapa N°2 a la presentación de una actividad docente, fijando el día y hora en que se realizará dicha actividad.",
+          "quote_locator": "Section 'ETAPA N°3: EVALUACIÓN SEGÚN OPOSICIÓN', first paragraph"
+        },
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Resolución Exenta N°374 de 2026 - Bases concurso MD2624",
+          "date_of_content": "2026-07-24",
+          "quote_original": "Expone el tema de manera clara, precisa y coherente, promoviendo la comprensión de la información.",
+          "quote_locator": "Etapa N°3 scoring table, factor 'Técnicas, habilidades y proyección académica' (100 points)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["the bases nowhere name a language; the Spanish requirement is inferred from the scored criterion and from the fact that the whole process is conducted in Spanish", "minimum pass mark for this stage is 600/1000, so a weak presentation eliminates the candidate outright"],
+      "applies_to_her": "yes",
+      "condition": "Assume Spanish is the working language of the oposición unless a department confirms otherwise in writing."
+    },
+    {
+      "id": "L11-C09",
+      "statement": "No academic rheumatology post is open at any Chilean medical faculty as of 3 September 2026; the most recent one found was a 22-hour academic contrata in the Sección Reumatología of the Hospital Clínico Universidad de Chile, whose application window closed on 30 June 2026.",
+      "answers_question": [1, 4],
+      "confidence": "medium",
+      "evidence_type": "press",
+      "sources": [
+        {
+          "url": "https://www.diarioelmarino.cl/2026/06/01/universidad-de-chile-hospital-clinico-llamado-a-concurso-publico/",
+          "publisher": "Diario El Marino (legal notices section), notice by Hospital Clínico Universidad de Chile",
+          "title": "Universidad de Chile, Hospital Clínico, Llamado a Concurso Público",
+          "date_of_content": "2026-06-01",
+          "quote_original": "-CARGO DE 22 HORAS ACADEMICAS A CONTRATA EN DEPARTAMENTO DE MEDICINA INTERNA-SECCION REUMATOLOGÍA.",
+          "quote_locator": "Bulleted list of posts under 'LLAMADO A CONCURSO ACADÉMICO/ACADÉMICA'"
+        },
+        {
+          "url": "https://www.diarioelmarino.cl/2026/06/01/universidad-de-chile-hospital-clinico-llamado-a-concurso-publico/",
+          "publisher": "Diario El Marino (legal notices section), notice by Hospital Clínico Universidad de Chile",
+          "title": "Universidad de Chile, Hospital Clínico, Llamado a Concurso Público",
+          "date_of_content": "2026-06-01",
+          "quote_original": "Postulaciones en página web www.redclinica.cl a contar del 01 de junio de 2026 Recepción de antecedentes 30 días corridos una vez publicadas las Bases del Concurso Público. Recepción de antecedentes hasta el 30 de junio de 2026 al email concursoacademico@hcuch.cl",
+          "quote_locator": "Closing paragraph of the notice"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["this is a newspaper legal-notice reproduction, not the hospital's own page; the full requisitos were on redclinica.cl and were not retrievable", "the negative ('none open today') rests on checking Universidad de Chile, Universidad de Valparaíso, USACH and the Colegio Médico board only; it is not an exhaustive national sweep"],
+      "applies_to_her": "yes",
+      "condition": "Rheumatology academic posts DO recur; they appear roughly annually per faculty. The watch list matters more than any single posting."
+    },
+    {
+      "id": "L11-C10",
+      "statement": "Universidad de Valparaíso, a state university with a medical faculty, had exactly one open staff concurso on its central vacancies page on 3 September 2026, an internal-mobility post in Ingeniería en Finanzas, and no medical academic vacancy at all.",
+      "answers_question": [3, 4],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://cyl.uv.cl/cargos",
+          "publisher": "Universidad de Valparaíso",
+          "title": "Concursos para cargos",
+          "date_of_content": "2026-08-28",
+          "quote_original": "Bases llamado Movilidad Interna para Proveer un cargo en el escalafón de profesionales que cumpla la función de profesional docente para la carrera de Ingeniería en Finanzas",
+          "quote_locator": "Only listing under heading 'Concursos para cargos', dated '28 agosto 2026'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["faculties sometimes publish concursos on their own faculty site rather than the central cyl.uv.cl page, so this is evidence of an empty central page, not proof of zero vacancies at UV"],
+      "applies_to_her": "no",
+      "condition": "Recorded so the reader does not assume every state university is continuously hiring. Most are not."
+    },
+    {
+      "id": "L11-C11",
+      "statement": "Universidad de Santiago de Chile's 2026 academic recruitment was explicitly advertised as a national AND international concurso, required a doctorate, and hired into 'jerarquía asistente', confirming that Chilean state universities do contemplate foreign applicants and assign the entry rank themselves rather than carrying over a foreign rank; that call closed on 1 May 2026.",
+      "answers_question": [1, 3, 4],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://www.usach.cl/concurso-publico-contratacion-academicasos",
+          "publisher": "Universidad de Santiago de Chile",
+          "title": "Concurso Público de Contratación de Académicas y Académicos",
+          "date_of_content": "UNDATED",
+          "quote_original": "La Universidad de Santiago de Chile convoca a concurso público, nacional e internacional, para la contratación de académicos/as con grado de doctor/a (salvo excepciones indicadas en las bases), en jerarquía asistente, para las siguientes unidades:",
+          "quote_locator": "Opening paragraph under 'CONCURSOS ACADÉMICOS ABIERTOS'"
+        },
+        {
+          "url": "https://www.usach.cl/concurso-publico-contratacion-academicasos",
+          "publisher": "Universidad de Santiago de Chile",
+          "title": "Concurso Público de Contratación de Académicas y Académicos",
+          "date_of_content": "UNDATED",
+          "quote_original": "La recepción de postulaciones se extenderá hasta el 1 de mayo de 2026. Las postulaciones se recibirán en el correo electrónico contrataciones@usach.cl",
+          "quote_locator": "Bullet under the vacancy table"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["the page is still headed 'CONCURSOS ACADÉMICOS ABIERTOS' four months after its own deadline: a stale page presenting as live", "the two Facultad de Ciencias Médicas posts were in Kinesiología and physical-activity sciences, not medicine"],
+      "applies_to_her": "conditional",
+      "condition": "Relevant as evidence that a foreign candidate is contemplated and that her Ukrainian 'доцент' rank would not carry over; USACH would enter her at asistente at best."
+    },
+    {
+      "id": "L11-C12",
+      "statement": "Private Chilean medical faculties recruit academics through the Colegio Médico job board, and Universidad Andrés Bello was advertising there on 26 August 2026 (page last modified 2 September 2026) for medical teachers and researchers, including a 'Profesor Jornada Medicina Especialidades 22 hrs'.",
+      "answers_question": [1, 3, 4],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.colegiomedico.cl/unab-busca-medicos-as-docentes-e-investigadores-de-medicina/",
+          "publisher": "Colegio Médico de Chile A.G.",
+          "title": "UNAB busca médicos/as docentes e investigadores de medicina",
+          "date_of_content": "2026-08-26",
+          "quote_original": "REVISA LAS OFERTAS EN LOS SIGUIENTES LINKS: -DC Profesor Jornada Medicina Especialidades 22 hrs",
+          "quote_locator": "Body of the post; article:published_time 2026-08-26, article:modified_time 2026-09-02"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["the requisitos live inside .docx attachments that were not opened, so the eligibility of a non-resident foreigner for these UNAB posts is unverified", "no application deadline is stated on the post"],
+      "applies_to_her": "conditional",
+      "condition": "Private universities are not bound by the Estatuto Administrativo at all, which usually makes them the easier employer for a foreigner; unverified for UNAB specifically."
+    },
+    {
+      "id": "L11-C13",
+      "statement": "The Colegio Médico bolsa laboral is a live, high-frequency channel (postings dated 3 September 2026, i.e. same-day) carrying private clinics, public hospitals, municipal APS and university teaching posts, but across the twelve most recent postings on 3 September 2026 not one was for a rheumatologist.",
+      "answers_question": [2, 4],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://www.colegiomedico.cl/bolsa-laboral-2/",
+          "publisher": "Colegio Médico de Chile A.G.",
+          "title": "Bolsa Laboral",
+          "date_of_content": "2026-09-03",
+          "quote_original": "Sanasalud busca médicos especialistas para los centros en Buin, Providencia y San Antonio septiembre 3, 2026",
+          "quote_locator": "First listing on the Bolsa Laboral index page"
+        },
+        {
+          "url": "https://www.colegiomedico.cl/bolsa-laboral-2/",
+          "publisher": "Colegio Médico de Chile A.G.",
+          "title": "Bolsa Laboral",
+          "date_of_content": "2026-09-03",
+          "quote_original": "Hospital Naval Talcahuano «Almirante Adriazola» busca médico especilista en neurología septiembre 2, 2026",
+          "quote_locator": "Fourth listing on the Bolsa Laboral index page"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["only the first page of the board was read; older pages were not paged through"],
+      "applies_to_her": "yes",
+      "condition": "This is the single best free channel to watch weekly. Colegiación is not required to read it."
+    },
+    {
+      "id": "L11-C14",
+      "statement": "A currently-open public clinical specialist post (Otorrinolaringología, Hospital de Linares, Servicio de Salud Maule, closing 3 September 2026) demands, as hard admissibility requirements, a Chilean-recognised or Chile-validated medical title, a PASSED EUNACOM for anyone who graduated abroad, and the specialty registered and current in the Superintendencia de Salud registry, and it pays $3.596.483 gross a month for 44 hours at zero trienios.",
+      "answers_question": [2, 4, 7],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.empleospublicos.cl/pub/convocatorias/convpostularavisoTrabajo.aspx?i=142514&c=0&j=0&tipo=convpostularavisoTrabajo",
+          "publisher": "Dirección Nacional del Servicio Civil / Servicio de Salud Maule, Hospital de Linares",
+          "title": "Médico(a) Especialista Otorrinolaringología - Consultorio Adosado de Especialidades",
+          "date_of_content": "2026-08-21",
+          "quote_original": "1. Título profesional de Médico Cirujano(a) otorgado por una Universidad del Estado o reconocido por éste o aquellos validados en Chile de acuerdo con la legislación vigente. 2. Examen Único Nacional de Conocimientos de Medicina (EUNACOM) aprobado (para profesionales titulados en universidades extranjeras o en universidades chilenas después del 20/04/2009). 3. Especialidad Médica de Otorrinolaringología inscrita y vigente en el Registro Nacional de Prestadores Individuales de Salud de la Superintendencia de Salud.",
+          "quote_locator": "Section 'Requisitos Específicos'"
+        },
+        {
+          "url": "https://www.empleospublicos.cl/pub/convocatorias/convpostularavisoTrabajo.aspx?i=142514&c=0&j=0&tipo=convpostularavisoTrabajo",
+          "publisher": "Dirección Nacional del Servicio Civil / Servicio de Salud Maule, Hospital de Linares",
+          "title": "Médico(a) Especialista Otorrinolaringología - Consultorio Adosado de Especialidades",
+          "date_of_content": "2026-08-21",
+          "quote_original": "Cargos afectos a la Ley N° 19.664, jornada de 44 horas semanales.",
+          "quote_locator": "Section 'Condiciones', above the HORAS/TRIENIOS/TOTAL DE HABERES table showing 44 horas, 0 trienios, $ 3.596.483"
+        },
+        {
+          "url": "https://www.empleospublicos.cl/pub/convocatorias/convpostularavisoTrabajo.aspx?i=142514&c=0&j=0&tipo=convpostularavisoTrabajo",
+          "publisher": "Dirección Nacional del Servicio Civil / Servicio de Salud Maule, Hospital de Linares",
+          "title": "Médico(a) Especialista Otorrinolaringología - Consultorio Adosado de Especialidades",
+          "date_of_content": "2026-08-21",
+          "quote_original": "a) Ser ciudadano o extranjero poseedor de un permiso de residencia.",
+          "quote_locator": "Section 'Requisitos Generales', letter a), presented by the convocatoria as art. 12 of Ley N° 18.834"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 19.664; Ley 18.834 art. 12 as cited by the convocatoria",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "POST"
+      },
+      "trap_flags": ["the convocatoria's rendering of art. 12 letter a) as 'Ser ciudadano o extranjero poseedor de un permiso de residencia' should be checked against the statute text in LeyChile before being relied on (lane L06/L09)", "'validados en Chile de acuerdo con la legislación vigente' is the revalidación hook: after 17 Aug 2026 the set of bodies that can validate has changed, but the requirement itself has not", "posted 21 Aug 2026 and closing 03 Sep 2026 - a 13-day window is typical, so watching monthly is too slow"],
+      "applies_to_her": "yes",
+      "condition": "This is the shape of every public clinical post: for her it is gated behind revalidación + EUNACOM + Superintendencia registration + a residence permit."
+    },
+    {
+      "id": "L11-C15",
+      "statement": "A Servicio de Salud convocatoria sets out the exact documentary chain a foreign-trained specialist must produce for a public clinical post: apostilled and recognised medical title, apostilled specialty certificate, CONACEM certificate, Superintendencia registration certificate, passed EUNACOM, and a residence certificate for foreigners without permanent residence.",
+      "answers_question": [2, 4, 5, 6],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.empleospublicos.cl/pub/convocatorias/convFicha.aspx?ip=141824",
+          "publisher": "Dirección Nacional del Servicio Civil (Aviso Pizarrón, Servicio de Salud, postulacionhcm@redsalud.gob.cl)",
+          "title": "Bases de Convocatoria - Médico Cirujano, Especialidad Cirugía General y Subespecialidad Cirugía de cabeza y cuello",
+          "date_of_content": "2026-07-27",
+          "quote_original": "Certificado de Título Médico Cirujano (apostillado y reconocido si se obtuvo en el extranjero). Certificado de Especialidad (apostillado si se obtuvo en el extranjero). Certificado CONACEM. Certificado o Carnet de Vacunas Hepatitis B (3 dosis). Certificado de Inscripción en Superintendencia de Salud. Certificado EUNACOM aprobado. Certificado de residencia (para extranjeros, en caso de no contar con permiso definitivo).",
+          "quote_locator": "Section 'Requisitos Generales / Específicos', bullet list"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (institutional documentary requirement)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "POST"
+      },
+      "trap_flags": ["this convocatoria's window (27/07/2026 - 27/08/2026) has closed; it is quoted for its requirements, not as a live vacancy", "note the wording 'apostillado y reconocido' for the title but only 'apostillado' for the specialty certificate: the specialty is validated through CONACEM/Superintendencia, not through revalidación"],
+      "applies_to_her": "yes",
+      "condition": "Applies in full to any public clinical route (scenario C in lane L13)."
+    },
+    {
+      "id": "L11-C16",
+      "statement": "A live private-sector rheumatologist vacancy exists in Chile (La Calera, Región de Valparaíso, posted about 30 August 2026), and it requires a CONACEM-certified rheumatology specialty, current Superintendencia registration and a passed EUNACOM for foreign professionals, on an honorarios services contract with no employment contract, with a referential gross projection of $1.780.000 to $1.900.000 a month.",
+      "answers_question": [2, 4, 7],
+      "confidence": "medium",
+      "evidence_type": "secondary",
+      "sources": [
+        {
+          "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-medicoa-reumatologoa-en-calera-9DC9DF65A362EEA261373E686DCF3405",
+          "publisher": "Computrabajo Chile (advertiser: Wall Partners SpA for an unnamed private health institution)",
+          "title": "Médico/a Reumatólogo/a - Calera, Valparaíso",
+          "date_of_content": "UNDATED",
+          "quote_original": "Especialidad en Reumatología acreditada, certificada por CONACEM o formación comprobable en curso. Inscripción vigente en la Superintendencia de Salud. No se exige experiencia mínima. Seguro de responsabilidad civil superior a 4.000 UF. EUNACOM aprobado para profesionales extranjeros.",
+          "quote_locator": "Section 'Requisitos'. Page shows only a relative timestamp, 'Hace 4 días (actualizada)', read on 2026-09-03; no absolute date."
+        },
+        {
+          "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-medicoa-reumatologoa-en-calera-9DC9DF65A362EEA261373E686DCF3405",
+          "publisher": "Computrabajo Chile (advertiser: Wall Partners SpA)",
+          "title": "Médico/a Reumatólogo/a - Calera, Valparaíso",
+          "date_of_content": "UNDATED",
+          "quote_original": "Vinculación: convenio de prestación de servicios a honorarios, sin contrato laboral. Disponibilidad: mínimo referencial de 10 horas semanales. Porcentaje para el/la profesional: entre 75% y 80%, según las horas comprometidas y el convenio acordado. Proyección bruta mensual referencial: entre $1.780.000 y $1.900.000.",
+          "quote_locator": "Section 'Condiciones laborales'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["a commercial job board, not the employer's own page; the employer is not named", "an honorarios convenio is NOT employment: no salary floor, no employer AFP or health contributions, no basis for a work-contract visa on its own", "EUNACOM and Superintendencia registration are demanded even by a private employer, which refutes any belief that private practice escapes them"],
+      "applies_to_her": "conditional",
+      "condition": "Only after revalidación, EUNACOM, CONACEM certification and Superintendencia registration. Every one of those is upstream of this posting."
+    },
+    {
+      "id": "L11-C17",
+      "statement": "Chile has roughly 300 rheumatologists in total, adult and paediatric, of whom 286 are accredited in the health-providers registry, only three universities train adult rheumatologists, and the 6 to 12 training places offered each year have not all been filled in recent years.",
+      "answers_question": [2, 4],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://revistareumatologia.cl/index.php/rcr/article/download/152/116/209",
+          "publisher": "Revista Chilena de Reumatología (Sociedad Chilena de Reumatología), author Marcela Cisternas M., Vicedecana, Facultad de Medicina, Pontificia Universidad Católica de Chile",
+          "title": "Educación Médica de Posgrado: avances y desafíos, Rev. Chil. Reumatol. 41(3)",
+          "date_of_content": "2025-11-19",
+          "quote_original": "En reumatología, aunque no existen cifras oficiales del número exacto de especialistas activos, se estima que Chile cuenta con alrededor de 300 reumatólogos, entre adultos y pediátricos. Según el registro de prestadores de salud, 286 médicos están acreditados como reumatólogos/as, ya sea por universidades que imparten la subespecialidad o por la Comisión Nacional de Certificación de Especialidades Médicas (CONACEM).",
+          "quote_locator": "Section 'Introducción', paragraph on rheumatology"
+        },
+        {
+          "url": "https://revistareumatologia.cl/index.php/rcr/article/download/152/116/209",
+          "publisher": "Revista Chilena de Reumatología (Sociedad Chilena de Reumatología)",
+          "title": "Educación Médica de Posgrado: avances y desafíos, Rev. Chil. Reumatol. 41(3)",
+          "date_of_content": "2025-11-19",
+          "quote_original": "Actualmente, tres universidades imparten programas de formación en reumatología en pacientes adultos. Estos tienen una duración de cuatro semestres y corresponden a subespecialidades derivadas de la medicina interna. A pesar de que la oferta anual de cupos es reducida (entre 6 y 12) y se reconoce la falta de estos especialistas, en los últimos años no se han llenado todas las vacantes.",
+          "quote_locator": "Section 'Introducción', final paragraph before 'Educación médica de posgrado'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["the author writes that no official figure for active rheumatologists exists; 300 is an estimate, 286 is a registry count", "unfilled training places signal weak demand from Chilean graduates for the specialty, which cuts both ways: a shortage, but also a specialty the domestic market does not compete hard for"],
+      "applies_to_her": "yes",
+      "condition": "A domestic pipeline producing at most 6-12 rheumatologists a year, not all filled, is the single strongest structural argument in her favour."
+    },
+    {
+      "id": "L11-C18",
+      "statement": "Chilean rheumatologists are concentrated in the Región Metropolitana and are scarce or absent in Aysén, Magallanes and Arica y Parinacota, so the realistic geographic opening for a newcomer is in the regions, not Santiago.",
+      "answers_question": [2, 4],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://revistareumatologia.cl/index.php/rcr/article/download/152/116/209",
+          "publisher": "Revista Chilena de Reumatología (Sociedad Chilena de Reumatología)",
+          "title": "Educación Médica de Posgrado: avances y desafíos, Rev. Chil. Reumatol. 41(3)",
+          "date_of_content": "2025-11-19",
+          "quote_original": "La distribución geográfica es desigual: la mayoría de los reumatólogos se concentra en la Región Metropolitana, mientras que en regiones extremas como Aysén, Magallanes o Arica y Parinacota la disponibilidad es escasa o inexistente. Esto genera inequidades de acceso, listas de espera prolongadas y migración de pacientes hacia centros urbanos.",
+          "quote_locator": "Section 'Introducción', paragraph following the specialist-count paragraph"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["extreme regions have no medical faculty of their own in most cases, so a regional clinical opening and an academic opening are usually not in the same place"],
+      "applies_to_her": "yes",
+      "condition": "Her son's location in Chile may conflict with where the demand actually is."
+    },
+    {
+      "id": "L11-C19",
+      "statement": "The competitive backdrop is that Chile is no longer short of doctors in aggregate: licensed physicians rose to 65,737 in 2023, a rate of 3.13 per thousand, projected to reach 4 per thousand by 2026, and roughly 3,500 foreign-trained doctors sit EUNACOM every year.",
+      "answers_question": [2, 4],
+      "confidence": "high",
+      "evidence_type": "professional_body",
+      "sources": [
+        {
+          "url": "https://revistareumatologia.cl/index.php/rcr/article/download/152/116/209",
+          "publisher": "Revista Chilena de Reumatología (Sociedad Chilena de Reumatología)",
+          "title": "Educación Médica de Posgrado: avances y desafíos, Rev. Chil. Reumatol. 41(3)",
+          "date_of_content": "2025-11-19",
+          "quote_original": "En 2012, el país contaba con una tasa de 1,7 médicos por cada mil habitantes, muy por debajo de la recomendación de la OCDE, de 3,2. Con el aumento de egresados y la llegada de médicos extranjeros, la cifra ascendió a 65.737 profesionales con licencia en 2023, con una tasa de 3,13 por mil habitantes. Para 2026 se proyecta una tasa de 4 por mil.",
+          "quote_locator": "Section 'Introducción', fifth paragraph"
+        },
+        {
+          "url": "https://revistareumatologia.cl/index.php/rcr/article/download/152/116/209",
+          "publisher": "Revista Chilena de Reumatología (Sociedad Chilena de Reumatología)",
+          "title": "Educación Médica de Posgrado: avances y desafíos, Rev. Chil. Reumatol. 41(3)",
+          "date_of_content": "2025-11-19",
+          "quote_original": "Además, cada año cerca de 3.500 médicos extranjeros rinden el Examen Único Nacional de Conocimientos de Medicina (EUNACOM).",
+          "quote_locator": "Section 'Introducción', fourth paragraph"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["the aggregate doctor supply and the specialist gap are different problems; do not use the aggregate figure to argue there is no opportunity in rheumatology, nor the specialist gap to argue Chile is desperate for any doctor"],
+      "applies_to_her": "yes",
+      "condition": "She would be one of roughly 3,500 foreign doctors entering the EUNACOM funnel each year, most of them younger and Spanish-speaking."
+    },
+    {
+      "id": "L11-C20",
+      "statement": "As of the third quarter of 2025 there were 2,134,000 people waiting for a new specialist consultation in the Chilean public system with a median wait of 242 days, so demand for specialist capacity is real and officially quantified even though MINSAL does not publish a rheumatology-specific figure.",
+      "answers_question": [2, 4],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://www.minsal.cl/mas-de-2-millones-de-personas-han-egresado-de-la-lista-de-espera-en-2025-y-un-aumento-del-35-en-la-produccion-de-la-red-asistencial/",
+          "publisher": "Ministerio de Salud de Chile",
+          "title": "Más de 2 millones de personas han egresado de la lista de espera en 2025 y un aumento del 35% en la producción de la Red Asistencial",
+          "date_of_content": "2025-11-24",
+          "quote_original": "ahora son 105.000 personas menos esperando consultas nuevas de especialidad (total: 2.134.000 personas) y 5.147 personas menos en lista de espera quirúrgica",
+          "quote_locator": "Paragraph beginning 'Las listas de espera muestran disminuciones importantes'"
+        },
+        {
+          "url": "https://www.minsal.cl/mas-de-2-millones-de-personas-han-egresado-de-la-lista-de-espera-en-2025-y-un-aumento-del-35-en-la-produccion-de-la-red-asistencial/",
+          "publisher": "Ministerio de Salud de Chile",
+          "title": "Más de 2 millones de personas han egresado de la lista de espera en 2025 y un aumento del 35% en la producción de la Red Asistencial",
+          "date_of_content": "2025-11-24",
+          "quote_original": "En lo relativo a Consultas Nuevas de Especialidad sostuvo la mediana descendió 22 días, situándose en 242 días",
+          "quote_locator": "Paragraph on Consultas Nuevas de Especialidad, Glosa N°6 III trimestre 2025"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["the trend is IMPROVING, not worsening: waits fell 22 days year on year, so 'the lists are exploding' is not a defensible argument", "no rheumatology breakdown is published; the Revista Chilena de Reumatología article says the specialty is usually absorbed into 'otras especialidades'"],
+      "applies_to_her": "yes",
+      "condition": "Supports the general case for specialist demand, not a rheumatology-specific case."
+    },
+    {
+      "id": "L11-C21",
+      "statement": "MINSAL's own investment planning implies a gap of about 7,156.5 full-time-equivalent medical posts, roughly 30 percent above the 24,073.25 FTE it counted in December 2024, so the structural specialist shortfall is officially acknowledged at scale.",
+      "answers_question": [2, 4],
+      "confidence": "medium",
+      "evidence_type": "press",
+      "sources": [
+        {
+          "url": "https://www.cepchile.cl/brecha-de-especialistas-en-salud/",
+          "publisher": "Centro de Estudios Públicos (CEP Chile), column by Alfonso España M., first published in La Segunda",
+          "title": "Brecha de especialistas en salud",
+          "date_of_content": "2026-07-30",
+          "quote_original": "según estimaciones del Minsal, a diciembre 2024 había 24.073,25 JCE de médicos. Según el Plan de Inversiones en Salud 2025-2035, para que la infraestructura pueda funcionar adecuadamente harían falta otras 7.156,5 JCE (un 30% más).",
+          "quote_locator": "Pull quote at the head of the column, repeated in the third paragraph"
+        },
+        {
+          "url": "https://www.cepchile.cl/brecha-de-especialistas-en-salud/",
+          "publisher": "Centro de Estudios Públicos (CEP Chile)",
+          "title": "Brecha de especialistas en salud",
+          "date_of_content": "2026-07-30",
+          "quote_original": "Considerando las tasas de crecimiento de funcionarios, el problema no está en cubrir las plazas al 2035, sino en las competencias de dichos profesionales.",
+          "quote_locator": "Fourth paragraph"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["this is a think-tank opinion column citing MINSAL, not the MINSAL document itself; the primary Plan de Inversiones en Salud 2025-2035 was not retrieved", "the author's own conclusion is that the binding constraint is COMPETENCIES, not headcount, which weakens a naive 'they need bodies' reading", "the named priority gaps are oncology, intensive care, emergency, geriatrics and anaesthesia; rheumatology is not on that list"],
+      "applies_to_her": "conditional",
+      "condition": "Useful as national context. It does not evidence demand for rheumatology, and the specialties MINSAL is prioritising are not hers."
+    },
+    {
+      "id": "L11-C22",
+      "statement": "Realistically, a senior foreign academic rheumatologist with no Spanish, no Chilean residence and no Chilean-recognised title is not currently employable in Chile in either lane: no rheumatology academic post is open, every clinical post found (public and private alike) demands EUNACOM plus Superintendencia registration, and the one route that is genuinely open to her today, applying to a Universidad de Chile academic concurso from Ukraine on an apostilled diploma, terminates in a scored Spanish-language teaching presentation she could not currently pass.",
+      "answers_question": [1, 2, 4],
+      "confidence": "medium",
+      "evidence_type": "inference",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Resolución Exenta N°374 de 2026 - Bases concurso MD2624",
+          "date_of_content": "2026-07-24",
+          "quote_original": "El postulante que no concurra a la presentación o manifieste su intención de desistir de su participación, no será evaluado y quedará excluido inmediatamente del concurso.",
+          "quote_locator": "Section 'ETAPA N°3: EVALUACIÓN SEGÚN OPOSICIÓN', paragraph 3"
+        },
+        {
+          "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-medicoa-reumatologoa-en-calera-9DC9DF65A362EEA261373E686DCF3405",
+          "publisher": "Computrabajo Chile (advertiser: Wall Partners SpA)",
+          "title": "Médico/a Reumatólogo/a - Calera, Valparaíso",
+          "date_of_content": "UNDATED",
+          "quote_original": "EUNACOM aprobado para profesionales extranjeros.",
+          "quote_locator": "Section 'Requisitos'. Read 2026-09-03; page shows only 'Hace 4 días (actualizada)'."
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["this is an inference over the evidence in this lane, not a sourced statement by any Chilean body", "it is a statement about TODAY; with 12-18 months of Spanish to B2/C1 and the document chain done in parallel, the same evidence supports a very different verdict"],
+      "applies_to_her": "yes",
+      "condition": "The binding constraint found in this lane is Spanish, not the law and not the absence of jobs. Sequence Spanish tuition first; it gates the only door that is otherwise open."
+    },
+    {
+      "id": "L11-C23",
+      "statement": "The Universidad de Chile Facultad de Medicina contact point for academic concursos is rrhhacademicos.med@uchile.cl for three of the four current batches and concursos.med@uchile.cl for the fourth, with applications formalised through the platform concurso-academico.uchile.cl.",
+      "answers_question": [1, 4],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para provisión de cargos académicos en calidad de contrata 3",
+          "date_of_content": "UNDATED",
+          "quote_original": "Para formalizar la postulación a alguno de los concursos vigentes, el/la interesado/a deberá enviar  adjuntos los antecedentes solicitados, mediante la plataforma https://concurso-academico.uchile.cl. Consultas al correo electrónico: rrhhacademicos.med@uchile.cl.",
+          "quote_locator": "Antecedentes table, penultimate paragraph"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+          "publisher": "Facultad de Medicina, Universidad de Chile",
+          "title": "Concursos vigentes para cargos académicos en calidad de contrata 2",
+          "date_of_content": "UNDATED",
+          "quote_original": "el/la interesado/a deberá enviar  adjuntos los antecedentes solicitados al correo electrónico \" concursos.med@uchile.cl\". Consultas al correo electrónico: concursos.med@uchile.cl.",
+          "quote_locator": "Antecedentes table, penultimate paragraph (batch MD2633-MD2636)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": ["two different submission mechanisms are live simultaneously: a platform for some batches, plain email for another"],
+      "applies_to_her": "yes",
+      "condition": "These are the addresses to write to in order to resolve the passport question (L11-C06) and the immigration-timing question before any deadline."
+    }
+  ],
+  "process_steps": [
+    {
+      "step_no": 1,
+      "name": "Watch the four Universidad de Chile Facultad de Medicina concurso pages plus the Colegio Médico bolsa laboral, weekly",
+      "actor": "Candidate (from Ukraine)",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 365,
+      "source_claim_ids": ["L11-C01", "L11-C13"]
+    },
+    {
+      "step_no": 2,
+      "name": "Assemble the application dossier: CV in extenso (Anexo 1), sworn declaration (Anexo 2), passport copy, criminal-record certificate, apostilled and officially translated diploma, doctorate and specialty certificates, and recommendation letters",
+      "actor": "Candidate",
+      "where": "Ukraine",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Currículum Vitae in Extenso (Anexo N°1)", "Declaración Jurada Simple (Anexo N°2)", "Pasaporte vigente", "Certificado de antecedentes vigente", "Título de médico apostillado + traducción oficial", "Diploma de кандидат медичних наук apostillado + traducción oficial", "Certificado de especialidad apostillado + traducción oficial", "Cartas de recomendación"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 120,
+      "source_claim_ids": ["L11-C05", "L11-C06"]
+    },
+    {
+      "step_no": 3,
+      "name": "Write to rrhhacademicos.med@uchile.cl and concursos.med@uchile.cl BEFORE applying to confirm passport acceptance, the acceptability of a Ukrainian police-record certificate in place of the Chilean certificado de antecedentes, and at what stage a residence permit becomes mandatory",
+      "actor": "Candidate",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 3,
+      "duration_days_max": 30,
+      "source_claim_ids": ["L11-C04", "L11-C06", "L11-C23"]
+    },
+    {
+      "step_no": 4,
+      "name": "Submit the application through concurso-academico.uchile.cl (or by email for the batch that requires it) inside the 30-day window",
+      "actor": "Candidate",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": ["Full dossier from step 2"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 30,
+      "source_claim_ids": ["L11-C01", "L11-C23"]
+    },
+    {
+      "step_no": 5,
+      "name": "Admissibility screening and curricular scoring by the Comisión de Concursos (pass mark 600 of 1000)",
+      "actor": "Comisión de Concursos, Facultad de Medicina, Universidad de Chile",
+      "where": "Chile",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 14,
+      "duration_days_max": 60,
+      "source_claim_ids": ["L11-C04", "L11-C05"]
+    },
+    {
+      "step_no": 6,
+      "name": "Oposición: deliver a scored teaching presentation on a topic set by the Comisión, in person at Campus Norte or virtually, followed by questions (pass mark 600 of 1000)",
+      "actor": "Candidate before the Comisión de Concursos",
+      "where": "either",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 30,
+      "source_claim_ids": ["L11-C07", "L11-C08"]
+    },
+    {
+      "step_no": 7,
+      "name": "If awarded: accredit compliance with Chilean immigration rules and take up a contrata contract running to 31 December of the year in course, renewable",
+      "actor": "Candidate + Universidad de Chile",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": true,
+      "documents": ["Residence permit / visa"],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 180,
+      "source_claim_ids": ["L11-C04"]
+    }
+  ],
+  "entities": [
+    {
+      "name": "CONCURSO MD2624 - Departamento de Atención Primaria y Salud Familiar, 22 h, Carrera Docente, Universidad de Chile",
+      "role": "OPEN academic vacancy; deadline 2026-10-03 (window 2026-09-03 to 2026-10-03); requires Médico Cirujano + Magíster + 3 years APS experience",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2625 - Departamento de Fonoaudiología, 44 h, Carrera Ordinaria, Universidad de Chile",
+      "role": "OPEN academic vacancy; deadline 2026-10-03; requires Fonoaudiólogo/a, not a doctor",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2626 - Instituto de Investigaciones Materno Infantil, 44 h, Carrera Ordinaria, Universidad de Chile",
+      "role": "OPEN academic vacancy; deadline 2026-10-03; requires Biólogo + Doctorado en Fisiología",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2627 - Departamento de Psiquiatría y Salud Mental Sur, 44 h, Carrera Ordinaria, Universidad de Chile",
+      "role": "OPEN academic vacancy; deadline 2026-10-03; requires Profesor de Lengua Castellana + Doctorado",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2620 - Departamento de Ciencias Neurológicas Oriente, 22 h, Carrera Ordinaria, Universidad de Chile",
+      "role": "OPEN academic vacancy closing 2026-09-06; requires Médico Cirujano + Especialidad en Neurología",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2621 - Departamento de Medicina Interna Sur, 11 h, Carrera Ordinaria, Universidad de Chile",
+      "role": "OPEN academic vacancy closing 2026-09-06; requires Médico Cirujano + Medicina Interna + Medicina Intensiva",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2634 - Departamento de Medicina Interna Centro, 11 h, Carrera Docente, Universidad de Chile",
+      "role": "Academic vacancy, window 2026-09-10 to 2026-10-10; requires Médico Cirujano + Medicina Interna + 1 year experience; NOTE this batch demands Cédula de Identidad, not passport",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+      "email": "concursos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2635 - Departamento de Radiología, 22 h, Carrera Ordinaria, Universidad de Chile",
+      "role": "Academic vacancy, window 2026-09-10 to 2026-10-10; requires Médico Cirujano + Radiología + Doctorado en Ciencias de la Salud",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+      "email": "concursos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2636 - Departamento de Dermatología, 11 h, Carrera Docente, Universidad de Chile",
+      "role": "Academic vacancy, window 2026-09-10 to 2026-10-10; requires Médico Cirujano + Dermatología + 3 years experience",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+      "email": "concursos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSO MD2633 - Departamento de Urología, 11 h, Carrera Docente, Universidad de Chile",
+      "role": "Academic vacancy, window 2026-09-10 to 2026-10-10; requires Médico Cirujano + Urología + 5 years teaching",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+      "email": "concursos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "CONCURSOS MD2628 to MD2632 - Bioética y Humanidades Médicas, Instituto de Salud Poblacional, Nutrición, Universidad de Chile",
+      "role": "Academic vacancies, window 2026-09-08 to 2026-10-08; none requires a medical degree",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-4",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Hospital Clínico Universidad de Chile - cargo académico 22 h, Departamento de Medicina Interna, Sección Reumatología",
+      "role": "CLOSED academic rheumatology vacancy; deadline 2026-06-30; the only rheumatology academic post found in 2026",
+      "url": "https://www.diarioelmarino.cl/2026/06/01/universidad-de-chile-hospital-clinico-llamado-a-concurso-publico/",
+      "email": "concursoacademico@hcuch.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Universidad Andrés Bello - DC Profesor Jornada Medicina Especialidades 22 hrs and three Viña del Mar health-technology professorships",
+      "role": "OPEN private-university academic vacancies; no deadline stated; posted 2026-08-26, page modified 2026-09-02",
+      "url": "https://www.colegiomedico.cl/unab-busca-medicos-as-docentes-e-investigadores-de-medicina/",
+      "email": "unknown",
+      "phone": "unknown"
+    },
+    {
+      "name": "Universidad de Santiago de Chile - Concurso Público de Contratación de Académicas y Académicos 2026",
+      "role": "CLOSED academic vacancy round; deadline 2026-05-01; 'nacional e internacional', doctorate required, jerarquía asistente; 2 Ciencias Médicas posts (ECIADES, Kinesiología)",
+      "url": "https://www.usach.cl/concurso-publico-contratacion-academicas-y-academicos",
+      "email": "contrataciones@usach.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Médico(a) Especialista Otorrinolaringología - Hospital de Linares, Servicio de Salud Maule",
+      "role": "OPEN public clinical vacancy; deadline 2026-09-03 23:59; 44 h Ley 19.664; $3.596.483 gross at 0 trienios; EUNACOM + Superintendencia registration mandatory",
+      "url": "https://www.empleospublicos.cl/pub/convocatorias/convpostularavisoTrabajo.aspx?i=142514&c=0&j=0&tipo=convpostularavisoTrabajo",
+      "email": "seleccionhbl@hospitaldelinares.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Médico(a) Especialista Dermatología - Hospital de Linares, Servicio de Salud Maule",
+      "role": "OPEN public clinical vacancy; deadline 2026-09-03 23:59; contrata; $2.697.362 gross",
+      "url": "https://www.empleospublicos.cl/pub/convocatorias/convpostularavisoTrabajo.aspx?i=142517&c=0&j=0&tipo=convpostularavisoTrabajo",
+      "email": "seleccionhbl@hospitaldelinares.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Médico Cirujano, Cirugía General y Subespecialidad Cirugía de cabeza y cuello - Aviso Pizarrón, Servicio de Salud",
+      "role": "CLOSED public clinical vacancy; deadline 2026-08-27 17:00; quoted for its complete foreign-doctor document list",
+      "url": "https://www.empleospublicos.cl/pub/convocatorias/convFicha.aspx?ip=141824",
+      "email": "postulacionhcm@redsalud.gob.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Médico/a Reumatólogo/a - La Calera, Región de Valparaíso (Wall Partners SpA for a private health institution)",
+      "role": "OPEN private clinical rheumatology vacancy; no deadline stated, listed as updated 4 days before 2026-09-03; honorarios, $1.780.000-$1.900.000 gross/month",
+      "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-medicoa-reumatologoa-en-calera-9DC9DF65A362EEA261373E686DCF3405",
+      "email": "unknown",
+      "phone": "unknown"
+    },
+    {
+      "name": "Portal de Empleos Públicos, Dirección Nacional del Servicio Civil",
+      "role": "STANDING CHANNEL for every public-sector clinical and administrative vacancy; 300 open convocatorias on 2026-09-03; filter by cargo and region; deadlines are typically 10-14 days",
+      "url": "https://www.empleospublicos.cl/",
+      "email": "unknown",
+      "phone": "800 719 500"
+    },
+    {
+      "name": "Colegio Médico de Chile A.G. - Bolsa Laboral",
+      "role": "STANDING CHANNEL, updated same-day; private clinics, public hospitals, municipal APS and private universities; no membership needed to read",
+      "url": "https://www.colegiomedico.cl/bolsa-laboral-2/",
+      "email": "unknown",
+      "phone": "unknown"
+    },
+    {
+      "name": "Universidad de Chile - Portal de Concursos Académicos",
+      "role": "STANDING CHANNEL; the platform through which Universidad de Chile academic applications are formalised, all faculties",
+      "url": "https://concurso-academico.uchile.cl/",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Facultad de Medicina, Universidad de Chile - Concursos de cargos académicos (index)",
+      "role": "STANDING CHANNEL; index page listing the four live batch sub-pages; the index itself carries no vacancies",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Universidad de Valparaíso - Concursos para cargos",
+      "role": "STANDING CHANNEL; central staff-vacancy page; on 2026-09-03 it listed one non-medical post only",
+      "url": "https://cyl.uv.cl/cargos",
+      "email": "unknown",
+      "phone": "unknown"
+    },
+    {
+      "name": "Universidad de Santiago de Chile - Concurso Público de Contratación de Académicas y Académicos",
+      "role": "STANDING CHANNEL; annual national and international academic round",
+      "url": "https://www.usach.cl/concurso-publico-contratacion-academicas-y-academicos",
+      "email": "contrataciones@usach.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Hospital Clínico Universidad de Chile (Red Clínica) - concursos académicos",
+      "role": "STANDING CHANNEL; where clinical-academic posts including rheumatology are advertised",
+      "url": "https://www.redclinica.cl/",
+      "email": "concursoacademico@hcuch.cl",
+      "phone": "unknown"
+    },
+    {
+      "name": "Alta Dirección Pública, Servicio Civil - concursos en postulación",
+      "role": "STANDING CHANNEL; senior public-management posts including hospital and Servicio de Salud directorships",
+      "url": "https://adp.serviciocivil.cl/concursos-spl/opencms/resultados_busqueda.html?filtroEstado=postulacion&action=busquedaCompleta",
+      "email": "unknown",
+      "phone": "unknown"
+    },
+    {
+      "name": "Computrabajo Chile - Medicina / Salud",
+      "role": "STANDING CHANNEL, private sector; the only channel on which a live rheumatology vacancy was found on 2026-09-03",
+      "url": "https://cl.computrabajo.com/empleos-de-medicina-y-salud",
+      "email": "unknown",
+      "phone": "unknown"
+    },
+    {
+      "name": "Laborum Chile - empleos área salud, medicina y farmacia, subárea medicina",
+      "role": "STANDING CHANNEL, private sector",
+      "url": "https://www.laborum.cl/empleos-area-salud-medicina-y-farmacia-subarea-medicina.html",
+      "email": "unknown",
+      "phone": "unknown"
+    },
+    {
+      "name": "Trabajando.com Chile - trabajo médico",
+      "role": "STANDING CHANNEL, private sector; a rheumatology listing in Quilpué appeared in search results but the page returned HTTP 404 when fetched on 2026-09-03",
+      "url": "https://www.trabajando.cl/trabajo-medico",
+      "email": "unknown",
+      "phone": "unknown"
+    },
+    {
+      "name": "Sociedad Chilena de Reumatología (SOCHIRE)",
+      "role": "Professional society; NO bolsa de trabajo could be confirmed (site returned HTTP 403 to direct fetch on 2026-09-03)",
+      "url": "https://sochire.cl/",
+      "email": "unknown",
+      "phone": "unknown"
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "Does the Universidad de Chile Facultad de Medicina accept a Ukrainian police-record certificate (apostilled and translated) in place of the Chilean 'Certificado de antecedentes vigente' that every batch demands?",
+      "why_it_matters": "It is a mandatory antecedente in all four current batches. A Chilean certificado de antecedentes is issued by the Registro Civil to people with a Chilean identity number. If no foreign substitute is accepted, her application is inadmissible at stage 1 regardless of merit, and the whole 'apply from Ukraine' route collapses.",
+      "how_to_resolve": "Email rrhhacademicos.med@uchile.cl and concursos.med@uchile.cl, quoting the bullet 'Certificado de antecedentes vigente a la fecha de postulación', and ask what a non-resident applicant should submit.",
+      "blocking": true
+    },
+    {
+      "question": "At which exact point in the concurso does 'acreditarse el cumplimiento de las normas sobre extranjería' bite: at application, at award, or only at signature of the contrata?",
+      "why_it_matters": "This is the ordering problem. If immigration compliance is tested at APPLICATION, she cannot apply from Ukraine at all. If at signature, she can win the post first and use the award to support a visa application, which reverses the whole strategy.",
+      "how_to_resolve": "Ask the Subdirección de Relaciones Humanas of the Facultad de Medicina in writing, and cross-check with lane L09 on Ley 21.325 subcategorías.",
+      "blocking": true
+    },
+    {
+      "question": "Would a Comisión de Concursos accept a Ukrainian rheumatology specialty certificate as satisfying an admissibility line reading 'Especialidad Médica en Medicina Interna' or 'Especialidad Médica en Reumatología', without CONACEM certification?",
+      "why_it_matters": "Every medical academic post found states a specialty as a hard admissibility requirement. Academic bases never mention CONACEM (clinical convocatorias always do). If the Comisión reads the specialty line as satisfied by an apostilled foreign certificate, the academic route is genuinely open; if it requires Chilean certification, the academic route inherits the clinical route's full burden.",
+      "how_to_resolve": "Ask the Facultad de Medicina directly, and ask CONACEM whether a Ukrainian certificate is admissible input (lane L05).",
+      "blocking": true
+    },
+    {
+      "question": "Is the language of the oposición teaching presentation ever anything other than Spanish, and does any Chilean medical faculty run an English-track programme where it would not be?",
+      "why_it_matters": "The oposición is worth 1000 points with a 600 pass mark and is scored partly on clarity of exposition. If Spanish is unavoidable, Spanish tuition is the critical path and everything else is secondary.",
+      "how_to_resolve": "Ask the Departamento that owns a target concurso; cross-check with lane L06 question 7 on English-track programmes.",
+      "blocking": false
+    },
+    {
+      "question": "What are the actual pay figures for a Universidad de Chile academic contrata at 11, 22 and 44 hours?",
+      "why_it_matters": "None of the four batch pages or the MD2624 bases states a remuneration. Without it she cannot judge whether an 11-hour Carrera Docente post is economically viable, nor compare it with the $3.596.483 a 44-hour public clinical specialist post pays.",
+      "how_to_resolve": "Chilean state universities publish staff pay under the transparency law; query the Universidad de Chile transparency portal, or ask rrhhacademicos.med@uchile.cl.",
+      "blocking": false
+    },
+    {
+      "question": "Do the UNAB posts advertised through the Colegio Médico board require a revalidated Chilean title, Chilean residency, or EUNACOM?",
+      "why_it_matters": "Private universities are outside the Estatuto Administrativo entirely and are usually the easier employer for a foreigner, which would make UNAB a better first target than Universidad de Chile. The requisitos are locked inside .docx attachments that were not opened.",
+      "how_to_resolve": "Download and read the four .docx files linked from the Colegio Médico post, or contact UNAB Facultad de Medicina directly.",
+      "blocking": false
+    },
+    {
+      "question": "Is there any published MINSAL or Superintendencia figure for the rheumatology-specific gap, or a rheumatology breakdown of the specialist waiting list?",
+      "why_it_matters": "Every 'shortage' argument for rheumatology currently rests on one professional-society article that itself says the data does not exist. Without a number, the demand case is qualitative.",
+      "how_to_resolve": "Query the Repositorio Nacional de Listas de Espera (minsal.cl/rnle/) and the Superintendencia's Registro Nacional de Prestadores Individuales by specialty; the article states rheumatology is usually folded into 'otras especialidades'.",
+      "blocking": false
+    }
+  ],
+  "unknowns_declared": [
+    "Whether a Ukrainian police-record certificate substitutes for the Chilean 'certificado de antecedentes' demanded by all four Universidad de Chile batches: NOT FOUND.",
+    "The pay attached to any Universidad de Chile academic contrata post at 11, 22 or 44 hours: NOT STATED anywhere on the concurso pages or in the MD2624 bases that were read.",
+    "The requisitos for the four UNAB academic posts: they exist only inside .docx attachments that were not opened, so their eligibility rules for a non-resident foreigner are unverified.",
+    "Whether Universidad de Chile academic bases treat a foreign specialty certificate as satisfying an 'Especialidad Médica' admissibility line: the bases are silent and no dictamen or precedent was found.",
+    "Whether SOCHIRE operates a bolsa de trabajo: sochire.cl returned HTTP 403 to direct fetch on 2026-09-03 and no jobs section could be confirmed. Treat 'SOCHIRE has a job board' as unverified.",
+    "The full text of the trabajando.cl rheumatologist listing in Quilpué: it appeared in search results but the URL returned HTTP 404 when fetched on 2026-09-03, so it may already be filled or withdrawn.",
+    "Any rheumatology-specific waiting-list or brecha figure from MINSAL: NOT FOUND. The only rheumatology numbers in this lane come from one professional-society article, which itself states no official count of active rheumatologists exists.",
+    "Whether the empleospublicos convocatoria's rendering of Ley 18.834 art. 12 letter a) as 'Ser ciudadano o extranjero poseedor de un permiso de residencia' matches the statute: NOT verified against LeyChile in this lane. Lane L06 owns that.",
+    "Current academic vacancies at PUC, Universidad de Concepción, Universidad Austral, Universidad de La Frontera, Universidad de Antofagasta and the other medical faculties: NOT SWEPT. Only Universidad de Chile, USACH, Universidad de Valparaíso and whatever surfaced on the Colegio Médico board were checked. The claim 'no rheumatology academic post is open in Chile today' is therefore bounded by that sweep, not national.",
+    "Whether the Hospital Clínico Universidad de Chile rheumatology post advertised on 1 June 2026 was awarded, declared desierto, or re-advertised: NOT FOUND.",
+    "Whether Universidad de Chile has published any change to its concurso rules following the 17 August 2026 entry into force of Decreto 174/2024: NOT FOUND. The bases read were signed 24 July 2026, i.e. before that date, so their treatment of foreign titles is PRE-change evidence being applied in a POST-change window.",
+    "Every academic concurso page consulted at Universidad de Chile is UNDATED as a web page; the dates used are those inside the linked Resoluciones Exentas and the stated application windows."
+  ]
+}

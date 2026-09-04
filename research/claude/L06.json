@@ -1,0 +1,941 @@
+{
+  "lane_id": "L06",
+  "status": "partial",
+  "claims": [
+    {
+      "id": "L06-C01",
+      "statement": "No national Chilean norm was found that requires a foreign medical degree to be revalidated before its holder may be hired as a university academic who does not treat patients; the requirement is set institution by institution in each university's own concurso bases, and the Universidad de Chile Faculty of Medicine bases demand only apostille plus official translation.",
+      "answers_question": [
+        1,
+        3,
+        5
+      ],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:faa2d559-943d-4d7f-bb33-8d9577f28e41/MD2620%20Res%20Exenta%20N%20210%20de%202026%20-%20Bases%2022%20hrs%20Departamento%20de%20Ciencias%20Neurologicas%20Oriente_.pdf",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Resolución Exenta N°210 de 2026 — Aprueba bases de concurso académico, cargo a contrata, Departamento de Ciencias Neurológicas Oriente (Concurso MD2620)",
+          "date_of_content": "2026-05-06",
+          "quote_original": "En el caso de certificaciones de título profesional y/o grado(s) académico(s) obtenidos en el extranjero, estos deberán encontrarse debidamente apostillados y/o contar con la validación correspondiente emitida por el Ministerio de Relaciones Exteriores de Chile.",
+          "quote_locator": "Párrafo IV 'Antecedentes para postular', viñeta sobre copias de certificados de títulos"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (searched Ley 21.091, Ley 21.094, Estatuto Administrativo; no such national norm located)",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "negative_finding_verified_by_absence",
+        "institution_specific_not_national",
+        "postgraduate_clinical_training_is_a_different_rule_see_L06-C15"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Holds for a purely academic post with no clinical acts on patients. Verified against three institutions' bases only (U. de Chile, U. de Valparaíso, and by contrast UFRO's specialty programme); not an exhaustive national survey."
+    },
+    {
+      "id": "L06-C02",
+      "statement": "The Universidad de Chile Faculty of Medicine's academic concurso bases state expressly that both Chileans and foreigners may apply, and that article 12 of the Estatuto Administrativo (the public-employment entry requirements, including the citizenship/residence-permit rule) does NOT apply to Universidad de Chile academics.",
+      "answers_question": [
+        1,
+        3,
+        6
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:faa2d559-943d-4d7f-bb33-8d9577f28e41/MD2620%20Res%20Exenta%20N%20210%20de%202026%20-%20Bases%2022%20hrs%20Departamento%20de%20Ciencias%20Neurologicas%20Oriente_.pdf",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Resolución Exenta N°210 de 2026 — Bases concurso académico MD2620, Departamento de Ciencias Neurológicas Oriente",
+          "date_of_content": "2026-05-06",
+          "quote_original": "No será aplicable a los académicos de la Universidad de Chile, lo establecido en el artículo 12 del D.F.L. N°29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la Ley N°18834, sobre Estatuto Administrativo, referido a los requisitos de ingreso a la Administración Pública.",
+          "quote_locator": "Párrafo II 'Requisitos Generales de Postulación', inciso final tras las letras a)-d)"
+        }
+      ],
+      "regime": {
+        "norm": "DFL 29/2004 (Ley 18.834) art. 12, disapplied to U. de Chile academics by D.U. N°0035864 de 2019 / D.U. N°3099 de 1992",
+        "vigencia": "vigente a la fecha de la resolución, 2026-05-06",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "this_is_a_university_specific_carve_out_not_a_national_rule"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Applies to Universidad de Chile academic posts. It does NOT extend to other state universities — see L06-C06 for Universidad de Valparaíso, which applies art. 12 in full."
+    },
+    {
+      "id": "L06-C03",
+      "statement": "The same Universidad de Chile bases open the concurso to foreigners in terms, saying 'los chilenos y extranjeros' may apply, so foreign nationality is not an admissibility bar at application stage.",
+      "answers_question": [
+        1,
+        3,
+        6
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:faa2d559-943d-4d7f-bb33-8d9577f28e41/MD2620%20Res%20Exenta%20N%20210%20de%202026%20-%20Bases%2022%20hrs%20Departamento%20de%20Ciencias%20Neurologicas%20Oriente_.pdf",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Resolución Exenta N°210 de 2026 — Bases concurso académico MD2620",
+          "date_of_content": "2026-05-06",
+          "quote_original": "Podrán postular al cargo en concurso, los chilenos y extranjeros que cumplan los requisitos generales señalados en el D.U. Nº0035864 de 2019, que fija el texto refundido, concordado y sistematizado del D.U. N°2860, de 8 de mayo de 2001, Reglamento General de Carrera Académica",
+          "quote_locator": "Párrafo II 'Requisitos Generales de Postulación', primer inciso"
+        }
+      ],
+      "regime": {
+        "norm": "D.U. U. de Chile N°0035864 de 2019 (Reglamento General de Carrera Académica) y D.U. N°3099 de 1992",
+        "vigencia": "vigente a 2026-05-06",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [],
+      "applies_to_her": "yes",
+      "condition": ""
+    },
+    {
+      "id": "L06-C04",
+      "statement": "Even at Universidad de Chile, a foreign appointee must additionally evidence compliance with Chilean immigration law, so nationality is not a bar to APPLYING but immigration status becomes a condition of being APPOINTED.",
+      "answers_question": [
+        1,
+        6
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:faa2d559-943d-4d7f-bb33-8d9577f28e41/MD2620%20Res%20Exenta%20N%20210%20de%202026%20-%20Bases%2022%20hrs%20Departamento%20de%20Ciencias%20Neurologicas%20Oriente_.pdf",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Resolución Exenta N°210 de 2026 — Bases concurso académico MD2620",
+          "date_of_content": "2026-05-06",
+          "quote_original": "En caso de tratarse de extranjeros, deberá acreditarse además el cumplimiento de las normas sobre extranjería.",
+          "quote_locator": "Párrafo II 'Requisitos Generales de Postulación', inciso final"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 21.325 de Migración y Extranjería (referida genéricamente por las bases)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "the_bases_do_not_say_at_which_moment_immigration_status_must_exist"
+      ],
+      "applies_to_her": "yes",
+      "condition": "The bases do not state whether the immigration evidence is required at application, at award, or at start of duties. Universidad de Valparaíso's bases DO say it (see L06-C07): at start of duties."
+    },
+    {
+      "id": "L06-C05",
+      "statement": "The current text of article 12 letter a) of the Estatuto Administrativo, as amended by Ley 21.325, requires an applicant for Chilean public employment to be a citizen OR a foreigner holding a residence permit; it is therefore not an absolute nationality bar, but it does bar a person who has no Chilean residence permit at all.",
+      "answers_question": [
+        1,
+        6
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://adp.serviciocivil.cl/portal/nacionalidad.html",
+          "publisher": "Servicio Civil (Dirección Nacional del Servicio Civil), Alta Dirección Pública",
+          "title": "Requisito de Nacionalidad o persona extranjera poseedora de permiso de residencia",
+          "date_of_content": "UNDATED",
+          "quote_original": "ser ciudadano o extranjero poseedor de un permiso de residencia",
+          "quote_locator": "Texto citado del artículo 12 letra a) del Estatuto Administrativo en la página de nacionalidad de la ADP"
+        }
+      ],
+      "regime": {
+        "norm": "DFL 29/2004 (texto refundido Ley 18.834) art. 12 letra a), modificado por Ley 21.325",
+        "vigencia": "UNKNOWN (page shows no vigencia banner)",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "UNDATED_source",
+        "older_official_pages_still_show_the_pre-2021_text_Ser_ciudadano_only",
+        "verify_against_LeyChile_texto_vigente_before_relying_on_it"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Binds only where art. 12 applies. Universidad de Chile academics are carved out (L06-C02); Universidad de Valparaíso applies it (L06-C06). An independent check against the LeyChile 'Texto vigente' banner for DFL 29/2004 could not be completed — bcn.cl renders its article text via JavaScript and resisted three retrieval attempts."
+    },
+    {
+      "id": "L06-C06",
+      "statement": "Universidad de Valparaíso, a State university, expressly makes the general requirements of its academic concursos the public-administration entry requirements of article 12 of the Estatuto Administrativo — the opposite of Universidad de Chile's carve-out, so the nationality/residence rule DOES bite there.",
+      "answers_question": [
+        1,
+        3,
+        6
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://cyl.uv.cl/images/2026/Bases%20llamado%20cargos%20academicos%20Jornada%20completa%202026.pdf",
+          "publisher": "Universidad de Valparaíso",
+          "title": "Bases Concurso Público — Plan de Fortalecimiento del Cuerpo Académico, Jornadas Completas (44 horas)",
+          "date_of_content": "UNDATED",
+          "quote_original": "Los requisitos generales de postulación son los establecidos para el ingreso a la Administración Pública, los cuales se detallan en el artículo 12 del Estatuto Administrativo (ley 18.834), sin perjuicio de la reglamentación interna que resulte aplicable sobre la materia",
+          "quote_locator": "Sección 10. REQUISITOS DE POSTULACIÓN, 10.1 Requisitos Generales"
+        }
+      ],
+      "regime": {
+        "norm": "DFL 29/2004 (Ley 18.834) art. 12, aplicado por remisión en las bases UV",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "UNDATED_document",
+        "document_calendar_runs_21-Nov-2025_to_Jan-2026_so_this_round_is_closed",
+        "state_universities_differ_from_each_other_do_not_generalise"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Applies to Universidad de Valparaíso concursos of this type. The document has no printed publication date; its internal calendar shows applications 21 Nov 2025 – 10 Dec 2025 and expected start 1 March 2026, so the round itself has closed."
+    },
+    {
+      "id": "L06-C07",
+      "statement": "Universidad de Valparaíso's bases solve the classic chicken-and-egg problem explicitly: a foreigner MAY apply and be selected without any Chilean residence permit, must hold a permit allowing paid work by the date duties begin, and if they do not have one they must apply for residencia temporal from OUTSIDE Chile.",
+      "answers_question": [
+        1,
+        6
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://cyl.uv.cl/images/2026/Bases%20llamado%20cargos%20academicos%20Jornada%20completa%202026.pdf",
+          "publisher": "Universidad de Valparaíso",
+          "title": "Bases Concurso Público — Plan de Fortalecimiento del Cuerpo Académico, Jornadas Completas (44 horas)",
+          "date_of_content": "UNDATED",
+          "quote_original": "Aquellas personas extranjeras que postulen sin contar con el permiso de residencia que los habilite para desarrollar actividades lícitas remuneradas en Chile, y resulten seleccionados para ocupar el cargo, deberán solicitar la residencia temporal fuera del territorio nacional, en conformidad con la nueva normativa en materia de extranjería.",
+          "quote_locator": "Sección 13, incisos sobre postulantes extranjeros seleccionados"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 21.325 de Migración y Extranjería (residencia temporal solicitada desde el exterior)",
+        "vigencia": "UNKNOWN",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "UNDATED_document",
+        "confirms_that_the_visa_follows_the_job_offer_not_the_reverse"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Directly answers her ordering problem: she can compete from Ukraine and only then seek residence. The same document allows the university up to 180 extra days for the start date while the permit is obtained."
+    },
+    {
+      "id": "L06-C08",
+      "statement": "Universidad de Valparaíso requires a foreign title only to be legalised or apostilled — for pay-scale purposes — and does not require Chilean revalidación; its selection commission may even waive the professional-title requirement for a candidate holding only a foreign academic degree it judges equivalent.",
+      "answers_question": [
+        1,
+        3,
+        5
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://cyl.uv.cl/images/2026/Bases%20llamado%20cargos%20academicos%20Jornada%20completa%202026.pdf",
+          "publisher": "Universidad de Valparaíso",
+          "title": "Bases Concurso Público — Plan de Fortalecimiento del Cuerpo Académico, Jornadas Completas (44 horas)",
+          "date_of_content": "UNDATED",
+          "quote_original": "En el caso que el postulante seleccionado para ocupar el cargo sea extranjero, serán requisitos para ser nombrado en el cargo académico, que los antecedentes educacionales exigidos en el respectivo concurso estén debidamente legalizados o apostillados y contar con un permiso de residencia que le permita desarrollar actividades lícitas remuneradas en el país (temporal o definitiva)",
+          "quote_locator": "Sección 13, inciso sobre postulantes extranjeros seleccionados"
+        },
+        {
+          "url": "https://cyl.uv.cl/images/2026/Bases%20llamado%20cargos%20academicos%20Jornada%20completa%202026.pdf",
+          "publisher": "Universidad de Valparaíso",
+          "title": "Bases Concurso Público — Plan de Fortalecimiento del Cuerpo Académico, Jornadas Completas (44 horas)",
+          "date_of_content": "UNDATED",
+          "quote_original": "La comisión de selección podrá fundadamente, eximir a los postulantes del cumplimiento de requisito básico de título profesional (en caso de que así se hubiese solicitado) a aquellos postulantes que se encuentren en posesión solamente de un grado académico obtenido en el extranjero y el nivel de conocimientos del plan de estudios se estime equivalente.",
+          "quote_locator": "Sección 13.1, etapa 'Cumplimiento de los requisitos básicos'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "UNDATED_document",
+        "the_waiver_is_discretionary_may_not_must"
+      ],
+      "applies_to_her": "yes",
+      "condition": "The equivalence waiver is a 'podrá' — discretionary — and the commission, not a national body, judges equivalence."
+    },
+    {
+      "id": "L06-C09",
+      "statement": "Four academic concursos at the Universidad de Chile Faculty of Medicine are open from 10 September to 10 October 2026 (MD2633 Urología 11 h, MD2634 Medicina Interna Centro 11 h, MD2635 Radiología 22 h, MD2636 Dermatología 11 h), and their admissibility requirements name only a professional title of Médico Cirujano plus a medical specialty and experience — no revalidated Chilean title, no nationality, and no doctorate except for MD2635.",
+      "answers_question": [
+        1,
+        3,
+        4
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Concursos vigentes para cargos académicos en calidad de contrata 2",
+          "date_of_content": "UNDATED",
+          "quote_original": "La recepción de postulaciones estará disponible desde el día 10 de septiembre de 2026 hasta el día 10 de octubre de 2026.",
+          "quote_locator": "Tabla 'Los antecedentes necesarios para hacer efectiva la postulación', última línea"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Concursos vigentes para cargos académicos en calidad de contrata 2 — CONCURSO MD2634, Departamento de Medicina Interna Centro",
+          "date_of_content": "UNDATED",
+          "quote_original": "Título profesional de Médico(a) Cirujano(a). Especialidad Médica en Medicina Interna. Experiencia laboral mínima de un año en su ámbito disciplinar.",
+          "quote_locator": "CONCURSO MD2634, RESOLUCIÓN EXENTA N°413/2026, sección 'Requisitos de admisibilidad' (page bullet list; bullet markers and line breaks normalised to spaces, wording unchanged)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "page_carries_no_publication_date_only_the_application_window",
+        "internal_medicine_not_rheumatology_no_rheumatology_post_open_on_this_page"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "She holds a Ukrainian medical degree and a rheumatology specialty; none of these four posts is in rheumatology, and each names a different specialty as an admissibility (not desirable) requirement."
+    },
+    {
+      "id": "L06-C10",
+      "statement": "The Universidad de Chile Faculty of Medicine's parallel round (MD2620 Neurología 22 h, MD2621 Medicina Interna Sur 11 h, MD2622 and MD2623 Educación en Ciencias de la Salud 44 h) ran from 7 August to 6 September 2026 and shows the same pattern: clinical posts ask for título de Médico Cirujano plus a specialty, while the non-clinical education posts ask for a doctorate instead.",
+      "answers_question": [
+        1,
+        3,
+        4
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Concursos vigentes para provisión de cargo académico en calidad de contrata 1",
+          "date_of_content": "UNDATED",
+          "quote_original": "La recepción de postulaciones estará disponible desde el día 07 de agosto de 2026 hasta el día 06 de septiembre de 2026.",
+          "quote_locator": "Tabla 'Antecedentes requeridos para postular', última línea (page bullet list; bullet markers and line breaks normalised to spaces, wording unchanged)"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Concursos vigentes para provisión de cargo académico en calidad de contrata 1 — CONCURSO MD2622",
+          "date_of_content": "UNDATED",
+          "quote_original": "Título profesional de Ingeniero en Información y Control de Gestión. Doctorado en el ámbito de la educación, ciencias sociales, tecnologías de la información y la comunicación, o afín.",
+          "quote_locator": "DEPARTAMENTO DE EDUCACIÓN EN CIENCIAS DE LA SALUD, CONCURSO MD2622, Requisitos de admisibilidad (page bullet list; bullet markers and line breaks normalised to spaces, wording unchanged)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "window_closed_6_September_2026",
+        "faculty_runs_rolling_30-day_rounds_so_new_ones_appear_monthly"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "Useful as evidence of the standing pattern rather than as a live opportunity; the 7 Aug–6 Sep 2026 window has just closed."
+    },
+    {
+      "id": "L06-C11",
+      "statement": "The Universidad de Chile Faculty of Medicine's concurso pages are internally inconsistent about identity documents: one round accepts a passport, the other asks for a Chilean Cédula de Identidad, which is a real practical obstacle for an applicant abroad and must be raised with the faculty before applying.",
+      "answers_question": [
+        1,
+        4,
+        5
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Concursos vigentes para provisión de cargo académico en calidad de contrata 1",
+          "date_of_content": "UNDATED",
+          "quote_original": "Documento vigente que acredite la identidad del/la postulante al momento de la postulación (Cédula de Identidad o Pasaporte).",
+          "quote_locator": "Tabla 'Antecedentes requeridos para postular', tercera viñeta"
+        },
+        {
+          "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Concursos vigentes para cargos académicos en calidad de contrata 2",
+          "date_of_content": "UNDATED",
+          "quote_original": "Copia simple de la Cédula de Identidad por ambos lados.",
+          "quote_locator": "Tabla 'Los antecedentes necesarios para hacer efectiva la postulación', tercera viñeta"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "operational_inconsistency_between_two_pages_of_the_same_faculty",
+        "both_rounds_also_require_a_Certificado_de_antecedentes_a_Chilean_police_record_document"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Both rounds also demand a 'Certificado de antecedentes vigente', a Chilean criminal-record certificate; whether a Ukrainian equivalent is accepted is unresolved (see open questions)."
+    },
+    {
+      "id": "L06-C12",
+      "statement": "The Universidad de Chile ordinary academic ladder has five ranks — Ayudante, Instructor, Profesor Asistente, Profesor Asociado, Profesor Titular — with Ayudante and Instructor defined as training stages, so 'Profesor Asistente' is the lowest genuinely professorial rank.",
+      "answers_question": [
+        1,
+        3
+      ],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://web.uchile.cl/induccion/reglamentos/Reglamento_Carrera_Academica.pdf",
+          "publisher": "Universidad de Chile",
+          "title": "Reglamento General de Carrera Académica de la Universidad de Chile, Decreto Nº2860 de 8 de mayo de 2001",
+          "date_of_content": "2001-05-08",
+          "quote_original": "Los rangos de Ayudante e Instructor corresponden a etapas de formación y perfeccionamiento, y de verificación de aptitudes para la tarea universitaria.",
+          "quote_locator": "Artículo 8°, inciso siguiente a la enumeración de rangos"
+        }
+      ],
+      "regime": {
+        "norm": "D.U. U. de Chile N°2860 de 2001, Reglamento General de Carrera Académica",
+        "vigencia": "2001-05-08 (versión consultada)",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "THIS_IS_THE_2001_VERSION",
+        "the_current_consolidated_text_is_D.U._N0035864_de_2019_which_I_could_not_retrieve_in_full",
+        "rank_names_are_stable_across_versions_but_requirements_may_not_be"
+      ],
+      "applies_to_her": "yes",
+      "condition": "The Faculty of Medicine's 2026 bases cite D.U. N°0035864 de 2019 as the governing text; the ladder names are unchanged, but the detailed rank requirements should be read from the 2019 text before relying on them."
+    },
+    {
+      "id": "L06-C13",
+      "statement": "Entry to the Universidad de Chile ordinary academic career requires possession of a professional title or the academic degree of Licenciado, Magíster or Doctor 'recognised by the relevant organ of the Universidad de Chile, where applicable', plus winning the public concurso — a hedged phrase that leaves open whether a Ukrainian degree needs an internal recognition step.",
+      "answers_question": [
+        1,
+        3,
+        5
+      ],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://web.uchile.cl/induccion/reglamentos/Reglamento_Carrera_Academica.pdf",
+          "publisher": "Universidad de Chile",
+          "title": "Reglamento General de Carrera Académica de la Universidad de Chile, Decreto Nº2860 de 8 de mayo de 2001",
+          "date_of_content": "2001-05-08",
+          "quote_original": "Para ingresar a la Carrera Académica Ordinaria se requiere estar en posesión de un título profesional o grado académico de Licenciado, Magister o Doctor, reconocidos por el organismo pertinente de la Universidad de Chile, cuando corresponda, y, además, ganar el concurso público a que se convoque para tal efecto, de acuerdo con el correspondiente reglamento.",
+          "quote_locator": "Título II, Artículo 7°, primer inciso"
+        }
+      ],
+      "regime": {
+        "norm": "D.U. U. de Chile N°2860 de 2001 art. 7°",
+        "vigencia": "2001-05-08 (versión consultada)",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "the_phrase_cuando_corresponda_is_the_open_door_for_an_internal_recognition_requirement",
+        "2001_version_not_the_2019_consolidated_text",
+        "contradicts_nothing_but_qualifies_L06-C01"
+      ],
+      "applies_to_her": "yes",
+      "condition": "The 2026 concurso bases resolve the ambiguity in practice by asking only for apostille plus translation, but the reglamento's wording is the residual legal risk and should be put to the faculty in writing."
+    },
+    {
+      "id": "L06-C14",
+      "statement": "A newly hired academic may exceptionally enter the Universidad de Chile ladder above the initial rank, but only by meeting that rank's own requirements under the university's general evaluation procedures; no provision was found anywhere that carries a foreign academic rank such as the Ukrainian 'доцент' across, so the rank is assigned by a Chilean evaluation commission, not inherited.",
+      "answers_question": [
+        1,
+        3
+      ],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://web.uchile.cl/induccion/reglamentos/Reglamento_Carrera_Academica.pdf",
+          "publisher": "Universidad de Chile",
+          "title": "Reglamento General de Carrera Académica de la Universidad de Chile, Decreto Nº2860 de 8 de mayo de 2001",
+          "date_of_content": "2001-05-08",
+          "quote_original": "En casos calificados, y cuando la conveniencia académica así lo aconseje, se podrá ingresar a la carrera en un rango que no sea el inicial, definido en el articulo 8º , cumpliendo con las exigencias propias del rango al que se postula y de acuerdo a los procedimientos generales de evaluación establecidos en el presente reglamento.",
+          "quote_locator": "Título II, Artículo 7°, segundo inciso"
+        }
+      ],
+      "regime": {
+        "norm": "D.U. U. de Chile N°2860 de 2001 art. 7° inciso 2",
+        "vigencia": "2001-05-08 (versión consultada)",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "negative_finding_no_foreign_rank_carry_over_provision_located",
+        "2001_version"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Her доцент rank is evidence for the commission, not a rank she keeps. Universidad de Valparaíso runs the same logic under a separate 'proceso de jerarquización' started after provisional appointment."
+    },
+    {
+      "id": "L06-C15",
+      "statement": "Where a foreign doctor enters a Chilean CLINICAL postgraduate programme, the rule flips: Universidad de La Frontera's Urology specialty regulation, approved 19 May 2026, requires a foreign title to carry revalidación granted by the competent Chilean bodies AND a pass in EUNACOM — evidence that revalidación is demanded for clinical training pathways, not for academic posts.",
+      "answers_question": [
+        1,
+        2,
+        3
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://www2.ufro.cl/transparencia/ver_doc.php?id=441881&m=15&i=2&c=1",
+          "publisher": "Universidad de La Frontera, Secretaría General",
+          "title": "Resolución Exenta 1221/2026 — Aprueba Ajuste Curricular al Plan de Estudios y Reglamento del Programa de Especialidad en Urología",
+          "date_of_content": "2026-05-19",
+          "quote_original": "En el caso que haya obtenido su título en universidades extranjeras, deberá contar con la correspondiente revalidación otorgada por las instancias competentes en Chile y acreditar la aprobación del Examen Único Nacional de Conocimientos de Medicina (EUNACOM).",
+          "quote_locator": "Título III, Artículo 7"
+        }
+      ],
+      "regime": {
+        "norm": "Reglamento interno de programa de especialidad UFRO; alude genéricamente a 'las instancias competentes en Chile'",
+        "vigencia": "2026-05-19",
+        "version_consulted": "NONE",
+        "regime_side": "PRE"
+      },
+      "trap_flags": [
+        "dated_before_2026-08-17_so_cannot_support_a_POST_regime_claim",
+        "the_wording_instancias_competentes_is_plural_and_regime-agnostic",
+        "this_is_a_student_admission_rule_not_an_employment_rule"
+      ],
+      "applies_to_her": "no",
+      "condition": "Relevant only if she were to enrol in a Chilean specialty programme. It does not govern academic employment."
+    },
+    {
+      "id": "L06-C16",
+      "statement": "Ley 21.094 on State Universities exempts foreign academics, researchers and experts who are domiciled outside Chile from having to obtain a paid-activity authorisation, provided the work is academic activity organised by a university and does not exceed ninety days or the term of their transitory-stay permit — a lawful short-visit teaching route that needs no work visa.",
+      "answers_question": [
+        1,
+        6
+      ],
+      "confidence": "medium",
+      "evidence_type": "primary_law",
+      "sources": [
+        {
+          "url": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1119253",
+          "publisher": "Biblioteca del Congreso Nacional de Chile — LeyChile (XML export)",
+          "title": "Ley 21.094 sobre Universidades Estatales",
+          "date_of_content": "2018-06-05",
+          "quote_original": "Los académicos, investigadores, profesionales, conferencistas o expertos extranjeros, y que tengan residencia o domicilio permanente fuera del territorio nacional, estarán exentos de solicitar la autorización para desarrollar actividades remuneradas, señalada en el artículo 50 de la ley N° 21.325, de Migración y Extranjería, siempre que dichas labores correspondan a actividades académicas organizadas por instituciones universitarias y no se extiendan más allá de noventa días o del término del respectivo permiso de permanencia transitoria.",
+          "quote_locator": "Artículo sobre 'Actividades de académicos extranjeros' (returned as art. 46 in the XML export; secondary sources number it art. 47)"
+        }
+      ],
+      "regime": {
+        "norm": "Ley 21.094 art. 46 o 47 ('Actividades de académicos extranjeros'), en su texto modificado para remitir a Ley 21.325 art. 50",
+        "vigencia": "UNKNOWN — no 'Texto vigente' banner captured",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "article_number_discrepancy_46_vs_47",
+        "the_original_2018_text_said_thirty_days_and_referred_to_DL_1094_of_1975_so_stale_pages_will_say_30_days",
+        "version_banner_not_confirmed"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Applies to STATE universities only. It permits paid short academic activity, not a standing post; and it presupposes she can enter Chile on a transitory-stay permit."
+    },
+    {
+      "id": "L06-C17",
+      "statement": "Published academic salaries at a State university with a medical faculty are modest by international standards: Universidad de La Frontera's full-time academic scale in force from 1 July 2026 gives a total monthly gross of CLP 1,749,053 for an Instructor, CLP 2,119,781 for Profesor Asistente C, CLP 3,560,682 for Profesor Asociado A and CLP 4,790,950 for Profesor Titular A, inclusive of a 15% zone allowance.",
+      "answers_question": [
+        1,
+        3,
+        7
+      ],
+      "confidence": "high",
+      "evidence_type": "official_gov_page",
+      "sources": [
+        {
+          "url": "https://transparencia.ufro.cl/images/documentos/Escala_remuneraciones/Escala%20de%20Remuneraciones%20con%20reajuste%20150%20%20%2001%2007%202026.pdf",
+          "publisher": "Universidad de La Frontera — Transparencia Activa",
+          "title": "Escala de Remuneraciones con reajuste, a contar del 01.07.2026",
+          "date_of_content": "2026-07-01",
+          "quote_original": "ESCALA DE REMUNERACIONES ACADEMICOS JORNADA COMPLETA, D.U. 226/1998",
+          "quote_locator": "Encabezado de la segunda tabla del documento; filas TITULAR A, ASOCIADO A, ASISTENTE C e INSTRUCTOR de la columna TOTAL HABER"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "figures_include_a_15_percent_asignacion_de_zona_specific_to_Temuco",
+        "gross_not_net_Chilean_deductions_are_roughly_20_percent",
+        "this_is_UFRO_not_Santiago_Santiago_universities_pay_no_zone_allowance"
+      ],
+      "applies_to_her": "yes",
+      "condition": "A part-time contract (11 or 22 hours, as most Universidad de Chile Faculty of Medicine posts are) pays a proportional fraction of these figures."
+    },
+    {
+      "id": "L06-C18",
+      "statement": "No Spanish-language certificate (SIELE, DELE or equivalent) was demanded in any of the three Chilean academic concurso documents read; the only language requirement found is that foreign documents be accompanied by an official translation, and Universidad de Valparaíso accepts an official translation into English rather than Spanish.",
+      "answers_question": [
+        1,
+        5
+      ],
+      "confidence": "medium",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://cyl.uv.cl/images/2026/Bases%20llamado%20cargos%20academicos%20Jornada%20completa%202026.pdf",
+          "publisher": "Universidad de Valparaíso",
+          "title": "Bases Concurso Público — Plan de Fortalecimiento del Cuerpo Académico, Jornadas Completas (44 horas)",
+          "date_of_content": "UNDATED",
+          "quote_original": "Para el caso de los postulantes que se encuentren en posesión de un título profesional o grado de licenciado/a en un idioma distinto al español o inglés, deberán adjuntar el título junto con la traducción oficial al inglés.",
+          "quote_locator": "Sección 11.1 'Documentos obligatorios requeridos para postular', punto 3"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "negative_finding_from_three_documents_only",
+        "de_facto_Spanish_is_still_required_the_oposicion_stage_is_an_interview_and_teaching_is_in_Spanish",
+        "UNDATED_document"
+      ],
+      "applies_to_her": "yes",
+      "condition": "Formally no certificate; in practice the concurso's 'Evaluación según Oposición' stage and all undergraduate teaching are conducted in Spanish, so functional Spanish is a de facto requirement."
+    },
+    {
+      "id": "L06-C19",
+      "statement": "Universidad de Chile's academic concurso process may be run entirely virtually, so a candidate outside Chile can in principle complete every stage remotely up to the point of appointment.",
+      "answers_question": [
+        1,
+        4,
+        6
+      ],
+      "confidence": "high",
+      "evidence_type": "university_official",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:faa2d559-943d-4d7f-bb33-8d9577f28e41/MD2620%20Res%20Exenta%20N%20210%20de%202026%20-%20Bases%2022%20hrs%20Departamento%20de%20Ciencias%20Neurologicas%20Oriente_.pdf",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Resolución Exenta N°210 de 2026 — Bases concurso académico MD2620",
+          "date_of_content": "2026-05-06",
+          "quote_original": "Todo el proceso se llevará a cabo de manera presencial, en dependencias del Campus Norte de la Facultad de Medicina (Av. Independencia #1027, Independencia, Santiago de Chile) o de manera virtual, mediante medios electrónicos idóneos que aseguren la seguridad y respaldo de todo el procedimiento",
+          "quote_locator": "Párrafo VII 'Etapas del concurso'"
+        }
+      ],
+      "regime": {
+        "norm": "NONE",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "NEUTRAL"
+      },
+      "trap_flags": [
+        "the_choice_between_presencial_and_virtual_is_the_faculty_s_not_the_candidate_s"
+      ],
+      "applies_to_her": "yes",
+      "condition": "The bases permit virtual conduct; they do not guarantee it. Confirm with rrhhacademicos.med@uchile.cl before relying on it."
+    },
+    {
+      "id": "L06-C20",
+      "statement": "The line between a teaching post and a clinical post is not drawn in the concurso requisitos: Universidad de Chile's MD2620 post carries direct teaching of doctors in training and laboratory work yet demands only a título de Médico Cirujano plus a Neurology specialty, so the additional revalidación / EUNACOM / registry burden attaches to the act of treating patients rather than to the academic appointment itself.",
+      "answers_question": [
+        1,
+        2
+      ],
+      "confidence": "low",
+      "evidence_type": "inference",
+      "sources": [
+        {
+          "url": "https://medicina.uchile.cl/dam/jcr:faa2d559-943d-4d7f-bb33-8d9577f28e41/MD2620%20Res%20Exenta%20N%20210%20de%202026%20-%20Bases%2022%20hrs%20Departamento%20de%20Ciencias%20Neurologicas%20Oriente_.pdf",
+          "publisher": "Universidad de Chile, Facultad de Medicina",
+          "title": "Resolución Exenta N°210 de 2026 — Bases concurso académico MD2620",
+          "date_of_content": "2026-05-06",
+          "quote_original": "REQUISITOS DE ADMISIBILIDAD  Título profesional de Médico/a Cirujano/a.  Especialidad Médica en Neurología.",
+          "quote_locator": "Párrafo III 'Requisitos específicos de postulación', Requisitos de admisibilidad (page bullet list; bullet markers and line breaks normalised to spaces, wording unchanged)"
+        }
+      ],
+      "regime": {
+        "norm": "NONE (the registry and EUNACOM norms are L04/L05 territory and were not verified in this lane)",
+        "vigencia": "N/A",
+        "version_consulted": "NONE",
+        "regime_side": "UNKNOWN"
+      },
+      "trap_flags": [
+        "INFERENCE_NOT_EVIDENCE",
+        "I_did_not_verify_the_Hospital_Clinico_or_campo_clinico_credentialing_rules",
+        "do_not_advise_on_this_without_L04_and_L05"
+      ],
+      "applies_to_her": "conditional",
+      "condition": "This is my reading of where the line falls, not a documented rule. The bases are silent on what the appointee must additionally hold to touch patients; that gap must be closed by L05's work on the Registro Nacional de Prestadores Individuales de Salud."
+    }
+  ],
+  "process_steps": [
+    {
+      "step_no": 1,
+      "name": "Monitor the rolling concurso pages of Chilean medical faculties (Universidad de Chile publishes ~4 posts per month in 30-day windows)",
+      "actor": "candidate",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 365,
+      "source_claim_ids": [
+        "L06-C09",
+        "L06-C10"
+      ]
+    },
+    {
+      "step_no": 2,
+      "name": "Apostille the Ukrainian medical diploma, transcript, PhD diploma, доцент certificate and specialty certificate, then obtain an official translation",
+      "actor": "candidate (Ukrainian authorities + translator)",
+      "where": "Ukraine",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [
+        "диплом лікаря",
+        "додаток до диплома",
+        "диплом кандидата медичних наук",
+        "атестат доцента",
+        "сертифікат лікаря-спеціаліста"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "UNKNOWN",
+      "duration_days_min": 14,
+      "duration_days_max": 90,
+      "source_claim_ids": [
+        "L06-C01",
+        "L06-C08",
+        "L06-C18"
+      ]
+    },
+    {
+      "step_no": 3,
+      "name": "Submit the application (CV in extenso, sworn declaration, ID document, criminal-record certificate, apostilled titles, recommendation letters) via concurso-academico.uchile.cl or the faculty concursos email",
+      "actor": "candidate",
+      "where": "online",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [
+        "Currículum Vitae in Extenso (Anexo 1)",
+        "Declaración Jurada (Anexo 2)",
+        "Cédula de Identidad o Pasaporte",
+        "Certificado de antecedentes",
+        "títulos apostillados + traducción",
+        "cartas de recomendación"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 1,
+      "duration_days_max": 30,
+      "source_claim_ids": [
+        "L06-C09",
+        "L06-C11",
+        "L06-C19"
+      ]
+    },
+    {
+      "step_no": 4,
+      "name": "Admissibility screening, curricular evaluation and oposición (interview), conducted in person in Santiago or virtually at the faculty's choice, in Spanish",
+      "actor": "Comisión de Concursos Académicos of the faculty",
+      "where": "either",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 120,
+      "source_claim_ids": [
+        "L06-C18",
+        "L06-C19"
+      ]
+    },
+    {
+      "step_no": 5,
+      "name": "If selected, apply for a residencia temporal that permits paid work — filed from OUTSIDE Chile — and evidence compliance with immigration rules before duties begin",
+      "actor": "candidate + Servicio Nacional de Migraciones",
+      "where": "Ukraine",
+      "requires_presence_in_chile": false,
+      "requires_rut": false,
+      "documents": [
+        "contrato o carta de la universidad",
+        "pasaporte",
+        "títulos legalizados o apostillados"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "UNKNOWN",
+      "duration_days_min": 60,
+      "duration_days_max": 365,
+      "source_claim_ids": [
+        "L06-C04",
+        "L06-C07"
+      ]
+    },
+    {
+      "step_no": 6,
+      "name": "Take up the post and undergo jerarquización — the university's evaluation commission assigns the academic rank; no foreign rank is carried over",
+      "actor": "university evaluation commission",
+      "where": "Chile",
+      "requires_presence_in_chile": true,
+      "requires_rut": true,
+      "documents": [
+        "antecedentes académicos",
+        "publicaciones"
+      ],
+      "cost_amount": 0,
+      "cost_unit": "none",
+      "cost_as_of": "2026-09-03",
+      "duration_days_min": 30,
+      "duration_days_max": 365,
+      "source_claim_ids": [
+        "L06-C12",
+        "L06-C14",
+        "L06-C17"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "name": "Universidad de Chile, Facultad de Medicina — Recursos Humanos Académicos",
+      "role": "Runs the rolling academic concursos; the single most active medical-faculty hiring channel found",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos",
+      "email": "rrhhacademicos.med@uchile.cl",
+      "phone": "UNKNOWN"
+    },
+    {
+      "name": "Universidad de Chile, Facultad de Medicina — Concursos",
+      "role": "Second contact address used on the contrata-2 round (MD2633-MD2636, open 10 Sep – 10 Oct 2026)",
+      "url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+      "email": "concursos.med@uchile.cl",
+      "phone": "UNKNOWN"
+    },
+    {
+      "name": "Plataforma de concursos académicos, Universidad de Chile",
+      "role": "Application portal for academic concursos",
+      "url": "https://concurso-academico.uchile.cl/",
+      "email": "UNKNOWN",
+      "phone": "UNKNOWN"
+    },
+    {
+      "name": "Universidad de Valparaíso — Dirección de Gestión y Desarrollo de Personas",
+      "role": "Runs the Plan de Fortalecimiento del Cuerpo Académico concursos; applies Estatuto Administrativo art. 12",
+      "url": "http://www.uv.cl/sitios/concurso_cargo_uv",
+      "email": "concursos@uv.cl",
+      "phone": "UNKNOWN"
+    },
+    {
+      "name": "Universidad de Santiago de Chile — Concurso Público de Contratación de Académicas y Académicos",
+      "role": "State university academic hiring channel including Facultad de Ciencias Médicas; round seen had a 1 May 2026 deadline",
+      "url": "https://www.usach.cl/concurso-publico-contratacion-academicas-y-academicos",
+      "email": "UNKNOWN",
+      "phone": "UNKNOWN"
+    },
+    {
+      "name": "Pontificia Universidad Católica de Chile — Cargos Académicos",
+      "role": "Private-university academic vacancies portal; no medicine/health post was open when checked on 3 September 2026",
+      "url": "https://cargosacademicos.uc.cl/en/academic-positions/",
+      "email": "UNKNOWN",
+      "phone": "UNKNOWN"
+    },
+    {
+      "name": "Universidad de La Frontera — Transparencia Activa, Escala de Remuneraciones",
+      "role": "Published academic salary scale for a State university with a medical faculty",
+      "url": "https://transparencia.ufro.cl/index.php/dotacion-de-personal/escala-de-remuneraciones",
+      "email": "UNKNOWN",
+      "phone": "UNKNOWN"
+    },
+    {
+      "name": "Facultad de Medicina, Universidad de Chile — Decanato",
+      "role": "Decano Dr. Miguel O'Ryan Gallardo chairs the Comisión de Concursos Académicos; campus at Av. Independencia 1027, Independencia, Santiago",
+      "url": "https://medicina.uchile.cl/",
+      "email": "UNKNOWN",
+      "phone": "UNKNOWN"
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "Does the Universidad de Chile's current Reglamento General de Carrera Académica (D.U. N°0035864 de 2019) still require a foreign title to be 'reconocido por el organismo pertinente de la Universidad de Chile', and what does that internal recognition actually involve?",
+      "why_it_matters": "It is the one clause that could reintroduce a recognition step for an academic post, contradicting the concurso bases which ask only for an apostille.",
+      "how_to_resolve": "Obtain the 2019 consolidated text (the 2001 version is what is publicly indexed) and put the question in writing to rrhhacademicos.med@uchile.cl.",
+      "blocking": true
+    },
+    {
+      "question": "Will a Ukrainian criminal-record certificate satisfy the 'Certificado de antecedentes vigente' that both Universidad de Chile rounds demand, and will a passport be accepted where the bases ask for a Cédula de Identidad?",
+      "why_it_matters": "Both are admissibility documents; failing either makes the application 'No Admisible' before merit is even assessed.",
+      "how_to_resolve": "Email the faculty concursos address before the window opens and get the answer in writing.",
+      "blocking": true
+    },
+    {
+      "question": "Which Chilean medical faculty, if any, has an open or recurring academic post in RHEUMATOLOGY?",
+      "why_it_matters": "Every Universidad de Chile post examined names a specific specialty as an admissibility requirement, so a rheumatology post is the only one her Ukrainian specialty could match.",
+      "how_to_resolve": "Monitor the four Universidad de Chile concurso pages monthly plus SOCHIRE and the other faculties; this belongs to lane L11.",
+      "blocking": false
+    },
+    {
+      "question": "If an academic post involves teaching at the bedside, what exactly must the appointee hold — revalidación, EUNACOM, entry in the Registro Nacional de Prestadores Individuales de Salud — and who enforces it, the university or the hospital?",
+      "why_it_matters": "It decides whether Scenario A (academic, no patients) is genuinely separable from Scenario B.",
+      "how_to_resolve": "Cross-read L04 and L05; ask the Hospital Clínico Universidad de Chile credentialing office directly.",
+      "blocking": true
+    },
+    {
+      "question": "Does the exemption for visiting foreign academics run to ninety days under the current text of Ley 21.094, and is the article numbered 46 or 47?",
+      "why_it_matters": "It is the only route found that lets her teach paid in Chile with no work visa, and the original 2018 text said thirty days.",
+      "how_to_resolve": "Read the LeyChile 'Texto vigente' page for Ley 21.094 in a browser that executes JavaScript, or obtain the signed PDF export.",
+      "blocking": false
+    },
+    {
+      "question": "Does any Chilean medical faculty deliver teaching in English, or accept an academic who cannot yet teach in Spanish?",
+      "why_it_matters": "She has no Spanish; if no English-track exists, Spanish acquisition becomes the critical path, not the paperwork.",
+      "how_to_resolve": "Ask the international offices of Universidad de Chile, PUC and Universidad de Concepción directly; searches returned only site translations and one unverifiable commercial claim.",
+      "blocking": false
+    },
+    {
+      "question": "Do any Chilean private universities' medical faculties impose stricter or looser foreign-title rules than the two State universities examined?",
+      "why_it_matters": "Private universities are not bound by the Estatuto Administrativo at all, which may make them the easier entry point.",
+      "how_to_resolve": "Read the academic hiring reglamentos of PUC, Universidad de los Andes, Universidad del Desarrollo and Universidad de Concepción.",
+      "blocking": false
+    }
+  ],
+  "unknowns_declared": [
+    "I could not retrieve the LeyChile 'Texto vigente' page for DFL 29/2004 (Estatuto Administrativo) art. 12 — bcn.cl renders article text via JavaScript and returned only a 'Loading...' shell across three attempts, and a direct curl was refused. The current wording of art. 12 letter a) is therefore taken from a Servicio Civil page that carries no date.",
+    "I could not retrieve the current consolidated Reglamento General de Carrera Académica of the Universidad de Chile (D.U. N°0035864 de 2019). Claims L06-C12, L06-C13 and L06-C14 rest on the 2001 version (D.U. N°2860), which the 2026 concurso bases say has been superseded.",
+    "The exact article number of Ley 21.094's 'Actividades de académicos extranjeros' provision is unresolved — the LeyChile XML export returned it as article 46, secondary sources cite article 47, and the two circulating texts differ (thirty days under DL 1.094/1975 versus ninety days under Ley 21.325 art. 50).",
+    "No Contraloría dictamen on the applicability of Estatuto Administrativo art. 12 to State-university academics was located. The Universidad de Chile carve-out is documented only in its own concurso bases and reglamento, not in a Contraloría ruling I could read.",
+    "No academic concurso in RHEUMATOLOGY was found at any Chilean medical faculty during this lane's searches.",
+    "I found no evidence either way of an English-taught Medicina programme in Chile. One commercial aggregator asserts the Universidad de Chile Bachelor in Medicine is taught in English; I could not corroborate this from any uchile.cl page and treat it as unverified.",
+    "Salary evidence covers only Universidad de La Frontera. I did not obtain figures for Universidad de Chile, whose Santiago posts carry no zone allowance and whose Faculty of Medicine posts are mostly 11 or 22 hours rather than 44.",
+    "The Universidad de Valparaíso bases document carries no printed publication date; 'UNDATED' is recorded, and its internal calendar shows the round closed in December 2025.",
+    "The four Universidad de Chile concurso listing pages carry no publication or update date; only their application windows are dated.",
+    "I did not verify whether a Universidad de Chile academic appointment additionally requires a RUT before the contrata can be issued, nor how long the gap between selection and contract typically is."
+  ]
+}

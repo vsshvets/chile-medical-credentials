@@ -47,6 +47,11 @@ FIND, from the university's OWN website wherever possible:
 6. 3-5 short factual paragraphs in ENGLISH profiling this medical faculty for her. Max 400 characters
    each. Facts with sources, not marketing language copied from the university.
 
+
+DO NOT RUN SHELL COMMANDS. No curl, no wget, no scripts, no file writes. Use ONLY your built-in
+web search and page reading. A job that runs a shell command is discarded in full, however good
+its findings are.
+
 EVIDENCE RULES:
 - Every source you list needs a real URL you fetched and a VERBATIM quote from it.
 - Never invent a dean's name, a department, an email or a vacancy. "unknown" is a correct answer.

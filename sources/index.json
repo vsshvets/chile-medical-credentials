@@ -1,0 +1,1334 @@
+{
+ "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata": {
+  "sha1": "6572e6a303f1ce433c5bf7b923c2d23f8a132c96",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-provision-de-cargo-academico-en-calidad-de-contrata",
+  "chars": 8430,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:52Z",
+  "cited_by": [
+   "claude/L06-C10",
+   "claude/L06-C10",
+   "claude/L06-C11",
+   "claude/L11-C02",
+   "claude/L11-C02",
+   "codex/L11-C01",
+   "codex/L11-C02",
+   "codex/L11-C03",
+   "codex/L11-C03",
+   "codex/L11-C04",
+   "codex/L11-C04",
+   "codex/L11-C04",
+   "codex/L11-C13"
+  ]
+ },
+ "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2": {
+  "sha1": "eba8af0601145bc071cbb915447a7b897654c52f",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-en-calidad-de-contrata-2",
+  "chars": 7564,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:52Z",
+  "cited_by": [
+   "claude/L06-C09",
+   "claude/L06-C09",
+   "claude/L06-C11",
+   "claude/L11-C01",
+   "claude/L11-C03",
+   "claude/L11-C06",
+   "claude/L11-C23"
+  ]
+ },
+ "https://web.uchile.cl/induccion/reglamentos/Reglamento_Carrera_Academica.pdf": {
+  "sha1": "834524fc395e83e55999a906a27e3735d29509da",
+  "status": 200,
+  "final_url": "https://web.uchile.cl/induccion/reglamentos/Reglamento_Carrera_Academica.pdf",
+  "chars": 46283,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:52Z",
+  "cited_by": [
+   "claude/L06-C12",
+   "claude/L06-C13",
+   "claude/L06-C14"
+  ]
+ },
+ "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1119253": {
+  "sha1": "df967beb08523789866181e29f2b028022baa3c9",
+  "status": 200,
+  "final_url": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1119253",
+  "chars": 77375,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:52Z",
+  "cited_by": [
+   "claude/L06-C16"
+  ]
+ },
+ "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3": {
+  "sha1": "f8000e5b43f8e765462941c82013ff03b0219f73",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-academicos-3",
+  "chars": 8531,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:52Z",
+  "cited_by": [
+   "claude/L11-C01",
+   "claude/L11-C05",
+   "claude/L11-C06",
+   "claude/L11-C23"
+  ]
+ },
+ "https://cyl.uv.cl/images/2026/Bases%20llamado%20cargos%20academicos%20Jornada%20completa%202026.pdf": {
+  "sha1": "7c595654b786c03804a7da8f9e238ffd82470c11",
+  "status": 200,
+  "final_url": "https://cyl.uv.cl/images/2026/Bases%20llamado%20cargos%20academicos%20Jornada%20completa%202026.pdf",
+  "chars": 50649,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:52Z",
+  "cited_by": [
+   "claude/L06-C06",
+   "claude/L06-C07",
+   "claude/L06-C08",
+   "claude/L06-C08",
+   "claude/L06-C18"
+  ]
+ },
+ "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-4": {
+  "sha1": "622800a3eeda44b5b0434366e3c13f9c26c32cfb",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/informacion-academicos/concursos-vigentes-para-cargos-academicos-4",
+  "chars": 9125,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:52Z",
+  "cited_by": [
+   "claude/L11-C01",
+   "codex/L08-C05",
+   "codex/L08-C05"
+  ]
+ },
+ "https://transparencia.ufro.cl/images/documentos/Escala_remuneraciones/Escala%20de%20Remuneraciones%20con%20reajuste%20150%20%20%2001%2007%202026.pdf": {
+  "sha1": "631816bae537ef626a6fc7e1f3e54104958f1d50",
+  "status": 200,
+  "final_url": "https://transparencia.ufro.cl/images/documentos/Escala_remuneraciones/Escala%20de%20Remuneraciones%20con%20reajuste%20150%20%20%2001%2007%202026.pdf",
+  "chars": 14798,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:52Z",
+  "cited_by": [
+   "claude/L06-C17"
+  ]
+ },
+ "https://www2.ufro.cl/transparencia/ver_doc.php?id=441881&m=15&i=2&c=1": {
+  "sha1": "667b5b723685d21f0b879e9c8295d9346351323b",
+  "status": 200,
+  "final_url": "https://www2.ufro.cl/transparencia/ver_doc.php?id=441881&m=15&i=2&c=1",
+  "chars": 43174,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L06-C15"
+  ]
+ },
+ "https://adp.serviciocivil.cl/portal/nacionalidad.html": {
+  "sha1": "4423e2c5d64f03da75a8470af0a71a157dec1c64",
+  "status": 200,
+  "final_url": "https://adp.serviciocivil.cl/portal/nacionalidad.html",
+  "chars": 4893,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L06-C05"
+  ]
+ },
+ "https://cyl.uv.cl/cargos": {
+  "sha1": "c50b83bee7b07201259dc9d3ce6d3e5ff34678ac",
+  "status": 200,
+  "final_url": "https://cyl.uv.cl/cargos",
+  "chars": 831,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L11-C10"
+  ]
+ },
+ "https://medicina.uchile.cl/dam/jcr:faa2d559-943d-4d7f-bb33-8d9577f28e41/MD2620%20Res%20Exenta%20N%20210%20de%202026%20-%20Bases%2022%20hrs%20Departamento%20de%20Ciencias%20Neurologicas%20Oriente_.pdf": {
+  "sha1": "d08945667deb0d7d7b1435f7b56859188ee148e4",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/dam/jcr:faa2d559-943d-4d7f-bb33-8d9577f28e41/MD2620%20Res%20Exenta%20N%20210%20de%202026%20-%20Bases%2022%20hrs%20Departamento%20de%20Ciencias%20Neurologicas%20Oriente_.pdf",
+  "chars": 46346,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L06-C01",
+   "claude/L06-C02",
+   "claude/L06-C03",
+   "claude/L06-C04",
+   "claude/L06-C19",
+   "claude/L06-C20"
+  ]
+ },
+ "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf": {
+  "sha1": "61c779ebbc8f81ea1c281e2108d8f7dac9a82b3d",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/dam/jcr:b62e1824-10c9-44fc-ae3a-e862a0a148ab/MD2624%20Resolucion%20Exenta%20N%20374%20%20de%202026%20-%20Bases%20Departamento%20de%20Atencion%20Primaria%20y%20Salud%20Familiar%2022%20horas%20Carrera%20Docente_firmado-firmado.pdf",
+  "chars": 45865,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L11-C04",
+   "claude/L11-C04",
+   "claude/L11-C05",
+   "claude/L11-C07",
+   "claude/L11-C08",
+   "claude/L11-C08",
+   "claude/L11-C22"
+  ]
+ },
+ "https://www.usach.cl/concurso-publico-contratacion-academicasos": {
+  "sha1": "5e133b800963cc489da8ab875439f7327be627a3",
+  "status": 200,
+  "final_url": "https://www.usach.cl/concurso-publico-contratacion-academicas-y-academicos",
+  "chars": 6810,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L11-C11",
+   "claude/L11-C11"
+  ]
+ },
+ "https://www.empleospublicos.cl/pub/convocatorias/convFicha.aspx?ip=141824": {
+  "sha1": "052b1d6c5b0a34127d95f88d7ee319cb03a7d8b4",
+  "status": 200,
+  "final_url": "https://www.empleospublicos.cl/pub/convocatorias/convFicha.aspx?ip=141824",
+  "chars": 1952,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L11-C15"
+  ]
+ },
+ "https://www.minsal.cl/mas-de-2-millones-de-personas-han-egresado-de-la-lista-de-espera-en-2025-y-un-aumento-del-35-en-la-produccion-de-la-red-asistencial/": {
+  "sha1": "90be3d8cf10e4bfa9ae355b952abd08181051acf",
+  "status": 200,
+  "final_url": "https://www.minsal.cl/mas-de-2-millones-de-personas-han-egresado-de-la-lista-de-espera-en-2025-y-un-aumento-del-35-en-la-produccion-de-la-red-asistencial/",
+  "chars": 12741,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L11-C20",
+   "claude/L11-C20"
+  ]
+ },
+ "https://www.empleospublicos.cl/pub/convocatorias/convpostularavisoTrabajo.aspx?i=142514&c=0&j=0&tipo=convpostularavisoTrabajo": {
+  "sha1": "4cb2411121ef2db83dd55707d8f4f3f261f1d4ab",
+  "status": 200,
+  "final_url": "https://www.empleospublicos.cl/pub/convocatorias/convpostularavisoTrabajo.aspx?i=142514&c=0&j=0&tipo=convpostularavisoTrabajo",
+  "chars": 23319,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:53Z",
+  "cited_by": [
+   "claude/L11-C14",
+   "claude/L11-C14",
+   "claude/L11-C14"
+  ]
+ },
+ "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-medicoa-reumatologoa-en-calera-9DC9DF65A362EEA261373E686DCF3405": {
+  "sha1": "203e36efcaf5dd5650454e0c6e96ae602c797da8",
+  "status": 200,
+  "final_url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-medicoa-reumatologoa-en-calera-9DC9DF65A362EEA261373E686DCF3405",
+  "chars": 10191,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "claude/L11-C16",
+   "claude/L11-C16",
+   "claude/L11-C22"
+  ]
+ },
+ "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos": {
+  "sha1": "d0e0af68bd2c4340bc867aab113a79e2f8d1154c",
+  "status": 200,
+  "final_url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+  "chars": 8318,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L02-C03",
+   "codex/L02-C06",
+   "codex/L02-C06",
+   "codex/L02-C11",
+   "codex/L09-C01"
+  ]
+ },
+ "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso": {
+  "sha1": "725aba3c65408a9ec7d9a7808bfcc35f4eb9eb92",
+  "status": 200,
+  "final_url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+  "chars": 7021,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L02-C04",
+   "codex/L02-C07",
+   "codex/L02-C07"
+  ]
+ },
+ "https://www.cepchile.cl/brecha-de-especialistas-en-salud/": {
+  "sha1": "68f952939966d3df1bc9d0cd3ae413cbde7b85fe",
+  "status": 200,
+  "final_url": "https://www.cepchile.cl/brecha-de-especialistas-en-salud/",
+  "chars": 23742,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "claude/L11-C21",
+   "claude/L11-C21"
+  ]
+ },
+ "https://uchile.cl/dam/jcr%3Aaf663407-f14e-4d0e-be0f-df0840357f0c/Instructivo%20de%20Ingreso%20al%20proceso%20de%20Revalidaci%26oacute%3Bn%20y%20Reconocimiento.pdf": {
+  "sha1": "d7320a5c2b4daf6b11e51e0ad5f59175d1c40d8e",
+  "status": 200,
+  "final_url": "https://uchile.cl/dam/jcr%3Aaf663407-f14e-4d0e-be0f-df0840357f0c/Instructivo%20de%20Ingreso%20al%20proceso%20de%20Revalidaci%26oacute%3Bn%20y%20Reconocimiento.pdf",
+  "chars": 5261,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L02-C01",
+   "codex/L02-C02",
+   "codex/L02-C05",
+   "codex/L02-C05",
+   "codex/L02-C12",
+   "codex/L08-C15"
+  ]
+ },
+ "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos": {
+  "sha1": "54a1ed3f217e7df452a320ca1727724742a84f01",
+  "status": 200,
+  "final_url": "https://medicina.uchile.cl/informacion-extranjeros/revalidacion-y-reconocimiento-de-titulos/procedimientos-para-revalida-y-reconocimiento-de-titulos",
+  "chars": 8851,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L02-C09",
+   "codex/L03-C13",
+   "codex/L03-C13",
+   "codex/L03-C13",
+   "codex/L12-C15"
+  ]
+ },
+ "https://uchile.cl/dam/jcr%3A0d84e218-15c2-4da1-880b-8dd0190472fb/Instructivo%20Registro%20Revalidacion%20Ucampus.pdf": {
+  "sha1": "97f072d5174169db614c736ba321208a76820e6b",
+  "status": 200,
+  "final_url": "https://uchile.cl/dam/jcr%3A0d84e218-15c2-4da1-880b-8dd0190472fb/Instructivo%20Registro%20Revalidacion%20Ucampus.pdf",
+  "chars": 495,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L02-C02"
+  ]
+ },
+ "https://www.colegiomedico.cl/unab-busca-medicos-as-docentes-e-investigadores-de-medicina/": {
+  "sha1": "27cecdb7c4c4bfcc671e461e57bd6aa3f052e5c7",
+  "status": 200,
+  "final_url": "https://www.colegiomedico.cl/unab-busca-medicos-as-docentes-e-investigadores-de-medicina/",
+  "chars": 3207,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "claude/L11-C12"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?idNorma=1221526": {
+  "sha1": "b2fc61bc22e7f8d140252be26c647956cde86d55",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+  "chars": 237,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L02-C04",
+   "codex/L02-C08",
+   "codex/L02-C08",
+   "codex/L02-C09",
+   "codex/L02-C11",
+   "codex/L02-C11",
+   "codex/L03-C01",
+   "codex/L03-C03",
+   "codex/L03-C04",
+   "codex/L03-C04",
+   "codex/L03-C11",
+   "codex/L03-C12",
+   "codex/L03-C14",
+   "codex/L03-C14",
+   "codex/L03-C14",
+   "codex/L12-C01",
+   "codex/L12-C02",
+   "codex/L12-C09",
+   "codex/L12-C12",
+   "codex/L12-C13"
+  ]
+ },
+ "https://www.colegiomedico.cl/bolsa-laboral-2/": {
+  "sha1": "19a20d5e29c8cc4ecf877c92da96470e847ec1a7",
+  "status": 200,
+  "final_url": "https://www.colegiomedico.cl/bolsa-laboral-2/",
+  "chars": 2849,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "claude/L11-C13",
+   "claude/L11-C13"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?idNorma=1226114": {
+  "sha1": "adb570a607a577fc0053780f33747365bc1560ef",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=1226114",
+  "chars": 237,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L02-C10",
+   "codex/L02-C10",
+   "codex/L02-C10",
+   "codex/L07-C10",
+   "codex/L07-C10",
+   "codex/L07-C10",
+   "codex/L12-C14",
+   "codex/L12-C14"
+  ]
+ },
+ "https://revistareumatologia.cl/index.php/rcr/article/download/152/116/209": {
+  "sha1": "2d3ee4bb2ca9bba21f3800c26328e9ebda3649aa",
+  "status": 200,
+  "final_url": "https://revistareumatologia.cl/index.php/rcr/article/download/152/116/209",
+  "chars": 27432,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "claude/L11-C17",
+   "claude/L11-C17",
+   "claude/L11-C18",
+   "claude/L11-C19",
+   "claude/L11-C19",
+   "codex/L05-C16",
+   "codex/L05-C16",
+   "codex/L05-C16"
+  ]
+ },
+ "https://portaluchile.uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/procedimientos-segun-carreragrado": {
+  "sha1": "9edc1b7554cd8e886c8c4408625a393864fe93e9",
+  "status": 200,
+  "final_url": "https://portaluchile.uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/procedimientos-segun-carreragrado",
+  "chars": 8015,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L02-C13",
+   "codex/L02-C13"
+  ]
+ },
+ "https://nuevo.leychile.cl/navegar?idNorma=1158549": {
+  "sha1": "ba8915e0792fe88c7f8296ee43bc39fdc1773006",
+  "status": 200,
+  "final_url": "https://nuevo.leychile.cl/navegar?idNorma=1158549",
+  "chars": 21,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L03-C02",
+   "codex/L03-C12"
+  ]
+ },
+ "https://uda.cl/rectoria-al-dia/": {
+  "sha1": "f6a14c4bbd0364ea5b43127bcc882d119122730d",
+  "status": 200,
+  "final_url": "https://uda.cl/rectoria-al-dia/",
+  "chars": 15285,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "codex/L03-C06"
+  ]
+ },
+ "https://www.diarioelmarino.cl/2026/06/01/universidad-de-chile-hospital-clinico-llamado-a-concurso-publico/": {
+  "sha1": "d9f7178162e67474598138fd68150e77a104cb45",
+  "status": 200,
+  "final_url": "https://www.diarioelmarino.cl/2026/06/01/universidad-de-chile-hospital-clinico-llamado-a-concurso-publico/",
+  "chars": 7601,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:54Z",
+  "cited_by": [
+   "claude/L11-C09",
+   "claude/L11-C09"
+  ]
+ },
+ "https://contraloria.usach.cl/noticia/normas-relevantes-publicadas-en-receso-universitario": {
+  "sha1": "04b956a95db34e5cd61f75af31ee49c24525d170",
+  "status": 200,
+  "final_url": "https://contraloria.usach.cl/noticia/normas-relevantes-publicadas-en-receso-universitario",
+  "chars": 2382,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:55Z",
+  "cited_by": [
+   "codex/L03-C11"
+  ]
+ },
+ "https://www.utalca.cl/noticias/carrera-de-medicina-es-acreditada-por-5-anos/": {
+  "sha1": "749393a91bed8f6e93d7c74b37ed2d0f2ca5fa92",
+  "status": 200,
+  "final_url": "https://www.utalca.cl/noticias/carrera-de-medicina-es-acreditada-por-5-anos/",
+  "chars": 6181,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:55Z",
+  "cited_by": [
+   "codex/L03-C10"
+  ]
+ },
+ "https://www.superdesalud.gob.cl/tramites/inscripcion-de-titulo-en-el-registro-nacional-de-prestadores-individuales-de-salud/": {
+  "sha1": "4de7ce81b187264f6eae48231083eec5859a6f35",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-titulo-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+  "chars": 5958,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:55Z",
+  "cited_by": [
+   "codex/L05-C01",
+   "codex/L05-C02",
+   "codex/L05-C03",
+   "codex/L05-C03",
+   "codex/L05-C04",
+   "codex/L05-C13",
+   "codex/L12-C08"
+  ]
+ },
+ "https://www.superdesalud.gob.cl/tramites/inscripcion-de-especialidades-en-el-registro-nacional-de-prestadores-individuales-de-salud/": {
+  "sha1": "06f3a80b69cafabbdd352b86af8314ffde76be70",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/tramites/inscripcion-de-especialidades-en-el-registro-nacional-de-prestadores-individuales-de-salud/",
+  "chars": 6343,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:55Z",
+  "cited_by": [
+   "codex/L05-C05",
+   "codex/L05-C05"
+  ]
+ },
+ "https://www.superdesalud.gob.cl/tramites/registro-nacional-de-prestadores-individuales-de-salud/": {
+  "sha1": "75c8541e6a08231a5e9aeab6201d9fe0c416d920",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/tramites/registro-nacional-de-prestadores-individuales-de-salud/",
+  "chars": 5671,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:55Z",
+  "cited_by": [
+   "codex/L05-C04"
+  ]
+ },
+ "https://www.leychile.cl/navegar?idNorma=1052275": {
+  "sha1": "63a45e956167115a6c946fc7bac66bdb48e83353",
+  "status": 200,
+  "final_url": "https://www.bcn.cl:443/leychile/navegar?idNorma=1052275",
+  "chars": 237,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:55Z",
+  "cited_by": [
+   "codex/L05-C06",
+   "codex/L05-C06"
+  ]
+ },
+ "https://conacem.cl/documentacion_a_presentar.asp?s=2025": {
+  "sha1": "d1a633ddc9e6bdbda2ce68fafbdac44151fb4b27",
+  "status": 200,
+  "final_url": "https://conacem.cl/documentacion_a_presentar.asp?s=2025",
+  "chars": 5343,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:55Z",
+  "cited_by": [
+   "codex/L05-C07",
+   "codex/L05-C08",
+   "codex/L05-C08",
+   "codex/L05-C08"
+  ]
+ },
+ "https://www.conacem.cl/requisitos_generales.asp": {
+  "sha1": "6c77daa781f49564c0abcbef719069e021c7842f",
+  "status": 200,
+  "final_url": "https://www.conacem.cl/requisitos_generales.asp",
+  "chars": 24229,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:55Z",
+  "cited_by": [
+   "codex/L05-C09",
+   "codex/L05-C09",
+   "codex/L05-C09"
+  ]
+ },
+ "https://conacem.cl/tramite_certificacion_de_especialistas.asp?s=2026": {
+  "sha1": "3fa431c4ffe990269900fecb37204ee06370d394",
+  "status": 200,
+  "final_url": "https://conacem.cl/tramite_certificacion_de_especialistas.asp?s=2026",
+  "chars": 4303,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:56Z",
+  "cited_by": [
+   "codex/L05-C10",
+   "codex/L05-C10"
+  ]
+ },
+ "https://www.uta.cl/wp-content/uploads/2025/06/v7-Doc_Cuenta-Pu%CC%81blica-2024.pdf": {
+  "sha1": "2497c8ef34a0cdc4e1bd75545a1ca75675ed7e26",
+  "status": 200,
+  "final_url": "https://www.uta.cl/wp-content/uploads/2025/06/v7-Doc_Cuenta-Pu%CC%81blica-2024.pdf",
+  "chars": 173985,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:56Z",
+  "cited_by": [
+   "codex/L03-C08"
+  ]
+ },
+ "https://postgrado.utalca.cl/programa/doctorado-en-derecho/": {
+  "sha1": "f64ccbe4e549d6052563ce19cef5e0620491636c",
+  "status": 200,
+  "final_url": "https://postgrado.utalca.cl/programa/doctorado-en-derecho/",
+  "chars": 10715,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:56Z",
+  "cited_by": [
+   "codex/L03-C10"
+  ]
+ },
+ "https://libre-eleccion.fonasa.gob.cl/": {
+  "sha1": "35a903e20c9fedb44fe9c96c8283b1d825176bc4",
+  "status": 200,
+  "final_url": "https://libre-eleccion.fonasa.gob.cl/",
+  "chars": 67,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:56Z",
+  "cited_by": [
+   "codex/L05-C14",
+   "codex/L05-C14"
+  ]
+ },
+ "https://www.conacem.cl/fechas.asp": {
+  "sha1": "5e9d8b133253be0462264776b105907311b21562",
+  "status": 200,
+  "final_url": "https://www.conacem.cl/fechas.asp",
+  "chars": 22896,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:56Z",
+  "cited_by": [
+   "codex/L05-C11",
+   "codex/L05-C11"
+  ]
+ },
+ "https://calidad.ubiobio.cl/acreditacion/": {
+  "sha1": "9b9f37fe433556bacd3e19cace9da85f04daf4cb",
+  "status": 200,
+  "final_url": "https://calidad.ubiobio.cl/acreditacion/",
+  "chars": 9246,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:56Z",
+  "cited_by": [
+   "codex/L03-C07",
+   "codex/L03-C07"
+  ]
+ },
+ "https://sochire.cl/hazte-socio/": {
+  "sha1": "853cb82fecf69cfe3aa77c5e03d1a5f8fe3d9624",
+  "status": 200,
+  "final_url": "https://sochire.cl/hazte-socio/",
+  "chars": 3449,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:56Z",
+  "cited_by": [
+   "codex/L05-C12",
+   "codex/L05-C12",
+   "codex/L05-C12"
+  ]
+ },
+ "https://www.cnachile.cl/Actas%20de%20Sesiones/acta%202631-1.pdf": {
+  "sha1": "ea61fb3075ed5b25a9597fc339c16b121cef12b1",
+  "status": 200,
+  "final_url": "https://www.cnachile.cl/Actas%20de%20Sesiones/acta%202631-1.pdf",
+  "chars": 61363,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:57Z",
+  "cited_by": [
+   "codex/L03-C09"
+  ]
+ },
+ "https://www.enic-naric.net/index/page-Ukraine": {
+  "sha1": "3c531c29ad4485f473708f06f4251edfdbcfe4b3",
+  "status": 200,
+  "final_url": "https://www.enic-naric.net/index/page-Ukraine",
+  "chars": 33582,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:58Z",
+  "cited_by": [
+   "codex/L07-C02",
+   "codex/L07-C04",
+   "codex/L07-C08"
+  ]
+ },
+ "https://www.superdesalud.gob.cl/app/uploads/2022/03/compendio-beneficios-version-actualizada-02-01-2026.pdf": {
+  "sha1": "47b50ca7b9a635d04a700473a2e71ca078279524",
+  "status": 200,
+  "final_url": "https://www.superdesalud.gob.cl/app/uploads/2022/03/compendio-beneficios-version-actualizada-02-01-2026.pdf",
+  "chars": 589875,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:59Z",
+  "cited_by": [
+   "codex/L05-C15",
+   "codex/L05-C15"
+  ]
+ },
+ "https://portaluchile.uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-general-de-carrera-academica-de-la-universidad-de-chile": {
+  "sha1": "3a2f5dec4fc60454c0244df7b853a23aa8231bbf",
+  "status": 200,
+  "final_url": "https://portaluchile.uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-general-de-carrera-academica-de-la-universidad-de-chile",
+  "chars": 57971,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:59Z",
+  "cited_by": [
+   "codex/L07-C12",
+   "codex/L07-C13",
+   "codex/L07-C14",
+   "codex/L07-C15",
+   "codex/L07-C15"
+  ]
+ },
+ "https://quimica.uchile.cl/convocatorias/llamado-a-concurso-publico-para-cargo-academico": {
+  "sha1": "e44e9ee361575698e183502e10bccf0c26b9ce32",
+  "status": 200,
+  "final_url": "https://quimica.uchile.cl/convocatorias/llamado-a-concurso-publico-para-cargo-academico",
+  "chars": 5207,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:59Z",
+  "cited_by": [
+   "codex/L07-C12",
+   "codex/L07-C13",
+   "codex/L07-C13"
+  ]
+ },
+ "https://portaluchile.uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos": {
+  "sha1": "c8b8f87b982e4015aac52d5f9460f6a94130569f",
+  "status": 200,
+  "final_url": "https://portaluchile.uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+  "chars": 8318,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:59Z",
+  "cited_by": [
+   "codex/L08-C01",
+   "codex/L08-C01",
+   "codex/L08-C01",
+   "codex/L08-C02",
+   "codex/L08-C03",
+   "codex/L08-C03"
+  ]
+ },
+ "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/requisitos-para-ingresar-al-proceso": {
+  "sha1": "20cb567d90aacf1686a67ba047cbee0793f01323",
+  "status": 200,
+  "final_url": "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/requisitos-para-ingresar-al-proceso",
+  "chars": 8481,
+  "error": "",
+  "fetched_at": "2026-09-04T02:17:59Z",
+  "cited_by": [
+   "codex/L08-C04",
+   "codex/L08-C04",
+   "codex/L08-C12",
+   "codex/L08-C12",
+   "codex/L08-C14"
+  ]
+ },
+ "https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=True&exportar_con_notas_bcn=True&exportar_formato=pdf&hddResultadoExportar=1221526.2026-08-17.0.0%23&nombrearchivo=Decreto-174_17-FEB-2026&radioExportar=Normas": {
+  "sha1": "13bd28bdf9cc62e877950f755059dc3216ccb9c3",
+  "status": 200,
+  "final_url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=True&exportar_con_notas_bcn=True&exportar_formato=pdf&hddResultadoExportar=1221526.2026-08-17.0.0%23&nombrearchivo=Decreto-174_17-FEB-2026&radioExportar=Normas",
+  "chars": 41431,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:00Z",
+  "cited_by": [
+   "codex/L07-C09",
+   "codex/L07-C09",
+   "codex/L07-C11",
+   "codex/L07-C11"
+  ]
+ },
+ "https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=True&exportar_con_notas_bcn=True&exportar_con_notas_originales=True&exportar_formato=pdf&hddResultadoExportar=270584.2013-06-01.0.0%23&nombrearchivo=Ley-20261_19-ABR-2008&radioExportar=Normas": {
+  "sha1": "a8f8bc75cb18a568b483d43f00f4ef8fb399a7dd",
+  "status": 200,
+  "final_url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=True&exportar_con_notas_bcn=True&exportar_con_notas_originales=True&exportar_formato=pdf&hddResultadoExportar=270584.2013-06-01.0.0%23&nombrearchivo=Ley-20261_19-ABR-2008&radioExportar=Normas",
+  "chars": 35306,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:00Z",
+  "cited_by": [
+   "codex/L05-C13",
+   "codex/L05-C13"
+  ]
+ },
+ "https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=True&exportar_con_notas_bcn=True&exportar_con_notas_originales=True&exportar_formato=pdf&hddResultadoExportar=1221526.2026-08-17.0.0%23&nombrearchivo=Decreto-174_17-FEB-2026&radioExportar=Normas": {
+  "sha1": "51915441905e48a9a616a7862002bb2a3c74f998",
+  "status": 200,
+  "final_url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=True&exportar_con_notas_bcn=True&exportar_con_notas_originales=True&exportar_formato=pdf&hddResultadoExportar=1221526.2026-08-17.0.0%23&nombrearchivo=Decreto-174_17-FEB-2026&radioExportar=Normas",
+  "chars": 41448,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:00Z",
+  "cited_by": [
+   "codex/L07-C06",
+   "codex/L07-C06",
+   "codex/L07-C07",
+   "codex/L07-C07",
+   "codex/L07-C08",
+   "codex/L07-C09",
+   "codex/L07-C11",
+   "codex/L07-C14"
+  ]
+ },
+ "https://mfa.gov.ua/consul/forua/legalization/apostille": {
+  "sha1": "48869cb74b3fd0cb13af191b59b4c214ee78faee",
+  "status": 200,
+  "final_url": "https://mfa.gov.ua/consul/forua/legalization/apostille",
+  "chars": 29043,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:01Z",
+  "cited_by": [
+   "codex/L08-C06",
+   "codex/L08-C06",
+   "codex/L08-C07",
+   "codex/L08-C07",
+   "codex/L08-C09",
+   "codex/L08-C09",
+   "codex/L08-C09"
+  ]
+ },
+ "https://www.hcch.net/en/instruments/conventions/status-table/acceptances/?mid=609": {
+  "sha1": "fa697efd87ac5ba7c751318bad6a5b09173ca098",
+  "status": 200,
+  "final_url": "https://www.hcch.net/en/instruments/conventions/status-table/acceptances/?mid=609",
+  "chars": 8748,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:02Z",
+  "cited_by": [
+   "codex/L08-C11"
+  ]
+ },
+ "https://mfa.gov.ua/consul/forua/legalization/legalization": {
+  "sha1": "20de148b1dfd161476f1dbab3c5710f952229503",
+  "status": 200,
+  "final_url": "https://mfa.gov.ua/consul/forua/legalization/legalization",
+  "chars": 27773,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:02Z",
+  "cited_by": [
+   "codex/L08-C08"
+  ]
+ },
+ "https://www.chile.gob.cl/san-francisco/tramites/instrucciones-tramites-consulares": {
+  "sha1": "8d418e4b4d07f5c9949b5c0ffe055d812e4df5c8",
+  "status": 200,
+  "final_url": "https://www.chile.gob.cl/san-francisco/tramites/instrucciones-tramites-consulares",
+  "chars": 24623,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:02Z",
+  "cited_by": [
+   "codex/L08-C14"
+  ]
+ },
+ "https://portaluchile.uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso": {
+  "sha1": "0382cd44735fa1712a097ced1f56d9daf218630f",
+  "status": 200,
+  "final_url": "https://portaluchile.uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+  "chars": 7021,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:02Z",
+  "cited_by": [
+   "codex/L09-C01",
+   "codex/L09-C02",
+   "codex/L09-C03",
+   "codex/L09-C03"
+  ]
+ },
+ "https://www.minrel.gob.cl/minrel/site/docs/20250522/20250522173240/preguntas_frecuentes__1___1_.pdf": {
+  "sha1": "b7e99ce7a80117f3c435704b7c805b1f76ae5ed9",
+  "status": 200,
+  "final_url": "https://www.minrel.gob.cl/minrel/site/docs/20250522/20250522173240/preguntas_frecuentes__1___1_.pdf",
+  "chars": 83142,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:03Z",
+  "cited_by": [
+   "codex/L08-C13",
+   "codex/L08-C13"
+  ]
+ },
+ "https://educacionsuperior.mineduc.cl/wp-content/uploads/sites/49/2025/10/DFE-REX-11802-2025-sx.pdf": {
+  "sha1": "031f5a4aa2f9b6a781508b5ac918e4057c44f9c8",
+  "status": 200,
+  "final_url": "https://educacionsuperior.mineduc.cl/wp-content/uploads/sites/49/2025/10/DFE-REX-11802-2025-sx.pdf",
+  "chars": 113714,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:03Z",
+  "cited_by": [
+   "codex/L03-C05",
+   "codex/L03-C05",
+   "codex/L03-C05"
+  ]
+ },
+ "https://ayuda1.serviciomigraciones.cl/es/support/solutions/articles/60000718665--cu%C3%A1les-son-las-residencias-temporales-que-se-pueden-solicitar-fuera-de-chile-": {
+  "sha1": "7187c53ad836c34bf094c038190a4359afb5b62c",
+  "status": 200,
+  "final_url": "https://ayuda1.serviciomigraciones.cl/es/support/solutions/articles/60000718665--cu%C3%A1les-son-las-residencias-temporales-que-se-pueden-solicitar-fuera-de-chile-",
+  "chars": 2342,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:03Z",
+  "cited_by": [
+   "codex/L09-C04",
+   "codex/L09-C04"
+  ]
+ },
+ "https://www.leychile.cl/navegar?idNorma=1158549&tipoVersion=0": {
+  "sha1": "31b9d4d3dfc3746aa1140593ec8ab1121f2fd80a",
+  "status": 200,
+  "final_url": "https://www.bcn.cl:443/leychile/navegar?idNorma=1158549&tipoVersion=0",
+  "chars": 237,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:03Z",
+  "cited_by": [
+   "codex/L09-C05",
+   "codex/L09-C10",
+   "codex/L09-C10",
+   "codex/L09-C10"
+  ]
+ },
+ "https://serviciomigraciones.cl/residencia-temporal/subcategorias/actividades-remuneradas/": {
+  "sha1": "02e6e448c9bfe883ee0049cd38155c564da3bfcb",
+  "status": 200,
+  "final_url": "https://serviciomigraciones.cl/residencia-temporal/subcategorias/actividades-remuneradas/",
+  "chars": 21912,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:04Z",
+  "cited_by": [
+   "codex/L09-C05",
+   "codex/L09-C06",
+   "codex/L09-C06",
+   "codex/L09-C07",
+   "codex/L09-C07"
+  ]
+ },
+ "https://serviciomigraciones.cl/residencia-temporal/subcategorias/reunificacion-familiar/": {
+  "sha1": "8320174003160a1ebfa2cca971fab0385e65564d",
+  "status": 200,
+  "final_url": "https://serviciomigraciones.cl/residencia-temporal/subcategorias/reunificacion-familiar/",
+  "chars": 27149,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:04Z",
+  "cited_by": [
+   "codex/L09-C08",
+   "codex/L09-C08",
+   "codex/L09-C08",
+   "codex/L09-C09"
+  ]
+ },
+ "https://www.sii.cl/contribuyentes/contribuyentes_individuales/chilenos_extranjero/rol_unico_tributario.htm": {
+  "sha1": "e855d887a474b2961f80abe1e5d4fe65e235da2f",
+  "status": 200,
+  "final_url": "https://www.sii.cl/contribuyentes/contribuyentes_individuales/chilenos_extranjero/rol_unico_tributario.htm",
+  "chars": 3791,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:04Z",
+  "cited_by": [
+   "codex/L09-C12",
+   "codex/L09-C12"
+  ]
+ },
+ "https://www.chile.gob.cl/ucrania": {
+  "sha1": "0ec14253dd50fcc579753e13c706f3600bec1813",
+  "status": 200,
+  "final_url": "https://www.chile.gob.cl/ucrania",
+  "chars": 1344,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:04Z",
+  "cited_by": [
+   "codex/L09-C13"
+  ]
+ },
+ "https://www.chile.gob.cl/polonia/site/tax/port/all-en/taxport_4_11__1.html": {
+  "sha1": "329748d1d743902740c5cc266c555295c96130e1",
+  "status": 200,
+  "final_url": "https://www.chile.gob.cl/en/polonia/sobre-la-embajada/donde-estamos/donde-estamos",
+  "chars": 1991,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:04Z",
+  "cited_by": [
+   "codex/L09-C13",
+   "codex/L09-C13"
+  ]
+ },
+ "https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=False&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_formato=pdf&hddResultadoExportar=1056560.2016-08-30.0.0%23&nombrearchivo=Ley-20711_02-ENE-2014&radioExportar=Normas": {
+  "sha1": "9075c5eee265464bc228a8e489532130485bc75b",
+  "status": 200,
+  "final_url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=False&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_formato=pdf&hddResultadoExportar=1056560.2016-08-30.0.0%23&nombrearchivo=Ley-20711_02-ENE-2014&radioExportar=Normas",
+  "chars": 12097,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:04Z",
+  "cited_by": [
+   "codex/L08-C11"
+  ]
+ },
+ "https://www.chileatiende.gob.cl/fichas/3337-cedula-de-identidad-para-extranjeros-obtencion-y-renovacion": {
+  "sha1": "36e871defb6ad89da0dac8048872f6b87eb973fe",
+  "status": 200,
+  "final_url": "https://www.chileatiende.gob.cl/fichas/3337-cedula-de-identidad-para-extranjeros-obtencion-y-renovacion",
+  "chars": 5418,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:05Z",
+  "cited_by": [
+   "codex/L09-C11",
+   "codex/L09-C11"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?idNorma=5219&idParte=8825103&idVersion=1960-04-06": {
+  "sha1": "4e9c5bf547bb3011935d632c44757a42d2359093",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=5219&idParte=8825103&idVersion=1960-04-06",
+  "chars": 237,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:05Z",
+  "cited_by": [
+   "codex/L09-C16"
+  ]
+ },
+ "https://www.bcn.cl/leychile/navegar?idNorma=28031": {
+  "sha1": "20a2f39c03046ed0ff606f8e5d0566dce142dafa",
+  "status": 200,
+  "final_url": "https://www.bcn.cl/leychile/navegar?idNorma=28031",
+  "chars": 237,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:05Z",
+  "cited_by": [
+   "codex/L09-C16"
+  ]
+ },
+ "https://serviciomigraciones.cl/aranceles-migratorios/": {
+  "sha1": "69f3429759655b99a848a91d075b435c64d8135d",
+  "status": 200,
+  "final_url": "https://serviciomigraciones.cl/aranceles-migratorios/",
+  "chars": 8539,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:05Z",
+  "cited_by": [
+   "codex/L09-C15",
+   "codex/L09-C15"
+  ]
+ },
+ "https://www.spensiones.cl/portal/institucional/594/w3-article-6445.html": {
+  "sha1": "41d81a187c77b9413acfc11c6992f3c5c1f7cc94",
+  "status": 200,
+  "final_url": "https://www.spensiones.cl/portal/institucional/594/w3-article-6445.html",
+  "chars": 17865,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:05Z",
+  "cited_by": [
+   "codex/L09-C18",
+   "codex/L09-C18",
+   "codex/L09-C18"
+  ]
+ },
+ "https://www.cnachile.cl/Paginas/medicina.aspx": {
+  "sha1": "ddd070764ce418d81134dbc28e888110d7d8d7c1",
+  "status": 200,
+  "final_url": "https://www.cnachile.cl/Paginas/medicina.aspx",
+  "chars": 4006,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:05Z",
+  "cited_by": [
+   "codex/L10-C01",
+   "codex/L10-C02",
+   "codex/L10-C03",
+   "codex/L10-C04",
+   "codex/L10-C05",
+   "codex/L10-C06",
+   "codex/L10-C07",
+   "codex/L10-C08",
+   "codex/L10-C09",
+   "codex/L10-C10",
+   "codex/L10-C11",
+   "codex/L10-C12",
+   "codex/L10-C13",
+   "codex/L10-C14",
+   "codex/L10-C15",
+   "codex/L10-C16",
+   "codex/L10-C17",
+   "codex/L10-C18",
+   "codex/L10-C19",
+   "codex/L10-C20",
+   "codex/L10-C21",
+   "codex/L10-C22",
+   "codex/L10-C23",
+   "codex/L10-C24",
+   "codex/L10-C25",
+   "codex/L10-C26"
+  ]
+ },
+ "https://www.chileatiende.gob.cl/hito-vida/Acceder%2Ba%2Bsalud%2Bp%C3%BAblica/Accede%2Ba%2Binformaci%C3%B3n%2By%2Baf%C3%ADliate%2B%28ingresa%29%2Ba%2BFonasa": {
+  "sha1": "c045782b25c7a5663b338b4b8b3573457b6144f1",
+  "status": 200,
+  "final_url": "https://www.chileatiende.gob.cl/momentos-de-vida/Acceder+a+salud+p%C3%BAblica/Accede+a+informaci%C3%B3n+y+af%C3%ADliate+%28ingresa%29+a+Fonasa",
+  "chars": 17426,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:06Z",
+  "cited_by": [
+   "codex/L09-C17"
+  ]
+ },
+ "https://ddp.usach.cl/b668-encargadoa-laboratorio-0": {
+  "sha1": "877bb3db5388c73c4963d907c15e97ba1d5ff9d9",
+  "status": 200,
+  "final_url": "https://ddp.usach.cl/b668-encargadoa-laboratorio-0",
+  "chars": 6962,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:06Z",
+  "cited_by": [
+   "codex/L11-C05",
+   "codex/L11-C05"
+  ]
+ },
+ "https://www.chileatiende.gob.cl/fichas/5241-certificados-de-afiliacion-y-cotizaciones-de-fonasa": {
+  "sha1": "e466f6b5207a448d62471f51b27bd65050da266f",
+  "status": 200,
+  "final_url": "https://www.chileatiende.gob.cl/fichas/5241-certificados-de-afiliacion-y-cotizaciones-de-fonasa",
+  "chars": 4736,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:06Z",
+  "cited_by": [
+   "codex/L09-C17",
+   "codex/L09-C17"
+  ]
+ },
+ "https://apostille.in.ua/attachments/4all/%D0%A6%D1%96%D0%BD%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D1%83_ua.pdf": {
+  "sha1": "44982b2cf529cce1d6224e1516630a7241f44be9",
+  "status": 404,
+  "final_url": "https://apostille.in.ua/attachments/4all/%D0%A6%D1%96%D0%BD%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D1%83_ua.pdf",
+  "chars": 0,
+  "error": "HTTP 404",
+  "fetched_at": "2026-09-04T02:18:07Z",
+  "cited_by": [
+   "codex/L08-C10",
+   "codex/L08-C10"
+  ]
+ },
+ "https://portal.chiletrabajos.cl/empresa/cecim/trabajo/medico-internista-centro-de-investigacion-clinica-3887676": {
+  "sha1": "007be3c4ff753073f82fde5dc779c6f6de6043a4",
+  "status": 200,
+  "final_url": "https://portal.chiletrabajos.cl/empresa/cecim/trabajo/medico-internista-centro-de-investigacion-clinica-3887676",
+  "chars": 5027,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:07Z",
+  "cited_by": [
+   "codex/L11-C07",
+   "codex/L11-C07",
+   "codex/L11-C07",
+   "codex/L11-C13"
+  ]
+ },
+ "https://clinicalwork.cl/jobs/ep_emp_142759": {
+  "sha1": "8db0f48112b575fac4ce0cf2e76d930270e85847",
+  "status": 200,
+  "final_url": "https://clinicalwork.cl/jobs/ep_emp_142759",
+  "chars": 2310,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:07Z",
+  "cited_by": [
+   "codex/L11-C06",
+   "codex/L11-C06"
+  ]
+ },
+ "https://www.empleospublicos.cl/pub/contenido/nuestrositio.aspx": {
+  "sha1": "5f17edfa9bffcdbccd00c783df4cab243216417c",
+  "status": 200,
+  "final_url": "https://www.empleospublicos.cl/pub/contenido/nuestrositio.aspx",
+  "chars": 6723,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:07Z",
+  "cited_by": [
+   "codex/L11-C08",
+   "codex/L11-C13"
+  ]
+ },
+ "https://serviciomigraciones.cl/wp-content/uploads/2026/03/Informe-Final-Gestion-2022-2026-Servicio-Nacional-de-Migraciones.pdf": {
+  "sha1": "df4c50838ce817856c075e6ff3cf0fb04a9e7967",
+  "status": 200,
+  "final_url": "https://serviciomigraciones.cl/wp-content/uploads/2026/03/Informe-Final-Gestion-2022-2026-Servicio-Nacional-de-Migraciones.pdf",
+  "chars": 191244,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:07Z",
+  "cited_by": [
+   "codex/L09-C14",
+   "codex/L09-C14"
+  ]
+ },
+ "https://www.serviciocivil.cl/postulantes/": {
+  "sha1": "0f7af92974ec6e6dbed2f3dceb7028a5c442b5b8",
+  "status": 200,
+  "final_url": "https://www.serviciocivil.cl/postulantes/",
+  "chars": 7499,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:08Z",
+  "cited_by": [
+   "codex/L11-C12",
+   "codex/L11-C12"
+  ]
+ },
+ "https://www.chileatiende.gob.cl/fichas/3391-inscripcion-en-el-registro-de-profesionales": {
+  "sha1": "d289c7c1fbb94f22082f8ecc3cf285bd062aa6c3",
+  "status": 200,
+  "final_url": "https://www.chileatiende.gob.cl/fichas/3391-inscripcion-en-el-registro-de-profesionales",
+  "chars": 7136,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:09Z",
+  "cited_by": [
+   "codex/L12-C04"
+  ]
+ },
+ "https://www.investchile.gob.cl/es/convalidacion-de-grados-academicos/": {
+  "sha1": "19963d678453b1970008dc9db7547acd0b32a538",
+  "status": 200,
+  "final_url": "https://www.investchile.gob.cl/es/convalidacion-de-grados-academicos/",
+  "chars": 5653,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:09Z",
+  "cited_by": [
+   "codex/L12-C05"
+  ]
+ },
+ "https://www.chileatiende.gob.cl/fichas/2461-reconocimiento-de-titulos-profesionales-obtenidos-en-el-extranjer": {
+  "sha1": "681d29b8b446929fafa6858f7711f1c49ed798ae",
+  "status": 200,
+  "final_url": "https://www.chileatiende.gob.cl/fichas/2461-reconocimiento-de-titulos-profesionales-obtenidos-en-el-extranjer",
+  "chars": 6077,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:09Z",
+  "cited_by": [
+   "codex/L12-C03"
+  ]
+ },
+ "https://mcu.org.ua/2017/10/03/%D1%87%D0%B8%D0%BB%D0%B8/?lang=ru": {
+  "sha1": "45e0eec6dcfb355271b6c20dcd0e81332314270e",
+  "status": 200,
+  "final_url": "https://mcu.org.ua/2017/10/03/%D1%87%D0%B8%D0%BB%D0%B8/?lang=ru",
+  "chars": 14601,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:11Z",
+  "cited_by": [
+   "codex/L12-C06",
+   "codex/L12-C07",
+   "codex/L12-C08"
+  ]
+ },
+ "https://www.minsal.cl/wp-content/uploads/2026/02/Glosa-06-LE-IV-trimestre.pdf": {
+  "sha1": "c8312da08f0adba09a8c1eb9b6db81d3978d53dc",
+  "status": 200,
+  "final_url": "https://www.minsal.cl/wp-content/uploads/2026/02/Glosa-06-LE-IV-trimestre.pdf",
+  "chars": 211172,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:12Z",
+  "cited_by": [
+   "codex/L11-C11",
+   "codex/L11-C11",
+   "codex/L11-C11"
+  ]
+ },
+ "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf": {
+  "sha1": "71d18e02e7f460701e6bd195089ed3d05ab04482",
+  "status": 200,
+  "final_url": "https://www.eunacom.cl/reglamentacion/NormativaOficial.pdf",
+  "chars": 25370,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:12Z",
+  "cited_by": [
+   "codex/L12-C11"
+  ]
+ },
+ "https://observatoriorhs.minsal.cl/wp-content/uploads/2026/07/Glosa-01-letra-d-inciso-04-junio-1.pdf": {
+  "sha1": "0f9ca2412436ca37c4e87dd05c9a277036cd7b9e",
+  "status": 200,
+  "final_url": "https://observatoriorhs.minsal.cl/wp-content/uploads/2026/07/Glosa-01-letra-d-inciso-04-junio-1.pdf",
+  "chars": 186572,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:12Z",
+  "cited_by": [
+   "codex/L11-C09",
+   "codex/L11-C09",
+   "codex/L11-C10",
+   "codex/L11-C10",
+   "codex/L11-C10"
+  ]
+ },
+ "https://www.gostudy.cz/uk/bez-kategorii/yak-vidbuva-tsya-nostrifikaciya-diploma-za-kordonom": {
+  "sha1": "963ced02fa7333f59ec5889e6ca8935268d6dcb1",
+  "status": 200,
+  "final_url": "https://www.gostudy.cz/uk/bez-kategorii/yak-vidbuva-tsya-nostrifikaciya-diploma-za-kordonom",
+  "chars": 9246,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:12Z",
+  "cited_by": [
+   "codex/L12-C10"
+  ]
+ },
+ "https://azbuka-bp.com.ua/uk/mykolaiv-ukr.html": {
+  "sha1": "6c41f854312d107eee8ad93a2f6eddd86541876e",
+  "status": 200,
+  "final_url": "https://azbuka-bp.com.ua/uk/mykolaiv-ukr.html",
+  "chars": 25935,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:13Z",
+  "cited_by": [
+   "codex/L12-C09"
+  ]
+ },
+ "https://eunamed.com/blog/revalidar-con-eunacom-vs-revalida-en-la-universidad-de-chile/": {
+  "sha1": "2629ca5e87a429f234c24c2092138505ecfafbd5",
+  "status": 200,
+  "final_url": "https://eunamed.com/blog/revalidar-con-eunacom-vs-revalida-en-la-universidad-de-chile/",
+  "chars": 11515,
+  "error": "",
+  "fetched_at": "2026-09-04T02:18:14Z",
+  "cited_by": [
+   "codex/L12-C16"
+  ]
+ },
+ "https://zakon.rada.gov.ua/laws/show/1556-18/ed20150529/print": {
+  "sha1": "02f1dde576e414971531947433fa65b7449aad48",
+  "status": 0,
+  "final_url": "https://zakon.rada.gov.ua/laws/show/1556-18/ed20150529/print",
+  "chars": 0,
+  "error": "URLError: <urlopen error timed out>",
+  "fetched_at": "2026-09-04T02:18:41Z",
+  "cited_by": [
+   "codex/L07-C01"
+  ]
+ },
+ "https://zakon.rada.gov.ua/laws/show/en/1556-18/ed20220512/comp20190101?dark=1&lang=en": {
+  "sha1": "69657ff5140c5380a3f65714a783f60214f1d691",
+  "status": 0,
+  "final_url": "https://zakon.rada.gov.ua/laws/show/en/1556-18/ed20220512/comp20190101?dark=1&lang=en",
+  "chars": 0,
+  "error": "URLError: <urlopen error timed out>",
+  "fetched_at": "2026-09-04T02:18:41Z",
+  "cited_by": [
+   "codex/L07-C03",
+   "codex/L07-C03"
+  ]
+ },
+ "https://zakon.rada.gov.ua/laws/show/1556-18/ed20170105/print/sp%3Adark": {
+  "sha1": "e4dce5c91a00e371eec46f41a9a9433c19bda262",
+  "status": 0,
+  "final_url": "https://zakon.rada.gov.ua/laws/show/1556-18/ed20170105/print/sp%3Adark",
+  "chars": 0,
+  "error": "URLError: <urlopen error timed out>",
+  "fetched_at": "2026-09-04T02:18:41Z",
+  "cited_by": [
+   "codex/L07-C05",
+   "codex/L07-C05"
+  ]
+ }
+}

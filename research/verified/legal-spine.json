@@ -1,0 +1,371 @@
+{
+ "lane_id": "SPINE",
+ "status": "complete",
+ "provenance": "Read directly from the LeyChile XML API (opt=7) by the orchestrator, not by a subagent. The human bcn.cl pages are a JavaScript shell and return no legal text at all, so every quote here was taken from the machine-readable norm.",
+ "claims": [
+  {
+   "id": "SPINE-01",
+   "statement": "Decreto 174 was promulgated on 2 December 2024, published in the Diario Oficial on 17 February 2026, and by its own first transitional article entered into force six months after publication — i.e. on 17 August 2026.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Artículo primero transitorio.- Vigencia del presente reglamento. El presente reglamento entrará en vigor contados seis meses desde la fecha de su publicación en el Diario Oficial.",
+     "quote_locator": "Artículo primero transitorio"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo primero transitorio",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-02",
+   "statement": "The power of State universities to recognise and revalidate foreign degrees is not new law from 2026: it was written into article 143 of Ley 21.325, published 20 April 2021. What changed on 17 August 2026 is that the regulation implementing it came into force.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1158549",
+     "publisher": "BCN — Ley Chile",
+     "title": "Ley 21.325",
+     "date_of_content": "2021-04-20",
+     "quote_original": "las universidades del Estado con un mínimo de cinco años de acreditación tendrán la atribución de reconocer y revalidar títulos y grados académicos obtenidos en el extranjero y convalidar actividades curriculares cursadas en una institución de educación superior extranjera.",
+     "quote_locator": "Artículo 143"
+    }
+   ],
+   "regime": {
+    "norm": "Ley 21.325 Artículo 143",
+    "vigencia": "2021-04-20",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "NEUTRAL"
+   },
+   "note": "Corrects the scouting pass, which framed this as a 2026 change in the law itself."
+  },
+  {
+   "id": "SPINE-03",
+   "statement": "Universidad de Chile did NOT lose its power. Both Ley 21.325 art. 143 and Decreto 174 art. 1 preserve it expressly ('sin perjuicio'), and Decreto 174 applies to Universidad de Chile only for TECHNICAL titles and convalidation. For a professional title such as Médico Cirujano, Universidad de Chile continues to operate under its own statute, DFL 3/2006 art. 6, not under this regulation.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "En el caso de la Universidad de Chile, el presente reglamento le es aplicable en lo referido al reconocimiento y revalidación de títulos técnicos otorgados por instituciones de educación superior extranjeras y a la convalidación de actividades curriculares cursadas en dichas instituciones.",
+     "quote_locator": "Artículo 1 inc. 2"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 1 inc. 2",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "Materially corrects the scouting pass, which said the Universidad de Chile monopoly was 'removed' and 'dead'. It was ADDED TO, not removed."
+  },
+  {
+   "id": "SPINE-04",
+   "statement": "Only State universities holding institutional accreditation at ADVANCED level for at least five years may recognise or revalidate a foreign professional title or academic degree. Private universities may do so only for TECHNICAL titles.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Solo las universidades del Estado con un mínimo de acreditación institucional de nivel avanzado de cinco años tendrán la atribución de reconocer y revalidar títulos profesionales y grados académicos obtenidos en el extranjero y convalidar actividades curriculares cursadas en una institución de educación superior extranjera, conducentes a estos.",
+     "quote_locator": "Artículo 5"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 5",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-05",
+   "statement": "A university may only revalidate a degree in a field it actually teaches, and which has produced at least one graduating cohort. For programmes whose accreditation is compulsory — which includes Medicina — only an institution whose own programme holds that accreditation may act. This is the constraint that decides where she can file.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Las instituciones de educación superior nacionales solo podrán reconocer y revalidar títulos y grados académicos correspondientes a carreras o programas afines a los que impartan, que al menos cuenten con una cohorte de titulados o graduados, según corresponda. Con todo, en el caso de solicitudes de reconocimiento y revalidación de carreras y programas de acreditación obligatoria conforme a lo dispuesto en la ley N° 20.129, solo podrán ser efectuadas por aquellas instituciones de educación superior cuyas respectivas carreras cuenten con dicha acreditación.",
+     "quote_locator": "Artículo 4"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 4",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "Combined with art. 5, the eligible set for a MEDICAL degree is: State universities with advanced institutional accreditation >= 5 years AND an accredited Medicina programme AND at least one graduated cohort."
+  },
+  {
+   "id": "SPINE-06",
+   "statement": "Medical specialties and subspecialties are governed by a separate body of rules; this regulation does not touch them. Recognition of the degree and recognition of the rheumatology specialty are two different processes.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Lo dispuesto en el presente reglamento es sin perjuicio de la aplicación de la normativa sobre especialidades y subespecialidades del área de la salud, según proceda.",
+     "quote_locator": "Artículo 2 inc. 3"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 2 inc. 3",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-07",
+   "statement": "The minimum documents are fixed by regulation: the original title or equivalent certificate, the official transcript of marks, the study plan showing duration or credits, teaching hours, subject contents and modality, and a declaration that the applicant is licensed to practise in the country that issued the title — each legalised or apostilled.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "a. Título original o certificado equivalente del título o grado académico extranjero, según corresponda, legalizado por la autoridad competente o con su apostilla. b. Concentración o certificación oficial de notas o calificaciones obtenidas en cada asignatura o actividad curricular, legalizado por autoridad competente o con su apostilla. c. Plan de estudios de la carrera o programa que cursó y aprobó en el país de origen, que al menos contenga la indicación de su duración o la equivalencia en créditos académicos, carga horaria, contenidos de las asignaturas y la modalidad, legalizado por autoridad competente o con su apostilla. d. Declaración de habilitación para el ejercicio profesional del solicitante en el país que concede el título",
+     "quote_locator": "Artículo 7"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 7",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-08",
+   "statement": "The procedure is to be 'preferentemente electrónico', but the regulation itself contemplates steps where physical documents must be presented. It is therefore NOT an end-to-end online process.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Asimismo, este procedimiento será preferentemente electrónico, sin perjuicio de aquellos trámites o instancias en los cuales sea necesario presentar documentación en formato físico.",
+     "quote_locator": "Artículo 7 inc. 2"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 7 inc. 2",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "Directly answers the assumption that the process is done entirely online."
+  },
+  {
+   "id": "SPINE-09",
+   "statement": "Once an apostille is validly issued the document needs no further certification, and the apostille must be obtained in the country that issued the document — i.e. in Ukraine, before anything is sent to Chile.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Una vez apostillado, el documento no requerirá certificación adicional, por lo que podrá presentarse al trámite que corresponda según lo requiera su titular.",
+     "quote_locator": "Artículo 3 letra a"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 3 letra a",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-10",
+   "statement": "Statutory timetable: the academic unit has 45 days to study the curriculum and 15 days to propose a decision, after the coordinating unit has had 30 days to request the report.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "habrá un plazo de cuarenta y cinco días para practicar un estudio de los antecedentes curriculares del candidato e informar a la Unidad Coordinadora.",
+     "quote_locator": "Artículo 9"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 9",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-11",
+   "statement": "If her training is assessed as at least 70% equivalent, she is not refused; she is set requirements: a general or subject-specific examination (each attemptable three times, marked only pass/fail), final degree activities, or additional coursework.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Si del estudio practicado se establece un nivel parcial de formación académica, equivalente, al menos, a un setenta por ciento, que no amerite el otorgamiento o la denegación de la revalidación, la Unidad Académica o la Comisión, según corresponda, propondrá fundadamente a la autoridad resolutiva, a través de la Unidad Coordinadora, que el solicitante cumpla con uno o más de los siguientes requisitos:",
+     "quote_locator": "Artículo 10"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 10",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-12",
+   "statement": "Those requirements may not be scheduled across more than three academic semesters, and the applicant has a hard limit of two years to complete them, extendable once. Exceeding it means the process is failed outright.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Con todo, la programación de las referidas exigencias curriculares no podrá exceder de tres semestres académicos. El solicitante, por su parte, no podrá emplear más de dos años en la aprobación de éstas",
+     "quote_locator": "Artículo 11"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 11",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": ""
+  },
+  {
+   "id": "SPINE-13",
+   "statement": "Curricular activities older than ten years are normally not convalidated — but that ten-year limit does NOT apply to an applicant who can show relevant professional experience in the field during the last five years. As a currently practising academic rheumatologist, she falls within that exception.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "podrán convalidarse aquellas actividades curriculares aprobadas dentro de los diez años anteriores a la fecha de su solicitud. Este plazo no rige respecto de las personas solicitantes, que acrediten efectivamente experiencia laboral relevante en el área temática de la actividad curricular, durante los últimos cinco años anteriores a la fecha de su solicitud",
+     "quote_locator": "Artículo 16"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 16",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "Directly favourable to her: her continuing teaching and clinical work lifts the ten-year staleness bar."
+  },
+  {
+   "id": "SPINE-14",
+   "statement": "She may not apply to several institutions at once. A second application for the same title is treated as never filed, and a central register at the Subsecretaría de Educación Superior exists to detect it.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "Los interesados no podrán solicitar el reconocimiento o revalidación de un mismo título o grado académico de manera simultánea ante distintas instituciones de educación superior. Tampoco podrán solicitar la revalidación de un mismo título o grado académico por dos títulos o grados académicos distintos.",
+     "quote_locator": "Artículo 22"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo 22",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "Means the choice of institution is a one-shot decision and must be made deliberately."
+  },
+  {
+   "id": "SPINE-15",
+   "statement": "The Ministry of Education was required to set the fees for these procedures by administrative act within four months of publication — that is, by roughly 17 June 2026. Whether it did so determines whether the new route is operable in practice.",
+   "confidence": "high",
+   "evidence_type": "primary_law",
+   "verified_by": "read verbatim from the LeyChile XML API by the orchestrator",
+   "sources": [
+    {
+     "url": "https://www.bcn.cl/leychile/navegar?idNorma=1221526",
+     "publisher": "BCN — Ley Chile",
+     "title": "Decreto 174/2024 MINEDUC",
+     "date_of_content": "2026-02-17",
+     "quote_original": "El Ministerio de Educación dentro del plazo de cuatro meses contados desde la fecha de publicación en el Diario Oficial del presente reglamento, deberá dictar el correspondiente acto administrativo mediante el cual se fijen los aranceles para los trámites referidos al reconocimiento y revalidación de títulos profesionales",
+     "quote_locator": "Artículo segundo transitorio"
+    }
+   ],
+   "regime": {
+    "norm": "Decreto 174/2024 MINEDUC Artículo segundo transitorio",
+    "vigencia": "2026-08-17",
+    "version_consulted": "LeyChile XML obtxml opt=7, retrieved 2026-09-03",
+    "regime_side": "POST"
+   },
+   "note": "OPEN: verify whether the arancel decree was actually published."
+  }
+ ],
+ "process_steps": [],
+ "entities": [],
+ "open_questions": [],
+ "unknowns_declared": []
+}

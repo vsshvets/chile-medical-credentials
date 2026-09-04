@@ -41,6 +41,11 @@ LANE {lid} — {title}
 YOUR ASSIGNMENT:
 {brief}
 
+
+DO NOT RUN SHELL COMMANDS. No curl, no wget, no scripts, no file writes. Use ONLY your built-in
+web search and page reading. A job that runs a shell command is discarded in full, however good
+its findings are.
+
 Return JSON matching the schema exactly. Set lane_id to "{lid}".
 Aim for 10-25 well-evidenced claims. Quality of evidence beats quantity of claims.
 Every claim id must start with "{lid}-C".

@@ -1,0 +1,5575 @@
+ 
+ 
+OFICIO CP N°20457 / 2025
+ANTECEDENTE: Ley de Presupuesto Nº21.722 del
+Sector Público, año 2025.
+MATERIA: Envía informe para dar cumplimiento de lo
+solicitado en Ley de Presupuestos del Sector Público
+N°21.722 del año 2025, Partida Ministerio de Salud,
+Glosa N°01 letra d), inciso 4.
+SANTIAGO, 28 de Septiembre de 2025
+DE : SUBSECRETARÍA DE REDES ASISTENCIALES
+A : COMISIÓN ESPESIAL MIXTA DE PRESUPUESTOS
+En el marco de la Ley de Presupuestos del Sector Público N°21.722 del año 2025, Partida Ministerio de Salud, Glosa N°01 letra d), inciso 4,
+que señala: “Antes del 30 de junio de 2025, el Ministerio de Salud deberá enviar a la Comisión Especial Mixta de Presupuestos, y publicar en
+su página web, un informe sobre brechas de personal de salud por Servicio de Salud y especialidad, que justifique los recursos asignados al
+Programa de Formación de Especialistas. En este informe se deberá incluir a los profesionales médicos, a los profesionales no médicos, a
+los técnico-profesionales y a los técnicos”.
+Sin otro particular, saluda atentamente,
+BERNARDO MARTORELL GUERRA
+28-09-2025
+SUBSECRETARIO(A) DE REDES ASISTENCIALES
+Ministerio de Salud
+ 
+Nombre Cargo Fecha Visación
+Ximena Barros Rubio JEFE(A) DE GABINETE SUBSECRETARIA 
+DE REDES ASISTENCIALES 25/09/2025 23:13:23
+Vanessa Díaz Bravo JEFE(A) DE UNIDAD 25/09/2025 10:40:37
+Veronica Loreto Bustos Flores JEFE(A) DIVISION DE GESTION Y 
+DESARROLLO DE PERSONAS 09/09/2025 20:18:53
+Claudia Godoy Cubillos JEFE(A) DE DEPARTAMENTO 01/09/2025 20:12:47
+Ernesto Gonzalez Bernal JEFE(A) DE DEPARTAMENTO CONTROL 
+DE GESTION 22/09/2025 11:40:23
+Distribución:
+• Departamento de Planificación de Recursos Humanos para la Salud.
+• Oficina de Partes.
+Distribución Digital
+• Comisión Especial Mixta de Presupuesto.
+• Gabinete Subsecretaría de Redes Asistenciales.
+• Departamento Control de Gestión SRA (glosas.sra@minsal.cl).
+• Congreso (opschile@senado.cl).
+GESTIÓN INTERNA 057091/2025
+Código: cXJCU15FXQ validar en https://ceropapel.minsal.cl/validadoc-minsal
+
+1 
+ 
+ 
+   
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GLOSA N°01_ Letra d) 
+ 
+Brechas de Personal de Salud por Servicio de Salud y 
+especialidad 
+ 
+LEY DE PRESUPUESTO N°21.722/2025 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+MINISTERIO DE SALUD  
+SUBSECRETARÍA DE REDES ASISTENCIALES  
+JUNIO/2025 
+www.minsal.cl  
+  
+
+2 
+ 
+ 
+ 
+Contenido 
+1. INTRODUCCIÓN ................................ ................................ ................................ ............................  5 
+2. ELEMENTOS DE CONTEXTO. ................................ ................................ ................................ ....... 7 
+2.1. Personal de salud a escala nacional ................................ ................................ ................................  7 
+2.1.1. Evolución del Registro Nacional de Prestadores Individuales. ................................ ...........................  7 
+2.1.2. Evolución de Médicos en el Registro Nacional de Prestadores Individuales................................. ...... 7 
+2.1.3. Distribución por sexo y edad de personal de salud en Registro Nacional de Prestadores Individuales.8 
+2.1.4. Distribución del Personal de Salud con nacionalidad y país de origen en la Región de las Américas - 
+Registro Nacional de Prestadores Individuales. ................................ ................................ ..............  10 
+2.2. Dotación de personal en la red pública ................................ ................................ ...........................  13 
+2.2.1. Distribución de la dotación por sexo y edad. ................................ ................................ ...................  14 
+2.2.2. Dotación personal en Servicios de Salud................................. ................................ .......................  15 
+2.3. Densidad del Equipo Nuclear de Salud en la Red Servicios de Salud. ................................ .............  19 
+3. BRECHAS DE PERSONAL EN SERVICIOS DE SALUD. ................................ ...............................  21 
+3.1. Brechas de Personal Plan Nacional de Inversiones - Componente hospitales ................................ . 23 
+3.1.1. Brechas de Personal Ley 18.834, Estatuto Administrativo. Plan Nacional de Inversiones componente 
+Hospitales. ................................ ................................ ................................ ................................ .... 24 
+3.1.2. Brechas de Personal Leyes 19.664 – 15.076, Estatutos Médicos. Plan Nacional de Inversiones - 
+Componente Hospitales................................. ................................ ................................ ................  26 
+3.2. Brechas de Personal Iniciativas de Inversión - Plan Nacional de Cáncer. ................................ ........ 29 
+3.2.1. Brecha de Personal de la Ley N°18.834, según estamentos: ................................ ..........................  33 
+3.2.2. Brecha de especialidades médicas Ley N°19.664 y N°15.076 ................................ .........................  35 
+3.3. Brechas de Personal Plan Nacional de Inversiones. Componente COSAM - Plan de Salud Mental. . 38 
+4. COMENTARIOS FINALES ................................ ................................ ................................ ............  42 
+ANEXO ................................ ................................ ................................ ................................ ......................  45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+Índice de tablas y gráficos 
+Tabla 1 Profesionales Médicos a Nivel Nacional (RNPI), período 2019 – 2024................................. .........................  8 
+Tabla 2 Profesionales y Técnicos con RNPI a nivel nacional según sexo, año 2024 ................................ ..................  9 
+Tabla 3 Dotación de Personal en la Red Pública de Salud, año 2024 ................................ ................................ ..... 13 
+Tabla 4 Variación de la Dotación de Personal en la Red Pública de Salud, período 2019 – 2024.............................  14 
+Tabla 5 Número de Cargos asignados a los Servicios de Salud según ley estatutaria y plantas a diciembre de 2024
+ ................................ ................................ ................................ ................................ ................................ ............ 16 
+Tabla 6 Número de Cargos de personal de los Servicios de Salud según jornada semanal, diciembre 2024 ............ 17 
+Tabla 7 Número jornadas completas equivalentes de dotación de personal (titular y contrata) según Servicios de 
+Salud y ley contractual, diciembre de 2024 ................................ ................................ ................................ ............ 17 
+Tabla 8 Brecha Estimada de Recursos Humanos – Plan Nacional de Inversiones, 2025-2035 ................................  21 
+Tabla 9 Brecha Estimada de Recursos Humanos – Plan Nacional de Inversiones, Componente Hospitales - 2025-
+2035. ................................ ................................ ................................ ................................ ................................ .... 24 
+Tabla 10 Brecha de Personal Ley 18.834 estimada al año 2035 ................................ ................................ .............  24 
+Tabla 11 Brecha de Personal Leyes 19.664-15.076, período 2025 - 2035, en jornadas equivalentes .......................  26 
+Tabla 12 Brecha de Personal Leyes 19.664-15.076, período 2025 - 2035, en jornadas equivalentes, Planta de 
+Médicos ................................ ................................ ................................ ................................ ................................  26 
+Tabla 13 Proyectos de Inversión Oncológicos con Brechas de Recursos Humanos Certificada ...............................  30 
+Tabla 14 Estimación de Brechas de Personal Proyectos de Inversión en Cáncer al año 2030 ................................ . 32 
+Tabla 15 Brechas de Médicos Especialistas Proyectos de Inversión en Cáncer al año 2030 según especialidad y ley 
+contractual, expresado en Jornadas Completas Equivalentes ................................ ................................ ................  35 
+Tabla 16 Proyectos de Inversión Componente COSAM - Plan de Salud Mental con Brechas de Recursos Humanos 
+Certificada ................................ ................................ ................................ ................................ ............................  39 
+Tabla 17 Brecha en Jornadas completas equivalentes según planta y ley contractual ................................ .............  40 
+Tabla 18 Brecha en Jornadas completas equivalentes según planta, ley contractual y estamento ...........................  40 
+Tabla 19 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Arica y Parinacota .......................  46 
+Tabla 20 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Tarapacá ................................ ..... 47 
+Tabla 21 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Antofagasta ................................ . 49 
+Tabla 22 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Atacama ................................ ...... 51 
+Tabla 23 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Coquimbo................................ .... 53 
+Tabla 24 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Valparaíso-San Antonio ...............  56 
+Tabla 25 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Viña del Mar-Quillota ...................  58 
+Tabla 26 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Aconcagua ................................ .. 60 
+Tabla 27 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. O'Higgins ................................ .... 62 
+Tabla 28 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Maule ................................ .......... 64 
+Tabla 29 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Ñuble ................................ .......... 66 
+Tabla 30 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Concepción ................................ . 68 
+Tabla 31 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Arauco ................................ ........ 70 
+Tabla 32 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Talcahuano ................................ . 72 
+Tabla 33 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Bio Bio ................................ ........ 74 
+Tabla 34 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Araucanía Norte ..........................  76 
+Tabla 35 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Araucanía Sur .............................  77 
+Tabla 36 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Los Ríos ................................ ...... 80 
+Tabla 37 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Osorno ................................ ........ 82 
+Tabla 38 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Del Reloncaví ..............................  84 
+Tabla 39 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Chiloé ................................ ......... 87 
+Tabla 40 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Aysén ................................ .......... 89 
+Tabla 41 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Magallanes ................................ .. 90 
+Tabla 42 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Met. Oriente ................................  91 
+Tabla 43 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Met. Central................................ . 94 
+Tabla 44 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Met. Sur ................................ ...... 95 
+Tabla 45 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Met. Norte ................................ ... 98 
+Tabla 46 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Met. Occidente ..........................  100 
+Tabla 47 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Met. Sur Oriente ........................  102 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Gráfico 1 Número de Profesionales y Técnicos con RNPI a nivel nacional período 2019-2024. ................................ . 7 
+Gráfico 2 Distribución según sexo y edad Profesionales y Técnicos con RNPI a nivel nacional, año 2024 ...............  10 
+Gráfico 3 Personal de Salud a nivel nacional – SIS, con nacionalidad de origen en la región de las Américas ......... 11 
+Gráfico 4 Personal de Salud a nivel nacional – SIS, con país de titulación en la región de las Américas ..................  12 
+Gráfico 5 Personal de Salud a nivel nacional – SIS, con país de titulación en Europa, Asia, Oceanía y África .......... 13 
+Gráfico 6 Distribución Personal Sector Público de Salud (Servicios de Salud + APS Municipal), según sexo y edad, 
+año 2024 ................................ ................................ ................................ ................................ ..............................  14 
+Gráfico 7 Evolución anual en cargos de dotación efectiva (titular y contrata), 2019-2024 ................................ ......... 15 
+Gráfico 8 Número jornadas completas equivalentes personal médico de dotación de personal (titular y contrata) 
+según Servicios de Salud, diciembre de 2024 ................................ ................................ ................................ ........ 18 
+Gráfico 9 Densidad Equipo Nuclear por 10.000 habitantes FONASA ................................ ................................ ...... 19 
+Gráfico 10 Brechas de Personal Proyectos de Inversión en Cáncer según Macrozonas, expresado en Jornadas 
+Completas Equivalentes ................................ ................................ ................................ ................................ ........ 33 
+Gráfico 11 Brechas de Personal Proyectos de Inversión en Cáncer al año 2030 según estamento asociado a la Ley 
+N°18.834 ................................ ................................ ................................ ................................ ..............................  34 
+Gráfico  Brechas de Personal Proyectos de Inversión en Cáncer al año 2030 según especialidad médica, expresada 
+en Jornadas Completas Equivalentes ................................ ................................ ................................ ....................  37 
+ 
+5 
+ 
+1. INTRODUCCIÓN 
+El presente informe se enmarca en lo establecido por la Ley N°21.722 de Presupuesto del Sector Público 
+para el año 2025. En específico, da cumplimiento al requerimiento de estimar las brechas de personal por 
+Servicio de Salud, considerando tanto al equipo profesional como los requerimientos de especialistas. 
+Para comprender adecuadamente el presente documento, es necesario realizar algunas consideraciones 
+iniciales. La primera es que las brechas de personal deben analizarse en un contexto determinado por 
+diversos factores, entre ellos, la disponibilidad global de personal sanitario , razón por la cual, se  incluye 
+una caracterización a escala nacional de los Recursos Humanos en Salud (RHS). 
+En segundo lugar, es necesario destacar la naturaleza dinámica y multifactorial de las variables que 
+determinan la existencia de brechas de personal sanitario, así como la diversidad de enfoques existentes 
+para su estimació n. En este contexto, el Ministerio de Salud ha desarrollado una metodología para la 
+estimación de brechas de RHS, en el marco de los proyectos de inversión sectorial. Esta metodología 
+contempla las siguientes etapas: 
+ Diagnóstico de la oferta de RHS , entendida como la disponibilidad actual de personal, incluyendo 
+variables como jubilaciones, ingresos y rotación de personal. 
+  
+ Estimación de la demanda futura de personal, basada en: 
+- La cartera de inversiones a corto, mediano y largo plazo, considerando infraestructura y 
+equipamiento. 
+- Aspectos organizacionales, incluyendo el modelo de gestión. 
+- Proyecciones de producción asistencial esperada. 
+  
+ Determinación inicial de la brecha de RHS durante la etapa de estudio de preinversión hospitalaria. 
+  
+ Actualización de la demanda y de la brecha de RHS en la fase de puesta en marcha, especialmente 
+en proyectos hospitalarios de gran envergadura. 
+De acuerdo con lo anterior, los resultados que se presentan en este informe corresponden a las brechas 
+detectadas en las evaluaciones realizadas por el módulo de Recursos Humanos de proyectos de inversión 
+hospitalaria. Se incluyen proyectos que se encuentran en las etapas de diseño y ejecución de obras, y, en 
+caso de persistir brechas no cubiertas, también aquellos que ya se encuentran en operación. 
+Asimismo, se incorporan las brechas estimadas en el marco de otras iniciativas de inversión asociadas a 
+prioridades sanitarias, tales como el Plan Nacional de Cáncer y el área de Salud Mental (COSAM). 
+Es importante destacar que, conforme avanza el ciclo de vida de los proyectos de la Cartera Nacional de 
+Inversiones —desde su etapa de diseño hasta la ejecución de obras — los resultados se actualizan 
+anualmente, permitiendo un monitoreo continuo. 
+En cuanto a la proyección de brechas de RHS al año 203 5, considerando cartera de inversiones y las 
+líneas programáticas prioritarias, se estima que serán necesarios más de 46.000 jornadas completas 
+equivalentes, según regímenes estatutarios. Este requerimiento responde a la entrada en operación de 
+importantes proyectos de inversión hospitalaria, entre los cuales destacan: 
+Reposición del Hospital del Salvador e Instituto Nacional de Geriatría. 
+Construcción del Hospital Provincia Cordillera – Puente Alto. 
+6 
+ 
+- Reposición del Instituto de Neurocirugía Dr. Alfonso Asenjo. 
+- Normalización del Hospital Barros Luco Trudeau. 
+- Normalización del Instituto Nacional del Cáncer. 
+- Construcción del Hospital Zona Norte – Región Metropolitana. 
+- Reposición del Complejo Asistencial Dr. Sótero del Río. 
+- Normalización Hospitales de Cauquenes, Parral y Constitución. 
+- Normalización Hospital de Erminda Martín de Chillán. 
+- Construcción Hospital de Puerto Varas. 
+- Normalización Hospital de Ancud. 
+En este contexto, y considerando la importancia de contar con el personal de salud requerido para asegurar 
+la correcta implementación de los proyectos hospitalarios, la actualización anual de estas brechas 
+constituye un insumo estratégico para el desarrollo del Programa de Formación de Espec ialistas y los 
+respectivos procesos de formulación presupuestaria. 
+Las fuentes de información utilizadas para estimar las brechas de personal fueron: 
+- Registro Nacional de Prestadores Individuales (Superintendencia de Salud – SIS). 
+- Sistema de Información de Recursos Humanos (SIRH). 
+- Base Modo APS División de Atención Primaria. 
+- Evaluaciones de requerimientos de recursos humanos de los proyectos en cartera de inversión , 
+cuyas estimaciones se encuentran sustentadas conforme a cartera de servicios, producciones, 
+equipamiento y modelo de gestión estimado, entre otros. 
+ 
+ 
+GLOSA 01, letra d) 
+ 
+“Antes del 30 de junio de 2025, el Ministerio de Salud deberá enviar a la Comisión Especial Mixta de 
+Presupuestos, y publicar en su página web, un informe sobre brechas de personal de salud por Servicio 
+de Salud y especialidad, que justifique los recursos asignados al Programa de Formación de Especialistas. 
+En este informe se deberá incluir a los profesionales médicos, a los profesionales no médicos, a los 
+técnico-profesionales y a los técnicos.” 
+  
+7 
+ 
+2. ELEMENTOS DE CONTEXTO. 
+Es importante tener presente que los factores que influyen en los desequilibrios entre la oferta y la 
+demanda de personal en salud son diversos, múltiples y de naturaleza dinámica. En este contexto, el 
+presente capítulo entrega una caracterización de la oferta de personal —es decir, la disponibilidad de 
+Recursos Humanos en Salud (RHS)— tanto a nivel nacional como en la red asistencial pública. 
+2.1. Personal de salud a escala nacional 
+Este capítulo aborda el u niverso de profesionales y técnicos de la salud habilitados para ejercer su 
+profesión en el país. Para ello, se utiliza como fuente principal el Registro Nacional de Prestadores 
+Individuales (RNPI) de la Superintendencia de Salud (SIS), cuya base de datos contiene información 
+actualizada sobre los profesionales y técnicos que han completado su registro, incluyendo a los nuevos 
+titulados de las carreras del área de la salud, así como las especialidades y subespecialidades certificadas 
+en el caso de los profesionales de medicina, odontología, bioquímica y química y farmacia. 
+El RNPI -SIS constituye un avance significativo para dimensionar el total de profesionales y técnicos 
+habilitados para ejercer tanto en el sector público como privado. No obstante, esta fue nte no permite 
+identificar si dichos profesionales se encuentran actualmente activos en el ejercicio de su profesión , ni 
+tampoco la región específica en que dichos profesionales ejercen. 
+2.2. Evolución del Registro Nacional de Prestadores Individuales. 
+Los análisis presentados se basan en los registros disponibles a diciembre de 2024. En el período 2019–
+2024, el número de profesionales y técnicos registrados aumentó de 598.230 a 846.679 lo que representa 
+un incremento acumulado del 41.5% y una variación interanual promedio de 7,3%. 
+Gráfico 1. Número de Profesionales y Técnicos con RNPI a nivel nacional período 2019-2024. 
+ 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) y Gestión de la Información a partir de la Base Reg istro Nacional de Prestadores 
+Individuales - SIS diciembre años 2019 a 2024. 
+2.2.1. Evolución de Médicos en el Registro Nacional de Prestadores Individuales. 
+Se registra un aumento de un 33.32% en el número total de médicos con registro entre 2019 y 2024, lo 
+que representa una expansión significativa de la fuerza laboral médica, en sintonía con las necesidades 
+crecientes del sistema de salud. Este crecimiento ha sido sostenido tanto en médicos con y sin 
+especialidad, siendo mayor en términos porcentuales en estos últimos, tal como se muestra en la tabla 
+siguiente: 
+598,230 
+636,229 
+686,447 
+738,431 
+792,507 
+846,679 
+2019 2020 2021 2022 2023 2024
+N° DE PERSONAS CON REGISTRO
+AÑOS
+8 
+ 
+Tabla 1. Profesionales Médicos a Nivel Nacional (RNPI), período 2019 – 2024. 
+Categoría 2019 2020 2021 2022 2023 2024 Variación 
+2019 - 2023 
+Médicos con especialidad 26.600 28.186 29.803 31.491 33.031 34.783 30,76% 
+Médicos sin especialidad 25.145 26.009 28.148 30.652 32.503 34.203 36,02% 
+Total 51.745 54.196 57.952 62.143 65.534 68.986 33,32% 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) y Gestión de la Información a partir de la Base Reg istro Nacional 
+de Prestadores Individuales - SIS diciembre 2019, diciembre 2020, diciembre 2021, diciembre 2022, diciembre 2023 y diciembre 2024.  
+Este escenario refuerza la importancia de políticas públicas orientadas a la formación de especialistas y a 
+la planificación estratégica de Recursos Humanos en Salud en el corto, mediano y largo plazo. 
+ 
+2.2.2. Distribución por sexo y edad de personal de salud en Registro Nacional de 
+Prestadores Individuales. 
+A diciembre de 2024, el Registro Nacional de Prestadores Individuales (RNPI) de la Superintendencia de 
+Salud contabiliza un total de 846.679 personas habilitadas para ejercer funciones en el ámbito de la salud 
+en el país. Esta cifra incluye a profesionales, técnicos y auxiliares de distintos niveles de formación, tanto 
+del sector público como privado. 
+Del total registrado, 645.909 personas corresponden a mujeres (76%) y 200.770 a hombres (23%), lo que 
+refleja la  fuerte feminización del recurso humano en salud, tendencia que se  visualiza de manera 
+consistente en la mayoría de los grupos profesionales, tal como puede observarse en la siguiente tabla: 
+  
+9 
+ 
+Tabla 2. Profesionales y Técnicos con RNPI a nivel nacional según sexo, año 2024 
+Grupo habilitación Femenino Masculino Total N° de 
+Personas 
+Auxiliares en Salud 35.553 9.626 45.179 
+Bioquímicos 2.500 2.168 4.668 
+Cirujanos Dentistas 20.810 14.014 34.824 
+Enfermera/Matrona 3.056 145 3.201 
+Enfermeros 76.923 13.099 90.022 
+Farmacéuticos y Químico 
+Farmacéuticos 9.186 6.161 15.347 
+Fonoaudiólogos 20.319 2.921 23.240 
+Kinesiólogos 24.722 20.416 45.138 
+Matrones 19.755 1.500 21.255 
+Médicos Cirujanos 31.744 37.242 68.986 
+Nutricionistas 25.825 2.870 28.695 
+Otros Profesionales (*) 9.920 1.658 11.578 
+Psicólogos 68.055 25.395 93.450 
+Técnicos de Nivel Medio en Salud 37.161 10.648 47.809 
+Técnicos de Nivel Superior en Salud 229.697 40.393 270.090 
+Tecnólogos Médicos 15.057 9.803 24.860 
+Terapeutas Ocupacionales 15.626 2.711 18.337 
+Total general 645.909 200.770 846.679 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) y Gestión de la Información a partir de la Base 
+Registro Nacional de Prestadores Individuales - SIS diciembre 2024. 
+Los grupos con mayor volumen de personas habilitadas son los siguientes: 
+ Técnicos de Nivel Superior en Salud: 270.090 personas (32% del total). 
+ Enfermeros/as: 90.022 (11% del total). 
+ Psicólogos/as: 93.450 (11% del total). 
+ Médicos cirujanos: 68.986 (8% del total). 
+ Técnicos de Nivel Medio en Salud: 47.809 (6% del total). 
+ Kinesiólogos/as: 45.138 (5% del total). 
+Estos grupos representan pilares del funcionamiento operativo del sistema sanitario, para la entrega de 
+las prestaciones de salud en todos los niveles del sistema. 
+En cuanto a la distribución por sexo y edad, el recurso humano en salud en Chile presenta una estructura 
+joven y altamente feminizada, concentrada principalmente entre los 26 y 40 años, como se visualiza en el 
+gráfico siguiente: 
+10 
+ 
+Gráfico 2. Distribución según sexo y edad Profesionales y Técnicos con RNPI a nivel nacional, año 2024 
+ 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) y Gestión de la Información a partir de la Base 
+Registro Nacional de Prestadores Individuales - SIS diciembre 2024. 
+Los tramos de edad entre los 26 y 40 años  concentran la mayor cantidad de personas habilitadas para 
+ejercer: 
+ 26–30 años: 185.663 personas. 
+ 31–35 años: 181.254 personas. 
+ 36–40 años: 112.624 personas. 
+Esta distribución indica que el recurso humano en salud es relativamente joven, lo que representa una 
+ventaja en términos de renovación generacional, pero también plantea desafíos para la retención y 
+formación continua. Asimismo, a partir de los 45 años, la cantidad de profesionales y técnicos habilitados 
+comienza a disminuir de forma constante, lo que es esperable dada la cercanía con la edad de jubilación 
+o transición a otras funciones. 
+ 
+2.2.3. Distribución del Personal de Salud según nacionalidad y país de origen - 
+Registro Nacional de Prestadores Individuales. 
+Otro aspecto relevante en el análisis del recurso humano en salud corresponde a la nacionalidad y país 
+de titulación. Al año 2024, el 4% del total de profesionales y técnicos en salud —equivalente a 3 4.722 
+personas— posee nacionalidad extranjera. En comparación con el mismo per íodo del año anterior, esta 
+cifra representa un incremento del 6%, correspondiente a 2.081 nuevos registros de personal extranjero 
+en el sistema. 
+995 
+10,415 
+40,540 
+42,492 
+28,080 
+23,143 
+14,124 
+10,109 
+8,580 
+7,572 
+5,964 
+4,257 
+2,404 
+2,095 
+4,695
+53,411
+145,123
+138,762
+84,481
+67,810
+42,625
+31,500
+23,872
+19,645
+15,157
+11,366
+4,291
+3,171
+100,000 50,000 0 50,000 100,000 150,000 200,000
+20 o menos
+21-25
+26-30
+31-35
+36-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80 o más
+Número de personas
+Rango Etario
+Masculino Femenino
+11 
+ 
+Cabe destacar que el 96% de este contingente proviene de países de la Región de las Américas, siendo 
+los principales países de origen los siguientes: 
+Gráfico 3. Personal de Salud a nivel nacional – SIS, con nacionalidad de origen en la región de las Américas 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) y Gestión de la Informa ción a partir de la Base 
+Registro Nacional de Prestadores Individuales - SIS diciembre 2024.  
+De estos países destacan Venezuela, Colombia y Ecuador que en conjunto concentran el 72% del total de 
+personal de salud extranjero en el país (23.874). 
+En cuanto a  las profesiones, el mayor número de registros en el Registro Nacional de Prestadores 
+Individuales (RNPI) corresponde a médicos/as cirujanos, con un total de 16.675 profesionales provenientes 
+de estas nacionalidades, que equivale a un 58%  en el Registro. Le siguen los/as cirujanos/as dentistas, 
+con 2.971 profesionales registrados, que representan un 8.6% en el Registro. 
+Desde la perspectiva del país de titulación, se observa que un 3% del personal de salud inscrito en el 
+Registro Nacional de Prestadores Individuales (RNPI) cursó sus estudios de pregrado en el extranjero, lo 
+que equivale a 29.614 personas.   
+La mayoría de estas titulaciones fueron obtenidas en países de América y Europa, destacando 
+significativamente la región de las Américas, desde donde pro viene el 88% de los títulos extranjeros. 
+Particularmente, Venezuela (31%), Colombia (25%), Ecuador (18%), Cuba (8%) y Argentina (6%) 
+concentran el mayor número de profesionales titulados en el exterior , tal como se muestra en el gráfico 
+siguiente: 
+10,199 
+8,524 
+5,151 
+3,102 
+1,743 
+1,313 1,200 
+490 448 429 
+115 110 93 73 54 41 40 40 29 28 17 4 1 1 1 1 1 
+N° de Personas
+Nacionalidad
+12 
+ 
+Gráfico 4. Personal de Salud a nivel nacional – SIS, con país de titulación en la región de las Américas 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) y Gestión de la Información a partir de la Base 
+Registro Nacional de Prestadores Individuales - SIS diciembre 2024. 
+Dentro de este grupo, 19.056 personas corresponden a médicos/as cirujanos, lo que evidencia la alta 
+representación de esta profesión entre los titulados en el extranjero. Este fenómeno constituye un aporte 
+relevante para el funcionamiento del sistema de salud chileno, especialmente en escenarios de alta 
+demanda asistencial y brechas de cobertura territorial. 
+En cuanto a las regiones de Europa, Asia, Oceanía y África, el mayor número de profesionales y técnicos 
+han desarrollado sus estudios en España (44%), seguidos por Alemania (12%) y Rusia (10%), tal como se 
+aprecia en el gráfico siguiente: 
+8,855 
+7,297 
+5,289 
+2,213 1,851 
+1,159 
+733 558 463 
+90 85 42 41 40 28 28 19 18 14 7 2 1 
+N° de Personas
+País de Titulación
+13 
+ 
+Gráfico 5. Personal de Salud a nivel nacional – SIS, con país de titulación en Europa, Asia, Oceanía y África 
+ 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) y Gestión de la Información a partir de la Base 
+Registro Nacional de Prestadores Individuales - SIS diciembre 2024. 
+ 
+2.3. Dotación de personal en la red pública 
+La Red Asistencial Pública de Salud está conformada por el conjunto de establecimientos asistenciales 
+públicos que integran los Servicios de Salud, los establecimientos municipales de atención primaria (APS), 
+y otros establecimientos que mantienen convenios vigentes con los Servicios de Salud para la ejecución 
+de acciones sanitarias. Esta red debe funcionar de manera coordinada y complementaria entre los distintos 
+Servicios de Salud y con otras entidades públicas o privadas pertinentes. 
+A diciembre de 2024, la dotación total de personal que compone la red de Servicios de Salud y la Atención 
+Primaria Municipal alcanza a 329.209 personas, que se distribuyen de acuerdo con el detalle de la tabla 
+siguiente: 
+Tabla 3. Dotación de Personal en la Red Pública de Salud, año 2024 
+Nivel de Atención Dotación N° de Personas 
+Servicios de Salud 
+Dotación efectiva 179.868 
+Fuera de dotación 10.467 
+Suplencias y Reemplazos 21.072 
+Subtotal 211.407 
+APS Municipal 
+Ley 19.378 100.588 
+Honorario 16.594 
+Código del trabajo 620 
+Subtotal 117.802 
+Total personas 329.209 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos ( RHS) a partir de la Base Matriz D – 
+Dotación Efectiva, Matriz H – Fuera de Dotación y Matriz S – Suplencias y Reemplazos, diciembre 2024.  Base 
+Modo APS provista por DIVAP, diciembre 2024. 
+ 
+347 
+94 79 
+42 32 22 18 18 18 13 12 9 8 7 3 3 3 2 2 2 2 2 1 1 1 1 1 1 1 1 1 8 3 2 2 2 1 1 1 1 6 2 1 2 1 1 
+España
+Alemania
+Rusia
+Francia
+Italia
+Bélgica
+Suiza
+Rumania
+Ucrania
+Inglaterra
+suecia
+Holanda
+Hungría
+Bulgaria
+República Checa
+Portugal
+Dinamarca
+Bielorrusia
+ReinoUnido
+Austria
+Letonia
+Moldavia
+Finlandia
+Andorra
+Gales
+Gran Bretaña
+Noruega
+Yugoeslavia
+Países Bajos
+Polonia
+Eslovaquía
+Siria
+israel
+Uzbekistán
+India
+Filipinas
+Taiwan
+Palestina
+Jordania
+China
+Australia
+Nueva Zelanda
+Nueva Zelandia
+Egipto
+Sudáfrica
+Argelia
+Europa Asia Oceanía África
+Númerp de Personas
+País de Titulación 
+14 
+ 
+De la dotación de los Servicios de Salud, 2.085 se desempeñan, además, en establecimientos de Atención 
+Primaria. 
+En el período 2019 -2024, la dotación efectiva del Sector registra un incremento de 39,2%, tal como se  
+muestra en la tabla siguiente , lo que evidencia el esfuerzo por mejorar el acceso y cobertura de salud 
+otorgado a la población.  
+Tabla 4. Variación de la Dotación de Personal en la Red Pública de Salud, período 2019 – 2024 
+Categoría Año 2019 Año 2024 Variación % 
+Dotación funcionarios Servicios de Salud 131.560 179.868 36,7% 
+Dotación funcionarios APS Municipal 70.266 101.170 44,0% 
+Total dotación personas 201.826 281.038 39,2% 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) a partir de la 
+Base Matriz D – Dotación Efectiva (titular y contrata) y Base ModoAPS  provista por DIVAP 
+(contratos Ley 19.378), diciembre 2024.  
+ 
+2.4. Distribución de la dotación por sexo y edad. 
+La estructura etaria del Sector Público de Salud, distribuida por sexo, presenta la misma tendencia que la 
+distribución a nivel que a nivel nacional, es joven y altamente feminizada, concentrada principalmente entre 
+los 26 y 40 años, como se visualiza en el gráfico siguiente: 
+Gráfico 6 Distribución Personal Sector Público de Salud (Servicios de Salud + APS Municipal), según sexo y edad, año 2024 
+Fuente: 
+Elaboración propia Depto. Planificación de Recursos Humanos (RHS) a partir de la Base Matriz D – Dotación Efectiva, Matriz H – Fuera de Dotación y Matriz S – 
+Suplencias y Reemplazos y Base Modo APS provista por DIVAP, diciembre  2024. 
+Esto indica que el recurso humano en salud es relativamente joven, lo que representa una ventaja en 
+términos de renovación generacional, pero también plantea desafíos para la retención y formación 
+345
+3,926
+14,140
+19,867
+13,540
+12,105
+8,393
+7,124
+6,834
+6,313
+2,610
+737
+235
+29
+656 
+12,176 
+39,979 
+51,052 
+33,460 
+30,511 
+21,634 
+18,309 
+14,614 
+8,227 
+1,781 
+507 
+94 
+11 
+30,000 20,000 10,000 0 10,000 20,000 30,000 40,000 50,000 60,000
+20 o menos
+21-25
+26-30
+31-35
+36-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80 o más
+Número de Personas
+Rango Etario
+Masculino Femenino
+15 
+ 
+continua. Asimismo, a partir de los 45 años, la cantidad de profesionales y técnicos habilitados comienza 
+a disminuir de forma constante. 
+Esta configuración permite planificar estrategias de retención, formación especializada y desarrollo 
+profesional con una visión de largo plazo. La progresiva disminuc ión en edades mayores refuerza la 
+importancia de políticas de recambio generacional, especialmente en especialidades críticas. 
+2.4.1. Dotación personal en Servicios de Salud. 
+La dotación de personal de los Servicios de Salud, que constituye la oferta efectiva de Recursos Humanos 
+en Salud (RHS) disponible en la Red Asistencial Pública, se determina a partir de la información registrada 
+en el Sistema de Información de Recursos Humanos (SIRH), el cual representa la fuente oficial para este 
+fin. 
+Al analizar la evoluci ón de la dotación de cargos en el periodo 2019 –2024, se observa una variación 
+interanual positiva sostenida, con un crecimiento promedio anual de 6%. El mayor incremento porcentual 
+se observa en Ley 15.076, donde en el periodo, en promedio se ha incrementado en 6.5%.  
+Gráfico 7. Evolución anual en cargos de dotación efectiva (titular y contrata), 2019-2024 
+ 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) a partir de la Base Ma triz D – 
+Dotación Efectiva (titular y contrata), diciembre 2029 -2024 
+ 
+ 
+5,913 6,352 6,763 7,425 7,707 8,097 
+24,805 25,995 27,420 28,673 30,279 31,599 
+110,449 115,506 
+122,281 
+130,873 
+140,016 
+149,602 
+A Ñ O  2 0 1 9 A Ñ O  2 0 2 0 A Ñ O  2 0 2 1 A Ñ O  2 0 2 2 A Ñ O  2 0 2 3 A Ñ O  2 0 2 4
+CARGOS TITULAR Y CONTRATA
+AÑOS
+Ley 15.076 Ley 19.664 Ley 18.834
+16 
+ 
+A diciembre de 2024, se reporta una dotación efectiva de 1 79.868 personas, más 10.467 personas en 
+cargos fuera de dotación (Honorarios suma alzada, liberados de guardia), en conjunto constituyen una 
+fuerza laboral de 190.335 personas. 
+Esta dotación se distribuye principalmente en tres plantas: 
+ Profesionales: 31%. 
+ Técnicos: 30%. 
+ Médicos: 18%. 
+Estos tres grupos representan el 79% del total del personal en la Red Asistencial, conformando el núcleo 
+operativo esencial del sistema público de salud. 
+Adicionalmente, si se considera la dotación efectiva en términos de cargos asignados  a los 
+establecimientos de los Servicios de Salud se contabiliza un total de 189.298 cargos en calidad de contrata 
+o titular a diciembre 2024.   
+Tabla 5. Número de Cargos asignados a los Servicios de Salud según ley estatutaria y plantas a diciembre de 
+2024 
+Ley / Planta Contrata Titular Dotación de 
+cargos 
+Ley 15.076 7.899 198 8.097 
+Médicos 7.786 189 7.975 
+Odontólogos 71 9 80 
+Químicos y Farmacéuticos 42 0 42 
+Ley 18.834 107.262 42.379 149.641 
+Directivos 1 222 223 
+Profesionales 44.364 14.099 58.463 
+Administrativos 12.715 5.089 17.804 
+Auxiliares 12.587 6.378 18.965 
+Técnicos 37.595 16.591 54.186 
+Ley 19.664 29.575 1.985 31.560 
+Médicos 24.690 1.529 26.219 
+Odontólogos 3.137 354 3.491 
+Bioquímicos 280 14 294 
+Químicos y Farmacéuticos 1.468 88 1.556 
+Total general 144.736 44.562 189.298 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) a partir de la Base Matriz D – Dotación Efectiva 
+(titular y contrata), diciembre 2024  
+Se observa que el 2 3,5% corresponde a cargos en calidad jurídica de titular, en tanto un 7 6,5% 
+corresponde a personal a contrata. 
+El mayor número de cargos corresponden a los contratados bajo Ley 18.834 abarcando el 7 9,1% de la 
+dotación efectiva total. En proporción similar a la distribución por planta en número de personas, el mayor 
+porcentaje de cargos corresponden a la planta profesional con un 30,9% del total y a la planta técnica con 
+un 28,6% del total de cargos.    
+Respecto de la distribución según duración de jornada, el mayor número corresponde a jornada laboral de 
+44 horas semanales, correspondiente a 159.172 cargos, equivalente al 84,1% de la dotación. Le siguen 
+los cargos en jornadas de 22 horas semanales, correspondientes a 14.579 cargos, equivalentes al 7,7% 
+del total.  
+17 
+ 
+Tabla 6. Número de Cargos de personal de los Servicios de Salud según jornada semanal, diciembre 2024 
+Planta 
+N cargos según jornada semanal Total horas 
+semanales 
+Jornada 
+Completa 
+Equivalente 11 22 33 44 28 
+Médicos 5.016 12.048 1.339 7.816 7.975 931.623 24.073,25 
+Odontólogos 627 1.305 242 1.317 80 103.781 2.387,75 
+Bioquímicos 47 57 22 168 - 9.889 224,75 
+Químicos y Farmacéuticos 103 266 42 1.145 42 59.927 1.377,25 
+Profesionales - 902 12 57.549 - 2.552.396 58.009,00 
+Técnicos - - - 54.186 - 2.384.184 54.186,00 
+Administrativos - 1 - 17.803 - 783.354 17.803,50 
+Auxiliares - - - 18.965 - 834.460 18.965,00 
+Directivos - - - 223 - 9.812 223,00 
+Total 5.793 14.579 1.657 159.172 8.097 7.669.426 177.249,50 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) a partir de la Base Matriz D  – Dotación Efectiva 
+(titular y contrata), diciembre 2024  
+A nivel nacional, la dotación efectiva de 189.298 cargos, bajo modalidad de contrata y titulares, se traducen 
+en una disponibilidad de 7.669 .426 horas semanales de personal , lo que  corresponde a 177.249,50 
+Jornadas Completas Equivalentes (JCE). En el caso de Ley N°18.834 y N°19.664 una jornada completa 
+equivale a 44 horas semanales, y en el caso del personal contratado bajo Ley N°15.076, es de 28 horas 
+semanales, en sistemas rotativos de turnos, para la atención en 24 horas. 
+De acuerdo con la distribución de Jornadas Completa Equivalentes (JCE) por Servicio de Salud, el 30,8% 
+se encuentra en los establecimientos de la Región Metropolitana, o macro región centro. De este grupo, 
+el Servicio de Salud Metropolitano Sur Oriente registra el mayor número con 11.126 jornadas. En segundo 
+lugar, se ubica la macro región Extremo Sur concentrando el 1 8% (31.836,00) de las jornadas, siendo el 
+Servicio Araucanía Sur el que concentra mayor número, 9.541,75 JCE.  
+Tabla 7. Número jornadas completas equivalentes de dotación de personal (titular y contrata) según 
+Servicios de Salud y ley contractual, diciembre de 2024 
+Servicio de Salud Ley 15.076 Ley 18.834 Ley 19.664 Total JCE 
+S.S. Arica y Parinacota 91,00 1.890,50 310,75 2.292,25 
+S.S. Tarapacá 207,00 3.653,00 433,25 4.293,25 
+S.S. Antofagasta 282,00 4.789,00 624,75 5.695,75 
+S.S. Atacama 127,00 2.426,75 393,00 2.946,75 
+S.S. Coquimbo 313,00 7.144,00 892,75 8.349,75 
+S.S. Valparaíso-San 
+Antonio 314,00 5.433,00 673,25 6.420,25 
+S.S. Viña del Mar-Quillota 471,00 7.916,50 927,25 9.314,75 
+S.S. Aconcagua 149,00 2.943,00 307,00 3.399,00 
+S.S. O'Higgins 319,00 7.063,50 778,75 8.161,25 
+S.S. Maule 440,00 8.477,50 1.067,50 9.985,00 
+S.S. Ñuble 207,00 4.691,50 707,00 5.605,50 
+S.S. Concepción 288,00 6.968,00 919,00 8.175,00 
+S.S. Arauco 47,00 2.482,00 386,00 2.915,00 
+S.S. Talcahuano 187,00 3.787,50 582,75 4.557,25 
+S.S. Biobío 173,00 4.085,75 607,50 4.866,25 
+S.S. Araucanía Norte 96,00 3.373,00 463,00 3.932,00 
+S.S. Araucanía Sur 372,00 7.953,00 1.216,75 9.541,75 
+S.S. Los Ríos 156,00 4.045,50 616,50 4.818,00 
+S.S. Osorno 131,00 2.900,00 408,50 3.439,50 
+18 
+ 
+Servicio de Salud Ley 15.076 Ley 18.834 Ley 19.664 Total JCE 
+S.S. Del Reloncaví 227,00 4.272,75 711,75 5.211,50 
+S.S. Chiloé 120,00 2.383,00 355,00 2.858,00 
+S.S. Aysén 115,00 2.552,25 401,25 3.068,50 
+S.S. Magallanes 102,00 2.463,00 333,75 2.898,75 
+S.S. Met. Oriente 511,00 7.434,25 966,75 8.912,00 
+S.S. Met. Central 512,00 8.658,25 920,75 10.091,00 
+S.S. Met. Sur 468,00 6.430,50 951,75 7.850,25 
+S.S. Met. Norte 312,00 5.607,50 718,75 6.638,25 
+S.S. Met. Occidente 644,00 8.191,00 1.052,00 9.887,00 
+S.S. Met. Sur Oriente 716,00 9.171,00 1.239,00 11.126,00 
+Total JCE 8.097,00 149.186,50 19.966,00 177.249,50 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) a partir de la Base Matriz D – Dotación 
+Efectiva (titular y contrata), diciembre 2024  
+El estamento médico registra un total de 24.073,25 JCE. En el siguiente gráfico se puede observar la 
+distribución por Servicio de Salud. En concordancia con lo observado previamente, el mayor número de 
+JCE de médicos está en el Servicio de Salud Metropolitano Sur Oriente, con 1.803,75 jornadas, equivalente 
+a un 7,5% del total nacional.  
+Gráfico 8. Número jornadas completas equivalentes personal médico de dotación de personal (titular y 
+contrata) según Servicios de Salud, diciembre de 2024 
+ 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) a partir de la Base Matriz D – Dotación 
+Efectiva (titular y contrata), diciembre 2024  
+ 
+ 
+ 
+343.25 
+540.00 
+776.25 
+436.75 
+1,038.00 
+833.75 
+1,227.25 
+380.25 
+945.00 
+1,329.75 
+755.25 
+1,008.75 
+329.25 
+647.50 
+640.50 
+460.00 
+1,375.50 
+654.25 
+448.25 
+795.25 
+388.75 
+406.00 
+370.50 
+1,282.50 
+1,183.75 
+1,280.25 
+884.75 
+1,508.25 
+1,803.75 
+JORNADAS COMPLETAS EQUIVALENTES
+SERVICIOS DE SALUD
+19 
+ 
+2.5. Densidad del Equipo Nuclear de Salud en la Red Servicios de Salud. 
+Como parte de los compromisos asumidos por el país para el logro del acceso y cobertura universal de 
+salud, en el marco de las Metas de Desarrollo Sostenible (Agenda 2030), se realizan mediciones en 
+materia de disponibilidad y distribución de personal de s alud, en que se aborda la densidad del equipo 
+nuclear que se conforma por médicos, profesionales de enfermería y matronería. La meta establecida en 
+este contexto por la Organización Mundial de la Salud y la Organización Panamericana de la salud (OMS-
+OPS), es alcanzar un mínimo de 44,5 profesionales nucleares por 10.000 habitantes. Considerando la alta 
+concentración de la población en el Sistema Público de Salud, la medición se realiza respecto de la 
+población beneficiaria de FONASA.  
+El gráfico presentado a continuación muestra la densidad del equipo nuclear de Salud (médico, enfermera, 
+matrona) por cada 10.000 beneficiarios de F ONASA en los distintos Servicios de Salud del país, 
+comparando año base (2013), 2023 y 2024: 
+Gráfico 9. Densidad Equipo Nuclear por 10.000 habitantes FONASA 
+ 
+Fuente: Elaboración propia Depto. Planificación de Recursos Humanos (RHS) a partir de la Base Matriz D – Dotación Efectiva, 
+Matriz H – Fuera de Dotación y Matriz S – Suplencias y Reemplazos y Base ModoAPS provista por DIVAP, diciembre 2024.  
+En comparación con diciembre de 2013, se evidencia un aumento generalizado en la densidad de RHS en 
+la mayoría de los Servicios de Salud, lo que refleja un fortalecimiento sostenido de la dotación de personal 
+en la Red Asistencial Pública. 
+También se evidencia la p ersistencia de desigualdades territoriales , pese a los avances. Se observan 
+Servicios de Salud que superan ampliamente el promedio nacional, como Magallanes y Aysén, lo que se 
+explica por la baja densidad de habitantes de esas regiones.  En contraste, otros  Servicios presentan 
+densidades por debajo del promedio nacional, entre ellos: Atacama, O’Higgins, Maule, M. Sur, M. Norte y 
+M. Occidente.  
+ -
+ 20.0
+ 40.0
+ 60.0
+ 80.0
+ 100.0
+ 120.0
+Arica
+Tarapacá
+Antofagasta
+Atacama
+Coquimbo
+Valparaiso
+Viña Del Mar
+Aconcagua
+O'Higgins
+Maule
+Ñuble
+Concepcion
+Arauco
+Talcahuano
+Bio-Bio
+Araucania N
+Araucania S
+Los Ríos
+Osorno
+Reloncaví
+Chiloé
+Aysén
+Magallanes
+M. Oriente
+M. Central
+M. Sur
+M. Norte
+M. Occidente
+M. S. Oriente
+Densidad por 10.000 beneficiarios Fonasa
+Servicios de Salud
+Densidad diciembre 2024 Promedio país dic. 2024 Densidad dic 2013
+52,17 
+Densidad 
+país 2024 
+24,82 
+Densidad 
+país 2013 
+20 
+ 
+Si bien los datos reflejan una evolución positiva en la disponibilidad de personal de salud en la red pública, 
+persisten importantes brechas entre territorios. Estos hallazgos refuerzan la necesidad de continuar 
+avanzando en estrategias orientadas a la redistribución equitativa del recurso humano, especialmente en 
+aquellos Servicios de Salud con densidades por debajo del promedio nacional, garantizando así un acceso 
+más justo y oportuno a la atención en salud para toda la población. 
+  
+21 
+ 
+3. BRECHAS DE PERSONAL EN SERVICIOS DE SALUD . 
+En este capítulo se presentan los resultados correspondientes a las estimaciones de brechas de personal 
+derivadas del Programa Puesta en Marcha, que contempla los proyectos e iniciativas agrupadas en tres 
+componentes: 
+1. Plan Nacional de Inversiones: normalización de establecimientos hospitalarios. 
+2. Plan Nacional de Cáncer 
+3. Plan Nacional de Salud Mental: habilitación y construcción de Centros de Salud Mental Comunitaria 
+(COSAM). 
+Estos resultados reflejan los requerimientos de nuevos cargos o puestos de trabajo necesarios para la 
+puesta en marcha y adecuada operación de los distintos proyectos de inversión , que se expresan en 
+jornadas completas equivalentes (JCE), que para la Ley N°18.834 y N°19.664 son equivalentes a cargos 
+de 44 horas semanales y para la Ley N°15.076, corresponden a jornadas de 28 horas semanales para la 
+atención en 24 horas. Es importante destacar que la gestión presupuestaria para la expansión de dotación 
+se realiza de manera anual, en concordancia con la programación del inicio de operaciones de cada 
+iniciativa. En el caso de los proyectos hospitalarios, esta planificación se extiende por el decenio hasta el 
+año 2035. 
+Dado que los análisis de brechas constituyen un proceso continuo y anual, los resultados expuestos son 
+actualizados regularmente. Estas actualizaciones consideran la incorporación de nuevos proyectos a la 
+cartera de inversiones, los avances en su ciclo de vida, así como los cambios en la oferta de personal 
+disponibles, incluyendo movilidad, flujos entre niveles asistenciales y posibles reevaluaciones o ajustes en 
+las definiciones técnicas de cada proyecto.  
+En la tabla siguiente se presentan los resultados agregados de brechas de personal estimadas  para los 
+tres componentes indicados, por ley y estamento , para el decenio 2025 – 2035, que en su conjunto 
+alcanzan a 46.799 jornadas completas equivalentes, de los cuales el 60% corresponde al personal adscrito 
+a la Ley 18.834, Estatuto Administrativo  y el 40% a las leyes médicas, dejando de manifiesto una alta 
+demanda de personal sanitario en áreas clave para el funcionamiento operativo de la red asistencial, lo 
+que refuerza la necesidad de priorizar estrategias de dotación y retención del personal. 
+En Anexo, se detalla esta información por cada Servicio de Salud, permitiendo una visualización territorial 
+y operativa más precisa. 
+Tabla 8. Brecha Estimada de Recursos Humanos – Plan Nacional de 
+Inversiones, 2025-2035 
+Ley Planta Brecha de RRHH 
+(JCE) 
+Ley 15.076 Médicos 3.269,00 
+Odontólogos 31,00 
+Ley 18.834 
+Administrativos 3.465,00 
+Auxiliares 5.433,00 
+Profesionales 14.221,50 
+Técnicos 15.687,00 
+Ley 19.664 
+Bioquímicos 49,00 
+Médicos 3.887,50 
+Odontólogos 309,75 
+Químicos y Farmacéuticos 446,50 
+Total general 46.799,25 
+Fuente: Resultados según evaluación de RRHH Plan Nacional de Inversiones,  
+Departamento de Planificación de RHS - DIGEDEP 
+22 
+ 
+A continuación, se presentan los resultados por cada uno de los componentes analizados, detallando las 
+brechas estimadas por cada una de las leyes contractuales, estamento y especialidad médica. En este 
+último caso, es precis o señalar  que los resultados corresponden a la detección de necesidad de 
+especialistas y no de cargos, considerando que actualmente en la dotación basal existen médicos 
+generales que deben iniciar -dentro de la década- su proceso de formación. 
+  
+23 
+ 
+3.1. Brechas de Personal Plan Nacional de Inversiones - Componente 
+hospitales 
+Las inversiones en salud tienen como propósito central fortalecer la Red Asistencial Pública, mediante la 
+construcción, reposición, mantenimiento y mejoramiento de la infraestructura sanitaria del país.  Estas 
+acciones se desarrollan bajo el principio de equidad territorial, articulando las distintas macrozonas para 
+avanzar en un desarrollo equilibrado, eficiente y alineado con los objetivos de integración y 
+complementación de la red asistencial. 
+La cartera actual de proyectos hospitalarios incluye 61 proyectos con niveles importantes de avance y 49 
+en etapa de estudio, tal como se aprecia en la siguiente figura: 
+Ilustración 1. Estado de la Cartera de Inversiones - Componente Hospitales 
+ 
+Fuente: Web Minsal https://plandeinversionesensalud.minsal.cl 1 
+Estos proyectos, consideran un Módulo de Recursos Humanos cuyo objetivo es identificar la demanda y 
+brecha de dotación requerida para el adecuado funcionamiento de los nuevos establecimientos. Este 
+análisis se basa en la diferencia entre la oferta actual de personal y la demanda futura estimada, 
+considerando aspectos como los nuevos modelos organizacionales, infraestructura, equipamiento, niveles 
+de producción proyectados, entre otras variables. 
+El trabajo del Módulo de Recursos Humanos se desarrolla en tres momentos clave: 
+ Diagnóstico – Oferta actual de personal. 
+ Estimación de la demanda y determinación de brechas. 
+ Actualización de la demanda y brechas, realizada durante la puesta en marcha del establecimiento. 
+Estos procesos permiten fortalecer la planificación y gestión del recurso humano desde una visión integral, 
+aportando a la sostenibilidad operativa de los establecimientos en el tiempo. 
+La estimación total de requerimient os para este componente considera las brechas identificadas en 
+proyectos hospitalarios que cuentan con estudios de preinversión aprobados, o que se encuentran en 
+etapas más avanzadas del ciclo de vida de inversión (diseño, ejecución u operación). Esta esti mación 
+representa el 94 % del total de la brecha y se desglosa por ley y planta en la tabla siguiente: 
+ 
+                                                
+1 https://www.arcgis.com/apps/dashboards/90201d328fc64d01aa1b4f0e1688766d 
+
+24 
+ 
+Tabla 9. Brecha Estimada de Recursos Humanos – Plan Nacional de Inversiones, Componente Hospitales - 
+2025-2035. 
+Ley Planta Brecha en JCE 
+Ley 15.076 
+  
+Médicos 3.251,00 
+Odontólogos 31,00 
+Ley 18.834 
+  
+  
+  
+Administrativos 3.226,00 
+Auxiliares 5.212,00 
+Profesionales 12.865,00 
+Técnicos 14.977,00 
+Ley 19.664 
+  
+  
+  
+Bioquímicos 45,25 
+Médicos 3.584,75 
+Odontólogos 302,75 
+Químicos y 
+Farmacéuticos 379,75 
+Total general 43.874,50 
+Fuente: Resultados según evaluación de RRHH Plan Nacional de Inversiones – Componente Hospitales,  
+Departamento de Planificación de RHS – DIGEDEP. 
+3.1.1. Brechas de Personal Ley 18.834, Estatuto Administrativo. Plan 
+Nacional de Inversiones componente Hospitales. 
+A partir de la estimación de brechas de personal sanitario asociadas a los proyectos de inversión en salud, 
+se identificó una brecha total de 36.277 Jornadas Completas Equivalentes distribuidos en los distintos 
+estamentos de ley 18.834, Estatuto Administrativo . Esta cifra refleja la necesidad crítica de incorporar 
+nuevos recursos humanos para el adecuado funcionamiento de los establecimientos en distintas etapas 
+de ejecución, diseño u operación. 
+Tabla 10. Brecha de Personal Ley 18.834 estimada al año 2035 
+Estamento Brecha de Cargos  
+Profesionales 12.864 
+Enfermería 5.041 
+Profesionales áreas administrativas 1.988 
+Tecnología Médica 1.211 
+Matronería 1.009 
+kinesiología 940 
+Terapia Ocupacional 619 
+Trabajo Social 544 
+Psicología 419 
+Nutrición 385 
+Fonoaudiología 271 
+Profesionales áreas logísticas e industriales 246 
+Educación Parvularia 129 
+Psicopedagogía 38 
+Otros Profesionales áreas apoyo diagnóstico y terapéutico 17 
+Físico Médico 11 
+Técnicos 14.976 
+Técnicos Paramédicos 11.081 
+Técnicos áreas logísticas e industriales 1.992 
+Técnicos áreas administrativas 1.467 
+Otros Técnicos áreas apoyo diagnóstico y terapéutico 358 
+Técnicos en Párvulos 79 
+Administrativos 3.226 
+25 
+ 
+Estamento Brecha de Cargos  
+Administrativo 3.226 
+Auxiliares 5.211 
+Auxiliar 5.018 
+Chofer 193 
+Total general 36.277 
+Fuente: Resultados según evaluación de RRHH Plan Nacional de Inversiones – Componente Hospitales,  
+Departamento de Planificación de RHS – DIGEDEP. 
+El estamento profesional presenta una brecha de 12.864 JCE, concentrándose principalmente en áreas 
+clínicas fundamentales: 
+ Enfermería lidera con 5.041 JCE, representando el 39% del total del estamento, lo que evidencia su 
+rol clave en la continuidad de los cuidados hospitalarios. 
+ Le siguen Tecnología Médica (1.211), Matronería (1.009), Psicología (419) y Terapia Ocupacional 
+(619), lo cual da cuenta de una alta demanda en áreas de diagnóstico, salud mental y rehabilitación. 
+Este déficit impacta directamente en la capacidad de respuesta de los establecimientos ante la demanda 
+asistencial creciente y la complejidad de los servicios. 
+El estamento técnico registra una brecha de 14.976 JCE y concentra la mayor necesidad de personal: 
+ Destaca el dé ficit de Técnicos Paramédicos, con 11.081 JCE, que representa el 74% del total del 
+estamento. Esta cifra refleja su rol esencial en el apoyo clínico de unidades críticas, como urgencias, 
+hospitalización, pabellones y atención primaria. 
+ Otras áreas relevant es incluyen Técnicos en Administración (1.921) y Técnicos en Logística e 
+Industria (1.096), los cuales cumplen funciones estratégicas en la gestión operativa de los recintos de 
+salud. 
+El e stamento administrativo presenta una brecha de 3.226 JCE, vinculad a a funciones de soporte, 
+coordinación, finanzas y gestión. Si bien su magnitud es menor respecto de los estamentos clínicos, su 
+ausencia puede afectar la eficiencia y sostenibilidad administrativa de los establecimientos en expansión 
+o puesta en marcha. 
+Finalmente, el e stamento de auxiliares evidencia un déficit de 5.211 JCE, distribuidos en funciones de 
+apoyo general (5.018) y choferes (193). Este tipo de personal resulta indispensable para mantener las 
+condiciones operativas mínimas, tales como aseo, traslado de pacientes, insumos, alimentos y movilidad 
+interna. 
+Los resultados reflejan una necesidad integral de fortalecimiento de recursos humanos en todos los 
+estamentos del sistema, siendo prioritario abordar las brechas en Enfermería y Técnicos Paramédicos por 
+su impacto directo en la atención clínica. Estas cifras permiten orientar la planificación presupuestaria, las 
+políticas de formación de capital humano, los programas de retención y la distribución equitativa del 
+personal en los diferentes territorio s, promoviendo así una red asistencial con enfoque en equidad 
+territorial. 
+ 
+26 
+ 
+3.1.2. Brechas de Personal Leyes 19.664 – 15.076, Estatutos Médicos. 
+Plan Nacional de Inversiones - Componente Hospitales. 
+Para los profesionales asociados a las leyes médicas, se identificó una brecha total de 7.594,5 jornadas 
+completas equivalentes, de 44 horas semanales para ley 19.664, y a 28 horas en la ley 15.076, cifra que 
+refleja la necesidad crítica de planificar la formación de especialistas e incorporar mecanismos de atracción 
+y retención de estos profesionales. 
+Tabla 11. Brecha de Personal Leyes 19.664-15.076, período 2025 - 2035, en jornadas equivalentes 
+Ley Planta Brecha en 
+JCE  
+Ley 15.076 
+ 
+Médicos 3.251,00 
+Odontólogos 31,00 
+Ley 19.664 
+ 
+Bioquímicos 45,25 
+Médicos 3.584,75 
+Odontólogos 302,75 
+Químicos y 
+Farmacéuticos 379,75 
+Total general 7.594,50 
+Fuente: Fuente: Resultados según evaluación de RRHH Plan Nacional de Inversiones – Componente Hospitales,  
+Departamento de Planificación de RHS – DIGEDEP. 
+El detalle de esta brecha según especialidades primarias y derivadas de profesionales de la medicina se 
+presenta en la tabla siguiente: 
+Tabla 12. Brecha de Personal Leyes 19.664-15.076, período 2025 - 2035, en jornadas equivalentes, Planta de 
+Médicos 
+Planta Cargo / Especialidad Ley 
+19.664 
+Ley 
+15.076 
+Brechas en 
+JCE 
+Médico Anatomía Patológica 107,75 - 107,75 
+Médico Anestesiología 243,00 171,00 414,00 
+Médico Cardiología 111,25 18,00 129,25 
+Médico Cirugía General 274,50 412,00 686,50 
+Médico Cirugía de Cabeza y Cuello y 
+Maxilofacial 19,75 - 19,75 
+Médico Cirugía Cardiovascular 6,75 - 6,75 
+Médico Cirugía de Tórax 7,25 - 7,25 
+Médico Cirugía Plástica y Reparadora 19,50 - 19,50 
+Médico Cirugía pediátrica 33,75 34,00 67,75 
+Médico Cirugía Vascular Periférica 37,50 - 37,50 
+Médico Coloproctología 14,75 - 14,75 
+Médico Dermatología 70,75 - 70,75 
+Médico Diabetología 5,00 - 5,00 
+Médico Endocrinología Adulto 27,25 - 27,25 
+Médico Endocrinología Pediátrica 2,25 - 2,25 
+Médico Enfermedades Respiratorias Adulto 44,75 - 44,75 
+27 
+ 
+Planta Cargo / Especialidad Ley 
+19.664 
+Ley 
+15.076 
+Brechas en 
+JCE 
+Médico Enfermedades Respiratorias 
+Pediátricas 8,25 - 8,25 
+Médico Gastroenterología Adulto 103,75 - 103,75 
+Médico Gastroenterología Pediátrica 1,00 - 1,00 
+Médico Genética Clínica 1,00 - 1,00 
+Médico Geriatría 41,75 39,00 80,75 
+Médico Hematología 53,50 - 53,50 
+Médico Imagenología 170,75 12,00 182,75 
+Médico Infectología 20,25 - 20,25 
+Médico Inmunología 2,50 - 2,50 
+Médico Laboratorio Clínico 12,50 - 12,50 
+Médico Medicina Familiar 31,50 - 31,50 
+Médico Medicina física y rehabilitación 104,25 - 104,25 
+Médico Medicina interna 285,00 778,00 1.063,00 
+Médico Medicina Intensiva Adulto 67,50 527,00 594,50 
+Médico Medicina Intensiva Pediátrica 20,00 112,00 132,00 
+Médico Medicina nuclear 8,75 - 8,75 
+Médico Medicina de Urgencia 28,00 312,00 340,00 
+Médico Nefrología Adulto 58,00 - 58,00 
+Médico Nefrología Pediátrica 3,25 - 3,25 
+Médico Neonatología 24,50 144,00 168,50 
+Médico Neurocirugía 55,00 11,00 66,00 
+Médico Neurología Adulto 82,50 37,00 119,50 
+Médico Neurología Pediátrica 17,50 - 17,50 
+Médico Obstetricia y ginecología 213,25 244,00 457,25 
+Médico Oftalmología 224,75 - 224,75 
+Médico Oncología médica 46,00 - 46,00 
+Médico Otorrinolaringología 143,75 - 143,75 
+Médico Pediatría 39,75 296,00 335,75 
+Médico Psiquiatría Adulto 135,25 12,00 147,25 
+Médico Psiquiatría Pediátrica y de la 
+Adolescencia 48,00 - 48,00 
+Médico Radioterapia Oncológica 21,75 - 21,75 
+Médico Reumatología 24,75 - 24,75 
+Médico Salud Pública 33,00 - 33,00 
+Médico Traumatología y Ortopedia 169,50 80,00 249,50 
+Médico Urología 83,50 - 83,50 
+Médico Cirugía Digestiva 8,75 - 8,75 
+Médico Mastología (Cirugía de mamas) 10,75 - 10,75 
+Médico Medicina Paliativa y de Manejo del 
+Dolor 3,75 - 3,75 
+Médico Microbiología 0,50 - 0,50 
+Médico Neurorradiología 15,00 - 15,00 
+28 
+ 
+Planta Cargo / Especialidad Ley 
+19.664 
+Ley 
+15.076 
+Brechas en 
+JCE 
+Médico Nutrición Clínica 0,25 - 0,25 
+Médico Medicina General 135,75 12,00 147,75 
+Total general 3.584,75 3.251,00 6.835,75 
+Fuente: Fuente: Resultados según evaluación de RRHH Plan Nacional de Inversiones – Componente Hospitales,  
+Departamento de Planificación de RHS  – DIGEDEP. 
+La tabla precedente incluye más de 40 especialidades médicas, evidenciando una necesidad transversal 
+que afecta distintas áreas clínicas, con una distribución similar entre ambas leyes: 52% en la ley 19.664, 
+que contiene las jornadas diurnas y 48% en la ley 15.076, para jornadas en turno.  Es relevante señalar 
+que existen especialida des recientemente reconocidas cuyos requerimientos aún no se encuentran 
+plenamente incorporadas en este análisis, lo que podría implicar una subestimación de la demanda 
+proyectada. 
+  
+29 
+ 
+3.2. Brechas de Personal Iniciativas de Inversión - Plan Nacional de 
+Cáncer. 
+El cáncer en Chile es una de las principales causas de muerte, su abordaje se ha posicionado como uno 
+de los pilares de acción prioritarios para la autoridad de salud, lo que ha llevado a un despliegue de diversas 
+medidas que abordan desde la prevención, el diagnóstico precoz, así como un tratamiento óptimo, integral 
+y eficaz para la enfermedad de cáncer.  
+La continuidad de la atención  se facilita mediante un enfoque dirigido por médicos y basado en equipos 
+profesionales, buscando reducir la fragmentación y mejorar la seguridad y la calidad de la atención que se 
+presta a un mismo paciente por diferentes profesionales en los distintos niveles asistenciales.  
+El seguimiento en medicina es un proceso que consiste en la monitorización continua y evaluación de los 
+pacientes después de diagnósticos iniciales y tratamientos para supervisar el progreso de la enfermedad, 
+la eficacia del tratamiento y la aparición de cualquier efecto secundario o complicación , donde la 
+disponibilidad de personal especializado constituye un factor clave. 
+El desarrollo previsto se encauza hacia el fortalecimiento de la red oncológica en los distintos niveles de 
+atención, que permita brindar una atención de salud integral y que contribuya a la recuperación de las 
+personas con cáncer.  
+En este contexto, se ha definido una cartera de proyectos de inversión, mediante la cual se plantea nueva 
+infraestructura con la incorporación de equipos y equipamientos de alta tecnología en los distintos 
+procesos de atención, la incorporación de profesionale s y técnicos especializados y la nivelación de 
+competencias como parte del desarrollo de la red de oncología. 
+La disponibilidad de profesionales y técnicos especializados para la atención oncológica se ha constituido 
+en una de las prioridades en materia de gestión de personas, que involucra no sólo la cantidad de cargos 
+sino la existencia de un equipo profesional con las competencias acordes al tipo de paciente y atención 
+requerida, de manera de hacer viable la implementación de las diferentes iniciativas de inversión, así como 
+las medidas previstas , contexto en que el reconocimiento de la especialidad de enfermería oncológica 
+constituye un hito central. 
+Como parte de las estrategias en desarrollo, se encuentra la formación de especialistas a través de un 
+financiamiento ministerial que permite proveer de profesionales médicos, odontólogos, bioquímicos y 
+químicos farmacéuticos a la red asistencial pública. El Plan de Formación de Especialistas y los Programas 
+de Capacitación vigentes, constituyen uno de los principales mecanismos para propiciar profesionales y 
+técnicos con las competencias adecuadas para la atención de pacientes con cáncer, sin embargo, 
+considerando la envergadura de las brechas estimadas, se requiere avanzar en la definición de nuevas 
+estrategias o políticas públicas, así como el presupuesto asociado para seguir abordando estos 
+requerimientos. 
+En términos del dimensionamiento del personal requerido, en este capítulo se da a conocer el resultado 
+de las brechas estimadas de personal para la atención oncológica, asociadas a las iniciativas de inversión 
+contempladas en el Plan Nacional de Cáncer y que cuentan con evaluación del Módulo de Recursos 
+Humanos. 
+La cartera de proyectos oncológico contempla 43 iniciativas de inversión en diferentes niveles de avances, 
+según se señala a continuación: 
+30 
+ 
+Ilustración 2. Estado de la situación de Proyectos de Inversión en Cáncer 
+ 
+Fuente: Proyectos de Inversión en Salud – Página web Minsal2 
+ 
+De las iniciativas de inversión en cartera, existe un total de 37 proyectos que requieren evaluación de 
+personal para su implementación, de ellos 27 se encuentran con certificación del Módulo de Recursos 
+Humanos (73%), con una demanda y brecha de personal validada de acuerdo con el desarrollo propuesto 
+para la red asistencial donde se inserta, en consistencia al Modelo de Gestión, cartera de servicios, así 
+como de los equipos y equipamientos contemplados para resolver la atención oncológica en los diferentes 
+Servicios de Salud. 
+Además de los  veintisiete proyectos certificados que corresponden a la cartera del Plan Nacional de 
+Cáncer, se incluye el proyecto de Normalización del Instituto Nacional del Cáncer que -por la naturaleza 
+de este centro asistencial- contribuye íntegramente a la atención de pacientes con cáncer. 
+Teniendo presente el monitoreo de los avances de la cartera de proyectos oncológicos, así como de la 
+cobertura de brechas de cada iniciativa de inversión, es posible señalar que al año 2024 se encuentran 
+cinco iniciativas con sus brechas cubiertas y veintitrés con brechas por cubrir, sin considerar la expansión 
+de cargos propuesta para el año 2025. 
+En la medida que progrese la implementación de la cartera, serán incorporados anualmente los cargos 
+para avanzar en el cierre de brech as de las iniciativas oncológicas, en los procesos de formulación 
+presupuestaria. 
+Los proyectos oncológicos que dan cuenta de las brechas no cubiertas corresponden a las veintitrés 
+iniciativas que se detallan a continuación: 
+Tabla 13. Proyectos de Inversión Oncológicos con Brechas de Recursos Humanos Certificada 
+Servicio de Salud Establecimiento Nombre del Proyecto 
+Arica y Parinacota Hospital Regional de Arica  Construcción Centro Oncológico, Comuna de Arica 
+Tarapacá Hospital Dr. Ernesto Torres 
+Galdames 
+Ampliación Unidad de Anatomía Patológica Iquique 
+Tarapacá Hospital Dr. Ernesto Torres 
+Galdames 
+Habilitación y Mejoramiento de la Red Oncológica de 
+Tarapacá 
+Antofagasta Centro Oncológico del Norte 
+(CON) 
+Mejoramiento Quimioterapia Centro Oncológico del Norte, 
+Antofagasta 
+Antofagasta Hospital Dr. Carlos Cisternas 
+De Calama  
+Construcción Centro de Atención oncológica Ambulatoria 
+Atacama Hospital de Copiapó Construcción Centro Oncológico de la Región de Atacama 
+Coquimbo Hospital San Juan de Dios de 
+la Serena  
+Implementación y habilitación 12 camas Hematología 
+Intensiva 
+                                                
+2 https://www.arcgis.com/apps/dashboards/90201d328fc64d01aa1b4f0e1688766d 
+ 
+
+31 
+ 
+Servicio de Salud Establecimiento Nombre del Proyecto 
+Viña Del Mar - 
+Quillota 
+Hospital Dr. Gustavo Fricke Habilitación de PET CT en Hospital Dr. Gustavo Fricke de 
+Viña del Mar (HGF) 
+Metropolitano 
+Oriente 
+CRS Cordillera Habilitación Unidad de Quimioterapia Ambulatoria del Polo 
+Peñalolén 
+Metropolitano 
+Oriente 
+Hospital Metropolitano de 
+Santiago 
+Habilitación de Quimioterapia Ambulatoria, Hospital 
+Metropolitano 
+Metropolitano Sur Hospital Exequiel González 
+Cortés 
+Construcción Centro Nacional de Radioterapia Infanto-
+Juvenil HEGC 
+Metropolitano Norte Hospital de Niños Dr. Roberto 
+del Rio  
+Habilitación del Laboratorio Nacional de Hemato-oncología 
+Molecular Infantil 
+Metropolitano Norte Instituto Nacional del Cáncer Normalización Instituto Nacional del Cáncer 
+Metropolitano 
+Occidente 
+Hospital San Juan de Dios  Adquisición e Instalación Equipo PET-CT   Unidad de 
+Medicina Nuclear 
+Metropolitano 
+Occidente 
+Hospital San Juan de Dios  Habilitación Unidad de Medicina Nuclear Hospital San Juan 
+De Dios 
+Metropolitano Sur 
+Oriente 
+Complejo Asistencial Sótero 
+del Río 
+Construcción e implementación de centro ambulatorio de 
+Radioterapia SSMSO 
+Metropolitano Sur 
+Oriente 
+Complejo Asistencial Sótero 
+del Río 
+Habilitación Unidades para Diagnóstico y Tratamiento 
+Oncológico 
+O’Higgins Hospital Franco Ravera 
+Zunino 
+Construcción Unidad De Hematología Intensiva, Hospital 
+LBO 
+Araucanía Sur Hospital de Temuco Construcción Centro oncológico Ambulatorio TROI 
+Araucanía 
+Araucanía Sur Hospital de Temuco Construcción Unidad de Oncología integral Región de la 
+Araucanía 
+Los Ríos Hospital Base Valdivia Habilitación y Mejoramiento de las Unidades de CP y AD y 
+QT Ambulatoria del Hospital Base Valdivia 
+Reloncaví Hospital de Puerto Montt Construcción Centro Oncológico Región de Los Lagos 
+Magallanes Hospital Clínico Magallanes Adquisición equipo para la Implementación de Braquiterapia 
+Alta Dosis, Unidad de Radioterapia 
+Fuente: Evaluación de RRHH Proyectos Oncológicos, Departamento de Planificación de RHS - DIGEDEP 
+Considerando la envergadura de los proyectos de la cartera, que contempla desde un mejoramiento de 
+unidad, adquisición de nuevo equipo hasta la construcción de un Centro Oncológ ico o la Normalización 
+del Instituto Nacional del Cáncer, la ejecución e implementación de estas iniciativas tienen distintos 
+tiempos asociados, lo que involucra un avance progresivo y una programación del personal requerido.  
+En este contexto, se presentan las estimaciones de brechas de personal para la implementación de las 
+diferentes iniciativas de inversión oncológica cuya programación de inicio de operaciones se estima 
+progresivamente hasta el año 2030, dependiendo del avance de ejecución de cada proyecto y presupuesto 
+asociado. 
+La brecha de cargos estimada para la Ley N°18.834 y N°19.664 se expresa en jornadas completas 
+equivalentes (JCE) a 44 horas semanales, en tanto aquellos que corresponden a la Ley N°15.076, 
+corresponden a jornadas de 28 horas sem anales para la atención en 24 horas, que se asocian a las 
+iniciativas que cuentan con atención cerrada. 
+ 
+ 
+ 
+32 
+ 
+Tabla 14. Estimación de Brechas de Personal Proyectos de Inversión en Cáncer al año 2030 
+Ley Planta Total Brecha JCE 
+Ley 15.076 Médicos 68,00 
+Ley 18.834 
+Administrativos 170,00 
+Auxiliares 151,00 
+Profesionales 642,50 
+Técnicos 635,00 
+Ley 19.664 
+Bioquímicos 4,25 
+Médicos 298,75 
+Odontólogos 11,50 
+Químicos y Farmacéuticos 42,75 
+Total 2.023,75 
+Fuente: Resultados según evaluación de RRHH Cartera Oncológica incluyendo Instituto Nacional del Cáncer , 
+Departamento de Planificación de RHS - DIGEDEP 
+Como se observa en la tabla anterior, la cantidad total de jornadas equivalentes requeridas como brechas 
+de recursos humanos asociadas a la cartera de proyectos oncológicos más la Normalización del Instituto 
+Nacional del Cáncer, corresponden a 2.023,75 y el 81% se conforma de la siguiente manera: 
+ El 32% de las brechas estimadas  se encuentra en la planta de profesionales del Estatuto 
+Administrativo (Ley N°18.834), lo que equivale a 642,5 jornadas. Se destaca que esta planta agrupa 
+profesionales clínicos y de apoyo administrativo, logístico e industrial. 
+ Un 31% de las brechas se encuentra en la planta de técnicos que equivale a 635 jornadas. 
+ Un 18%  de las brechas se encuentra  en la planta de médicos , equivalente a 366,75 jornadas, 
+considerando la Ley N°19.664 y N°15.076. 
+Respecto a la distribución de las brechas según ley contractual, se observa que: 
+ El 79% se concentran en la Ley N°18.834 que contempla las plantas de profesionales, técnicos, 
+administrativos y auxiliares cuya calidad contractual se encuentra regulada por el Estatuto 
+Administrativo. 
+ El 18% de las brechas se encuentra asociada a la Ley N° 19.664 que considera a bioquímicos, 
+médicos, odontólogos y químicos farmacéuticos que se desempeñan en atención diurna. 
+ El 3% de las brechas estimadas se encuentran asociadas a la Ley N°15.076 que considera médicos 
+para la atención de 24 horas, que en este caso corresponde a la atención de atención cerrada. 
+En términos generales, de acuerdo con  la evaluación de iniciativas oncológicas certificadas de las 
+iniciativas asociadas al Plan Nacional de Cáncer, incluyendo el Instituto Nacional de Cáncer, las brechas 
+estimadas representan un incremento de dotación de un 140% respecto a la oferta de personal (JCE) que 
+dispone la Red Asistencial para brindar la atención a pacientes con cáncer.  
+Desde la perspectiva de l despliegue de las iniciativas de inversión en la red asistencial pública,  en las 
+diferentes Macrozonas, el 43% de las brechas estimadas se concentra principalmente en la Macrozona 
+Centro que involucra los Servicios de Salud de la Región Metropolitana , lo que se explica considerando 
+que es en dicha región donde se encuentra el proyecto de mayor envergadura como es el Instituto Nacional 
+del Cáncer, por ende la cantidad de requerimientos es mayor comparativamente con las demás iniciativas 
+de la cartera.  Sin em bargo, la cartera oncológica despliega el 66% de las iniciativas en regiones (29 
+proyectos), como parte de la estrategia de acercar la atención de salud a las personas con cáncer, con lo 
+cual se contribuye a disminuir la movilidad a regiones diferentes de su domicilio para recibir una atención 
+de especialidad, mejorar un diagnóstico oportuno, contribuir a una mayor adherencia a los tratamientos y 
+33 
+ 
+continuidad de la atención , todo ello en el contexto de una red oncológica asistencial definida en la red 
+pública de salud. 
+Gráfico 10. Brechas de Personal Proyectos de Inversión en Cáncer según Macrozonas, 
+expresado en Jornadas Completas Equivalentes 
+ 
+Fuente: Resultados según evaluación de RRHH Cartera Oncológica incluyendo Instituto Nacional del Cáncer,  
+Departamento de Planificación de RHS - DIGEDEP 
+De acuerdo con  lo observado en  el gráfico anterior, y considerando que la Macro zona Sur no refleja 
+brechas de personal, es importante destacar que este informe considera las iniciativas que se encuentran 
+con la evaluación de recursos humanos certificada, encontrándose algunas en desarrollo y en proceso de 
+evaluación que serán incorporadas en un próximo informe.  
+La contribución del equipo de profesionales y técnicos para la atención y el manejo integral del cáncer se 
+conforma por diferentes estamentos de personal, más allá de las especialidades médicas claves de la 
+oncología, se contempla dentro del equipo profesional químicos y b ioquímicos que desempeñan roles 
+cruciales tanto en la administración y seguimiento del tratamiento. Los químicos farmacéuticos aseguran 
+la administración segura de medicamentos, mientras que los bioquímicos analizan biomarcadores para 
+personalizar tratamientos, evaluar la respuesta del paciente y progreso de la enfermedad. Asimismo, los 
+profesionales de la odontología  su rol es fundamental en la prevención antes, durante y después d e 
+tratamientos como la quimioterapia y la radioterapia que pueden causar complicaciones orales que afectan 
+la alimentación, la comunicación y el bienestar general del usuario con cáncer. 
+A continuación, se dan a conocer l os resultados de requerimientos de personal asociado a las brechas 
+estimadas en los estamentos de la Ley N°18.834 y especialidades médicas de la Ley N°19.664 y Ley 
+N°15.076. 
+3.2.1. Brecha de Personal de la Ley N°18.834, según estamentos: 
+Respecto a los análisis realizados de brechas de personal asociado al Estatuto Administrativo de la Ley 
+N°18.834, se obtiene que la cantidad de jornadas completas equivalentes como brechas, corresponde a 
+un total de 1.598,5 jornadas. 
+La distribución de las brechas estimadas en las diferentes plantas y su concentración corresponde a: 
+394.25 
+37.00 
+875.25 
+39.00 -
+678.25 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Norte Centro Norte Centro Centro Sur Sur Extremo Sur
+Jornadas Completas Equivalentes
+Macroregión
+Ley 15.076 Ley 18.834 Ley 19.664 N° JCE Brecha
+34 
+ 
+ El 40,2% de brechas  estimadas correspondientes a 642,5 JCE,  se concentra en la planta de 
+profesionales que considera profesionales clínicos y aquellos asociados a las áreas de apoyo a la 
+administración.  
+ El 39,7%  de brechas se concentra en la planta de técnicos que  corresponde a 635 JCE, 
+correspondiente a técnicos paramédicos, técnicos de áreas administrativas como de las áreas 
+logísticas e industriales. 
+ El 10,6% de las brechas estimadas se concentra en la planta de administrativos con un total de 170 
+JCE.  
+ El 9,4% de las brechas estimadas corresponde a la planta de auxiliares con un total de 151 JCE que 
+agrupa a los auxiliares y choferes. 
+Desde una mirada global a todos los estamentos considerados en la Ley N°18.834 para este análisis, se 
+presenta a continuación de manera gráfica la distribución de las brechas en cada uno de ellos.  
+Gráfico 11. Brechas de Personal Proyectos de Inversión en Cáncer al año 2030 según estamento asociado a 
+la Ley N°18.834 
+ 
+Fuente: Resultados según evaluación  de RRHH Cartera Oncológica incluyendo Instituto Nacional del Cáncer,  
+Departamento de Planificación de RHS - DIGEDEP 
+El 78% de las brechas estimadas se concentra en los siguientes estamentos: 
+ Técnicos Paramédicos con el 33% (530 JCE). 
+ Enfermería con el 15% (237 JCE). 
+ Administrativo con el 11% (170 JCE). 
+ Tecnología Médica con el 10% (167 JCE). 
+3.0 
+7.0 
+7.0 
+15.0 
+24.0 
+29.0 
+32.0 
+33.0 
+33.0 
+42.5 
+50.0 
+75.0 
+144.0 
+167.0 
+170.0 
+237.0 
+530.0 
+ -  100.0  200.0  300.0  400.0  500.0  600.0
+Educación Parvularia
+Chofer
+Fonoaudiología
+Terapia Ocupacional
+Trabajo Social
+Psicología
+Técnicos áreas administrativas
+Físico Médico
+Nutrición
+Kinesiología
+Profesionales áreas administrativas
+Técnicos áreas logísticas e industriales
+Auxiliar
+Tecnología Médica
+Administrativo
+Enfermería
+Téc. Paramédicos
+35 
+ 
+ Auxiliar con el 9% (144 JCE). 
+3.2.2. Brecha de especialidades médicas Ley N°19.664 y N°15.076 
+Teniendo en consideración que la demanda de médicos especialistas para la atención oncológica no sólo 
+está dada por las iniciativas de inversión  que forman parte de la cartera oncológica , sino que además 
+existen proyectos hospitalarios en ejecución donde su cartera de servicios co ntempla prestaciones 
+oncológicas, se releva la importancia de incorporar en este análisis las brechas de médicos especialistas 
+de dichos proyectos hospitalarios. 
+En este contexto, se incorpora la estimación de brechas de las especialidades médicas de: hematología, 
+medicina nuclear, medicina paliativa , oncología médica  y radioterapia oncológica que han sido 
+consideradas en la cartera hospitalaria, pero se suman a la brecha estimada de la cartera oncológica para 
+dimensionar en su conjunto las necesidades de médicos en estas especialidades.   En el caso de la 
+especialidad de Hematología y de Medicina Paliativa y de Manejo del Dolor, es necesario tener presente 
+que las brechas consideradas corresponden al total estimado para la atención en hospitales, que  no 
+corresponde a la atención exclusiva de pacientes con cáncer. 
+De acuerdo con lo señalado, el total de jornadas equivalentes estimadas como brechas corresponde a 
+478,5 JCE, de las cuales 410,5  jornadas se asocian a la Ley N°19.664 que tienen relación a la atención 
+diurna y 68 jornadas corresponden a la Ley N°15.076  que se orientan a la atención de 24 horas en la 
+atención cerrada. 
+A continuación, se presenta el detalle de la estimación de brecha de médicos según especialidad, tanto de 
+las iniciativas oncológicas como de los proyectos de inversión hospitalarios: 
+Tabla 15. Brechas de Médicos Especialistas Proyectos de Inversión en Cáncer al año 2030 según 
+especialidad y ley contractual, expresado en Jornadas Completas Equivalentes 
+Especialidad Médica Ley 
+15.076 
+Ley 
+19.664 
+Total Brecha 
+JCE 
+Anatomía Patológica - 22,50 22,50 
+Anestesiología - 10,50 10,50 
+Cardiología - 3,25 3,25 
+Cirugía de Cabeza y Cuello y 
+Maxilofacial - 7,25 7,25 
+Cirugía de Tórax - 2,50 2,50 
+Cirugía Digestiva - 8,75 8,75 
+Cirugía General 6,00 2,75 8,75 
+Cirugía Plástica y Reparadora - 0,75 0,75 
+Coloproctología - 1,00 1,00 
+Endocrinología Adulto - 1,50 1,50 
+Enfermedades Respiratorias Adulto - 1,00 1,00 
+Gastroenterología Adulto - 7,50 7,50 
+Genética Clínica - 1,00 1,00 
+Geriatría - 0,50 0,50 
+Ginecología Oncológica - 0,50 0,50 
+Hematología 18,00 63,25 81,25 
+Imagenología - 26,25 26,25 
+Infectología - 1,50 1,50 
+Laboratorio Clínico - 1,00 1,00 
+Mastología (Cirugía de mamas) - 8,25 8,25 
+36 
+ 
+Especialidad Médica Ley 
+15.076 
+Ley 
+19.664 
+Total Brecha 
+JCE 
+Medicina Familiar - 9,25 9,25 
+Medicina física y rehabilitación - 4,00 4,00 
+Medicina General - 2,75 2,75 
+Medicina Intensiva Adulto 24,00 - 24,00 
+Medicina interna 20,00 20,25 40,25 
+Medicina nuclear - 24,50 24,50 
+Medicina Paliativa y de Manejo del 
+Dolor - 14,75 14,75 
+Neurocirugía - 0,50 0,50 
+Obstetricia y ginecología - 10,50 10,50 
+Oncología médica - 67,25 67,25 
+Psiquiatría Adulto - 3,25 3,25 
+Radioterapia Oncológica - 63,50 63,50 
+Salud Pública - 7,25 7,25 
+Traumatología y Ortopedia - 4,25 4,25 
+Urología - 7,00 7,00 
+Totales 68,00 410,50 478,50 
+Fuente: Resultados según evaluación de RRHH Cartera Oncológica incluyendo Instituto Nacional del Cáncer,  
+Departamento de Planificación de RHS - DIGEDEP 
+Del total de jornadas completas equivalentes , el 86% se concentra en la Ley N°19.664 y el 14% en las 
+especialidades asociadas a la Ley N°15.076. 
+Respecto a la concentración de las brechas según especialidad, el 63% de ellas corresponde a las 
+siguientes especialidades: 
+ El 17% se concentra en la especialidad de hematología con 81,25 JCE. 
+ El 14% en la especialidad de Oncología Médica con 67,25 JCE. 
+ El 13% en la especialidad de Radioterapia Oncológica con 63,5 JCE. 
+ El 8% en la especialidad de Medicina Interna con 40,25 JCE. 
+ El 5% en la especialidad de Imagenología con 26,25 JCE. 
+ El 5% en la especialidad de Medicina Nuclear con 24,50 JCE. 
+ 
+37 
+ 
+Gráfico12. Brechas de Personal Proyectos de Inversión en Cáncer al año 2030 según 
+especialidad médica, expresada en Jornadas Completas Equivalentes 
+ 
+Fuente: Resultados según evaluación de RRHH Cartera Oncológica incluyendo Instituto Nacional del Cáncer,  
+Departamento de Planificación de RHS - DIGEDEP 
+ 
+  
+0.50 
+0.50 
+0.50 
+0.75 
+1.00 
+1.00 
+1.00 
+1.00 
+1.50 
+1.50 
+2.50 
+2.75 
+3.25 
+3.25 
+4.00 
+4.25 
+7.00 
+7.25 
+7.25 
+7.50 
+8.25 
+8.75 
+8.75 
+9.25 
+10.50 
+10.50 
+14.75 
+22.50 
+24.00 
+24.50 
+26.25 
+40.25 
+63.50 
+67.25 
+81.25 
+ -  10.00  20.00  30.00  40.00  50.00  60.00  70.00  80.00  90.00
+ -  10.00  20.00  30.00  40.00  50.00  60.00  70.00  80.00  90.00
+Geriatría
+Ginecología Oncológica
+Neurocirugía
+Cirugía Plástica y Reparadora
+Coloproctología
+Enfermedades Respiratorias Adulto
+Genética Clínica
+Laboratorio Clínico
+Endocrinología Adulto
+Infectología
+Cirugía de Tórax
+Medicina General
+Cardiología
+Psiquiatría Adulto
+Medicina física y rehabilitación
+Traumatología y Ortopedia
+Urología
+Cirugía de Cabeza y Cuello y Maxilofacial
+Salud Pública
+Gastroenterología Adulto
+Mastología (Cirugía de mamas)
+Cirugía Digestiva
+Cirugía General
+Medicina Familiar
+Anestesiología
+Obstetricia y ginecología
+Medicina Paliativa y de Manejo del Dolor
+Anatomía Patológica
+Medicina Intensiva Adulto
+Medicina nuclear
+Imagenología
+Medicina interna
+Radioterapia Oncológica
+Oncología médica
+Hematología
+Total Brecha JCE Ley 15.076 Ley 19.664
+38 
+ 
+3.3. Brechas de Personal Plan Nacional de Inversiones. Componente COSAM 
+- Plan de Salud Mental. 
+Los Centros Comunitarios de Salud Mental (COSAM) constituyen dispositivos especializados cuyo 
+propósito es estabilizar la condición clínica de los usuarios, brindar soporte a las familias y/o redes de 
+apoyo, y evitar hospitalizaciones cerradas mediante intervenciones oportunas y continuas. Estos centros 
+cumplen un rol estratégico en el proceso de recuperación de personas que han sido atendidas en Unidades 
+de Hospitalización de Cuidados Intensivos en Psiquiatría (UHCIP), contribuyendo a optimizar los tiempos 
+de respuesta y garantizar la continuidad de cuidados dentro de la red asistencial. 
+En esta línea, el Plan Nacional de Salud Mental 2021-2025 del Ministerio de Salud establece como uno de 
+sus ejes estratégicos el fortalecimie nto de la red pública de salud mental. Esta estrategia contempla la 
+reducción de brechas en la cobertura de servicios mediante una dotación adecuada de recursos humanos 
+en la atención primaria (APS), equipos especializados en los Servicios de Salud y en la s Secretarías 
+Regionales Ministeriales (SEREMI). Asimismo, incorpora acciones de formación y capacitación 
+permanente orientadas al desarrollo de competencias en ámbitos como promoción del bienestar, 
+prevención, detección precoz, tratamiento y recuperación.  Estas acciones buscan, además, mejorar la 
+articulación entre dispositivos y asegurar la continuidad de los cuidados en salud mental. 
+Actualmente, el modelo de atención se basa en servicios ambulatorios integrados en la red general de 
+salud, enfocados en las necesidades de salud mental de las personas en su entorno comunitario. Si bien 
+los COSAM ofrecen atención especializada ambulatoria a niños, niñas, adolescentes, adultos, personas 
+mayores y sus familias en un territorio determinado, en algunos Servicios de Salud estas prestaciones se 
+brindan también en otros dispositivos, como Centros de Diagnóstico y Tratamiento (CDT), Consultorios 
+Adosados de Especialidades (CAE) o Centros de Referencia de Salud (CRS). Asimismo, los Hospitales 
+de Día para población adu lta o adolescente entregan atención especializada ambulatoria de carácter 
+intensivo, complementando la oferta de servicios. 
+La cartera de proyectos vinculados a la implementación de nuevos COSAM contempla iniciativas en 
+distintos niveles de avance, las cuales se presentan en la figura siguiente. 
+Ilustración 3. Estado de la Cartera de Proyectos Centros Comunitarios de Salud Mental 
+ 
+Fuente: Proyectos de Inversión en Salud – Página web Minsal3 
+ 
+En relación con los recursos humanos requeridos para la puesta en marcha de los Centros Comunitarios 
+de Salud Mental (COSAM), se han estimado brechas de personal conforme a los dispositivos que cuentan 
+con evaluación en el Módulo de Recursos Humanos del Ministerio de Salud. 
+Del total de 53 iniciativas actualmente en cartera, 16 proyectos (30%) corresponden a habilitación de 
+infraestructura existente, mientras que 37 proyectos (70%) contemplan la construcción de nuevos 
+dispositivos, tal como se muestra en la tabla siguiente: 
+                                                
+3 https://www.arcgis.com/apps/dashboards/90201d328fc64d01aa1b4f0e1688766d 
+
+39 
+ 
+Tabla 16. Proyectos de Inversión Componente COSAM - Plan de Salud Mental con Brechas de Recursos 
+Humanos Certificada 
+Servicio de Salud Nombre Proyecto 
+Arica Construcción COSAM Arica 
+Tarapacá 
+Construcción COSAM Enrique Paris 
+Construcción COSAM Salvador Allende 
+Habilitación COSAM Pica 
+Antofagasta Construcción COSAM Calama 
+Construcción COSAM Norte de Antofagasta 
+Atacama Construcción COSAM Norte de Caldera 
+Habilitación COSAM Copiapó 
+Coquimbo Construcción COSAM Ovalle Provincia de Limarí 
+Valparaíso-San Antonio Construcción COSAM Domingo Asún 
+Habilitación COSAM Litoral  
+Viña del Mar-Quillota 
+Construcción COSAM Peñablanca 
+Construcción COSAM Placillas de Peñuelas  
+Construcción COSAM Viña del Mar, sector Gomez 
+Carreño 
+Habilitación COSAM Belloto Sur 
+Habilitación COSAM Quillota 
+Aconcagua Habilitación COSAM Rinconada  
+Habilitación COSAM San Esteban  
+O'Higgins Construcción COSAM Chimbarongo 
+Maule 
+Construcción COSAM de San Clemente 
+Construcción COSAM San Javier 
+Habilitación COSAM Cauquenes 
+Ñuble Construcción COSAM Coihueco 
+Concepción Construcción COSAM Chiguayante 
+Arauco Construcción COSAM Cañete 
+Talcahuano Construcción COSAM Hualpén 
+Construcción COSAM Tomé 
+Biobío Construcción COSAM Los Ángeles_BioBío 
+Araucanía Norte Construcción COSAM Angol 
+Construcción COSAM Collipulli 
+Araucanía Sur Construcción COSAM Nodo Lacustre 
+Construcción COSAM Nodo Lacustre Villarrica 2 
+Los Ríos 
+Construcción COSAM Guacamayo 
+Construcción COSAM Las Ánimas 
+Construcción COSAM Paillaco - Futrono 
+Osorno Construcción COSAM Rahue 
+Del Reloncaví 
+Construcción COSAM Alerce 
+Construcción COSAM Melipulli 
+Habilitación COSAM Alerce 
+Chiloé Habilitación COSAM Quellón 
+Aysén Construcción COSAM Aysén 
+Habilitación COSAM Aysén 
+Magallanes Construcción COSAM Punta Arenas Sur (Miraflores) 
+Construcción COSAM Punta Arenas-Norte 
+Metropolitano Oriente Construcción COSAM Providencia 
+Metropolitano Central Construcción COSAM Los Bosquinos Maipú 
+Habilitación COSAM Lo Errazuriz 
+Metropolitano Sur Construcción COSAM San Bernardo 
+Habilitación COSAM San Miguel  
+40 
+ 
+Servicio de Salud Nombre Proyecto 
+Metropolitano Occidente Construcción COSAM Isla de Maipo 
+Construcción COSAM Padre Hurtado  
+Metropolitano Sur 
+Oriente 
+Construcción COSAM Antumapu 
+Construcción COSAM La Plantina 
+Fuente: Proyectos de Inversión en Salud – Página web Minsal 
+El resultado de las evaluaciones de recursos humanos para estos proyectos en cartera se presenta arroja 
+una brecha de 1.667 JCE, con el siguiente desglose por ley y planta: 
+Tabla 17. Brecha en Jornadas completas equivalentes según planta y ley contractual 
+Planta / Ley 
+Contractual 
+N° de JCE Brecha Total 
+Brecha de 
+JCE 
+Porcentaje Ley 
+N°18.834 
+Ley 
+N°19.664 
+Médicos - 112,5 112,5 6,7% 
+Químicos 
+Farmacéuticos - 25 25 1,5% 
+Profesionales 905,5 - 905,5 54,3% 
+Técnicos 361 - 361 21,7% 
+Administrativos 128 - 128 7,7% 
+Auxiliares 135 - 135 8,1% 
+Total General 1.529,5 137,5 1.667 100% 
+Fuente: Resultados según evaluación de RRHH Plan Nacional de Inversiones – Componente COSAM, 
+Departamento de Planificación de RHS – DIGEDEP. 
+Las brechas más altas se presentan en el estamento Profesional, seguido por los técnicos, con un 54,3% 
+y 21.7% respectivamente.  
+El detalle de esta brecha por ocupación se presenta en la tabla siguiente: 
+Tabla 18. Brecha en Jornadas completas equivalentes según planta, ley contractual y estamento 
+Planta / Ley 
+Contractual  Estamento  
+N° de JCE Brecha   Total 
+Brecha de 
+JCE 
+Ley 
+N°18.834  
+Ley 
+N°19.664   
+Médicos 
+Psiquiatra adulto  - 76,5 76,5 
+Psiquiatría Pediátrica y de la 
+Adolescencia   - 36 36 
+Químicos 
+Farmacéuticos Químico Farmacéutico   - 25 25 
+Profesionales  
+Enfermería 149,5  - 149,5 
+Profesionales áreas administrativas 45  - 45 
+Psicología 269,5  - 269,5 
+Psicopedagogía 22,5  - 22,5 
+Terapia Ocupacional 184  - 184 
+Trabajo Social 235  - 235 
+Técnicos  
+Técnico en Rehabilitación  161  - 161 
+Técnico Paramédico 47 -  47 
+Técnico en Farmacia  22 -  22 
+Técnico Social  131 -  131 
+Administrativos  Administrativo 128 -  128 
+Auxiliares  Auxiliares 107 -  107 
+41 
+ 
+Planta / Ley 
+Contractual  Estamento  
+N° de JCE Brecha   Total 
+Brecha de 
+JCE 
+Ley 
+N°18.834  
+Ley 
+N°19.664   
+Chofer 28 -  28 
+Total General  1.529,5 137,5 1.667 
+Fuente: Resultados según evaluación de RRHH Plan Nacional de Inversiones – Componente COSAM, Departamento de 
+Planificación de RHS – DIGEDEP 
+La tabla presentada expone la brecha de JCE identificada en el sistema público de salud, desglosada por 
+estamento homologado y tipo de vínculo contractual, según Ley N°18.834 (Estatuto Administrativo) y Ley 
+N°19.664 (Estatuto Médico), que corresponde a un 91.8% y 8,2% respectivamente. 
+El estamento con mayor brecha es el de Profesionales no Médicos, con 905.5 JCE (54,3% del total), todos 
+bajo la Ley N°18.834. Le siguen: 
+ Técnicos: 361 JCE (21.7%). 
+ Auxiliares: 135 JCE (8,1%). 
+ Administrativos: 128 JCE (7,7%). 
+ Médicos/as Cirujanos/as: 112.5 JCE (6,7%). 
+ Químicos/as Farmacéuticos/as: 25 JCE (1.5%) 
+  
+42 
+ 
+4. COMENTARIOS FINALES 
+Los desafíos que enfrenta el Sistema de Salud son múltiples y complejos. Se  relacionan con 
+demandas crecientes de atención relacionadas con los cambios demográficos y epidemiológicos  de la 
+población, además por problemas sanitarios emergentes, tales como, los vinculados a emergencias o 
+desastres naturales de ocurrencia frecuente en el país. 
+Es importante señalar que el sector ha realizado esfuerzos sistemáticos para garantizar la calidad, 
+oportunidad y continuidad de la atención en los establecimientos de salud que integran la red asistencial, 
+destacándose los siguientes ejes de acción para el fortalecimiento de la red pública: Tiempos de Espera, 
+Salud Mental y  Plan Nacional de Cáncer , iniciativas en que la disponibilidad de personal de salud 
+constituye un factor clave. 
+Dado el dinamismo de los  factores que inciden en la magnitud y composición de la brecha de personal 
+sanitario entre estos, la rotación de personal, demandas crecientes de atención de salud, altos índices de 
+ausentismo, problemas de distribución de personal de salud con alta concentración en grandes ciudades 
+en desmedro de zonas rurales y urbano marginales, sigue proyectándose una brecha importante de RHS. 
+De acuerdo con lo señalado, a continuación, se destacan algunos puntos a considerar en la discusión 
+sobre las brechas de personal de salud:  
+ Según el Registro Nacional de Prestadores Individuales (S IS), e l país cuenta con una  oferta 
+potencial de recursos humanos habilitada para un desempeño laboral de 846.679 profesionales y 
+técnicos. Sin embargo, en un sistema de salud con proveedores públicos y privados, para conocer 
+si estas personas están profesionalmente activas, se requieren mejores soportes tecnológicos, 
+además de mecanismos de interoperabilidad entre diferentes sistemas. 
+ Respecto de la migración del personal de salud, en el Registro Nacional de Prestadores Individuales 
+– RNPI, a diciembre del año 2024, se observa una cantidad de 34.722 profesionales y técnicos de 
+salud con nacionalidad extranjera y 29.614 con título obtenido en el extranjero, de los cuales el 74% 
+corresponden a Venezuela (8.855), Colombia (7.297) y Ecuador (5.289). 
+ De acuerdo con el  RNPI a diciembre de 2024, del total de médicos registrados, el 50,4% 
+corresponde a médicos con especialidad certificada (34.783). 
+ El 57% del total de profesionales y técnicos que se encuentran en el RNPI, se ubican en tramos de 
+edad menor a 40 años, lo que -junto con evidenciar una renovación generacional- plantea desafíos 
+para la retención y formación continua. 
+ La fuerza laboral de la Red Pública a diciembre de 2024 se constituye por un total de 329 .209 
+personas, donde un 0,6% (2.085 personas) se desempeñan tanto en la red de establecimientos 
+hospitalarios dependientes de los Servicios de Salud como en la Atención Primaria Municipal. 
+ A diciembre de 2024 el 36% de la fuerza laboral de la Red Pública de Salud, se desempeña en la 
+Atención Primaria Municipal. 
+ La densidad de profesionales nucleares de la salud (médicos, enfermeras y matronas) demuestra 
+que existen avances significativos  en la última década, observándose que al año 202 4 la tasa 
+alcanza a 52,17 profesionales por 10 mil beneficiarios FONASA, representando un incremento de 
+27,35 puntos comparativamente al año 2013. Sin embargo, persisten problemas de distribución e 
+inequidades en la disponibilidad de recursos humanos entre los Servicios de Salud que integran la 
+red asistencial pública. 
+ Las definiciones de recursos humanos responden a distintos elementos que a su vez dimensionan 
+la demanda de atención de salud, ya sea por el modelo de atención, población objetivo, niveles de 
+43 
+ 
+producción de servicios, equipamiento y tecnologías, entre otros, cuyo adecuado dimensionamiento 
+permitirá determinar la demanda de personal de salud. 
+ Las brechas de personal detectadas para implementar la cartera de inversiones, alcanza un total de 
+46.799,25 jornadas completas  equivalentes (JCE), que comprende los componentes del Plan 
+Nacional de Inversiones (normalización de establecimientos hospitalarios); Plan Nacional de Cáncer 
+y Plan Nacional de Salud Mental (habilitación y construcción de Centros de Salud Mental 
+Comunitaria - COSAM). 
+ Los análisis de brechas responden a un proceso continuo y anual. Los resultados contenidos en el 
+presente informe corresponden  a diciembre de 2024 , requieren ser evaluados y ajustados de 
+manera permanente conforme a la incorporación de nuevos proyectos a la cartera de inversiones, 
+los avances en su ciclo de vida, así como los cambios en la oferta de personal disponibles, 
+incluyendo movilidad, flujos entre niveles asistenciales y posibles reevaluaciones o ajustes en l as 
+definiciones técnicas de cada proyecto. 
+ La programación de cierre de brechas  se contempla hasta el año 203 5, considerando que la 
+estimación de inicio de operaciones de los proyectos e iniciativas de inversión se realiza de manera 
+progresiva, en consistencia al avance de la ejecución de las obras, presupuesto asignado y  la 
+disponibilidad de personal para su implementación, todo ello como parte del proceso de planificación 
+de los recursos humanos para la salud. 
+ La estimación de brechas de médicos especialistas para los tres componentes de la cartera de 
+inversiones corresponde a un total de 7.156,50 jornadas completas equivalentes, destacando que 
+estos resultados corresponden a la necesidad de especialistas de acuerdo con las competencias 
+que se requiere cubrir y no necesariamente representa un aumento en la cantidad de nuevos cargos. 
+ La brecha estimada para la cartera de inversiones  representa un incremento proyectado de un 
+26,4% de las dotaciones en JCE vigentes en el año 2024, lo que plantea un desafío importante para 
+la disponibilidad país de oferta de profesionales y técnicos especializados, desde la capacidad 
+formadora, atracción y retención de la oferta de personal en la red pública, así como el presupuesto 
+necesario para desarrollar diferentes estrategias que permita dar cobertura del personal requerido. 
+ La brecha de personal estimada para la implementación de los proyectos oncológicos como parte 
+del Plan Nacional de Cáncer (2.023,75 JCE), representa un incremento del 140% en la cantidad de 
+jornadas equivalentes de unidades relacionadas a la oncología (incluyendo el INCANCER). 
+ La brecha de especialidades médicas para la atención en oncología corresponde a un total de 478,5 
+JCE, destacando: oncología médica con una brecha de 67,25 JCE; Radioterapia Oncológica un total 
+de 63,5 JCE; Medicina nuclear un total de 24,5 JCE; Medicina Paliativa y de Manejo del Dolor un 
+total de 14,75 JCE y Hematología un total de 81,25 JCE, teniendo presente que en estas dos últimas 
+especialidades su desempeño en Hospitales no corresponde a una atención exclusiva a personas 
+con cáncer. 
+ La brecha de personal estimada para la implementación de los  proyectos de habilitación y 
+construcción COSAM (1.667 JCE), representa un incremento del 110,7% en la cantidad de jornadas 
+equivalentes respecto a la oferta actual. 
+ La brecha estimada para la especialidad de P siquiatría Adulto corresponde a un total de 76,5 
+jornadas completas equivalentes y de 36 para la especialidad de Psiquiatría Pediátrica y de la 
+Adolescencia. 
+En virtud de lo señalado, y considerando los desafíos para alcanzar un sistema de salud con  acceso y 
+cobertura universales, cada vez son más gravitantes los análisis sobre la fuerza laboral de salud. Desde 
+la perspectiva de los procesos de planificación de los recursos humanos, se busca un abordaje integral, 
+considerando los diferentes factores que inciden en la oferta de personal, así como en la definición de las 
+necesidades de RHS actuales y futuras. Con base a estas estimaciones es posible generar escenarios y 
+definir estrategias de cierre de brechas, siendo una de las estrategias prioritarias el Plan de Formación de 
+Especialistas. 
+44 
+ 
+Este contexto, exige continuar profundizando las estrategias de  fortalecimiento de la atención primaria de 
+salud, la que, desde un punto de vista de l personal sanitario, se traduce no solo en la conformación de  
+equipos interprofesionales, sino también en la ampliación de roles de los profesionales colaboradores de 
+la medicina, el liderazgo de la especialidad de medicina familiar  y el uso intensivo de las nuevas 
+tecnologías, de manera de aprovechar, en una lógica de trabajo en redes integradas, el máximo de las 
+competencias de ca da integrante del equipo de salud . Un desafío en este plano es explorar nuevos 
+modelos de división del trabajo que permitan el despliegue máximo de las capacidades y competencias de 
+todos los integrantes del equipo de salud. 
+Por último, y considerando que los actores que tienen influencia sobre el ciclo de vida laboral del personal 
+sanitario son múltiples y representan una gran  diversidad de intereses, el abordaje de los desafíos 
+vinculados con la gestión de los RHS, entre estos, el diseño e implementación de estrategias más amplias 
+para el efectivo cierre de brechas de personal, demanda un importante ejercicio de gobernanza no sólo 
+sectorial, en que se convoque a los actores necesarios para alcanzar grandes consensos que, junto con 
+buscar el fortalecimiento de los sistemas de planificación de RHS, promuevan políticas de desarrollo del 
+personal sanitario de mediano y largo plazo , así como las necesarias para la atracción y retención del 
+personal de salud. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO 
+ 
+Brechas de Personal por Servicio de Salud  
+Plan Nacional de Inversiones - Plan Nacional de Cáncer 
+Centros de Salud Mental Comunitaria (COSAM)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+46 
+ 
+1. Servicio de Salud Arica y Parinacota 
+Tabla 19. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Arica y Parinacota 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 11,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos 
+Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 10,00 
+Auxiliares Auxiliar 12,00 
+Profesionales 
+Enfermería 21,00 
+Fonoaudiología 1,00 
+kinesiología 0,00 
+Matronería 0,00 
+Nutrición 6,00 
+Profesionales áreas administrativas 0,00 
+Psicología 6,00 
+Tecnología Médica 13,00 
+Terapia Ocupacional 1,00 
+Trabajo Social 3,00 
+Físico Medico 2,00 
+Técnicos Téc. Paramédicos 31,00 
+Técnicos áreas logísticas e industriales 4,00 
+Ley 
+19.664 
+Médicos 
+Anatomía Patológica 0,00 
+Hematología 0,00 
+Imagenología 2,00 
+Medicina Familiar 5,25 
+Medicina física y rehabilitación 0,00 
+Medicina General 0,75 
+Medicina interna 0,25 
+Medicina nuclear 1,50 
+Oncología médica 2,00 
+Radioterapia Oncológica 2,50 
+Químicos Químicos y Farmacéuticos 5,00 
+Total general 194,75 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+  
+47 
+ 
+2. Servicio de Salud de Tarapacá 
+Tabla 20. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Tarapacá 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 11,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 10,00 
+Cirugía General 10,00 
+Medicina de Urgencia 2,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 1,00 
+Medicina interna 20,00 
+Neurología Adulto 0,00 
+Obstetricia y ginecología 6,00 
+Pediatría 2,00 
+Traumatología y Ortopedia 0,00 
+Ley 
+18.834 
+Administrativos Administrativo 25,00 
+Auxiliares Auxiliar 53,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 0,00 
+Enfermería 39,00 
+Fonoaudiología 4,00 
+kinesiología 4,00 
+Matronería 38,00 
+Nutrición 1,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Profesionales áreas administrativas 26,00 
+Profesionales áreas logísticas e industriales 0,00 
+Psicología 5,00 
+Psicopedagogía 0,00 
+Tecnología Médica 8,00 
+Terapia Ocupacional 4,50 
+Trabajo Social 9,50 
+Físico Medico 0,00 
+Técnicos 
+Otros Técnicos áreas apoyo diagnóstico y 
+terapéutico 8,00 
+Téc. Paramédicos 125,00 
+Técnicos áreas administrativas 21,00 
+Técnicos áreas logísticas e industriales 0,00 
+Téc. Párvulos 0,00 
+Ley 
+19.664 Médicos 
+Anatomía Patológica 2,00 
+Anestesiología 6,50 
+Cardiología 1,50 
+Cirugía de Cabeza y Cuello y Maxilofacial 1,50 
+48 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Cirugía General 13,25 
+Cirugía pediátrica 0,50 
+Cirugía Plástica y Reparadora 1,50 
+Cirugía Vascular Periférica 0,50 
+Coloproctología 1,50 
+Dermatología 0,50 
+Endocrinología Adulto 0,50 
+Enfermedades Respiratorias Adulto 0,50 
+Gastroenterología Adulto 0,50 
+Imagenología 6,00 
+Medicina de Urgencia 1,50 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 0,00 
+Medicina General 0,25 
+Medicina Intensiva Adulto 2,00 
+Medicina interna 9,00 
+Nefrología Adulto 2,50 
+Neonatología 0,50 
+Neurología Adulto 0,00 
+Neurología Pediátrica 0,50 
+Obstetricia y ginecología 3,00 
+Oftalmología 2,00 
+Otorrinolaringología 0,00 
+Pediatría 0,00 
+Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la Adolescencia 1,00 
+Salud Pública 0,00 
+Traumatología y Ortopedia 0,50 
+Urología 0,50 
+Odontólogos Cirujanos Dentistas 1,00 
+Químicos Químicos y Farmacéuticos 4,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 9,00 
+Auxiliares Auxiliar 7,00 
+Profesionales 
+Enfermería 12,00 
+kinesiología 1,00 
+Nutrición 2,00 
+Psicología 3,00 
+Tecnología Médica 19,00 
+Trabajo Social 2,00 
+Físico Medico 3,00 
+Técnicos Téc. Paramédicos 22,00 
+Ley 
+19.664 
+Médicos 
+Anatomía Patológica 10,50 
+Anestesiología 0,25 
+Gastroenterología Adulto 2,00 
+Hematología 1,25 
+Imagenología 0,75 
+Medicina General 1,00 
+Medicina nuclear 1,00 
+Obstetricia y ginecología 1,50 
+Oncología médica 1,75 
+Radioterapia Oncológica 4,50 
+Químicos Químicos y Farmacéuticos 1,25 
+Total general 661,25 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).   
+49 
+ 
+3. Servicio de Salud de Antofagasta 
+Tabla 21. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Antofagasta 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 3,00 
+Auxiliares Auxiliar 2,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 4,50 
+Profesionales áreas administrativas 2,00 
+Psicología 6,50 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 7,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 1,00 
+Téc. Farmacia 0,00 
+Téc. Social 4,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 1,00 
+Psiquiatría Pediátrica y de la Adolescencia 0,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Hospitales 
+Ley 
+18.834 
+Administrativos Administrativo 0,00 
+Auxiliares Auxiliar 31,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 2,00 
+Enfermería 2,00 
+Fonoaudiología 1,00 
+kinesiología 0,00 
+Matronería 1,00 
+Nutrición 1,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Profesionales áreas administrativas 7,00 
+Profesionales áreas logísticas e industriales 5,00 
+Psicología 0,00 
+Psicopedagogía 0,00 
+Tecnología Médica 0,00 
+Terapia Ocupacional 1,00 
+Trabajo Social 0,00 
+Físico Medico 0,00 
+Técnicos 
+Otros Técnicos áreas apoyo diagnóstico y 
+terapéutico 0,00 
+Téc. Paramédicos 10,00 
+Técnicos áreas administrativas 13,00 
+Técnicos áreas logísticas e industriales 17,00 
+Téc. Párvulos 3,00 
+Ley 
+19.664 
+Médicos Medicina General 3,00 
+Odontólogos Cirujanos Dentistas 0,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 6,00 
+Profesionales 
+Enfermería 8,00 
+kinesiología 3,00 
+Nutrición 3,00 
+Psicología 1,00 
+Técnicos Téc. Paramédicos 16,00 
+Ley 
+19.664 Médicos 
+Anestesiología 0,00 
+Medicina interna 1,00 
+Medicina Paliativa y de Manejo del Dolor 2,00 
+Oncología médica 1,00 
+50 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Químicos Químicos y Farmacéuticos 6,00 
+Total general 195,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+  
+51 
+ 
+4. Servicio de Salud de Atacama 
+Tabla 22. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Atacama 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 5,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 11,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+18.834 
+Administrativos Administrativo 6,00 
+Auxiliares Auxiliar 11,00 
+Chofer 4,00 
+Profesionales 
+Educación Parvularia 2,00 
+Enfermería 13,00 
+Fonoaudiología 1,00 
+kinesiología 1,00 
+Matronería 1,00 
+Nutrición 2,00 
+Profesionales áreas administrativas 10,00 
+Profesionales áreas logísticas e industriales 0,00 
+Psicología 0,00 
+Psicopedagogía 0,00 
+Tecnología Médica 6,00 
+Terapia Ocupacional 0,00 
+Trabajo Social 0,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 23,00 
+Técnicos áreas administrativas 2,00 
+Técnicos áreas logísticas e industriales 9,00 
+Téc. Párvulos 2,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 0,00 
+Ley 
+19.664 
+Médicos Medicina Familiar 1,00 
+Medicina General 3,00 
+Odontólogos Cirujanos Dentistas 0,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 15,00 
+Auxiliares Auxiliar 5,00 
+Profesionales 
+Enfermería 19,00 
+Nutrición 2,00 
+Psicología 3,00 
+52 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Tecnología Médica 15,00 
+Trabajo Social 3,00 
+Físico Medico 2,00 
+Técnicos Téc. Paramédicos 23,00 
+Ley 
+19.664 
+Médicos 
+Anatomía Patológica 4,25 
+Cirugía General 0,75 
+Hematología 1,00 
+Imagenología 1,75 
+Medicina General 1,00 
+Medicina interna 2,50 
+Medicina nuclear 0,25 
+Oncología médica 2,50 
+Radioterapia Oncológica 2,75 
+Químicos Químicos y Farmacéuticos 3,50 
+Total general 270,75 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+  
+53 
+ 
+5. Servicio de Salud de Coquimbo 
+Tabla 23 Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Coquimbo 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 2,00 
+Auxiliares Auxiliar 2,00 
+Chofer 0,00 
+Profesionales 
+Enfermería 2,00 
+Profesionales áreas administrativas 0,00 
+Psicología 3,00 
+Psicopedagogía 0,00 
+Terapia Ocupacional 3,00 
+Trabajo Social 3,00 
+Técnicos 
+Téc. En Rehabilitación 2,00 
+Téc. Paramédicos 1,00 
+Téc. Farmacia 0,00 
+Téc. Social 2,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 1,50 
+Psiquiatría Pediátrica y de la Adolescencia 0,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 20,00 
+Cardiología 9,00 
+Cirugía General 43,00 
+Cirugía pediátrica 8,00 
+Imagenología 12,00 
+Medicina de Urgencia 14,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 34,00 
+Medicina Intensiva Pediátrica 5,00 
+Medicina interna 67,00 
+Neonatología 27,00 
+Neurocirugía 1,00 
+Neurología Adulto 6,00 
+Obstetricia y ginecología 12,00 
+Oncología médica 0,00 
+Pediatría 21,00 
+Psiquiatría Adulto 2,00 
+Traumatología y Ortopedia 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 23,00 
+Auxiliares Auxiliar 290,00 
+Chofer 37,00 
+Profesionales 
+Educación Parvularia 4,00 
+Enfermería 95,50 
+Fonoaudiología 3,50 
+kinesiología 0,00 
+Matronería 58,00 
+Nutrición 8,00 
+Profesionales áreas administrativas 31,00 
+Profesionales áreas logísticas e industriales 2,00 
+Psicología 12,00 
+Psicopedagogía 8,50 
+Tecnología Médica 26,50 
+Terapia Ocupacional 32,00 
+Trabajo Social 16,00 
+Físico Medico 9,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 2,50 
+Técnicos Téc. Paramédicos 496,00 
+Técnicos áreas administrativas 280,00 
+54 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Técnicos áreas logísticas e industriales 37,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 38,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 5,00 
+Médicos 
+Anatomía Patológica 7,25 
+Anestesiología 20,50 
+Cardiología 14,75 
+Cirugía Cardiovascular 2,75 
+Cirugía de Cabeza y Cuello y Maxilofacial 3,50 
+Cirugía de Tórax 1,50 
+Cirugía General 19,50 
+Cirugía pediátrica 3,75 
+Cirugía Plástica y Reparadora 1,25 
+Cirugía Vascular Periférica 0,75 
+Coloproctología 0,75 
+Dermatología 1,50 
+Diabetología 0,00 
+Endocrinología Adulto 2,25 
+Endocrinología Pediátrica 0,00 
+Enfermedades Respiratorias Adulto 3,50 
+Enfermedades Respiratorias Pediátricas 0,50 
+Gastroenterología Adulto 9,75 
+Gastroenterología Pediátrica 0,00 
+Genética Clínica 0,00 
+Geriatría 0,50 
+Hematología 8,25 
+Imagenología 7,75 
+Infectología 1,75 
+Inmunología 1,50 
+Laboratorio Clínico 1,00 
+Medicina de Urgencia 2,00 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 2,75 
+Medicina General 0,00 
+Medicina Intensiva Adulto 1,00 
+Medicina Intensiva Pediátrica 1,00 
+Medicina interna 11,75 
+Medicina nuclear 4,25 
+Medicina Paliativa y de Manejo del Dolor 0,00 
+Nefrología Adulto 3,25 
+Nefrología Pediátrica 0,50 
+Neonatología 0,00 
+Neurocirugía 0,25 
+Neurología Adulto 6,50 
+Neurología Pediátrica 2,25 
+Obstetricia y ginecología 23,00 
+Oftalmología 8,75 
+Oncología médica 11,00 
+Otorrinolaringología 7,25 
+Pediatría 2,00 
+Psiquiatría Adulto 3,75 
+Psiquiatría Pediátrica y de la Adolescencia 3,75 
+Radioterapia Oncológica 15,75 
+Reumatología 0,25 
+Salud Pública 1,00 
+Traumatología y Ortopedia 9,50 
+Urología 5,25 
+Odontólogos Cirujanos Dentistas 27,00 
+55 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Químicos Químicos y Farmacéuticos 34,50 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+15.076 Médicos Hematología 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 2,00 
+Auxiliares Auxiliar 6,00 
+Profesionales 
+Enfermería 2,00 
+Nutrición 1,00 
+Tecnología Médica 6,00 
+Técnicos Téc. Paramédicos 3,00 
+Ley 
+19.664 Médicos Hematología 2,00 
+Total general 2.153,75 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+  
+56 
+ 
+6. Servicio de Salud Valparaíso-San Antonio 
+Tabla 24. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Valparaíso-San Antonio 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 1,00 
+Auxiliares Auxiliar 2,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 4,00 
+Profesionales áreas administrativas 1,00 
+Psicología 5,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 5,00 
+Trabajo Social 5,00 
+Técnicos 
+Téc. En Rehabilitación 5,00 
+Téc. Paramédicos 0,00 
+Téc. Farmacia 0,00 
+Téc. Social 3,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 1,75 
+Psiquiatría Pediátrica y de la Adolescencia 1,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 1,00 
+Cirugía General 13,00 
+Cirugía pediátrica 5,00 
+Medicina de Urgencia 2,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 12,00 
+Medicina Intensiva Pediátrica 6,00 
+Medicina interna 8,00 
+Obstetricia y ginecología 5,00 
+Pediatría 15,00 
+Traumatología y Ortopedia 1,00 
+Ley 
+18.834 
+Administrativos Administrativo 28,00 
+Auxiliares Auxiliar 13,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 0,00 
+Enfermería 28,00 
+Fonoaudiología 2,00 
+kinesiología 6,00 
+Matronería 0,00 
+Nutrición 3,50 
+Profesionales áreas administrativas 10,00 
+Profesionales áreas logísticas e industriales 0,00 
+Psicología 0,00 
+Psicopedagogía 0,00 
+Tecnología Médica 0,50 
+Terapia Ocupacional 6,00 
+Trabajo Social 3,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 38,00 
+Técnicos áreas administrativas 0,00 
+Técnicos áreas logísticas e industriales 20,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 0,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 4,00 
+Médicos Anatomía Patológica 4,00 
+Anestesiología 3,00 
+57 
+ 
+Cardiología 4,25 
+Cirugía de Tórax 0,50 
+Cirugía General 3,00 
+Cirugía pediátrica 2,25 
+Cirugía Plástica y Reparadora 1,00 
+Cirugía Vascular Periférica 2,00 
+Coloproctología 1,00 
+Dermatología 3,00 
+Endocrinología Adulto 1,00 
+Enfermedades Respiratorias Adulto 1,00 
+Gastroenterología Adulto 2,50 
+Geriatría 1,00 
+Hematología 1,00 
+Imagenología 4,00 
+Laboratorio Clínico 2,00 
+Medicina de Urgencia 0,00 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 2,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 3,50 
+Medicina Intensiva Pediátrica 1,50 
+Medicina interna 1,00 
+Nefrología Adulto 2,00 
+Nefrología Pediátrica 1,00 
+Neonatología 1,00 
+Neurología Adulto 1,50 
+Neurología Pediátrica 0,00 
+Obstetricia y ginecología 4,50 
+Oftalmología 3,00 
+Otorrinolaringología 2,25 
+Pediatría 2,25 
+Psiquiatría Adulto 0,00 
+Psiquiatría Pediátrica y de la Adolescencia 1,50 
+Reumatología 1,00 
+Salud Pública 0,00 
+Traumatología y Ortopedia 5,00 
+Urología 1,50 
+Odontólogos Cirujanos Dentistas 0,50 
+Químicos Químicos y Farmacéuticos 17,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 0,00 
+Auxiliares Auxiliar 0,00 
+Profesionales 
+Enfermería 0,00 
+Nutrición 0,00 
+Psicología 0,00 
+Tecnología Médica 0,00 
+Trabajo Social 0,00 
+Físico Medico 0,00 
+Técnicos Téc. Paramédicos 0,00 
+Ley 
+19.664 Médicos Radioterapia Oncológica 0,00 
+Total general 354,25 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS). 
+  
+58 
+ 
+7. Servicio de Salud de Viña del Mar-Quillota 
+Tabla 25. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Viña del Mar-Quillota 
+Component
+e Ley Planta Estamento / Especialidad Brecha RHS en 
+JCE 
+COSAM 
+Ley 
+18.83
+4 
+Administrativos Administrativo 10,00 
+Auxiliares Auxiliar 6,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 11,00 
+Profesionales áreas administrativas 4,00 
+Psicología 25,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 13,00 
+Trabajo Social 19,00 
+Técnicos 
+Téc. En Rehabilitación 12,00 
+Téc. Paramédicos 4,00 
+Téc. Farmacia 1,00 
+Téc. Social 9,00 
+Ley 
+19.66
+4 
+Médicos Psiquiatría Adulto 7,75 
+Psiquiatría Pediátrica y de la Adolescencia 3,50 
+Químicos Químicos y Farmacéuticos 3,00 
+Hospitales 
+Ley 
+15.07
+6 
+Médicos 
+Anestesiología 16,00 
+Cirugía General 56,00 
+Cirugía pediátrica 6,00 
+Medicina de Urgencia 9,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 40,00 
+Medicina Intensiva Pediátrica 6,00 
+Medicina interna 41,00 
+Neonatología 11,00 
+Obstetricia y ginecología 20,00 
+Pediatría 27,00 
+Traumatología y Ortopedia 14,00 
+Ley 
+18.83
+4 
+Administrativos Administrativo 278,00 
+Auxiliares Auxiliar 339,00 
+Chofer 3,00 
+Profesionales 
+Educación Parvularia 11,00 
+Enfermería 252,50 
+Fonoaudiología 16,50 
+kinesiología 30,50 
+Matronería 43,00 
+Nutrición 20,50 
+Profesionales áreas administrativas 119,00 
+Profesionales áreas logísticas e 
+industriales 8,50 
+Psicología 37,00 
+Psicopedagogía 2,50 
+Tecnología Médica 39,50 
+Terapia Ocupacional 44,00 
+Trabajo Social 44,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 491,00 
+Técnicos áreas administrativas 175,00 
+Técnicos áreas logísticas e industriales 79,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 15,00 
+59 
+ 
+Component
+e Ley Planta Estamento / Especialidad Brecha RHS en 
+JCE 
+Ley 
+19.66
+4 
+Bioquímicos Bioquímico 8,50 
+Médicos 
+Anatomía Patológica 2,75 
+Anestesiología 12,00 
+Cardiología 13,00 
+Cirugía Cardiovascular 0,25 
+Cirugía de Cabeza y Cuello y Maxilofacial 0,75 
+Cirugía General 31,75 
+Cirugía pediátrica 4,00 
+Cirugía Plástica y Reparadora 0,00 
+Cirugía Vascular Periférica 0,50 
+Coloproctología 0,50 
+Dermatología 6,50 
+Diabetología 0,00 
+Endocrinología Adulto 4,25 
+Endocrinología Pediátrica 0,75 
+Enfermedades Respiratorias Adulto 4,75 
+Enfermedades Respiratorias Pediátricas 1,25 
+Gastroenterología Adulto 6,75 
+Geriatría 0,75 
+Hematología 1,00 
+Imagenología 11,75 
+Infectología 0,75 
+Laboratorio Clínico 2,50 
+Medicina de Urgencia 1,00 
+Medicina Familiar 6,50 
+Medicina física y rehabilitación 2,75 
+Medicina General 6,00 
+Medicina Intensiva Adulto 7,00 
+Medicina Intensiva Pediátrica 2,00 
+Medicina interna 5,75 
+Medicina Paliativa y de Manejo del Dolor 0,00 
+Nefrología Adulto 1,75 
+Neonatología 1,25 
+Neurología Adulto 4,75 
+Neurología Pediátrica 0,25 
+Obstetricia y ginecología 10,50 
+Oftalmología 12,25 
+Otorrinolaringología 6,25 
+Pediatría 0,00 
+Psiquiatría Adulto 12,25 
+Psiquiatría Pediátrica y de la Adolescencia 3,00 
+Reumatología 0,00 
+Salud Pública 1,50 
+Traumatología y Ortopedia 6,75 
+Urología 3,50 
+Odontólogos Cirujanos Dentistas 16,75 
+Químicos Químicos y Farmacéuticos 44,50 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.83
+4 
+Administrativos Administrativo 1,00 
+Auxiliares Auxiliar 1,00 
+Profesionales 
+Enfermería 1,00 
+Téc. Paramédicos 2,00 
+Físico Medico 1,00 
+Ley 
+19.66
+4 
+Médicos 
+Imagenología 1,00 
+Medicina nuclear 2,00 
+Total general 2.705,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).   
+60 
+ 
+8. Servicio de Salud de Aconcagua 
+Tabla 26. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Aconcagua 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 0,00 
+Auxiliares Auxiliar 0,00 
+Chofer 0,00 
+Profesionales 
+Enfermería 0,00 
+Profesionales áreas administrativas 0,00 
+Psicología 0,00 
+Psicopedagogía 0,00 
+Terapia Ocupacional 0,00 
+Trabajo Social 0,00 
+Técnicos 
+Téc. En Rehabilitación 0,00 
+Téc. Paramédicos 0,00 
+Téc. Farmacia 0,00 
+Téc. Social 0,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 0,00 
+Psiquiatría Pediátrica y de la Adolescencia 0,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 0,00 
+Cirugía General 12,00 
+Cirugía pediátrica 1,00 
+Medicina de Urgencia 5,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 18,00 
+Medicina Intensiva Pediátrica 6,00 
+Medicina interna 8,00 
+Neonatología 12,00 
+Neurocirugía 1,00 
+Neurología Adulto 6,00 
+Obstetricia y ginecología 7,00 
+Pediatría 0,00 
+Psiquiatría Adulto 2,00 
+Psiquiatría Pediátrica y de la Adolescencia 0,00 
+Ley 
+18.834 
+Administrativos Administrativo 91,00 
+Auxiliares Auxiliar 126,00 
+Chofer 1,00 
+Profesionales 
+Educación Parvularia 1,00 
+Enfermería 109,00 
+Fonoaudiología 11,00 
+kinesiología 19,00 
+Matronería 6,00 
+Nutrición 8,00 
+Profesionales áreas administrativas 89,00 
+Profesionales áreas logísticas e industriales 23,00 
+Psicología 14,00 
+Psicopedagogía 1,00 
+Tecnología Médica 36,00 
+Terapia Ocupacional 16,00 
+Trabajo Social 4,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 4,00 
+Técnicos 
+Téc. Paramédicos 287,00 
+Técnicos áreas administrativas 34,00 
+Técnicos áreas logísticas e industriales 75,00 
+Téc. Párvulos 1,00 
+61 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 9,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 0,00 
+Médicos 
+Anatomía Patológica 8,25 
+Anestesiología 7,75 
+Cardiología 1,25 
+Cirugía Cardiovascular 2,50 
+Cirugía General 10,25 
+Cirugía pediátrica 0,00 
+Cirugía Plástica y Reparadora 1,25 
+Cirugía Vascular Periférica 1,25 
+Dermatología 0,25 
+Diabetología 0,25 
+Endocrinología Adulto 0,50 
+Enfermedades Respiratorias Adulto 1,75 
+Enfermedades Respiratorias Pediátricas 0,25 
+Gastroenterología Adulto 4,00 
+Gastroenterología Pediátrica 0,00 
+Geriatría 4,75 
+Hematología 1,25 
+Imagenología 11,50 
+Infectología 0,00 
+Laboratorio Clínico 0,50 
+Medicina de Urgencia 1,00 
+Medicina física y rehabilitación 3,00 
+Medicina General 0,50 
+Medicina Intensiva Adulto 1,75 
+Medicina interna 1,00 
+Microbiología 0,00 
+Nefrología Adulto 0,50 
+Neonatología 0,00 
+Neurocirugía 1,00 
+Neurología Adulto 3,50 
+Neurología Pediátrica 0,50 
+Obstetricia y ginecología 5,50 
+Oftalmología 18,25 
+Oncología médica 4,00 
+Otorrinolaringología 8,50 
+Pediatría 0,00 
+Psiquiatría Adulto 16,50 
+Psiquiatría Pediátrica y de la Adolescencia 1,25 
+Reumatología 0,25 
+Salud Pública 0,00 
+Traumatología y Ortopedia 1,00 
+Urología 0,50 
+Odontólogos Cirujanos Dentistas 15,50 
+Químicos Químicos y Farmacéuticos 13,50 
+Total general 1.198,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+  
+62 
+ 
+9. Servicio de Salud de O'Higgins 
+Tabla 27. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. O'Higgins 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 11,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 4,00 
+Cirugía General 24,00 
+Medicina de Urgencia 0,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 12,00 
+Medicina interna 36,00 
+Neonatología 6,00 
+Neurología Adulto 6,00 
+Obstetricia y ginecología 15,00 
+Pediatría 17,00 
+Traumatología y Ortopedia 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 118,00 
+Auxiliares Auxiliar 150,00 
+Chofer 3,00 
+Profesionales 
+Educación Parvularia 3,00 
+Enfermería 177,00 
+Fonoaudiología 13,00 
+kinesiología 1,00 
+Matronería 16,00 
+Nutrición 13,00 
+Profesionales áreas administrativas 88,00 
+Profesionales áreas logísticas e industriales 0,00 
+Psicología 27,00 
+Psicopedagogía 1,50 
+Tecnología Médica 37,00 
+Terapia Ocupacional 23,00 
+Trabajo Social 27,50 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,50 
+Técnicos 
+Téc. Paramédicos 331,00 
+Técnicos áreas administrativas 99,00 
+Técnicos áreas logísticas e industriales 44,00 
+Téc. Párvulos 2,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 22,00 
+Ley 
+19.664 Médicos 
+Anatomía Patológica 2,75 
+Anestesiología 7,50 
+Cardiología 2,50 
+63 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Cirugía de Cabeza y Cuello y Maxilofacial 2,50 
+Cirugía General 3,50 
+Cirugía pediátrica 1,00 
+Cirugía Vascular Periférica 0,75 
+Coloproctología 0,50 
+Dermatología 3,50 
+Endocrinología Adulto 0,75 
+Enfermedades Respiratorias Adulto 0,75 
+Enfermedades Respiratorias Pediátricas 0,50 
+Gastroenterología Adulto 1,75 
+Geriatría 1,00 
+Hematología 1,00 
+Imagenología 3,75 
+Infectología 1,00 
+Medicina de Urgencia 0,00 
+Medicina Familiar 2,50 
+Medicina física y rehabilitación 2,50 
+Medicina General 0,00 
+Medicina Intensiva Adulto 2,50 
+Medicina interna 12,00 
+Nefrología Adulto 2,25 
+Neonatología 0,75 
+Neurología Adulto 0,00 
+Neurología Pediátrica 0,75 
+Obstetricia y ginecología 5,00 
+Oftalmología 4,50 
+Oncología médica 1,50 
+Otorrinolaringología 2,75 
+Pediatría 0,00 
+Psiquiatría Adulto 9,25 
+Psiquiatría Pediátrica y de la Adolescencia 2,50 
+Traumatología y Ortopedia 4,50 
+Urología 2,50 
+Odontólogos Cirujanos Dentistas 10,50 
+Químicos Químicos y Farmacéuticos 12,75 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 1,00 
+Auxiliares Auxiliar 2,00 
+Profesionales Enfermería 12,00 
+kinesiología 1,00 
+Técnicos Téc. Paramédicos 16,00 
+Ley 
+19.664 Médicos Hematología 1,00 
+Medicina interna 6,00 
+Total general 1.541,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+  
+64 
+ 
+10. Servicio de Salud de Maule 
+Tabla 28. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Maule 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 8,00 
+Auxiliares Auxiliar 6,00 
+Chofer 2,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 12,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos 
+Psiquiatría Adulto 4,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 2,00 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 
+Médicos 
+Anestesiología 31,00 
+Cirugía General 39,00 
+Medicina de Urgencia 5,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 71,00 
+Medicina Intensiva Pediátrica 11,00 
+Medicina interna 98,00 
+Neonatología 17,00 
+Neurología Pediátrica 0,00 
+Obstetricia y ginecología 30,00 
+Pediatría 36,00 
+Traumatología y Ortopedia 2,00 
+Odontólogos Cirujanos Dentistas 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 348,00 
+Auxiliares Auxiliar 623,00 
+Chofer 52,00 
+Profesionales 
+Educación Parvularia 9,50 
+Enfermería 642,00 
+Fonoaudiología 27,50 
+kinesiología 107,00 
+Matronería 140,50 
+Nutrición 44,00 
+Profesionales áreas administrativas 268,00 
+Profesionales áreas logísticas e 
+industriales 0,00 
+Psicología 41,00 
+Psicopedagogía 4,00 
+Tecnología Médica 132,00 
+Terapia Ocupacional 68,50 
+Trabajo Social 55,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 1.041,00 
+Técnicos áreas administrativas 143,00 
+Técnicos áreas logísticas e industriales 241,00 
+Téc. Párvulos 0,00 
+65 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 23,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 0,00 
+Médicos 
+Anatomía Patológica 4,00 
+Anestesiología 11,00 
+Cardiología 15,00 
+Cirugía de Cabeza y Cuello y Maxilofacial 0,00 
+Cirugía de Tórax 0,75 
+Cirugía General 9,50 
+Cirugía pediátrica 1,25 
+Cirugía Plástica y Reparadora 0,75 
+Cirugía Vascular Periférica 1,00 
+Coloproctología 1,50 
+Dermatología 5,00 
+Endocrinología Adulto 4,25 
+Endocrinología Pediátrica 1,00 
+Enfermedades Respiratorias Adulto 7,50 
+Enfermedades Respiratorias Pediátricas 1,00 
+Gastroenterología Adulto 14,00 
+Gastroenterología Pediátrica 0,00 
+Geriatría 8,00 
+Hematología 2,50 
+Imagenología 17,50 
+Infectología 1,00 
+Mastología (Cirugía de mamas) 0,00 
+Medicina de Urgencia 6,00 
+Medicina Familiar 6,00 
+Medicina física y rehabilitación 1,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 5,75 
+Medicina Intensiva Pediátrica 0,00 
+Medicina interna 28,25 
+Medicina Materno Fetal 0,00 
+Nefrología Adulto 7,50 
+Nefrología Pediátrica 1,00 
+Neonatología 7,00 
+Neurocirugía 0,50 
+Neurología Adulto 3,50 
+Neurología Pediátrica 0,00 
+Obstetricia y ginecología 10,00 
+Oftalmología 21,00 
+Oncología médica 1,00 
+Otorrinolaringología 13,00 
+Pediatría 0,50 
+Psiquiatría Adulto 6,50 
+Psiquiatría Pediátrica y de la 
+Adolescencia 6,25 
+Reumatología 3,25 
+Salud Pública 0,00 
+Traumatología y Ortopedia 17,50 
+Urología 4,75 
+Odontólogos Cirujanos Dentistas 22,25 
+Químicos Químicos y Farmacéuticos 29,00 
+Total general 4.738,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+  
+66 
+ 
+11. Servicio de Salud de Ñuble 
+Tabla 29. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Ñuble 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 11,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos 
+Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 
+Médicos 
+Anestesiología 0,00 
+Cardiología 0,00 
+Cirugía General 1,00 
+Cirugía pediátrica 0,00 
+Medicina de Urgencia 0,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 48,00 
+Medicina Intensiva Pediátrica 15,00 
+Medicina interna 53,00 
+Nefrología Adulto 0,00 
+Neonatología 0,00 
+Neurocirugía 6,00 
+Neurología Adulto 0,00 
+Obstetricia y ginecología 2,00 
+Pediatría 0,00 
+Traumatología y Ortopedia 10,00 
+Odontólogos Cirujanos Dentistas 5,00 
+Ley 
+18.834 
+Administrativos Administrativo 104,00 
+Auxiliares Auxiliar 205,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 6,00 
+Enfermería 170,00 
+Fonoaudiología 6,50 
+kinesiología 24,00 
+Matronería 35,00 
+Nutrición 25,00 
+Profesionales áreas administrativas 100,50 
+Profesionales áreas logísticas e 
+industriales 0,00 
+Psicología 7,00 
+Psicopedagogía 1,00 
+Tecnología Médica 48,00 
+Terapia Ocupacional 15,50 
+Trabajo Social 6,50 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 2,00 
+Técnicos Téc. Paramédicos 285,00 
+67 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Técnicos áreas administrativas 2,00 
+Técnicos áreas logísticas e industriales 126,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 5,00 
+Ley 
+19.664 
+Médicos 
+Anatomía Patológica 9,25 
+Anestesiología 14,00 
+Cardiología 2,75 
+Cirugía General 6,75 
+Cirugía pediátrica 0,00 
+Cirugía Plástica y Reparadora 0,75 
+Cirugía Vascular Periférica 5,50 
+Dermatología 6,00 
+Diabetología 0,50 
+Endocrinología Adulto 3,00 
+Endocrinología Pediátrica 0,00 
+Enfermedades Respiratorias Adulto 4,00 
+Enfermedades Respiratorias Pediátricas 1,00 
+Gastroenterología Adulto 7,25 
+Gastroenterología Pediátrica 1,00 
+Geriatría 0,00 
+Hematología 12,25 
+Imagenología 8,25 
+Infectología 6,50 
+Inmunología 0,25 
+Medicina de Urgencia 2,25 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 2,25 
+Medicina General 2,00 
+Medicina Intensiva Adulto 3,00 
+Medicina Intensiva Pediátrica 0,00 
+Medicina interna 14,75 
+Medicina legal 0,00 
+Medicina Materno Fetal 0,00 
+Nefrología Adulto 6,00 
+Nefrología Pediátrica 0,75 
+Neonatología 3,50 
+Neurocirugía 0,25 
+Neurología Adulto 6,50 
+Neurología Pediátrica 0,00 
+Obstetricia y ginecología 0,00 
+Oftalmología 8,75 
+Oncología médica 7,25 
+Otorrinolaringología 7,75 
+Pediatría 0,00 
+Psiquiatría Adulto 0,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 0,00 
+Reumatología 3,50 
+Salud Pública 4,00 
+Traumatología y Ortopedia 2,25 
+Urología 6,00 
+Odontólogos Cirujanos Dentistas 5,25 
+Químicos Químicos y Farmacéuticos 21,00 
+Total general 1.575,50 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).   
+68 
+ 
+12. Servicio de Salud de Concepción 
+Tabla 30. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Concepción 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 6,00 
+Cirugía General 14,00 
+Medicina de Urgencia 5,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 6,00 
+Medicina interna 58,00 
+Obstetricia y ginecología 7,00 
+Pediatría 20,00 
+Ley 
+18.834 
+Administrativos Administrativo 60,00 
+Auxiliares Auxiliar 57,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 1,00 
+Enfermería 107,50 
+Fonoaudiología 3,50 
+kinesiología 0,00 
+Matronería 21,00 
+Nutrición 5,00 
+Profesionales áreas administrativas 10,00 
+Profesionales áreas logísticas e industriales 17,00 
+Psicología 15,00 
+Psicopedagogía 0,00 
+Tecnología Médica 36,00 
+Terapia Ocupacional 22,50 
+Trabajo Social 27,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 227,00 
+Técnicos áreas administrativas 47,00 
+Técnicos áreas logísticas e industriales 85,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 0,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 1,00 
+Médicos 
+Anatomía Patológica 2,50 
+Anestesiología 6,00 
+Cardiología 4,75 
+Cirugía General 11,25 
+Cirugía pediátrica 1,75 
+Dermatología 0,50 
+Enfermedades Respiratorias Adulto 2,25 
+Gastroenterología Adulto 4,00 
+Geriatría 0,50 
+Imagenología 1,00 
+Medicina de Urgencia 0,00 
+Medicina Familiar 1,00 
+Medicina física y rehabilitación 2,00 
+Medicina General 0,50 
+Medicina Intensiva Adulto 1,25 
+Medicina Intensiva Pediátrica 0,75 
+Medicina interna 1,75 
+Medicina Paliativa y de Manejo del Dolor 1,00 
+Nefrología Adulto 2,00 
+Neonatología 0,25 
+Neurología Adulto 1,75 
+69 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Neurología Pediátrica 0,00 
+Obstetricia y ginecología 1,50 
+Oftalmología 4,75 
+Otorrinolaringología 2,75 
+Pediatría 0,00 
+Psiquiatría Adulto 2,75 
+Psiquiatría Pediátrica y de la Adolescencia 6,00 
+Traumatología y Ortopedia 2,25 
+Urología 2,50 
+Odontólogos Cirujanos Dentistas 7,75 
+Químicos Químicos y Farmacéuticos 2,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+15.076 Médicos Hematología 0,00 
+Ley 
+18.834 
+Administrativos Administrativo 0,00 
+Auxiliares Auxiliar 0,00 
+Profesionales 
+Enfermería 0,00 
+kinesiología 0,00 
+Psicología 0,00 
+Técnicos Téc. Paramédicos 0,00 
+Ley 
+19.664 Médicos Hematología 0,00 
+Total general 937,50 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS ). 
+ 
+  
+70 
+ 
+13. Servicio de Salud de Arauco  
+Tabla 31. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Arauco 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Hospitales 
+Ley 
+15.076 
+Médicos 
+Anestesiología 6,00 
+Cirugía General 6,00 
+Medicina de Urgencia 6,00 
+Medicina General 6,00 
+Medicina interna 24,00 
+Obstetricia y ginecología 6,00 
+Pediatría 6,00 
+Odontólogos Cirujanos Dentistas 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 63,00 
+Auxiliares Auxiliar 26,00 
+Chofer 3,00 
+Profesionales 
+Educación Parvularia 4,00 
+Enfermería 104,00 
+Fonoaudiología 3,50 
+kinesiología 8,00 
+Matronería 29,00 
+Nutrición 5,00 
+Profesionales áreas administrativas 61,00 
+Profesionales áreas logísticas e industriales 24,00 
+Psicología 8,50 
+Psicopedagogía 3,00 
+Tecnología Médica 38,00 
+Terapia Ocupacional 8,00 
+Trabajo Social 4,50 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 220,00 
+Técnicos áreas administrativas 18,00 
+Técnicos áreas logísticas e industriales 82,00 
+Téc. Párvulos 15,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 10,00 
+Ley 
+19.664 Médicos 
+Anatomía Patológica 3,00 
+Anestesiología 8,50 
+Cardiología 2,25 
+Cirugía de Cabeza y Cuello y Maxilofacial 1,00 
+Cirugía General 5,00 
+Cirugía Vascular Periférica 1,25 
+Dermatología 0,50 
+Diabetología 0,25 
+Gastroenterología Adulto 3,25 
+Geriatría 0,25 
+Imagenología 0,50 
+Medicina de Urgencia 0,50 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 1,00 
+Medicina General 0,00 
+Medicina interna 8,75 
+Nefrología Adulto 1,00 
+Neurología Adulto 6,50 
+Neurología Pediátrica 2,00 
+Obstetricia y ginecología 10,00 
+Oftalmología 7,25 
+Otorrinolaringología 5,50 
+71 
+ 
+Pediatría 2,50 
+Psiquiatría Adulto 3,75 
+Psiquiatría Pediátrica y de la Adolescencia 3,50 
+Traumatología y Ortopedia 5,25 
+Odontólogos Cirujanos Dentistas 12,50 
+Químicos Químicos y Farmacéuticos 7,25 
+Total general 906,50 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS). 
+  
+72 
+ 
+14. Servicio de Salud de Talcahuano 
+Tabla 32. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Talcahuano 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 10,00 
+Auxiliares Auxiliar 8,00 
+Chofer 2,00 
+Profesionales 
+Enfermería 11,00 
+Profesionales áreas administrativas 2,00 
+Psicología 21,00 
+Psicopedagogía 2,00 
+Terapia Ocupacional 14,00 
+Trabajo Social 18,00 
+Técnicos 
+Téc. En Rehabilitación 12,00 
+Téc. Paramédicos 4,00 
+Téc. Farmacia 2,00 
+Téc. Social 10,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 6,00 
+Psiquiatría Pediátrica y de la Adolescencia 3,00 
+Químicos Químicos y Farmacéuticos 2,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 6,00 
+Cirugía General 18,00 
+Medicina de Urgencia 12,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 12,00 
+Medicina interna 15,00 
+Neonatología 6,00 
+Neurología Adulto 6,00 
+Obstetricia y ginecología 6,00 
+Pediatría 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 186,00 
+Auxiliares Auxiliar 135,00 
+Chofer 8,00 
+Profesionales 
+Educación Parvularia 6,00 
+Enfermería 181,00 
+Fonoaudiología 8,50 
+kinesiología 44,50 
+Matronería 16,00 
+Nutrición 22,00 
+Profesionales áreas administrativas 91,00 
+Profesionales áreas logísticas e industriales 29,00 
+Psicología 18,00 
+Psicopedagogía 1,00 
+Tecnología Médica 35,00 
+Terapia Ocupacional 23,50 
+Trabajo Social 7,50 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 405,00 
+Técnicos áreas administrativas 16,00 
+Técnicos áreas logísticas e industriales 125,00 
+Téc. Párvulos 17,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 16,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 1,00 
+Médicos 
+Anatomía Patológica 8,50 
+Anestesiología 1,75 
+Cardiología 1,25 
+73 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Cirugía de Cabeza y Cuello y Maxilofacial 0,50 
+Cirugía General 4,50 
+Cirugía pediátrica 0,50 
+Cirugía Plástica y Reparadora 2,50 
+Cirugía Vascular Periférica 1,50 
+Coloproctología 0,50 
+Dermatología 3,50 
+Diabetología 0,25 
+Endocrinología Adulto 1,25 
+Endocrinología Pediátrica 0,25 
+Enfermedades Respiratorias Adulto 1,50 
+Enfermedades Respiratorias Pediátricas 0,25 
+Gastroenterología Adulto 1,50 
+Geriatría 1,75 
+Hematología 0,50 
+Imagenología 5,50 
+Infectología 0,50 
+Inmunología 0,25 
+Laboratorio Clínico 1,00 
+Medicina de Urgencia 2,00 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 2,75 
+Medicina General 0,00 
+Medicina Intensiva Adulto 1,25 
+Medicina interna 16,00 
+Nefrología Adulto 6,00 
+Neurología Adulto 1,25 
+Neurología Pediátrica 0,75 
+Obstetricia y ginecología 0,00 
+Oftalmología 4,50 
+Oncología médica 1,00 
+Otorrinolaringología 2,00 
+Pediatría 0,00 
+Psiquiatría Adulto 6,25 
+Psiquiatría Pediátrica y de la Adolescencia 1,00 
+Reumatología 1,25 
+Salud Pública 3,75 
+Traumatología y Ortopedia 4,50 
+Urología 2,75 
+Odontólogos Cirujanos Dentistas 14,25 
+Químicos Químicos y Farmacéuticos 19,50 
+Total general 1.736,25 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS). 
+  
+74 
+ 
+15. Servicio de Salud de Biobío  
+Tabla 33. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Biobío 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 5,00 
+Profesionales áreas administrativas 0,00 
+Psicología 10,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos 
+Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 6,00 
+Cirugía General 12,00 
+Medicina de Urgencia 12,00 
+Medicina interna 12,00 
+Obstetricia y ginecología 12,00 
+Pediatría 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 125,00 
+Auxiliares Auxiliar 139,00 
+Chofer 3,00 
+Profesionales 
+Educación Parvularia 3,00 
+Enfermería 170,00 
+Fonoaudiología 12,00 
+kinesiología 17,00 
+Matronería 30,00 
+Nutrición 14,00 
+Profesionales áreas administrativas 91,00 
+Profesionales áreas logísticas e 
+industriales 17,00 
+Psicología 18,00 
+Psicopedagogía 3,00 
+Tecnología Médica 54,00 
+Terapia Ocupacional 22,00 
+Trabajo Social 27,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 2,00 
+Técnicos 
+Téc. Paramédicos 277,00 
+Técnicos áreas administrativas 50,00 
+Técnicos áreas logísticas e industriales 59,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 20,00 
+Ley 
+19.664 Médicos 
+Anatomía Patológica 6,00 
+Anestesiología 4,50 
+Cardiología 2,00 
+Cirugía General 5,00 
+Cirugía Vascular Periférica 1,75 
+Diabetología 2,25 
+75 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Gastroenterología Adulto 2,75 
+Geriatría 2,00 
+Hematología 0,50 
+Imagenología 7,50 
+Laboratorio Clínico 0,50 
+Medicina de Urgencia 2,75 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 5,25 
+Medicina General 11,00 
+Medicina Intensiva Adulto 0,50 
+Medicina interna 8,75 
+Nefrología Adulto 1,00 
+Neurología Adulto 2,00 
+Neurología Pediátrica 1,00 
+Obstetricia y ginecología 7,25 
+Oftalmología 7,00 
+Otorrinolaringología 3,75 
+Pediatría 1,00 
+Psiquiatría Adulto 9,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 4,50 
+Salud Pública 0,00 
+Traumatología y Ortopedia 6,00 
+Urología 3,75 
+Odontólogos Cirujanos Dentistas 19,25 
+Químicos Químicos y Farmacéuticos 10,50 
+Total general 1.413,50 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+  
+76 
+ 
+16. Servicio de Salud de Araucanía Norte 
+Tabla 34. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Araucanía Norte 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 10,00 
+Auxiliares Auxiliar 8,00 
+Chofer 2,00 
+Profesionales 
+Enfermería 12,00 
+Profesionales áreas administrativas 4,00 
+Psicología 22,00 
+Psicopedagogía 2,00 
+Terapia Ocupacional 14,00 
+Trabajo Social 18,00 
+Técnicos 
+Téc. En Rehabilitación 12,00 
+Téc. Paramédicos 4,00 
+Téc. Farmacia 2,00 
+Téc. Social 10,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 6,00 
+Psiquiatría Pediátrica y de la Adolescencia 3,00 
+Químicos Químicos y Farmacéuticos 2,00 
+Hospitales 
+Ley 
+18.834 
+Administrativos Administrativo 8,00 
+Auxiliares Auxiliar 16,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 1,00 
+Enfermería 0,00 
+Fonoaudiología 1,00 
+kinesiología 0,00 
+Matronería 2,00 
+Nutrición 0,00 
+Profesionales áreas administrativas 9,00 
+Profesionales áreas logísticas e industriales 1,00 
+Psicología 0,00 
+Psicopedagogía 0,00 
+Tecnología Médica 3,00 
+Terapia Ocupacional 1,00 
+Trabajo Social 0,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 7,00 
+Técnicos áreas administrativas 3,00 
+Técnicos áreas logísticas e industriales 10,00 
+Téc. Párvulos 3,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 0,00 
+Ley 
+19.664 
+Médicos Medicina General 3,00 
+Odontólogos Cirujanos Dentistas 2,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Total general 201,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+ 
+  
+77 
+ 
+17. Servicio de Salud de Araucanía Sur  
+Tabla 35. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Araucanía Sur 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 11,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos 
+Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 0,00 
+Cirugía General 1,00 
+Medicina de Urgencia 0,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 0,00 
+Medicina interna 10,00 
+Obstetricia y ginecología 1,00 
+Pediatría 9,00 
+Ley 
+18.834 
+Administrativos Administrativo 74,00 
+Auxiliares Auxiliar 96,00 
+Chofer 3,00 
+Profesionales 
+Educación Parvularia 3,00 
+Enfermería 24,00 
+Fonoaudiología 10,00 
+kinesiología 9,00 
+Matronería 34,50 
+Nutrición 6,00 
+Profesionales áreas administrativas 59,00 
+Profesionales áreas logísticas e 
+industriales 4,00 
+Psicología 4,50 
+Psicopedagogía 1,00 
+Tecnología Médica 8,00 
+Terapia Ocupacional 16,00 
+Trabajo Social 28,50 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo 
+diag. y terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 151,00 
+Técnicos áreas administrativas 42,00 
+Técnicos áreas logísticas e 
+industriales 82,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 3,00 
+Ley 
+19.664 Médicos 
+Anestesiología 1,25 
+Cardiología 5,00 
+Cirugía de Tórax 0,00 
+78 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Cirugía General 3,00 
+Cirugía pediátrica 0,00 
+Cirugía Plástica y Reparadora 1,00 
+Cirugía Vascular Periférica 1,50 
+Coloproctología 0,25 
+Dermatología 2,00 
+Gastroenterología Adulto 4,00 
+Imagenología 2,00 
+Inmunología 0,00 
+Medicina de Urgencia 0,00 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 1,00 
+Medicina General 22,00 
+Medicina Intensiva Adulto 0,00 
+Medicina interna 1,25 
+Medicina Materno Fetal 0,00 
+Nefrología Adulto 1,00 
+Neonatología 0,50 
+Neurología Adulto 0,25 
+Neurología Pediátrica 0,75 
+Obstetricia y ginecología 4,25 
+Oftalmología 1,25 
+Oncología médica 1,00 
+Otorrinolaringología 1,50 
+Pediatría 0,00 
+Psiquiatría Adulto 0,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 0,00 
+Traumatología y Ortopedia 2,25 
+Urología 0,50 
+Odontólogos Cirujanos Dentistas 16,75 
+Químicos Químicos y Farmacéuticos 13,00 
+Plan Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 29,00 
+Auxiliares Auxiliar 16,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 0,00 
+Enfermería 36,00 
+Fonoaudiología 0,00 
+kinesiología 3,00 
+Matronería 0,00 
+Nutrición 4,00 
+Profesionales áreas administrativas 8,00 
+Psicología 6,00 
+Psicopedagogía 0,00 
+Tecnología Médica 34,00 
+Terapia Ocupacional 1,00 
+Trabajo Social 7,00 
+Físico Medico 6,00 
+Técnicos 
+Téc. Paramédicos 66,00 
+Técnicos áreas logísticas e 
+industriales 32,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 0,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 2,75 
+Médicos 
+Anatomía Patológica 6,25 
+Anestesiología 0,00 
+Cardiología 0,50 
+Cirugía de Tórax 0,00 
+Cirugía General 2,00 
+79 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Enfermedades Respiratorias Adulto 0,00 
+Gastroenterología Adulto 1,50 
+Gastroenterología Pediátrica 0,00 
+Geriatría 0,50 
+Ginecología Oncológica 0,50 
+Hematología 0,00 
+Imagenología 9,50 
+Medicina Familiar 2,50 
+Medicina física y rehabilitación 0,00 
+Medicina General 0,00 
+Medicina interna 0,00 
+Medicina nuclear 2,00 
+Oncología médica 6,00 
+Pediatría 0,00 
+Psiquiatría Adulto 0,25 
+Radioterapia Oncológica 12,50 
+Urología 0,00 
+Odontólogos Cirujanos Dentistas 2,00 
+Químicos Químicos y Farmacéuticos 10,00 
+Total general 1.139,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS) . 
+ 
+  
+80 
+ 
+18. Servicio de Salud de Los Ríos 
+Tabla 36. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Los Ríos 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 4,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 4,00 
+Profesionales áreas administrativas 2,00 
+Psicología 6,00 
+Psicopedagogía 0,50 
+Terapia Ocupacional 6,00 
+Trabajo Social 8,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 0,00 
+Téc. Farmacia 0,00 
+Téc. Social 4,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 1,50 
+Psiquiatría Pediátrica y de la Adolescencia 0,75 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 18,00 
+Cirugía General 36,00 
+Medicina de Urgencia 24,00 
+Medicina General 6,00 
+Medicina interna 22,00 
+Obstetricia y ginecología 30,00 
+Pediatría 24,00 
+Ley 
+18.834 
+Administrativos Administrativo 294,00 
+Auxiliares Auxiliar 329,00 
+Chofer 13,00 
+Profesionales 
+Educación Parvularia 9,00 
+Enfermería 378,00 
+Fonoaudiología 15,00 
+kinesiología 71,00 
+Matronería 132,00 
+Nutrición 28,00 
+Profesionales áreas administrativas 119,50 
+Profesionales áreas logísticas e industriales 33,00 
+Psicología 51,00 
+Psicopedagogía 3,00 
+Tecnología Médica 94,00 
+Terapia Ocupacional 50,00 
+Trabajo Social 63,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 1,00 
+Técnicos 
+Téc. Paramédicos 801,00 
+Técnicos áreas administrativas 139,00 
+Técnicos áreas logísticas e industriales 207,00 
+Téc. Párvulos 4,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 86,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 1,00 
+Médicos 
+Anatomía Patológica 8,50 
+Anestesiología 29,75 
+Cardiología 6,25 
+Cirugía General 35,75 
+Cirugía pediátrica 3,00 
+Enfermedades Respiratorias Adulto 1,50 
+81 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Gastroenterología Adulto 5,00 
+Geriatría 1,75 
+Imagenología 26,25 
+Laboratorio Clínico 0,25 
+Medicina de Urgencia 1,00 
+Medicina Familiar 1,00 
+Medicina física y rehabilitación 2,00 
+Medicina General 41,75 
+Medicina Intensiva Adulto 0,50 
+Medicina interna 27,75 
+Neurología Adulto 16,50 
+Neurología Pediátrica 2,00 
+Obstetricia y ginecología 37,50 
+Oftalmología 12,00 
+Otorrinolaringología 6,75 
+Pediatría 8,00 
+Psiquiatría Adulto 15,25 
+Psiquiatría Pediátrica y de la Adolescencia 4,25 
+Salud Pública 1,00 
+Traumatología y Ortopedia 29,25 
+Urología 10,00 
+Odontólogos Cirujanos Dentistas 35,00 
+Químicos Químicos y Farmacéuticos 26,50 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 1,00 
+Auxiliares Auxiliar 0,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 1,00 
+kinesiología 0,00 
+Nutrición 1,00 
+Psicología 0,00 
+Trabajo Social 0,00 
+Técnicos Téc. Paramédicos 1,00 
+Ley 
+19.664 Médicos Medicina Familiar 0,00 
+Medicina General 0,00 
+Total general 3.531,25 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+  
+82 
+ 
+19. Servicio de Salud de Osorno 
+Tabla 37. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Osorno 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 0,00 
+Auxiliares Auxiliar 1,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 1,00 
+Profesionales áreas administrativas 0,00 
+Psicología 0,00 
+Psicopedagogía 0,00 
+Terapia Ocupacional 1,00 
+Trabajo Social 1,00 
+Técnicos 
+Téc. En Rehabilitación 2,00 
+Téc. Paramédicos 0,00 
+Téc. Farmacia 0,00 
+Téc. Social 2,00 
+Ley 
+19.664 
+Médicos 
+Psiquiatría Adulto 0,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 0,75 
+Químicos Químicos y Farmacéuticos 0,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 6,00 
+Cirugía General 6,00 
+Medicina de Urgencia 6,00 
+Medicina Intensiva Adulto 6,00 
+Medicina interna 6,00 
+Obstetricia y ginecología 12,00 
+Pediatría 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 108,00 
+Auxiliares Auxiliar 80,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 6,00 
+Enfermería 83,00 
+Fonoaudiología 5,00 
+kinesiología 14,00 
+Matronería 14,00 
+Nutrición 7,00 
+Profesionales áreas administrativas 68,00 
+Profesionales áreas logísticas e 
+industriales 9,50 
+Psicología 20,00 
+Psicopedagogía 2,00 
+Tecnología Médica 34,00 
+Terapia Ocupacional 16,00 
+Trabajo Social 21,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 213,00 
+Técnicos áreas administrativas 35,00 
+Técnicos áreas logísticas e industriales 38,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 9,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 0,50 
+Médicos 
+Anatomía Patológica 4,00 
+Anestesiología 4,75 
+Cardiología 1,25 
+Cirugía Cardiovascular 0,25 
+83 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Cirugía de Cabeza y Cuello y Maxilofacial 0,25 
+Cirugía de Tórax 0,25 
+Cirugía General 5,50 
+Cirugía pediátrica 0,00 
+Cirugía Plástica y Reparadora 0,50 
+Cirugía Vascular Periférica 0,25 
+Coloproctología 0,25 
+Dermatología 0,25 
+Enfermedades Respiratorias Adulto 0,50 
+Enfermedades Respiratorias Pediátricas 0,25 
+Gastroenterología Adulto 2,50 
+Geriatría 1,00 
+Imagenología 8,25 
+Infectología 1,00 
+Medicina de Urgencia 1,00 
+Medicina Familiar 2,00 
+Medicina física y rehabilitación 1,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 0,25 
+Medicina interna 4,75 
+Nefrología Adulto 1,00 
+Neonatología 0,25 
+Neurología Adulto 1,25 
+Neurología Pediátrica 0,25 
+Obstetricia y ginecología 6,25 
+Oftalmología 4,75 
+Otorrinolaringología 1,50 
+Pediatría 0,75 
+Psiquiatría Adulto 6,75 
+Psiquiatría Pediátrica y de la 
+Adolescencia 2,00 
+Salud Pública 0,00 
+Traumatología y Ortopedia 3,25 
+Urología 1,00 
+Odontólogos Cirujanos Dentistas 6,00 
+Químicos Químicos y Farmacéuticos 6,25 
+Total general 922,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS) . 
+ 
+  
+84 
+ 
+20. Servicio de Salud Del Reloncaví 
+Tabla 38. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Del Reloncaví 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 12,00 
+Auxiliares Auxiliar 10,00 
+Chofer 2,00 
+Profesionales 
+Enfermería 14,00 
+Profesionales áreas administrativas 4,00 
+Psicología 25,00 
+Psicopedagogía 2,00 
+Terapia Ocupacional 17,00 
+Trabajo Social 21,00 
+Técnicos 
+Téc. En Rehabilitación 14,00 
+Téc. Paramédicos 5,00 
+Téc. Farmacia 2,00 
+Téc. Social 12,00 
+Ley 
+19.664 
+Médicos 
+Psiquiatría Adulto 7,00 
+Psiquiatría Pediátrica y de la 
+Adolescencia 3,50 
+Químicos Químicos y Farmacéuticos 2,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 6,00 
+Medicina de Urgencia 30,00 
+Medicina interna 24,00 
+Obstetricia y ginecología 6,00 
+Pediatría 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 79,00 
+Auxiliares Auxiliar 128,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 5,00 
+Enfermería 136,00 
+Fonoaudiología 3,00 
+kinesiología 11,00 
+Matronería 37,00 
+Nutrición 10,00 
+Profesionales áreas administrativas 26,00 
+Profesionales áreas logísticas e 
+industriales 13,00 
+Psicología 13,00 
+Psicopedagogía 1,00 
+Tecnología Médica 30,00 
+Terapia Ocupacional 9,00 
+Trabajo Social 13,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo 
+diag. y terapéutico 1,00 
+Técnicos 
+Téc. Paramédicos 319,00 
+Técnicos áreas administrativas 30,00 
+Técnicos áreas logísticas e 
+industriales 22,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 0,00 
+Ley 
+19.664 Médicos 
+Anatomía Patológica 1,00 
+Anestesiología 7,50 
+Cardiología 1,75 
+Cirugía de Cabeza y Cuello y 
+Maxilofacial 0,25 
+Cirugía General 5,75 
+85 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Cirugía pediátrica 2,25 
+Cirugía Plástica y Reparadora 0,25 
+Cirugía Vascular Periférica 0,25 
+Dermatología 0,50 
+Endocrinología Pediátrica 0,25 
+Enfermedades Respiratorias Adulto 0,25 
+Enfermedades Respiratorias 
+Pediátricas 0,25 
+Gastroenterología Adulto 0,50 
+Imagenología 3,00 
+Infectología 0,25 
+Medicina física y rehabilitación 1,00 
+Medicina General 13,75 
+Medicina Intensiva Pediátrica 0,50 
+Medicina interna 7,00 
+Neonatología 1,00 
+Obstetricia y ginecología 5,75 
+Oftalmología 4,00 
+Otorrinolaringología 2,50 
+Pediatría 1,00 
+Psiquiatría Adulto 1,50 
+Traumatología y Ortopedia 4,00 
+Urología 1,25 
+Odontólogos Cirujanos Dentistas 7,50 
+Químicos Químicos y Farmacéuticos 7,50 
+Plan Nacional de 
+Cáncer 
+Ley 
+15.076 Médicos Hematología 12,00 
+Ley 
+18.834 
+Administrativos Administrativo 30,00 
+Auxiliares Auxiliar 24,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 0,00 
+Enfermería 37,00 
+Fonoaudiología 3,00 
+kinesiología 17,00 
+Matronería 0,00 
+Nutrición 1,00 
+Profesionales áreas administrativas 13,00 
+Psicología 8,00 
+Tecnología Médica 25,00 
+Terapia Ocupacional 4,00 
+Trabajo Social 5,00 
+Físico Medico 8,00 
+Otros Profesionales áreas apoyo 
+diag. y terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 93,00 
+Técnicos áreas administrativas 4,00 
+Técnicos áreas logísticas e 
+industriales 8,00 
+Ley 
+19.664 Médicos 
+Anatomía Patológica 0,00 
+Anestesiología 1,00 
+Cirugía General 0,00 
+Coloproctología 1,00 
+Gastroenterología Adulto 2,50 
+Geriatría 0,00 
+Hematología 4,00 
+Imagenología 6,00 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 2,25 
+Medicina General 0,00 
+86 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Medicina interna 0,00 
+Medicina nuclear 4,25 
+Medicina Paliativa y de Manejo del 
+Dolor 9,00 
+Obstetricia y ginecología 4,00 
+Oncología médica 5,50 
+Pediatría 0,00 
+Psiquiatría Adulto 0,00 
+Radioterapia Oncológica 7,50 
+Urología 2,00 
+Odontólogos Cirujanos Dentistas 5,00 
+Químicos Químicos y Farmacéuticos 11,00 
+Total general 1.549,75 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+ 
+  
+87 
+ 
+21. Servicio de Salud de Chiloé 
+Tabla 39. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Chiloé 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 1,00 
+Auxiliares Auxiliar 0,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 1,00 
+Profesionales áreas administrativas 0,00 
+Psicología 1,00 
+Psicopedagogía 0,00 
+Terapia Ocupacional 0,00 
+Trabajo Social 1,00 
+Técnicos 
+Téc. En Rehabilitación 0,00 
+Téc. Paramédicos 0,00 
+Téc. Farmacia 0,00 
+Téc. Social 0,00 
+Ley 
+19.664 
+Médicos 
+Psiquiatría Adulto 0,50 
+Psiquiatría Pediátrica y de la 
+Adolescencia 0,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Hospitales 
+Ley 
+15.076 
+Médicos 
+Anestesiología 4,00 
+Cirugía General 14,00 
+Medicina de Urgencia 5,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 11,00 
+Medicina Intensiva Pediátrica 6,00 
+Medicina interna 32,00 
+Neonatología 5,00 
+Obstetricia y ginecología 11,00 
+Pediatría 16,00 
+Odontólogos Cirujanos Dentistas 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 151,00 
+Auxiliares Auxiliar 248,00 
+Chofer 27,00 
+Profesionales 
+Educación Parvularia 9,00 
+Enfermería 221,00 
+Fonoaudiología 12,00 
+kinesiología 27,00 
+Matronería 25,50 
+Nutrición 13,50 
+Profesionales áreas administrativas 155,00 
+Profesionales áreas logísticas e 
+industriales 14,00 
+Psicología 19,00 
+Psicopedagogía 2,50 
+Tecnología Médica 65,50 
+Terapia Ocupacional 31,00 
+Trabajo Social 21,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 471,00 
+Técnicos áreas administrativas 123,00 
+Técnicos áreas logísticas e industriales 163,00 
+Téc. Párvulos 7,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 16,00 
+Bioquímicos Bioquímico 0,00 
+88 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Ley 
+19.664 
+Médicos 
+Anatomía Patológica 9,50 
+Anestesiología 9,50 
+Cardiología 6,00 
+Cirugía de Cabeza y Cuello y Maxilofacial 0,50 
+Cirugía de Tórax 0,50 
+Cirugía General 11,50 
+Cirugía pediátrica 1,75 
+Cirugía Plástica y Reparadora 0,50 
+Cirugía Vascular Periférica 2,50 
+Coloproctología 0,00 
+Dermatología 2,50 
+Endocrinología Adulto 0,50 
+Endocrinología Pediátrica 0,00 
+Enfermedades Respiratorias Adulto 2,50 
+Enfermedades Respiratorias Pediátricas 0,50 
+Gastroenterología Adulto 5,75 
+Gastroenterología Pediátrica 0,00 
+Geriatría 0,50 
+Hematología 10,75 
+Imagenología 9,00 
+Medicina de Urgencia 2,00 
+Medicina Familiar 3,00 
+Medicina física y rehabilitación 3,00 
+Medicina General 5,00 
+Medicina Intensiva Adulto 5,00 
+Medicina Intensiva Pediátrica 1,25 
+Medicina interna 12,75 
+Nefrología Adulto 2,50 
+Neonatología 2,00 
+Neurocirugía 3,75 
+Neurología Adulto 2,50 
+Neurología Pediátrica 1,50 
+Obstetricia y ginecología 6,50 
+Oftalmología 7,50 
+Oncología médica 6,25 
+Otorrinolaringología 4,00 
+Pediatría 0,00 
+Psiquiatría Adulto 7,25 
+Psiquiatría Pediátrica y de la 
+Adolescencia 1,75 
+Reumatología 1,50 
+Salud Pública 1,50 
+Traumatología y Ortopedia 9,75 
+Urología 4,00 
+Odontólogos Cirujanos Dentistas 10,25 
+Químicos Químicos y Farmacéuticos 20,25 
+Total general 2.136,50 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS). 
+ 
+  
+89 
+ 
+22. Servicio de Salud de Aysén 
+Tabla 40. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Aysén 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 2,00 
+Auxiliares Auxiliar 1,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 3,00 
+Profesionales áreas administrativas 2,00 
+Psicología 5,00 
+Psicopedagogía 0,00 
+Terapia Ocupacional 3,00 
+Trabajo Social 5,00 
+Técnicos 
+Téc. En Rehabilitación 2,00 
+Téc. Paramédicos 0,00 
+Téc. Farmacia 1,00 
+Téc. Social 2,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 1,00 
+Psiquiatría Pediátrica y de la Adolescencia 0,00 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+18.834 
+Administrativos Administrativo 13,00 
+Auxiliares Auxiliar 27,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 1,00 
+Enfermería 10,00 
+Fonoaudiología 0,00 
+kinesiología 0,00 
+Matronería 3,00 
+Nutrición 1,00 
+Profesionales áreas administrativas 7,00 
+Profesionales áreas logísticas e industriales 0,00 
+Psicología 1,00 
+Psicopedagogía 0,00 
+Tecnología Médica 3,00 
+Terapia Ocupacional 1,00 
+Trabajo Social 2,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 17,00 
+Técnicos áreas administrativas 10,00 
+Técnicos áreas logísticas e industriales 14,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 1,00 
+Ley 
+19.664 
+Médicos Medicina Familiar 1,00 
+Medicina General 12,00 
+Odontólogos Cirujanos Dentistas 2,75 
+Químicos Químicos y Farmacéuticos 0,00 
+Total general 155,75 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+  
+90 
+ 
+23. Servicio de Salud de Magallanes  
+Tabla 41. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Magallanes 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 6,00 
+Auxiliares Auxiliar 8,00 
+Chofer 2,00 
+Profesionales 
+Enfermería 7,00 
+Profesionales áreas administrativas 2,00 
+Psicología 12,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 11,00 
+Trabajo Social 15,00 
+Técnicos 
+Téc. En Rehabilitación 12,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 2,00 
+Téc. Social 9,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 2,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 1,00 
+Auxiliares Auxiliar 1,00 
+Profesionales 
+Enfermería 1,00 
+Tecnología Médica 1,00 
+Físico Medico 1,00 
+Técnicos Téc. Paramédicos 3,00 
+Ley 
+19.664 Médicos Anestesiología 0,50 
+Radioterapia Oncológica 1,00 
+Total general 105,00 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+  
+91 
+ 
+24. Servicio de Salud Metropolitano Oriente 
+Tabla 42. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Metropolitano Oriente 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 11,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 2,00 
+Cirugía General 0,00 
+Geriatría 15,00 
+Medicina de Urgencia 10,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 67,00 
+Medicina Intensiva Pediátrica 12,00 
+Medicina interna 136,00 
+Nefrología Adulto 0,00 
+Neurocirugía 3,00 
+Neurología Adulto 13,00 
+Neurología Pediátrica 0,00 
+Pediatría 26,00 
+Traumatología y Ortopedia 5,00 
+Ley 
+18.834 
+Administrativos Administrativo 293,00 
+Auxiliares Auxiliar 293,00 
+Chofer 21,00 
+Profesionales 
+Educación Parvularia 0,00 
+Enfermería 460,00 
+Fonoaudiología 68,50 
+kinesiología 271,50 
+Matronería 0,00 
+Nutrición 49,00 
+Profesionales áreas administrativas 105,50 
+Profesionales áreas logísticas e industriales 26,00 
+Psicología 36,00 
+Psicopedagogía 0,00 
+Tecnología Médica 124,00 
+Terapia Ocupacional 123,50 
+Trabajo Social 36,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 4,00 
+Técnicos 
+Téc. Paramédicos 1.083,00 
+Técnicos áreas administrativas 53,00 
+Técnicos áreas logísticas e industriales 163,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 45,00 
+92 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Ley 
+19.664 
+Bioquímicos Bioquímico 11,00 
+Médicos 
+Anatomía Patológica 9,25 
+Anestesiología 25,00 
+Cardiología 2,25 
+Cirugía de Cabeza y Cuello y Maxilofacial 0,75 
+Cirugía General 5,50 
+Cirugía pediátrica 1,50 
+Cirugía Plástica y Reparadora 4,50 
+Cirugía Vascular Periférica 0,50 
+Coloproctología 0,50 
+Dermatología 3,25 
+Diabetología 0,50 
+Endocrinología Adulto 0,25 
+Enfermedades Respiratorias Adulto 6,00 
+Enfermedades Respiratorias Pediátricas 1,00 
+Gastroenterología Adulto 3,25 
+Geriatría 11,50 
+Hematología 5,00 
+Imagenología 15,00 
+Infectología 4,00 
+Inmunología 0,50 
+Laboratorio Clínico 1,25 
+Medicina de Urgencia 0,00 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 52,25 
+Medicina General 10,00 
+Medicina Intensiva Adulto 6,25 
+Medicina Intensiva Pediátrica 1,25 
+Medicina interna 25,25 
+Medicina nuclear 0,00 
+Medicina Paliativa y de Manejo del Dolor 0,00 
+Microbiología 0,00 
+Nefrología Adulto 2,00 
+Neurocirugía 25,25 
+Neurología Adulto 5,75 
+Neurología Pediátrica 2,25 
+Neurorradiología 15,00 
+Nutrición Clínica 0,00 
+Obstetricia y ginecología 0,00 
+Oftalmología 6,00 
+Oncología médica 3,25 
+Otorrinolaringología 8,75 
+Pediatría 5,50 
+Psiquiatría Adulto 7,25 
+Psiquiatría Pediátrica y de la Adolescencia 2,00 
+Reumatología 0,75 
+Salud Pública 3,25 
+Traumatología y Ortopedia 8,75 
+Urología 5,75 
+Odontólogos Cirujanos Dentistas 16,00 
+Químicos Químicos y Farmacéuticos 43,50 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 3,00 
+Auxiliares Auxiliar 3,00 
+Profesionales 
+Enfermería 9,00 
+Nutrición 2,00 
+Tecnología Médica 0,00 
+Técnicos Téc. Paramédicos 5,00 
+Ley 
+19.664 Médicos Medicina interna 1,00 
+Oncología médica 2,50 
+93 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Químicos Químicos y Farmacéuticos 2,00 
+Total general 4.005,25 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS). 
+ 
+  
+94 
+ 
+25. Servicio de Salud Metropolitano Central 
+Tabla 43. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Metropolitano Central 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 2,00 
+Auxiliares Auxiliar 2,00 
+Chofer 0,00 
+Profesionales 
+Enfermería 2,00 
+Profesionales áreas administrativas 0,00 
+Psicología 3,00 
+Psicopedagogía 0,00 
+Terapia Ocupacional 3,00 
+Trabajo Social 3,00 
+Técnicos 
+Téc. En Rehabilitación 2,00 
+Téc. Paramédicos 1,00 
+Téc. Farmacia 0,00 
+Téc. Social 2,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 1,50 
+Psiquiatría Pediátrica y de la Adolescencia 0,00 
+Químicos Químicos y Farmacéuticos 0,00 
+Total general 21,50 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+  
+95 
+ 
+26. Servicio de Salud Metropolitano Sur 
+Tabla 44. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Metropolitano Sur 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 2,00 
+Auxiliares Auxiliar 2,00 
+Chofer 0,00 
+Profesionales 
+Enfermería 2,00 
+Profesionales áreas administrativas 0,00 
+Psicología 3,00 
+Psicopedagogía 0,00 
+Terapia Ocupacional 3,00 
+Trabajo Social 3,00 
+Técnicos 
+Téc. En Rehabilitación 2,00 
+Téc. Paramédicos 1,00 
+Téc. Farmacia 0,00 
+Téc. Social 2,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 1,00 
+Psiquiatría Pediátrica y de la Adolescencia 0,50 
+Químicos Químicos y Farmacéuticos 0,00 
+Hospitales 
+Ley 
+15.076 
+Médicos 
+Anestesiología 2,00 
+Cardiología 9,00 
+Cirugía General 43,00 
+Medicina de Urgencia 46,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 44,00 
+Medicina interna 48,00 
+Neonatología 34,00 
+Neurocirugía 0,00 
+Neurología Adulto 0,00 
+Obstetricia y ginecología 12,00 
+Pediatría 10,00 
+Psiquiatría Adulto 2,00 
+Traumatología y Ortopedia 6,00 
+Odontólogos Cirujanos Dentistas 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 204,00 
+Auxiliares Auxiliar 551,00 
+Chofer 7,00 
+Profesionales 
+Educación Parvularia 24,00 
+Enfermería 651,50 
+Fonoaudiología 20,00 
+kinesiología 88,00 
+Matronería 147,50 
+Nutrición 32,50 
+Profesionales áreas administrativas 221,00 
+Profesionales áreas logísticas e industriales 1,00 
+Psicología 21,00 
+Psicopedagogía 0,00 
+Tecnología Médica 112,00 
+Terapia Ocupacional 31,50 
+Trabajo Social 53,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 1.321,00 
+Técnicos áreas administrativas 26,00 
+Técnicos áreas logísticas e industriales 34,00 
+Téc. Párvulos 17,00 
+96 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 15,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 1,00 
+Médicos 
+Anatomía Patológica 4,75 
+Anestesiología 11,50 
+Cardiología 2,50 
+Cirugía General 48,50 
+Cirugía pediátrica 2,00 
+Cirugía Plástica y Reparadora 1,00 
+Cirugía Vascular Periférica 1,75 
+Coloproctología 1,00 
+Dermatología 7,25 
+Enfermedades Respiratorias Adulto 2,00 
+Enfermedades Respiratorias Pediátricas 0,25 
+Gastroenterología Adulto 3,00 
+Geriatría 0,75 
+Ginecología Pediátrica y de la Adolescencia 0,00 
+Imagenología 3,25 
+Inmunología 0,00 
+Laboratorio Clínico 1,00 
+Medicina de Urgencia 0,00 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 1,50 
+Medicina General 0,00 
+Medicina Intensiva Adulto 14,00 
+Medicina Intensiva Pediátrica 6,00 
+Medicina interna 36,75 
+Nefrología Adulto 4,00 
+Neonatología 1,00 
+Neurocirugía 17,00 
+Neurología Adulto 3,25 
+Neurorradiología 0,00 
+Nutrición Clínica 0,00 
+Obstetricia y ginecología 19,50 
+Oftalmología 18,50 
+Oncología médica 2,50 
+Otorrinolaringología 15,75 
+Pediatría 0,00 
+Psiquiatría Adulto 7,50 
+Psiquiatría Pediátrica y de la Adolescencia 0,00 
+Salud Pública 0,00 
+Traumatología y Ortopedia 12,50 
+Urología 6,75 
+Odontólogos Cirujanos Dentistas 14,00 
+Químicos Químicos y Farmacéuticos 10,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 0,00 
+Auxiliares Auxiliar 0,00 
+Profesionales 
+Enfermería 1,00 
+kinesiología 1,00 
+Matronería 0,00 
+Tecnología Médica 2,00 
+Físico Medico 1,00 
+Técnicos Téc. Paramédicos 2,00 
+Ley 
+19.664 Médicos 
+Anestesiología 1,00 
+Imagenología 0,00 
+Radioterapia Oncológica 1,00 
+Total general 4.152,50 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+97 
+ 
+ 
+ 
+  
+98 
+ 
+27. Servicio de Salud Metropolitano Norte 
+Tabla 45. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Metropolitano Norte 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 6,00 
+Cirugía General 18,00 
+Geriatría 24,00 
+Medicina de Urgencia 36,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 36,00 
+Medicina Intensiva Pediátrica 6,00 
+Medicina interna 20,00 
+Neonatología 6,00 
+Obstetricia y ginecología 18,00 
+Pediatría 18,00 
+Traumatología y Ortopedia 6,00 
+Ley 
+18.834 
+Administrativos Administrativo 196,00 
+Auxiliares Auxiliar 246,00 
+Chofer 6,00 
+Profesionales 
+Educación Parvularia 6,00 
+Enfermería 279,50 
+Fonoaudiología 7,00 
+kinesiología 58,50 
+Matronería 29,00 
+Nutrición 20,00 
+Profesionales áreas administrativas 58,00 
+Profesionales áreas logísticas e 
+industriales 13,00 
+Psicología 10,00 
+Psicopedagogía 0,00 
+Tecnología Médica 94,00 
+Terapia Ocupacional 20,00 
+Trabajo Social 12,50 
+Físico Medico 2,00 
+Otros Profesionales áreas apoyo 
+diag. y terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 812,00 
+Técnicos áreas administrativas 52,00 
+Técnicos áreas logísticas e 
+industriales 118,00 
+Téc. Párvulos 8,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 2,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 0,50 
+Médicos 
+Anatomía Patológica 3,00 
+Anestesiología 22,25 
+Cardiología 4,25 
+Cirugía de Cabeza y Cuello y 
+Maxilofacial 7,25 
+Cirugía de Tórax 2,50 
+Cirugía Digestiva 8,75 
+Cirugía General 9,75 
+Cirugía pediátrica 3,75 
+Cirugía Plástica y Reparadora 0,75 
+Cirugía Vascular Periférica 1,25 
+Dermatología 4,00 
+Endocrinología Adulto 1,50 
+Enfermedades Respiratorias Adulto 2,00 
+99 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Enfermedades Respiratorias 
+Pediátricas 1,25 
+Gastroenterología Adulto 2,75 
+Genética Clínica 1,00 
+Geriatría 5,00 
+Hematología 5,75 
+Imagenología 6,25 
+Infectología 1,50 
+Laboratorio Clínico 1,50 
+Mastología (Cirugía de mamas) 8,25 
+Medicina de Urgencia 1,00 
+Medicina Familiar 7,50 
+Medicina física y rehabilitación 4,25 
+Medicina General 2,00 
+Medicina Intensiva Adulto 1,50 
+Medicina Intensiva Pediátrica 0,50 
+Medicina interna 18,00 
+Medicina nuclear 4,50 
+Medicina Paliativa y de Manejo del 
+Dolor 2,75 
+Nefrología Adulto 1,75 
+Neurocirugía 0,50 
+Neurología Adulto 2,25 
+Neurología Pediátrica 1,75 
+Nutrición Clínica 0,00 
+Obstetricia y ginecología 17,25 
+Oftalmología 8,00 
+Oncología médica 7,25 
+Otorrinolaringología 4,00 
+Pediatría 7,75 
+Psiquiatría Adulto 7,75 
+Psiquiatría Pediátrica y de la 
+Adolescencia 1,25 
+Radioterapia Oncológica 3,25 
+Salud Pública 13,25 
+Traumatología y Ortopedia 16,50 
+Urología 5,00 
+Odontólogos Cirujanos Dentistas 22,50 
+Químicos Químicos y Farmacéuticos 7,50 
+Plan Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 0,00 
+Auxiliares Auxiliar 0,00 
+Profesionales Enfermería 0,00 
+Tecnología Médica 0,00 
+Técnicos Téc. Paramédicos 1,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 1,00 
+Médicos Laboratorio Clínico 0,00 
+Total general 2.519,75 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+  
+100 
+ 
+28. Servicio de Salud Metropolitano Occidente 
+Tabla 46. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Metropolitano 
+Occidente 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 10,00 
+Auxiliares Auxiliar 8,00 
+Chofer 2,00 
+Profesionales 
+Enfermería 12,00 
+Profesionales áreas administrativas 4,00 
+Psicología 22,00 
+Psicopedagogía 2,00 
+Terapia Ocupacional 14,00 
+Trabajo Social 18,00 
+Técnicos 
+Téc. En Rehabilitación 12,00 
+Téc. Paramédicos 4,00 
+Téc. Farmacia 2,00 
+Téc. Social 10,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 6,00 
+Psiquiatría Pediátrica y de la Adolescencia 3,00 
+Químicos Químicos y Farmacéuticos 2,00 
+Hospitales 
+Ley 
+15.076 Médicos 
+Anestesiología 9,00 
+Cirugía General 12,00 
+Medicina de Urgencia 25,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 12,00 
+Medicina Intensiva Pediátrica 12,00 
+Medicina interna 8,00 
+Obstetricia y ginecología 8,00 
+Pediatría 7,00 
+Psiquiatría Adulto 6,00 
+Traumatología y Ortopedia 12,00 
+Ley 
+18.834 
+Administrativos Administrativo 98,00 
+Auxiliares Auxiliar 163,00 
+Chofer 2,00 
+Profesionales 
+Educación Parvularia 6,00 
+Enfermería 124,00 
+Fonoaudiología 1,50 
+kinesiología 13,50 
+Matronería 11,00 
+Nutrición 12,00 
+Profesionales áreas administrativas 50,50 
+Profesionales áreas logísticas e industriales 0,00 
+Psicología 12,00 
+Psicopedagogía 1,50 
+Tecnología Médica 27,00 
+Terapia Ocupacional 10,50 
+Trabajo Social 22,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 280,00 
+Técnicos áreas administrativas 0,00 
+Técnicos áreas logísticas e industriales 69,00 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 5,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 4,00 
+Médicos Anatomía Patológica 2,50 
+101 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Anestesiología 5,25 
+Cardiología 4,50 
+Cirugía General 9,25 
+Cirugía pediátrica 1,50 
+Coloproctología 0,50 
+Dermatología 1,25 
+Diabetología 1,00 
+Enfermedades Respiratorias Adulto 0,25 
+Gastroenterología Adulto 5,00 
+Geriatría 0,75 
+Imagenología 2,50 
+Laboratorio Clínico 1,00 
+Medicina de Urgencia 0,00 
+Medicina física y rehabilitación 1,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 2,50 
+Medicina Intensiva Pediátrica 2,00 
+Medicina interna 11,75 
+Nefrología Adulto 2,00 
+Neonatología 1,25 
+Neurocirugía 0,25 
+Neurología Adulto 3,75 
+Neurología Pediátrica 1,00 
+Obstetricia y ginecología 15,50 
+Oftalmología 4,25 
+Otorrinolaringología 2,25 
+Pediatría 2,50 
+Psiquiatría Adulto 0,00 
+Psiquiatría Pediátrica y de la Adolescencia 2,50 
+Reumatología 1,25 
+Salud Pública 2,00 
+Traumatología y Ortopedia 1,25 
+Urología 3,00 
+Odontólogos Cirujanos Dentistas 6,00 
+Químicos Químicos y Farmacéuticos 9,75 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 0,00 
+Auxiliares Auxiliar 2,00 
+Profesionales Tecnología Médica 1,00 
+Físico Medico 2,00 
+Técnicos Téc. Paramédicos 3,00 
+Ley 
+19.664 Médicos 
+Cardiología 0,50 
+Imagenología 1,00 
+Medicina nuclear 2,75 
+Radioterapia Oncológica 0,50 
+Total general 1.278,25 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+  
+102 
+ 
+29. Servicio de Salud de Metropolitano Sur Oriente 
+Tabla 47. Brecha de Recursos Humanos en Jornada Completa Equivalente S.S. Metropolitano Sur 
+Oriente 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+COSAM 
+Ley 
+18.834 
+Administrativos Administrativo 5,00 
+Auxiliares Auxiliar 4,00 
+Chofer 1,00 
+Profesionales 
+Enfermería 6,00 
+Profesionales áreas administrativas 2,00 
+Psicología 11,00 
+Psicopedagogía 1,00 
+Terapia Ocupacional 7,00 
+Trabajo Social 9,00 
+Técnicos 
+Téc. En Rehabilitación 6,00 
+Téc. Paramédicos 2,00 
+Téc. Farmacia 1,00 
+Téc. Social 5,00 
+Ley 
+19.664 
+Médicos Psiquiatría Adulto 3,00 
+Psiquiatría Pediátrica y de la Adolescencia 1,50 
+Químicos Químicos y Farmacéuticos 1,00 
+Hospitales 
+Ley 
+15.076 
+Médicos 
+Anestesiología 12,00 
+Cirugía General 34,00 
+Cirugía pediátrica 14,00 
+Geriatría 0,00 
+Medicina de Urgencia 58,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 97,00 
+Medicina Intensiva Pediátrica 27,00 
+Medicina interna 32,00 
+Neonatología 20,00 
+Neurocirugía 0,00 
+Neurología Adulto 0,00 
+Obstetricia y ginecología 18,00 
+Pediatría 18,00 
+Traumatología y Ortopedia 12,00 
+Odontólogos Cirujanos Dentistas 2,00 
+Ley 
+18.834 
+Administrativos Administrativo 253,00 
+Auxiliares Auxiliar 644,00 
+Chofer 0,00 
+Profesionales 
+Educación Parvularia 6,00 
+Enfermería 583,00 
+Fonoaudiología 14,00 
+kinesiología 114,00 
+Matronería 139,00 
+Nutrición 34,00 
+Profesionales áreas administrativas 108,00 
+Profesionales áreas logísticas e industriales 6,00 
+Psicología 28,50 
+Psicopedagogía 1,00 
+Tecnología Médica 121,00 
+Terapia Ocupacional 22,50 
+Trabajo Social 40,00 
+Físico Medico 0,00 
+Otros Profesionales áreas apoyo diag. y 
+terapéutico 0,00 
+Técnicos 
+Téc. Paramédicos 1.350,00 
+Técnicos áreas administrativas 54,00 
+Técnicos áreas logísticas e industriales 73,00 
+103 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Téc. Párvulos 0,00 
+Otros Técnicos áreas apoyo diag. y 
+terapéutico 10,00 
+Ley 
+19.664 
+Bioquímicos Bioquímico 7,75 
+Médicos 
+Anatomía Patológica 5,00 
+Anestesiología 23,25 
+Cardiología 12,25 
+Cirugía Cardiovascular 1,00 
+Cirugía de Cabeza y Cuello y Maxilofacial 1,00 
+Cirugía de Tórax 1,25 
+Cirugía Digestiva 0,00 
+Cirugía General 16,75 
+Cirugía pediátrica 3,00 
+Cirugía Plástica y Reparadora 2,00 
+Cirugía Vascular Periférica 12,75 
+Coloproctología 6,00 
+Dermatología 19,00 
+Diabetología 0,00 
+Endocrinología Adulto 7,25 
+Endocrinología Pediátrica 0,00 
+Enfermedades Respiratorias Adulto 2,25 
+Enfermedades Respiratorias Pediátricas 0,00 
+Gastroenterología Adulto 14,00 
+Gastroenterología Pediátrica 0,00 
+Genética Clínica 0,00 
+Geriatría 0,00 
+Ginecología Oncológica 0,00 
+Ginecología Pediátrica y de la Adolescencia 0,00 
+Hematología 3,75 
+Imagenología 10,25 
+Infectología 2,00 
+Laboratorio Clínico 0,00 
+Mastología (Cirugía de mamas) 2,50 
+Medicina de Urgencia 4,00 
+Medicina del Adolescente 0,00 
+Medicina Familiar 0,00 
+Medicina física y rehabilitación 10,00 
+Medicina General 0,00 
+Medicina Intensiva Adulto 8,00 
+Medicina Intensiva Pediátrica 3,25 
+Medicina interna 21,00 
+Medicina Materno Fetal 0,00 
+Medicina nuclear 0,00 
+Medicina Paliativa y de Manejo del Dolor 0,00 
+Microbiología 0,50 
+Nefrología Adulto 8,00 
+Nefrología Pediátrica 0,00 
+Neonatología 4,25 
+Neurocirugía 6,25 
+Neurología Adulto 9,25 
+Neurología Pediátrica 0,00 
+Neurorradiología 0,00 
+Nutrición Clínica 0,25 
+Obstetricia y ginecología 20,50 
+Oftalmología 56,50 
+Oncología médica 0,00 
+Otorrinolaringología 35,00 
+Pediatría 6,00 
+Psiquiatría Adulto 9,00 
+104 
+ 
+Componente Ley Planta Estamento / Especialidad Brecha RHS en JCE 
+Psiquiatría Pediátrica y de la Adolescencia 0,00 
+Radioterapia Oncológica 2,75 
+Reumatología 11,75 
+Salud Pública 1,75 
+Traumatología y Ortopedia 17,00 
+Urología 12,75 
+Odontólogos Cirujanos Dentistas 11,50 
+Químicos Químicos y Farmacéuticos 20,00 
+Plan 
+Nacional de 
+Cáncer 
+Ley 
+18.834 
+Administrativos Administrativo 4,00 
+Profesionales 
+Enfermería 9,00 
+Tecnología Médica 7,00 
+Físico Medico 5,00 
+Técnicos Téc. Paramédicos 16,00 
+Ley 
+19.664 
+Médicos 
+Hematología 0,50 
+Imagenología 2,00 
+Medicina nuclear 2,00 
+Radioterapia Oncológica 9,50 
+Químicos Químicos y Farmacéuticos 3,00 
+Total general 4.500,75 
+Fuente: Elaboración propia Departamento de Planificación de Recursos Humanos (RHS).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

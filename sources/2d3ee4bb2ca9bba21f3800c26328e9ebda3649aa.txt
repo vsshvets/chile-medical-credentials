@@ -1,0 +1,491 @@
+66          
+aRtÍCUlo de ReViSiÓn
+Correspondencia:
+Marcela Cisternas M.
+email: mcisterm@uc.cl
+Rev chil reumatol 2025; 41(3):66-71
+https://doi.org/10.58450/rcr.v41i3.152
+Educación Médica de Posgrado: avances y desafíos
+Postgraduate medical education: advances and challenges
+Marcela Cisternas M.1
+1Vicedecana, Facultad de Medicina, Departamento de Inmunología Clínica y Reumatología Pontificia Universidad Católica de Chile.
+RESUMEN
+Introducción: La educación médica de posgrado en Chile 
+enfrenta transformaciones significativas debido a cambios tecno-
+lógicos, epidemiológicos y sociales, junto con una creciente de-
+manda de especialistas. Objetivo: Analizar los avances y desafíos 
+de la formación médica de posgrado en Chile, con énfasis en la 
+especialidad de reumatología. Desarrollo: En las últimas décadas, 
+la educación médica ha evolucionado hacia modelos basados en 
+competencias, incorporando tecnologías educativas, procesos de 
+acreditación y metodologías activas de aprendizaje. Sin embargo, 
+persisten limitaciones en la duración de los programas, el acceso 
+equitativo a los cupos, la disponibilidad de campos clínicos y el 
+bienestar de los residentes. La acreditación de especialidades, a 
+cargo de la Comisión Nacional de Acreditación, constituye una he-
+rramienta clave para garantizar la calidad y la pertinencia social de 
+los programas. En el ámbito de la reumatología, la oferta formativa 
+sigue siendo limitada y los especialistas se concentran en la Re-
+gión Metropolitana, generando inequidades de acceso en regiones 
+extremas. Conclusiones: La formación de especialistas en Chile 
+requiere programas estructurados, de calidad, con metodologías 
+activas y evaluaciones objetivas, además de un ambiente educativo 
+que favorezca el desarrollo integral y el profesionalismo médico. 
+En reumatología, el monitoreo de brechas permitiría orientar mejor 
+los programas y reducir inequidades en el acceso a la atención.
+Palabras clave:
+educación médica,
+posgrado,
+especialidades médicas,
+reumatología,
+acreditación.
+ABSTRACT
+Introduction: Postgraduate medical education in Chile is un-
+dergoing significant changes due to technological, epidemiological, 
+and social shifts, as well as the growing demand for specialists. 
+Objective: To analyze the advances and challenges of postgraduate 
+medical training in Chile, with an emphasis on the field of rheuma-
+tology. Development: Over the past decades, medical education 
+has shifted toward competency-based models, incorporating edu-
+cational technologies, accreditation processes, and active learning 
+methodologies. Nevertheless, challenges remain regarding program 
+duration, equitable access to training positions, availability of 
+clinical training sites, and residents’ well-being. The accreditation 
+of specialties, led by the National Accreditation Commission, has 
+become a key mechanism to ensure quality and social relevance. In 
+rheumatology, training opportunities remain limited, and specialists 
+are concentrated in the Metropolitan Region, creating inequities 
+in access for patients in remote areas. Conclusions: Specialist 
+training in Chile requires well-structured, high-quality programs, 
+with active learning methodologies, objective evaluations, and 
+supportive educational environments that foster professionalism 
+and holistic development. In rheumatology, systematic monitoring 
+of gaps would provide guidance for training programs and help 
+reduce inequities in access to care.
+Keywords:
+medical education,
+postgraduate,
+medical specialties,
+rheumatology,
+accreditation.
+         67
+aRtÍCUlo de ReViSiÓn
+Introducción
+L
+a medicina es una ciencia dinámica, en permanente 
+evolución. Los avances tecnológicos, el desarrollo de 
+la genómica, la inteligencia artificial, la crisis sanitaria 
+provocada por la pandemia de COVID-19, así como los cambios 
+epidemiológicos, climáticos y poblacionales, han transformado 
+la práctica clínica y generado nuevos desafíos para la atención 
+sanitaria.
+Los cambios sociales y culturales también han modificado 
+las expectativas de la sociedad y de los pacientes en relación 
+con la atención de salud, consolidando el modelo de “medicina 
+centrada en el paciente”. Este enfoque prioriza los valores, ob-
+jetivos y preferencias de las personas, integrándolos en la toma 
+de decisiones clínicas para ofrecer un cuidado personalizado y 
+humanizado, en lugar de centrarse únicamente en la enfermedad1.
+La educación médica enfrenta actualmente desafíos sin 
+precedentes, pero también oportunidades transformadoras. Las 
+Escuelas de Medicina deben formar profesionales capaces de 
+responder a las necesidades de salud de la sociedad, situando al 
+paciente y sus expectativas en el centro del proceso formativo. 
+Los atributos deseados del médico han evolucionado, generando 
+cambios en los objetivos y expectativas de la formación. Hoy se 
+espera que los profesionales sean competentes, conscientes de 
+sí mismos, con capacidad de autorregulación y de aprendizaje 
+continuo a lo largo de su vida laboral2.
+En Chile, el número de escuelas de medicina ha crecido drás-
+ticamente en las últimas décadas. En 2023, existían 26 escuelas y 
+36 sedes/programas, con 18.774 estudiantes cursando medicina 
+y 2.607 titulados 3. Además, cada año cerca de 3.500 médicos 
+extranjeros rinden el Examen Único Nacional de Conocimientos 
+de Medicina (EUNACOM).
+En 2012, el país contaba con una tasa de 1,7 médicos por 
+cada mil habitantes, muy por debajo de la recomendación de 
+la OCDE, de 3,2. Con el aumento de egresados y la llegada de 
+médicos extranjeros, la cifra ascendió a 65.737 profesionales 
+con licencia en 2023, con una tasa de 3,13 por mil habitantes. 
+Para 2026 se proyecta una tasa de 4 por mil4.
+Pese a este crecimiento, las listas de espera siguen siendo un 
+problema de salud pública en Chile y en el mundo. Existen dos 
+tipos: aquellas vinculadas a patologías GES (Garantías Explícitas 
+en Salud), con plazos legales de atención, y las listas no GES, 
+que incluyen consultas de especialidad o cirugías electivas. En 
+la última década, la lista no GES ha aumentado sostenidamente, 
+superando los 2,5 millones de casos en 2024. Asimismo, las ga-
+rantías retrasadas crecieron significativamente tras la pandemia. 
+En 2023, fallecieron en Chile más de 15 mil personas esperando 
+una consulta de especialidad5.
+Uno de los factores que influyen en esta brecha es el déficit 
+de especialistas. Según la Superintendencia de Salud, en 2022 
+había 31.491 médicos con especialidad y 30.652 sin ella. Per-
+sisten graves inequidades de acceso en algunas regiones y en 
+determinadas especialidades. Además, el 54% de los especialistas 
+se concentra en el sector privado, donde se estima una razón 
+de 3,3 especialistas por cada mil afiliados, frente a 0,8 en el 
+sistema público6.
+En este contexto, la educación médica de posgrado debe 
+enfrentar el reto de formar suficientes especialistas, con sólida 
+preparación académica, ética profesional y una distribución equi-
+tativa que garantice acceso oportuno a la atención especializada.
+En reumatología, aunque no existen cifras oficiales del número 
+exacto de especialistas activos, se estima que Chile cuenta con 
+alrededor de 300 reumatólogos, entre adultos y pediátricos. 
+Según el registro de prestadores de salud, 286 médicos están 
+acreditados como reumatólogos/as, ya sea por universidades 
+que imparten la subespecialidad o por la Comisión Nacional de 
+Certificación de Especialidades Médicas (CONACEM).
+La distribución geográfica es desigual: la mayoría de los 
+reumatólogos se concentra en la Región Metropolitana, mientras 
+que en regiones extremas como Aysén, Magallanes o Arica y 
+Parinacota la disponibilidad es escasa o inexistente. Esto genera 
+inequidades de acceso, listas de espera prolongadas y migración 
+de pacientes hacia centros urbanos. Sin embargo, los datos 
+específicos sobre brechas en patologías reumatológicas aún no 
+están claramente establecidos y al intentar analizar los datos, 
+la especialidad aparece muchas veces como agregada en “otras 
+especialidades”, sin registrar números exactos.
+Actualmente, tres universidades imparten programas de for-
+mación en reumatología en pacientes adultos. Estos tienen una 
+duración de cuatro semestres y corresponden a subespecialidades 
+derivadas de la medicina interna. A pesar de que la oferta anual 
+de cupos es reducida (entre 6 y 12) y se reconoce la falta de 
+estos especialistas, en los últimos años no se han llenado todas 
+las vacantes.
+Educación médica de posgrado
+En las últimas dos décadas, la educación médica de posgrado 
+en Chile ha transitado hacia modelos más estructurados y basados 
+en competencias. La incorporación de tecnologías educativas, el 
+fortalecimiento de procesos de acreditación y la diversificación de 
+escenarios formativos han mejorado la calidad de la enseñanza.
+Se estima que el conocimiento médico se duplica cada 
+cuatro años, lo que exige un proceso de aprendizaje constante 
+y dinámico impulsado por el propio estudiante 7. Las escuelas 
+de medicina deben enseñar no solo el acceso al conocimiento, 
+sino también su análisis crítico, la aplicación de la evidencia y 
+el aprendizaje autónomo.
+Factores que inciden en la formación de especialistas
+a) Duración de los programas: La mayoría de las especialidades 
+dura tres años y las subespecialidades, dos. Actualmente, existe 
+la tendencia a acortar los tiempos mediante programas combi-
+68          
+aRtÍCUlo de ReViSiÓn
+nados, lo que permite formar profesionales en menor tiempo 
+para responder a las necesidades del país. Como ejemplo, en la 
+Pontificia Universidad Católica de Chile se ofrecen programas 
+de 4 años en geriatría, nutrición clínica y diabetes, medicina 
+intensiva del niño, medicina intensiva del adulto, radio-
+oncología, urología, cirugía pediátrica, neurología pediátrica, 
+y neonatología. El gran desafío para los centros formadores 
+es que reciben residentes de medicina con distinta madurez y 
+nivel de formación, debiendo ser capaces no sólo de formar, 
+sino también, de nivelar en competencias y conocimientos.
+b) Acceso y Financiamiento: El financiamiento de los programas 
+de formación es limitado, dependiendo actualmente mayorita-
+riamente del MINSAL, quién define cada año a través de sus 
+distintos concursos los cupos a ofertar. El acceso a los cupos 
+al egreso del pregrado está determinado por el ranking de los 
+estudiantes a nivel nacional, que resulta de un puntaje que 
+incluye las notas de pregrado, el EUNACOM, la investigación 
+desarrollada, las ayudantías y otras actividades realizadas 
+durante sus estudios.
+ Este sistema, que busca en su esencia garantizar la equidad e 
+imparcialidad, genera un alto nivel de competencia entre los 
+estudiantes de pregrado y las Escuelas de Medicina, y genera 
+el riesgo de establecerse como un incentivo “instrumental”, 
+desviándose del real objetivo de la formación de calidad, 
+constituyéndose también en un factor que determina burnout 
+y malestar estudiantil.
+ Las Universidades, en menor proporción, ofrecen programas de 
+formación directos. Muchos de estos cupos son autofinanciados, 
+lo que puede establecerse como una barrera de acceso a aquellos 
+estudiantes con condiciones socioeconómicas más vulnerables, 
+desafiando la equidad e igualdad de oportunidades.
+ Otro desafío es garantizar el tiempo protegido dedicado a 
+la formación en la especialidad, dado la necesidad de los 
+médicos de generar recursos económicos cuando el programa 
+es autofinanciado o el salario no se ajusta a las necesidades 
+del profesional.
+c) Calidad de la formación: Es fundamental que los programas 
+cuenten con las herramientas necesarias para una formación 
+de calidad, que debe ser guiado por un perfil de egreso y/o 
+metas de aprendizaje. Para esto es necesario que cuenten con 
+docentes en número y experticia adecuada, campos clínicos 
+diversos y suficientes, acceso a metodologías de aprendizaje 
+activas y centradas en el estudiante que complementen la 
+práctica clínica. Es fundamental también que cuenten con 
+evaluaciones sistemáticas y objetivas, formando no sólo en lo 
+técnico y disciplinar, sino también en humanismo y profesio-
+nalismo médico. La acreditación de los programas, proceso 
+que hoy realiza la Comisión Nacional de Acreditación (CNA), 
+debiera ser el resultado de un continuo de aseguramiento de 
+la calidad de los posgrados, que culmina con la acreditación. 
+ Se requieren una importante disponibilidad de recurso huma-
+no, técnico y financiero, para mantener el proceso continuo 
+de aseguramiento de la calidad y que permita realizar un real 
+seguimiento y autoevaluación de cada programa de formación, 
+lo que tensiona a las Escuelas de Medicina que muchas veces 
+no cuentan con los recursos suficientes.
+d) Metodologías de aprendizaje: Las competencias de la me-
+dicina, como toda adquisición de habilidades, se desarrolla 
+siguiendo una curva de aprendizaje, donde a mayor ejercicio 
+y desarrollo de la competencia, hay menor error y mejores 
+resultados. Desde hace ya muchos años, las Escuelas de 
+Medicina cuentan con centros de simulación, diversos y 
+de alta resolución, que permite el entrenamiento seguro 
+de competencias. La simulación debe ser entendida como 
+una transición al desarrollo de las competencias clínicas, 
+velando por la seguridad de los pacientes. Es por esto que la 
+disponibilidad de campos clínicos diversos, con especialistas 
+“tutores” que supervisen los aprendizajes y que cumplan el 
+rol de modelo en la atención de los pacientes, es fundamental 
+para la formación de médicos especialistas.
+ La disponibilidad y acceso a campos clínicos es un tema 
+complejo para las Escuelas de Medicina, dado las restricciones 
+derivadas de la capacidad formadora y la gran demanda que 
+existe por ellos. Esto ha determinado un desafío, dado que 
+los escenarios simulados son herramientas que forman parte 
+de la curva de aprendizaje, pero que no deben reemplazar el 
+entrenamiento clínico, especialmente a nivel de posgrado.
+e) Bienestar y ambiente educacional: Es una preocupación cre-
+ciente, tanto en estudiantes, residentes como en profesionales 
+de la salud, los altos índices de burnout y problemas de salud 
+mental que se reportan. Las causas subyacentes a esto son 
+variadas y diversas. En el caso de los estudiantes y residentes 
+de especialidades/subespecialidades médicas, además de la 
+alta carga “laboral” con jornadas y horarios extensos, se ha 
+descrito con mayor frecuencia en los últimos años como 
+relevantes el “maltrato” por parte de los profesionales de la 
+salud. En el último año, la Superintendencia de Educación 
+Superior, coordinándose con las Facultades de Medicina, 
+han desarrollado normativas para velar por el buen trato 
+en campos clínicos y mecanismos para prevenir el acoso y 
+las malas prácticas. Mas allá de lo que se desarrolle a nivel 
+estatal, es un deber ético y moral de las Escuelas de Medicina 
+y los campos clínicos formadores velar por el bienestar y el 
+desarrollo de sus estudiantes, entendiendo que sólo se puede 
+desarrollar profesionalismo médico (empatía, honestidad, 
+compasión, liderazgo) cuando el ambiente educacional/
+social modela y valora el desarrollo de estas competencias. 
+Es también importante la educación en el autocuidado y el 
+manejo de las emociones y conductas.
+Formación de especialistas: diseño curricular
+El modelo tradicional de educación en las especialidades 
+médicas (tiempo-servicio) se basa en el cumplimiento de un 
+         69
+aRtÍCUlo de ReViSiÓn
+número de años y rotaciones clínicas. Se enfoca en la experiencia 
+clínica supervisada, y sus evaluaciones son principalmente en el 
+“desempeño en la asistencia”. Aunque funcional, este modelo 
+tiene limitaciones para asegurar la calidad de la formación entre 
+los egresados, y tiene poco énfasis en habilidades “transversales”.
+Desde hace un par de décadas, en respuesta a las demandas de 
+responsabilidad social, profesionalismo y atención a la seguridad 
+del paciente, se han aceptado y difundido distintos modelos 
+de aprendizaje para las especialidades médicas, basados en 
+competencias. Algunos ejemplos son el Outcomes for graduates 
+(Reino Unido), Scottish Doctor (Escocia), Good Medical Prac-
+tice (Australia), ACGME Outcomes Project (Estados Unidos) 
+y CanMEDS (Canadá).
+En estos modelos se establece un marco de competencias 
+con descripciones lógicas y memorables de las habilidades que 
+necesita un profesional de la salud. Estas competencias consti-
+tuyen el marco descriptivo general de la profesión, e identifican 
+habilidades y roles que debe desarrollar un especialista. Las 
+competencias definen y guían la organización curricular, la 
+elección de métodos de aprendizaje, herramientas de evaluación, 
+y las decisiones sobre cuándo se logra la competencia8.
+La Escuela de Medicina de la Pontificia Universidad Católica 
+de Chile establece para sus 75 programas de especialidades 
+médicas un perfil de egreso que describe: El residente UC, se 
+caracterizará por demostrar un sello de excelencia en el ejer-
+cicio de su profesión, actuando con autonomía, prudencia 
+y benevolencia en una práctica centrada en el paciente y su 
+familia, y desde el año 2014 establece el modelo CanMEDS 
+para el logro de este perfil.
+El modelo CanMEDS (Canadian Medical Education Direc-
+tions for Specialists ) fue desarrollado el año 1996 (y revisado el 
+año 2005 y 2015) por el Royal College of physicians de Canadá. 
+Este modelo se enfoca en definir las habilidades necesarias que 
+deben desarrollar todos los médicos para ejercer conforme a los 
+requerimientos de sus pacientes y su familia, las comunidades 
+y sociedad a la que sirven y comprende siete habilidades que 
+representan los roles del médico: Médico Experto, Comunica -
+dor, Colaborador, Líder, Promotor de la Salud, Académico y 
+Profesional9.
+Los roles definen las competencias que debe desarrollar y 
+demostrar el especialista al finalizar el programa:
+a) En el rol de “Médico Experto”, se  integran todos los Roles 
+CanMEDS, aplicando el conocimiento médico, las habilida-
+des clínicas y los valores profesionales en la entrega de una 
+atención de alta calidad centrada en el paciente. En este Rol 
+se definen las competencias específicas de la disciplina.
+b) Como “Comunicador”, el especialista se relaciona con los 
+pacientes y su entorno para facilitar la recopilación y la entrega 
+de información esencial para una atención de salud de cali -
+dad: comunicación efectiva, establecer relación terapéutica 
+profesional, entregar información jerarquizada y ajustada, 
+entre otras.
+c) Como “Colaborador”, el especialista demuestra capacidad 
+para trabajar de forma efectiva con otros miembros del equipo 
+de salud, para proveer un servicio de alta calidad, seguro y 
+centrado en el paciente.
+d) Como “Líder”, se compromete a contribuir en el desarrollo 
+de un sistema de salud de calidad, haciéndose responsable 
+por la entrega de una atención de excelencia a los pacientes 
+y su entorno.
+e) Como “Promotor de la salud”, contribuye a la mejora de la 
+salud a través de su experticia e influencia al trabajar con 
+pacientes y comunidades. El/la especialista busca determinar 
+y entender las necesidades de las personas a las que presta 
+servicios para representarlos frente a otros cuando sea nece-
+sario y así apoyar la movilización de los recursos pertinentes 
+para promover cambios.
+f) Como “Académico”, demuestra compromiso con la exce -
+lencia en la práctica, a través del aprendizaje continuo y 
+la docencia, evaluando la evidencia y participando en el 
+desarrollo de conocimiento.
+g) Como “Profesional”, se compromete con la salud y el 
+bienestar de los pacientes y la sociedad, lo que se observa a 
+través de una práctica ética, con altos estándares de conducta 
+individual, responsabilidad con la profesión y la sociedad, 
+autorregulación de la profesión y preocupación por el propio 
+bienestar.
+El aprendizaje del residente se realiza a través del trabajo 
+que desarrolla en los distintos contextos laborales y debe 
+complementarse con metodologías activas que conlleven 
+actividades específicas para desarrollar aquellas competencias 
+que no se pueden trabajar de forma planificada y explícita en 
+el día a día.
+Las metodologías activas deben estar planificadas dentro de 
+los itinerarios formativos y deben seleccionarse acorde a las 
+competencias a desarrollar.
+Hoy se disponen de una amplia variedad de metodologías 
+activas dirigidas a favorecer estos aprendizajes para alcanzar una 
+formación integral, como el aprendizaje basado en problemas, 
+la simulación, realidad virtual e inmersiva, la gamificación entre 
+otros. Se puede revisar en la literatura médica orientaciones 
+claras para alinear la competencia que se pretende desarrollar 
+con la metodología  más adecuada10.
+En la educación basada en competencias se espera que el 
+aprendizaje sea demostrado con resultados, que los estudiantes 
+pueden exponer a partir de aquello que saben con base en el cono-
+cimiento; que dichos resultados reflejen habilidades, actitudes y 
+conocimientos teórico-prácticos desarrollados por el profesional, 
+y que la evaluación esté basada en la ratificación de resultados 
+fundados en estándares. Es por esto que hoy se cuentan con una 
+variedad de instrumentos de evaluación, sumativos y formativos, 
+ajustados para demostrar la adquisición de las competencias 
+planificadas.
+70          
+aRtÍCUlo de ReViSiÓn
+Acreditación
+Con la puesta en funciones de la nueva ley de Educación 
+Superior (Ley 21.091), la CNA es el único acreditador de las 
+Especialidades Médicas (EEMM) y Odontológicas (EEOO) 
+que ofrecen las universidades chilenas. Si bien es un proceso 
+voluntario, el Ministerio de Salud establece, por decreto, que 
+la acreditación de la especialidad será requisito para que sus 
+egresados puedan registrarse como prestadores del Estado.
+Los mecanismos y procesos de acreditación se consideran 
+esenciales para garantizar la calidad de la educación, apoyar 
+la mejora de los programas y la promoción de la diversidad, 
+equidad y salud de la población. Los procesos de acreditación 
+contribuyen a mejorar los resultados de salud de un país, dado 
+que buscan alinear los currículums con las necesidades de salud 
+de la población11.
+El año 2024, el Ministerio de Educación estableció que 365 
+programas de especialidades médicas, de 21 Universidades, eran 
+sujeto de acreditación por la CNA.
+Los criterios de acreditación de la CNA establecen 9 criterios, 
+operacionalizados en cinco dimensiones. Cada criterio, a su vez, 
+tiene tres niveles de logro12.
+1. Docencia y resultados del proceso de formación (perfil de 
+egreso, requisitos de ingreso, currículo y cuerpo académico).
+2. Gestión estratégica y recursos institucionales (entorno insti-
+tucional, organización interna, infraestructura y recursos).
+3. Aseguramiento interno de la calidad (capacidad de autorre -
+gulación y mejora continua).
+4. Vinculación con el medio (colaboración nacional e interna -
+cional).
+5. Investigación, creación e innovación.
+Para la Especialidad de Reumatología, la Universidad de 
+Chile y la Pontificia Universidad Católica de Chile se encuentran 
+en proceso de acreditación. El programa de la Universidad de 
+Los Andes aún no tiene egresados, por lo que no ha iniciado el 
+proceso.
+Conclusiones
+La educación médica debe responder y alinearse con los 
+cambios sanitarios locales y globales.
+Nuestro país tiene brechas claras en la atención sanitaria, una 
+de ellas es la falta de especialistas médicos, siendo mayor para 
+algunas disciplinas y en las regiones más extremas.
+Es fundamental que las Universidades y Escuelas de Medicina 
+desarrollen programas de especialidad de calidad, alineados con 
+las necesidades de salud de la población de Chile, para formar 
+no sólo al número necesario de especialistas para cubrir las 
+necesidades sanitarias, sino para entregar una mejor calidad de 
+atención. Dentro de la formación de profesionales, es funda-
+mental la formación no sólo en lo técnico y disciplinar, sino en 
+las competencias de profesionalismo médico, contribuyendo a 
+afianzar los modelos de atención de medicina centrada en los 
+pacientes.
+Dado que el tiempo de formación es acotado, los programas 
+deben estar muy bien estructurados, con metodologías activas 
+adecuadas, con evaluaciones acordes a las metodologías em-
+pleadas, en un ambiente educacional que potencie el desarrollo 
+integral y equilibrado de sus estudiantes. El modelo de educación 
+por competencias ha sido el más ampliamente desarrollado y 
+difundido en los programas de residencias médicas.
+En el caso de la Reumatología, es importante analizar y 
+evaluar las razones de la falta de postulantes a la especialidad y 
+generar incentivos para lograr completar las vacantes. También, 
+es necesario contar con mejores registros de las brechas en las 
+patologías reumatológicas, lo que permitiría cuantificar las 
+diferencias evitables con los recursos disponibles y aminorar las 
+inequidades de acceso, así como entregar una mejor orientación a 
+los programas para definir no sólo las vacantes sino para adecuar 
+la formación y alinearla a las necesidades del país.
+Referencias bibliográficas
+1. Klimesch, A., Martinez-Pereira, A., Topf, C., Härter, M., Scholl, I., & 
+Bravo, P. (2023). Conceptualization of patient-centered care in Latin 
+America: A scoping review. Health Expectations, 26(5), 1820-1831. 
+https://doi.org/10.1111/hex.13797
+2. Mann, K. V . (2011). Theoretical perspectives in medical education: 
+Past experience and future possibilities. Medical Education, 45(1), 
+60-68. https://doi.org/10.1111/j.1365-2923.2010.03757.x
+3. Subsecretaría de Educación Superior (Chile). (s.f.). Portal Mi Futuro. 
+Recuperado de http://www.mifuturo.cl
+4. O’Ryan, M., & Roncagliolo, P. (2024). Formación presente y futuro de 
+médicos/as para Chile: ¿Cuántos y para qué? Revista Médica de Chile, 
+152(8), 909-926. https://doi.org/10.4067/s0034-98872024000800909
+5. Ministerio de Salud (Chile). (2024). Glosa 06, letras a), b), c), d), i) y 
+j). Segundo trimestre 2024. Recuperado de https://www.minsal.cl
+6. Clínicas de Chile A.G. (2016). Dimensionamiento del sector de salud 
+privado en Chile. Recuperado de https://www.clinicasdechile.cl
+7. Densen, P. (2011). Challenges and opportunities facing medical 
+education. Transactions of the American Clinical and Climatological 
+Association, 122, 48-58. PMID: 21686208
+8. Frank, J. R., Mungroo, R., Ahmad, Y ., Wang, M., De Rossi, S., 
+& Horsley, T. (2010). Toward a definition of competency-based 
+education in medicine: A systematic review of published definitions. 
+Medical Teacher, 32(8), 631-637. https://doi.org/10.3109/014215
+9X.2010.500898
+9. Royal College of Physicians and Surgeons of Canada. (2015). 
+CanMEDS Framework. Recuperado de https://www.royalcollege.ca
+10. Morán-Barrios, J., Ruiz de Gauna, P., Ruiz Lázaro, P. M., & Calvo, 
+R. (2020). Metodologías complementarias de aprendizaje para la 
+         71
+aRtÍCUlo de ReViSiÓn
+adquisición de competencias en la formación de especialistas y 
+actividades profesionales confiables. Educación Médica, 21(5), 
+328–337. https://doi.org/10.1016/j.edumed.2020.02.001
+11. The role of accreditation in 21st century health professions education: 
+Report of an International Consensus Group. BMC Medical 
+Education, 20(Suppl 1), 305. https://doi.org/10.1186/s12909-020-
+02121-5
+12. Comisión Nacional de Acreditación (CNA). (2024). Criterios de 
+acreditación de especialidades médicas. Recuperado de https://www.
+cnachile.cl
