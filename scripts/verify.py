@@ -33,6 +33,14 @@ def _tier_a(host: str) -> bool:
 # Reporting that a page is out of date is not the same as being out of date.
 DECOY_LANES = {"L12"}
 
+# The 17-Aug-2026 change is about ONE thing: who may recognise or revalidate a foreign degree.
+# A claim can be dated before that and be perfectly current — a closed 2025 job posting, a 2014
+# Contraloría opinion, an exam rule. Blocking those is a false positive that trains you to ignore
+# the gate. So the staleness gate applies only where the change actually reaches.
+REGIME_SUBJECT = re.compile(
+    r"decreto\s*174|21\.?325|dfl\s*3|revalidaci|reconocimient|"
+    r"who may (recognise|recognize|revalidate)|recognition authority|monopol", re.I)
+
 
 def _corroborated() -> dict:
     """Claims whose substance was independently confirmed from primary text by the orchestrator.
@@ -50,22 +58,23 @@ def _corroborated() -> dict:
 CORROBORATED = _corroborated()
 
 
-def _reached_reader(statement: str) -> bool:
-    """Did this claim's substance actually get into the document the reader sees?
+def _regime_exempt() -> dict:
+    """Claims legitimately tagged PRE that do not assert the superseded rule.
 
-    A stale claim sitting in the research ledger cannot mislead anyone; a stale claim in README.md
-    can. Matching on the distinctive rare tokens of the statement is deliberately loose — it errs
-    towards flagging, which is the safe direction for a gate.
+    An earlier version of this gate tried to decide automatically whether a claim had "reached the
+    reader" by looking for its words in the document. The claims are written in ENGLISH and the
+    document is in UKRAINIAN, so it never matched and the gate silently passed everything — a
+    check that cannot fail is worse than no check. Replaced with a declared list: every exemption
+    is a row someone had to write and justify.
     """
-    docs = " ".join((REPO / d).read_text(encoding="utf-8")
-                    for d in ("README.md",) if (REPO / d).exists()).lower()
-    toks = [t for t in re.findall(r"[A-Za-zÁÉÍÓÚÑáéíóúñ0-9]{6,}", statement.lower())
-            if t not in ("universidad", "revalidacion", "revalidación", "reconocimiento",
-                         "decreto", "chilean", "foreign", "medicine", "medicina", "chile")]
-    if not toks:
-        return True
-    hits = sum(1 for t in set(toks) if t in docs)
-    return hits >= max(3, len(set(toks)) // 3)
+    import csv as _csv
+    f = REPO / "data/regime-exemptions.csv"
+    if not f.exists():
+        return {}
+    return {r["claim_id"]: r["reason"] for r in _csv.DictReader(f.open(encoding="utf-8"))}
+
+
+REGIME_EXEMPT = _regime_exempt()
 
 FAIL = []          # blockers
 WARN = []
@@ -176,15 +185,19 @@ def gate_regime():
         if not is_legal:
             continue
         legal += 1
-        if (side == "PRE" and not any(c["id"].startswith(d) for d in DECOY_LANES)
-                and _reached_reader(c.get("statement", ""))):
+        in_scope = bool(REGIME_SUBJECT.search(
+            (r.get("norm") or "") + " " + (c.get("statement") or "")))
+        if (side == "PRE" and in_scope
+                and not any(c["id"].startswith(d) for d in DECOY_LANES)
+                and f"{lane}/{c['id']}" not in REGIME_EXEMPT):
             pre.append((lane, c["id"], c["statement"][:80]))
         if side in ("", "UNKNOWN"):
             blank.append((lane, c["id"], c["statement"][:80]))
         dates = [(s.get("date_of_content") or "").strip().upper() for s in c.get("sources") or []]
         if side == "POST" and dates and all(d in ("", "UNDATED") or d < REGIME_DATE for d in dates):
             undated.append((lane, c["id"], c["statement"][:80]))
-    print(f"\n[regime] {legal} legal claims · {len(pre)} tagged PRE · {len(blank)} undateable · "
+    print(f"\n[regime] {legal} legal claims · {len(pre)} tagged PRE (blocking) · "
+          f"{len(REGIME_EXEMPT)} exempted by data/regime-exemptions.csv · {len(blank)} undateable · "
           f"{len(undated)} POST claims resting only on pre-{REGIME_DATE}/undated sources")
     for grp, lbl in ((pre, "PRE-REGIME"), (blank, "UNDATEABLE"), (undated, "STALE-SUPPORT")):
         for lane, cid, st in grp[:8]:

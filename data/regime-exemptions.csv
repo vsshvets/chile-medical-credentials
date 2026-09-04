@@ -1,0 +1,6 @@
+claim_id,reason
+claude/L02-C21,"Reports that Universidad de Chile's own FAQ is stale — the claim is ABOUT a pre-regime page, it does not assert the pre-regime rule"
+codex/L03-C13,"States that UChile is in practice the only operating route today — a current finding about the post-regime reality, mis-tagged PRE"
+codex/L04-C06,"Records the Contraloría's narrower reading as a contested alternative, explicitly presented as one of two readings"
+codex/L04-C04,"Concerns EUNACOM practical-section homologation, which Decreto 174 does not govern"
+claude/L06-C15,"Concerns entry to a clinical postgraduate programme, a separate regime Decreto 174 expressly leaves untouched"
