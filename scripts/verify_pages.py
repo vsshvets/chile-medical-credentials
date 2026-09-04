@@ -48,6 +48,14 @@ def main():
                 claimed = (m.group(1) if m else "")
                 if v["rheumatology_unit"] == "unknown" and "є підрозділ" in claimed:
                     bad.append((slug, "rheumatology unit asserted but dataset says unknown", claimed.strip()))
+        # Every statement about current hiring must carry the date it was checked. A vacancy
+        # claim without a date is the staleness problem in miniature: it reads as true forever.
+        checked += 1
+        m = re.search(r"## Чи наймають\s*(.+?)(?=\n## |\Z)", t, re.S)
+        if not m:
+            bad.append((slug, "no hiring section", ""))
+        elif not re.search(r"вересня 2026|2026-09-03", m.group(1)):
+            bad.append((slug, "hiring section carries no check date", ""))
         # accreditation, where the register has it
         if r["prog_accred_years"] and "progress" not in r["prog_accred_until"].lower():
             checked += 1
