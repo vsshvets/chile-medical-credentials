@@ -29,7 +29,7 @@ Facultad de Medicina створено у листопаді 2022 року; її 
 
 ## Ревматологія
 
-У Hospital Regional de Arica Dr. Juan Noé Crevani діє Policlínico de reumatología del Hospital Regional de Arica Dr. Juan Noé. Лікарня повідомляла про наймання ревматолога 2025 року для посилення роботи цього поліклінічного підрозділу. У чинному переліку Postgrados y Postítulos UTA немає програми лікарської спеціальності або стипендійної програми з ревматології.
+У Hospital Regional de Arica Dr. Juan Noé Crevani діє **Policlínico de Reumatología**. Лікарня повідомляла про наймання ревматолога 2025 року для посилення роботи цього поліклінічного підрозділу. У чинному переліку Postgrados y Postítulos UTA немає програми лікарської спеціальності або стипендійної програми з ревматології.
 
 ## Чи наймають
 
