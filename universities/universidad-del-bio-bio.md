@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Ciencias de la Salud y de los Alimentos](https://webfacsa.ubiobio.cl/index.php/facultad/) |
 | **Декан** | Dra. María Pía Gianelli Barra |
 | **Ревматологія** | не підтверджено · немає |
-| **Вакансії** | [сторінка конкурсів](https://www.ubiobio.cl/concursos/?trk=public_post_reshare-text) |
+| **Конкурси** | [сторінка конкурсів](https://www.ubiobio.cl/concursos/?trk=public_post_reshare-text) |
 
 ## Про факультет
 

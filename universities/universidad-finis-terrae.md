@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina y Salud](https://facultadmedicina.finis.cl/) |
 | **Декан** | Dr. Ernesto Vega Asún |
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
-| **Вакансії** | [сторінка вакансій](https://uft.trabajando.cl/) |
+| **Конкурси** | [сторінка вакансій](https://uft.trabajando.cl/) |
 
 ## Про факультет
 

@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina](https://www.ucm.cl/facultades/facultad-de-medicina/) |
 | **Декан** | Dr. Iván Castillo Montecino |
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://ucatolicamaule.trabajando.cl/) |
+| **Конкурси** | [сторінка конкурсів](https://ucatolicamaule.trabajando.cl/) |
 
 ## Про факультет
 

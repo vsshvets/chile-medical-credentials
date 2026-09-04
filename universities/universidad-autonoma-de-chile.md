@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Ciencias de la Salud](https://www.uautonoma.cl/facultades/ciencias-de-la-salud/) |
 | **Декан** | Dr. Luis Castillo Fuenzalida |
 | **Ревматологія** | не підтверджено · немає |
-| **Вакансії** | [Trabaja con nosotros](https://postgrados.uautonoma.cl/trabaja-con-nosotros/) |
+| **Конкурси** | [Trabaja con nosotros](https://postgrados.uautonoma.cl/trabaja-con-nosotros/) |
 
 ## Про факультет
 

@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Ciencias Médicas](https://admision.ubo.cl/facultades/facultad-de-ciencias-medicas/) |
 | **Декан** | Dr. Jorge Rodríguez Díaz |
 | **Ревматологія** | є підрозділ · програму підготовки за спеціальністю не вдалося підтвердити |
-| **Вакансії** | [сторінка конкурсів](https://ubo.trabajando.cl/) |
+| **Конкурси** | [сторінка конкурсів](https://ubo.trabajando.cl/) |
 
 ## Про факультет
 

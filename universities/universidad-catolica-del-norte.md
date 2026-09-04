@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina](https://www.ucn.cl/universidad/facultades-escuelas-y-departamentos/facultad-de-medicina/) |
 | **Декан** | Paula Ligeti Stuardo |
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://www.ucn.cl/trabaja-con-nosotros/) |
+| **Конкурси** | [сторінка конкурсів](https://www.ucn.cl/trabaja-con-nosotros/) |
 
 ## Про факультет
 

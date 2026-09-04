@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Departamento de Salud](https://salud.ulagos.cl/) |
 | **Декан** | не вдалося підтвердити |
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://www.ulagos.cl/concursopublico/convocatoria-de-seleccion-01-de-febrero/) |
+| **Конкурси** | [сторінка конкурсів](https://www.ulagos.cl/concursopublico/convocatoria-de-seleccion-01-de-febrero/) |
 
 ## Про факультет
 

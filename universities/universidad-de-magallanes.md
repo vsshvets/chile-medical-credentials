@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Escuela de Medicina](https://umag.cl/facultades-2/escuela-de-medicina/) |
 | **Декан** | не вдалося підтвердити |
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
-| **Вакансії** | [Dirección de Gestión y Desarrollo de Personas](https://umag.cl/nuestra-universidad/vicerrectoria-de-adm-y-finanzas/direccion-de-gestion-y-desarrollo-de-personas/) |
+| **Конкурси** | [Dirección de Gestión y Desarrollo de Personas](https://umag.cl/nuestra-universidad/vicerrectoria-de-adm-y-finanzas/direccion-de-gestion-y-desarrollo-de-personas/) |
 
 > ⚠️ **Юридично може, але з застереженням.** Університет державний і має потрібну інституційну акредитацію, проте акредитація його програми з медицини **в процесі**. Оскільки ст. 4 **Decreto 174** вимагає чинної акредитації програми, це треба уточнювати в самому університеті.
 

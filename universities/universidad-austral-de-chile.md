@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina](https://medicina.uach.cl/) |
 | **Декан** | Dra. Ingrid Pamela Ehrenfeld Slater (Pamela Ehrenfeld) |
 | **Ревматологія** | є підрозділ · не вдалося підтвердити програму підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://www.uach.cl/mgi/guias-rapidas/recruiting) |
+| **Конкурси** | [сторінка конкурсів](https://www.uach.cl/mgi/guias-rapidas/recruiting) |
 
 ## Про факультет
 

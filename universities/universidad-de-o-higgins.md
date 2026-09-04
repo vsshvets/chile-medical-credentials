@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Escuela de Salud](https://www.uoh.cl/escuela-de-salud/) |
 | **Декан** | Daniela Flores Meza, Directora de la Escuela de Salud |
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://www.uoh.cl/trabaja-con-nosotros/) |
+| **Конкурси** | [сторінка конкурсів](https://www.uoh.cl/trabaja-con-nosotros/) |
 
 ## Про факультет
 

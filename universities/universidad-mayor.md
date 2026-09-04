@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina y Ciencias de la Salud](https://www.umayor.cl/um/facultades/facultad-de-medicina-y-ciencias-de-la-salud) |
 | **Декан** | Dr. Álvaro Erazo |
 | **Ревматологія** | не підтверджено · немає |
-| **Вакансії** | [сторінка конкурсів](https://umayor.trabajando.cl/) |
+| **Конкурси** | [сторінка конкурсів](https://umayor.trabajando.cl/) |
 
 ## Про факультет
 

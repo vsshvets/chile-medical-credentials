@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina Clínica Alemana Universidad del Desarrollo](https://medicina.udd.cl/) |
 | **Декан** | Marcela Castillo Franzoy |
 | **Ревматологія** | є підрозділ · є програма підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://investigacion.udd.cl/categoria/trabaja-con-nosotros/) |
+| **Конкурси** | [сторінка конкурсів](https://investigacion.udd.cl/categoria/trabaja-con-nosotros/) |
 
 ## Про факультет
 

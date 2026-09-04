@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina](https://facultades.unab.cl/medicina/) |
 | **Декан** | Dr. Patricio Burdiles |
 | **Ревматологія** | не підтверджено · не вдалося підтвердити |
-| **Вакансії** | [сторінка конкурсів](https://unab.trabajando.cl/empleo-categoria/1243-cargos-profesionales) |
+| **Конкурси** | [сторінка конкурсів](https://unab.trabajando.cl/empleo-categoria/1243-cargos-profesionales) |
 
 ## Про факультет
 

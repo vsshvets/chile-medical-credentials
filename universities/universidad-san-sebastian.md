@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina](https://www.uss.cl/facultades-y-carreras/medicina/) |
 | **Декан** | Carlos Miguel Pérez Cortes |
 | **Ревматологія** | не підтверджено · не підтверджено |
-| **Вакансії** | [сторінка конкурсів](https://universidadsansebastian.hiringroom.com/portal/jobs) |
+| **Конкурси** | [сторінка конкурсів](https://universidadsansebastian.hiringroom.com/portal/jobs) |
 
 ## Про факультет
 

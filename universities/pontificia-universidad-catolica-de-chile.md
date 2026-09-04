@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina](https://facultadmedicina.uc.cl/) |
 | **Декан** | Dr. Bruno Nervi Nattero |
 | **Ревматологія** | є підрозділ · є програма підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://cargosacademicos.uc.cl/) |
+| **Конкурси** | [сторінка конкурсів](https://cargosacademicos.uc.cl/) |
 
 ## Про факультет
 

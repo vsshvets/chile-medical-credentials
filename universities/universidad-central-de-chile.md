@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina y Ciencias de la Salud (FAMEDSA)](https://famedsa.ucentral.cl/) |
 | **Декан** | Dra. Gisela Alarcón Rojas (Decana (I)) |
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://funcionarios.ucentral.cl/sgca/pages/ofertaPublica.xhtml) |
+| **Конкурси** | [сторінка конкурсів](https://funcionarios.ucentral.cl/sgca/pages/ofertaPublica.xhtml) |
 
 ## Про факультет
 

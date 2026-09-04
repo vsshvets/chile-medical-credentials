@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina](https://www.uandes.cl/universidad/facultades/medicina/) |
 | **Декан** | Enrique Oyarzún Ebensperger |
 | **Ревматологія** | є підрозділ · немає програми підготовки за спеціальністю |
-| **Вакансії** | [сторінка конкурсів](https://alumni.uandes.cl/trabajar-en-universidad-de-los-andes) |
+| **Конкурси** | [сторінка конкурсів](https://alumni.uandes.cl/trabajar-en-universidad-de-los-andes) |
 
 ## Про факультет
 

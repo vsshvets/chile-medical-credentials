@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Departamento de Medicina USerena](https://userena.cl/actualidad/8225-estudiantes-de-medicina-de-la-userena-visitan-el-cdt-del-hospital-de-la-serena-en-su-primer-acercamiento-a-la-red-asistencial.html) |
 | **Декан** | не вдалося підтвердити |
 | **Ревматологія** | є підрозділ · не вдалося підтвердити програму лікарської спеціальності |
-| **Вакансії** | [сторінка конкурсів](https://userena.cl/trabaja-con-nosotros) |
+| **Конкурси** | [сторінка конкурсів](https://userena.cl/trabaja-con-nosotros) |
 
 ## Про факультет
 

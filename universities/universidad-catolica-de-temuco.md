@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Ciencias de la Salud](https://www.uct.cl/facultades/facultad-de-ciencias-de-la-salud/) |
 | **Декан** | Mg. Claudia Bascuñán Valdés |
 | **Ревматологія** | не вдалося підтвердити · не вдалося підтвердити |
-| **Вакансії** | [сторінка конкурсів](https://ddper.uct.cl/concursos-abiertos/) |
+| **Конкурси** | [сторінка конкурсів](https://ddper.uct.cl/concursos-abiertos/) |
 
 ## Про факультет
 

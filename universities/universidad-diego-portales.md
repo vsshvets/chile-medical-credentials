@@ -15,7 +15,7 @@
 | **Медичний факультет** | [Facultad de Medicina](https://medicina.udp.cl/) |
 | **Декан** | Matías González Tugas |
 | **Ревматологія** | є підрозділ · немає |
-| **Вакансії** | [сторінка конкурсів](https://www.udp.cl/docentes/concursos-academicos/) |
+| **Конкурси** | [сторінка конкурсів](https://www.udp.cl/docentes/concursos-academicos/) |
 
 ## Про факультет
 
