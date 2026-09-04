@@ -98,3 +98,5 @@
 {"type":"item.completed","item":{"id":"item_49","type":"web_search","id":"exec-26dca2b9-23fe-4492-8e96-359d5e576b6f","query":"https://nuevo.leychile.cl/servicios/Consulta/Exportar?exportar_con_notas_al_pie=True&exportar_con_notas_bcn=True&exportar_con_notas_originales=True&exportar_formato=pdf&hddResultadoExportar=1221526.2026-08-17.0.0%23&nombrearchivo=Decreto-174_17-FEB-2026&radioExportar=Normas","action":{"type":"other"}}}
 {"type":"item.started","item":{"id":"item_50","type":"web_search","id":"exec-fca43e35-ac4f-4981-9eeb-98b1f6585a57","query":"","action":{"type":"other"}}}
 {"type":"item.completed","item":{"id":"item_50","type":"web_search","id":"exec-fca43e35-ac4f-4981-9eeb-98b1f6585a57","query":"","action":{"type":"other"}}}
+{"type":"item.started","item":{"id":"item_51","type":"web_search","id":"exec-c534075e-3441-4183-9188-25aa0c656abf","query":"","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_51","type":"web_search","id":"exec-c534075e-3441-4183-9188-25aa0c656abf","query":"https://www.bcn.cl/leychile/navegar?idNorma=1014974","action":{"type":"other"}}}
