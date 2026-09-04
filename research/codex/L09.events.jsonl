@@ -27,3 +27,10 @@
 {"type":"item.started","item":{"id":"item_13","type":"web_search","id":"exec-cf00b93d-65f4-48ab-ba79-6c6dd3467f27","query":"","action":{"type":"other"}}}
 {"type":"item.completed","item":{"id":"item_13","type":"web_search","id":"exec-cf00b93d-65f4-48ab-ba79-6c6dd3467f27","query":"site:fonasa.cl \"personas extranjeras\" \"Residencia Temporal\" afiliación ...","action":{"type":"search","queries":["site:fonasa.cl \"personas extranjeras\" \"Residencia Temporal\" afiliación","site:chileatiende.gob.cl FONASA extranjeros residentes afiliación cotizaciones","site:fonasa.cl \"cédula de identidad para extranjeros\" afiliación"]}}}
 {"type":"item.started","item":{"id":"item_14","type":"web_search","id":"exec-60758906-d730-4d47-85cc-4cac94521210","query":"","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_14","type":"web_search","id":"exec-60758906-d730-4d47-85cc-4cac94521210","query":"","action":{"type":"other"}}}
+{"type":"item.started","item":{"id":"item_15","type":"web_search","id":"exec-354941a4-33cd-4c5a-8d05-c35ca2881382","query":"","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_15","type":"web_search","id":"exec-354941a4-33cd-4c5a-8d05-c35ca2881382","query":"site:serviciomigraciones.cl/aranceles-migratorios/ \"Ucrania\" ...","action":{"type":"search","queries":["site:serviciomigraciones.cl/aranceles-migratorios/ \"Ucrania\"","site:serviciomigraciones.cl \"UCRANIA\" \"Actividades lícitas remuneradas\"","site:consulado.gob.cl \"UCRANIA\" visa residencia temporal arancel"]}}}
+{"type":"item.started","item":{"id":"item_16","type":"web_search","id":"exec-1a3a8261-eb7c-4cb8-bf4b-d98ccc3993ad","query":"","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_16","type":"web_search","id":"exec-1a3a8261-eb7c-4cb8-bf4b-d98ccc3993ad","query":"'pasaporte'","action":{"type":"other"}}}
+{"type":"item.started","item":{"id":"item_17","type":"web_search","id":"exec-e163fac6-c946-4e2a-8bad-9ddf696e6d43","query":"","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_17","type":"web_search","id":"exec-e163fac6-c946-4e2a-8bad-9ddf696e6d43","query":"","action":{"type":"other"}}}

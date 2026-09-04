@@ -1,0 +1,70 @@
+{
+  "type": "object",
+  "properties": {
+    "slug": {"type": "string"},
+    "official_name": {"type": "string"},
+    "website": {"type": "string"},
+    "faculty_of_medicine": {
+      "type": "object",
+      "properties": {
+        "name": {"type": "string", "description": "Official Spanish name of the medical faculty"},
+        "url": {"type": "string"},
+        "founded": {"type": "string"},
+        "dean": {"type": "string", "description": "Current dean's name, or UNKNOWN"},
+        "contact_email": {"type": "string"},
+        "contact_phone": {"type": "string"},
+        "address": {"type": "string"}
+      },
+      "required": ["name", "url", "founded", "dean", "contact_email", "contact_phone", "address"]
+    },
+    "rheumatology": {
+      "type": "object",
+      "properties": {
+        "has_unit": {"type": "string", "enum": ["yes", "no", "unknown"], "description": "Does the university or its teaching hospital have a rheumatology unit/department?"},
+        "unit_name": {"type": "string"},
+        "unit_url": {"type": "string"},
+        "has_postgrad_programme": {"type": "string", "enum": ["yes", "no", "unknown"], "description": "Does it run a rheumatology specialty programme (beca/especialidad)?"},
+        "postgrad_url": {"type": "string"},
+        "evidence_quote": {"type": "string", "description": "Verbatim Spanish text proving the above. Empty if unknown."}
+      },
+      "required": ["has_unit", "unit_name", "unit_url", "has_postgrad_programme", "postgrad_url", "evidence_quote"]
+    },
+    "teaching_hospitals": {"type": "array", "items": {"type": "string"}, "description": "Named affiliated/teaching hospitals"},
+    "hiring": {
+      "type": "object",
+      "properties": {
+        "careers_page_url": {"type": "string", "description": "The page where academic vacancies / concursos académicos are published. Must be the real page, not the homepage."},
+        "academic_concursos_url": {"type": "string"},
+        "open_positions_found": {"type": "integer", "description": "Number of currently open academic vacancies found, -1 if the page could not be read"},
+        "positions_note": {"type": "string", "description": "What is currently open, incl. any medicine/internal-medicine post. Say 'none open today' plainly if so."},
+        "requires_chilean_title_note": {"type": "string", "description": "What the published requisitos actually say about foreign titles, revalidación, or nationality. Quote if possible."},
+        "hr_contact": {"type": "string"}
+      },
+      "required": ["careers_page_url", "academic_concursos_url", "open_positions_found", "positions_note", "requires_chilean_title_note", "hr_contact"]
+    },
+    "international": {
+      "type": "object",
+      "properties": {
+        "english_taught_any": {"type": "string", "enum": ["yes", "no", "unknown"], "description": "Does it teach ANY medical course in English?"},
+        "international_office_url": {"type": "string"},
+        "notes": {"type": "string", "description": "International/visiting academic programmes, exchange, foreign faculty presence"}
+      },
+      "required": ["english_taught_any", "international_office_url", "notes"]
+    },
+    "profile_paragraphs": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "3-5 short factual paragraphs IN ENGLISH about this university's medical faculty: what it is, when founded, where, reputation/ranking if sourced, teaching hospital, notable strengths, and anything that matters to a foreign rheumatologist considering it. Each paragraph max 400 characters. Facts only, each traceable to a source below."
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {"url": {"type": "string"}, "what_it_supports": {"type": "string"}, "quote": {"type": "string"}},
+        "required": ["url", "what_it_supports", "quote"]
+      }
+    },
+    "unknowns": {"type": "array", "items": {"type": "string"}}
+  },
+  "required": ["slug", "official_name", "website", "faculty_of_medicine", "rheumatology", "teaching_hospitals", "hiring", "international", "profile_paragraphs", "sources", "unknowns"]
+}
