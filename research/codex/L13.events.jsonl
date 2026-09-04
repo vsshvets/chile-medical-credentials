@@ -88,3 +88,8 @@
 {"type":"item.completed","item":{"id":"item_44","type":"web_search","id":"exec-c724123f-eb54-4277-9d1c-d146ad6cb356","query":"site:serviciomigraciones.cl 2026 tiempo promedio residencia temporal días 367,4 ...","action":{"type":"search","queries":["site:serviciomigraciones.cl 2026 tiempo promedio residencia temporal días 367,4","site:serviciomigraciones.cl \"367,4\" residencia temporal","site:serviciomigraciones.cl plazo respuesta residencia temporal 2026"]}}}
 {"type":"item.started","item":{"id":"item_45","type":"web_search","id":"exec-f6a6e0e9-c465-41b6-8bbf-e86052eca785","query":"","action":{"type":"other"}}}
 {"type":"item.completed","item":{"id":"item_45","type":"web_search","id":"exec-f6a6e0e9-c465-41b6-8bbf-e86052eca785","query":"","action":{"type":"other"}}}
+{"type":"item.started","item":{"id":"item_46","type":"web_search","id":"exec-e67279a7-722e-4093-b307-955c929e0c18","query":"","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_46","type":"web_search","id":"exec-e67279a7-722e-4093-b307-955c929e0c18","query":"","action":{"type":"other"}}}
+{"type":"item.started","item":{"id":"item_47","type":"web_search","id":"exec-e24c4d0f-b65a-4b75-8c1e-77495ed8ce7a","query":"","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_47","type":"web_search","id":"exec-e24c4d0f-b65a-4b75-8c1e-77495ed8ce7a","query":"","action":{"type":"other"}}}
+{"type":"item.started","item":{"id":"item_48","type":"web_search","id":"exec-c58270dd-e624-4c59-b6ab-9c812bb93e72","query":"","action":{"type":"other"}}}
