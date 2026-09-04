@@ -8,7 +8,7 @@ spec = importlib.util.spec_from_file_location(
 cx = importlib.util.module_from_spec(spec); sys.modules["codex_direct"] = cx
 spec.loader.exec_module(cx)
 
-OUT = REPO / "research/pages"; OUT.mkdir(parents=True, exist_ok=True)
+OUT = REPO / "raw/pages"; OUT.mkdir(parents=True, exist_ok=True)
 STAGE = cx.workspace("chile-med-pages")
 SCHEMA = REPO / "scripts/schema_page.json"
 SPEC = (REPO / "scripts/uni_page_spec.txt").read_text(encoding="utf-8")
