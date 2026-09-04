@@ -1,0 +1,487 @@
+{
+ "UNIVERSIDAD FINIS TERRAE": [
+  {
+   "sede": "CASA CENTRAL (SANTIAGO)",
+   "comuna": "PROVIDENCIA",
+   "region": "Metropolitana",
+   "total": 661,
+   "first_year": 95,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DIEGO PORTALES": [
+  {
+   "sede": "CASA CENTRAL (SANTIAGO)",
+   "comuna": "SANTIAGO",
+   "region": "Metropolitana",
+   "total": 476,
+   "first_year": 71,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD CENTRAL DE CHILE": [
+  {
+   "sede": "SANTIAGO",
+   "comuna": "SANTIAGO",
+   "region": "Metropolitana",
+   "total": 147,
+   "first_year": 50,
+   "acc_prog": "NO ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DEL ALBA": [
+  {
+   "sede": "CASA CENTRAL (SANTIAGO - PROVIDENCIA)",
+   "comuna": "PROVIDENCIA",
+   "region": "Metropolitana",
+   "total": 502,
+   "first_year": 69,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE LA SERENA",
+   "comuna": "LA SERENA",
+   "region": "Coquimbo",
+   "total": 394,
+   "first_year": 49,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD MAYOR": [
+  {
+   "sede": "SEDE TEMUCO",
+   "comuna": "TEMUCO",
+   "region": "La Araucanía",
+   "total": 509,
+   "first_year": 77,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE HUECHURABA",
+   "comuna": "HUECHURABA",
+   "region": "Metropolitana",
+   "total": 590,
+   "first_year": 71,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD ANDRES BELLO": [
+  {
+   "sede": "CASA CENTRAL (SANTIAGO)",
+   "comuna": "SANTIAGO",
+   "region": "Metropolitana",
+   "total": 625,
+   "first_year": 0,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "CASA CENTRAL (SANTIAGO)",
+   "comuna": "SANTIAGO",
+   "region": "Metropolitana",
+   "total": 299,
+   "first_year": 148,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE VIÑA DEL MAR",
+   "comuna": "VIÑA DEL MAR",
+   "region": "Valparaíso",
+   "total": 493,
+   "first_year": 0,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE VIÑA DEL MAR",
+   "comuna": "VIÑA DEL MAR",
+   "region": "Valparaíso",
+   "total": 283,
+   "first_year": 144,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE CONCEPCION",
+   "comuna": "CONCEPCION",
+   "region": "Biobío",
+   "total": 434,
+   "first_year": 0,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE CONCEPCION",
+   "comuna": "CONCEPCION",
+   "region": "Biobío",
+   "total": 228,
+   "first_year": 118,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD AUTONOMA DE CHILE": [
+  {
+   "sede": "CASA CENTRAL (TEMUCO)",
+   "comuna": "TEMUCO",
+   "region": "La Araucanía",
+   "total": 112,
+   "first_year": 51,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE TALCA",
+   "comuna": "TALCA",
+   "region": "Maule",
+   "total": 356,
+   "first_year": 53,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "CAMPUS PROVIDENCIA",
+   "comuna": "PROVIDENCIA",
+   "region": "Metropolitana",
+   "total": 385,
+   "first_year": 52,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE LOS ANDES": [
+  {
+   "sede": "CASA CENTRAL (SANTIAGO)",
+   "comuna": "LAS CONDES",
+   "region": "Metropolitana",
+   "total": 512,
+   "first_year": 0,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "CASA CENTRAL (SANTIAGO)",
+   "comuna": "LAS CONDES",
+   "region": "Metropolitana",
+   "total": 393,
+   "first_year": 72,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD SAN SEBASTIAN": [
+  {
+   "sede": "SEDE CONCEPCION",
+   "comuna": "CONCEPCION",
+   "region": "Biobío",
+   "total": 924,
+   "first_year": 125,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE SANTIAGO",
+   "comuna": "SANTIAGO",
+   "region": "Metropolitana",
+   "total": 1011,
+   "first_year": 129,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE VALDIVIA",
+   "comuna": "VALDIVIA",
+   "region": "Los Ríos",
+   "total": 315,
+   "first_year": 77,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE PATAGONIA (PUERTO MONTT)",
+   "comuna": "PUERTO MONTT",
+   "region": "Los Lagos",
+   "total": 649,
+   "first_year": 91,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DEL DESARROLLO": [
+  {
+   "sede": "SEDE SANTIAGO (LAS CONDES)",
+   "comuna": "LAS CONDES",
+   "region": "Metropolitana",
+   "total": 414,
+   "first_year": 0,
+   "acc_prog": "NO ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "SEDE SANTIAGO (S.C. APOQUINDO)",
+   "comuna": "LAS CONDES",
+   "region": "Metropolitana",
+   "total": 350,
+   "first_year": 111,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD BERNARDO O'HIGGINS": [
+  {
+   "sede": "CASA CENTRAL (SANTIAGO)",
+   "comuna": "SANTIAGO",
+   "region": "Metropolitana",
+   "total": 342,
+   "first_year": 62,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE CHILE": [
+  {
+   "sede": "SANTIAGO",
+   "comuna": "SANTIAGO",
+   "region": "Metropolitana",
+   "total": 1831,
+   "first_year": 226,
+   "acc_prog": "NO ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE SANTIAGO DE CHILE": [
+  {
+   "sede": "CASA CENTRAL (SANTIAGO)",
+   "comuna": "ESTACION CENTRAL",
+   "region": "Metropolitana",
+   "total": 525,
+   "first_year": 50,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE VALPARAISO": [
+  {
+   "sede": "CASA CENTRAL (VALPARAISO)",
+   "comuna": "VALPARAISO",
+   "region": "Valparaíso",
+   "total": 560,
+   "first_year": 78,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "CAMPUS SAN FELIPE",
+   "comuna": "SAN FELIPE",
+   "region": "Valparaíso",
+   "total": 337,
+   "first_year": 53,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE ANTOFAGASTA": [
+  {
+   "sede": "SEDE CAMPUS COLOSO",
+   "comuna": "ANTOFAGASTA",
+   "region": "Antofagasta",
+   "total": 392,
+   "first_year": 48,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE LA SERENA": [
+  {
+   "sede": "LA SERENA",
+   "comuna": "LA SERENA",
+   "region": "Coquimbo",
+   "total": 38,
+   "first_year": 38,
+   "acc_prog": "NO ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DEL BIO-BIO": [
+  {
+   "sede": "SEDE CHILLAN",
+   "comuna": "CHILLAN",
+   "region": "Ñuble",
+   "total": 153,
+   "first_year": 48,
+   "acc_prog": "NO ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE LA FRONTERA": [
+  {
+   "sede": "CASA CENTRAL (TEMUCO)",
+   "comuna": "TEMUCO",
+   "region": "La Araucanía",
+   "total": 507,
+   "first_year": 69,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE MAGALLANES": [
+  {
+   "sede": "CASA CENTRAL (PUNTA ARENAS)",
+   "comuna": "PUNTA ARENAS",
+   "region": "Magallanes",
+   "total": 355,
+   "first_year": 51,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE TALCA": [
+  {
+   "sede": "CASA CENTRAL (TALCA)",
+   "comuna": "TALCA",
+   "region": "Maule",
+   "total": 620,
+   "first_year": 82,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE ATACAMA": [
+  {
+   "sede": "CASA CENTRAL (COPIAPO)",
+   "comuna": "COPIAPO",
+   "region": "Atacama",
+   "total": 344,
+   "first_year": 54,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE TARAPACA": [
+  {
+   "sede": "CASA CENTRAL (ARICA)",
+   "comuna": "ARICA",
+   "region": "Arica y Parinacota",
+   "total": 260,
+   "first_year": 44,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE LOS LAGOS": [
+  {
+   "sede": "CASA CENTRAL (OSORNO)",
+   "comuna": "OSORNO",
+   "region": "Los Lagos",
+   "total": 35,
+   "first_year": 35,
+   "acc_prog": "NO ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": [
+  {
+   "sede": "CASA CENTRAL",
+   "comuna": "SANTIAGO",
+   "region": "Metropolitana",
+   "total": 745,
+   "first_year": 102,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE CONCEPCION": [
+  {
+   "sede": "CASA CENTRAL",
+   "comuna": "CONCEPCION",
+   "region": "Biobío",
+   "total": 771,
+   "first_year": 104,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD AUSTRAL DE CHILE": [
+  {
+   "sede": "CASA CENTRAL",
+   "comuna": "VALDIVIA",
+   "region": "Los Ríos",
+   "total": 374,
+   "first_year": 51,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  },
+  {
+   "sede": "CASA CENTRAL",
+   "comuna": "VALDIVIA",
+   "region": "Los Ríos",
+   "total": 157,
+   "first_year": 25,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD CATOLICA DEL NORTE": [
+  {
+   "sede": "SEDE COQUIMBO",
+   "comuna": "COQUIMBO",
+   "region": "Coquimbo",
+   "total": 443,
+   "first_year": 62,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD CATOLICA DEL MAULE": [
+  {
+   "sede": "CASA CENTRAL",
+   "comuna": "TALCA",
+   "region": "Maule",
+   "total": 600,
+   "first_year": 81,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": [
+  {
+   "sede": "CASA CENTRAL (CONCEPCION)",
+   "comuna": "CONCEPCION",
+   "region": "Biobío",
+   "total": 591,
+   "first_year": 99,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD CATOLICA DE TEMUCO": [
+  {
+   "sede": "CASA CENTRAL (TEMUCO)",
+   "comuna": "TEMUCO",
+   "region": "La Araucanía",
+   "total": 177,
+   "first_year": 60,
+   "acc_prog": "NO ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ],
+ "UNIVERSIDAD DE O'HIGGINS": [
+  {
+   "sede": "SEDE RANCAGUA",
+   "comuna": "RANCAGUA",
+   "region": "Lib. Gral. B. O'Higgins",
+   "total": 629,
+   "first_year": 86,
+   "acc_prog": "ACREDITADA",
+   "jornada": "Diurna"
+  }
+ ]
+}

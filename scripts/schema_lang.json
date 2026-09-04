@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "properties": {
+    "pass_id": {"type": "string"},
+    "file": {"type": "string"},
+    "overall_verdict": {"type": "string", "enum": ["PASS", "PASS_WITH_FIXES", "FAIL"]},
+    "verdict_reason": {"type": "string"},
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "segment_id": {"type": "integer", "description": "The [[N]] marker the problem is in. A finding with no segment id is discarded."},
+          "severity": {"type": "string", "enum": ["blocker", "major", "minor"]},
+          "category": {"type": "string"},
+          "quoted_text": {"type": "string", "description": "The exact offending text, copied verbatim from the segment"},
+          "problem": {"type": "string", "description": "What is wrong, in English"},
+          "suggested_rewrite": {"type": "string", "description": "The corrected Ukrainian. Must preserve every fact, number, and Spanish term unchanged."}
+        },
+        "required": ["segment_id", "severity", "category", "quoted_text", "problem", "suggested_rewrite"]
+      }
+    },
+    "section_scores": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {"heading": {"type": "string"}, "score": {"type": "integer"}, "note": {"type": "string"}},
+        "required": ["heading", "score", "note"]
+      }
+    }
+  },
+  "required": ["pass_id", "file", "overall_verdict", "verdict_reason", "findings", "section_scores"]
+}
