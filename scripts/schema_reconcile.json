@@ -1,0 +1,61 @@
+{
+  "type": "object",
+  "properties": {
+    "lane_id": {"type": "string"},
+    "agreements": {
+      "type": "array",
+      "description": "Findings BOTH engines reached independently. These are the strongest claims in the project.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "statement": {"type": "string"},
+          "codex_claim_ids": {"type": "array", "items": {"type": "string"}},
+          "claude_claim_ids": {"type": "array", "items": {"type": "string"}},
+          "best_source_url": {"type": "string"},
+          "best_quote": {"type": "string"},
+          "confidence": {"type": "string", "enum": ["high", "medium", "low"]}
+        },
+        "required": ["statement", "codex_claim_ids", "claude_claim_ids", "best_source_url", "best_quote", "confidence"]
+      }
+    },
+    "conflicts": {
+      "type": "array",
+      "description": "Where the two engines say materially DIFFERENT things about the same question. These matter most.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": {"type": "string", "description": "The underlying question both were answering"},
+          "codex_says": {"type": "string"},
+          "claude_says": {"type": "string"},
+          "codex_source": {"type": "string"},
+          "claude_source": {"type": "string"},
+          "materiality": {"type": "string", "enum": ["changes_the_advice", "changes_a_detail", "wording_only"]},
+          "your_adjudication": {"type": "string", "description": "Which is right and WHY, or UNRESOLVED with what would settle it. Re-check the primary source live before deciding."},
+          "adjudicated_answer": {"type": "string"},
+          "adjudication_source_url": {"type": "string"},
+          "adjudication_quote": {"type": "string"}
+        },
+        "required": ["question", "codex_says", "claude_says", "codex_source", "claude_source", "materiality", "your_adjudication", "adjudicated_answer", "adjudication_source_url", "adjudication_quote"]
+      }
+    },
+    "single_engine_findings": {
+      "type": "array",
+      "description": "Material findings only ONE engine reached. Verify each live before keeping it.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "statement": {"type": "string"},
+          "found_by": {"type": "string", "enum": ["codex", "claude"]},
+          "verified_live": {"type": "boolean"},
+          "verdict": {"type": "string", "enum": ["confirmed", "refuted", "unresolved"]},
+          "source_url": {"type": "string"},
+          "quote": {"type": "string"}
+        },
+        "required": ["statement", "found_by", "verified_live", "verdict", "source_url", "quote"]
+      }
+    },
+    "gaps": {"type": "array", "items": {"type": "string"}, "description": "Questions in the brief NEITHER engine answered"},
+    "headline": {"type": "string", "description": "The one thing a reader must know from this lane, in one sentence"}
+  },
+  "required": ["lane_id", "agreements", "conflicts", "single_engine_findings", "gaps", "headline"]
+}
