@@ -1,40 +1,50 @@
 #!/usr/bin/env python3
-"""Detect text accidentally duplicated inside itself.
+"""Detect text accidentally duplicated immediately after itself.
 
-Mechanical find-and-replace can nest a replacement inside its own match, producing
-"X and the difference is not **X and the difference is not an order of magnitude.**, but an order
-of magnitude.**". It reads as garbage but breaks no other check: links resolve, numbers match,
-no calques. Roughly 200 such replacements were applied to this repo, so this looks for the damage.
+Mechanical find-and-replace can nest a replacement inside its own match, leaving a run of words
+repeated back-to-back:
+    "щоб (1) викладати щоб (1) викладати на медичному…"
+    "і різниця не і різниця не в кілька разів…"
+It reads as garbage but breaks no other check — links resolve, numbers match, no calques — so it
+shipped once in the page subtitle before this existed.
+
+THE ALGORITHM MATTERS. An earlier version slid a fixed 22-character window and looked for the same
+window twice. The repeated unit in the shipped defect was 18 characters, so no 22-character window
+could ever repeat and the check silently passed everything — the second dead gate in this repo.
+This version instead asks directly, at every position: is the next k characters equal to the k
+after that? That is what "repeated immediately" means, and it cannot miss by window size.
 """
 import re, sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-MIN = 40   # a repeated run this long inside one paragraph is not natural prose
+KMIN, KMAX = 10, 80    # length of the repeated run to look for
+
+
+def adjacent_repeat(p: str):
+    """Return the repeated run if some substring is immediately followed by itself."""
+    n = len(p)
+    for i in range(n - KMIN * 2):
+        for k in range(KMIN, min(KMAX, (n - i) // 2) + 1):
+            if p[i:i + k] == p[i + k:i + 2 * k] and p[i:i + k].strip():
+                return p[i:i + k]
+    return None
 
 
 def dupes(text):
-    """Prose only. URLs from one domain repeat naturally in a source list, and table rows share
-    their scaffolding — comparing those produces nothing but false positives (30 of them, first
-    time round). So links, tables and list scaffolding come out before anything is compared."""
     out = []
     for para in re.split(r"\n\s*\n", text):
         if para.lstrip().startswith("|") or "\n|" in para:
             continue
-        # drop link targets and bare URLs, keep the human-readable text
-        clean = re.sub(r"\]\([^)]*\)", "]", para)
+        clean = re.sub(r"(?m)^>\s?", "", para)          # blockquotes hid the shipped defect
+        clean = re.sub(r"\]\([^)]*\)", "]", clean)
         clean = re.sub(r"https?://\S+", " ", clean)
-        clean = re.sub(r"^\s*[-*]\s+", " ", clean, flags=re.M)
         p = " ".join(clean.split())
-        if len(p) < MIN * 2:
+        if len(p) < KMIN * 2:
             continue
-        seen = {}
-        for i in range(len(p) - MIN):
-            frag = p[i:i + MIN]
-            if frag in seen and i - seen[frag] > MIN:
-                out.append((frag, p[:90]))
-                break
-            seen.setdefault(frag, i)
+        frag = adjacent_repeat(p)
+        if frag:
+            out.append((frag, p[:130]))
     return out
 
 
@@ -44,11 +54,9 @@ def main():
         rel = str(f.relative_to(REPO))
         if rel.startswith(("raw/", ".git/")):
             continue
-        body = f.read_text(encoding="utf-8")
-        # A source list legitimately repeats a long institution name across several link titles.
-        body = re.split(r"(?m)^##+\s*Джерела\s*$", body)[0]
+        body = re.split(r"(?m)^##+\s*Джерела\s*$", f.read_text(encoding="utf-8"))[0]
         for frag, ctx in dupes(body):
-            print(f"  DUPLICATED {rel}: «{frag[:60]}…»")
+            print(f"  DUPLICATED {rel}: «{frag[:70]}»")
             print(f"             in: {ctx}")
             bad += 1
     print(f"{'FAIL' if bad else 'OK'}: {bad} self-duplicated passage(s)")
