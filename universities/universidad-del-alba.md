@@ -10,7 +10,7 @@
 | **Місто (регіони)** | La Serena, Santiago (Coquimbo, Metropolitana) |
 | **Студентів медицини (2026)** | 896 |
 | **Набір 1-го курсу (2026)** | 118 |
-| **Кампусів з медициною** | 2 |
+| **Де викладають медицину** | 2 програми у 2 містах: Providencia · La Serena |
 | **Акредитація програми (CNA)** | 3 роки, до 07-01-2029 |
 | **Медичний факультет** | [Facultad de Ciencias de la Salud](https://www.udalba.cl/medicina/) |
 | **Декан** | Dra. María Verónica Morales Vaccarezza |

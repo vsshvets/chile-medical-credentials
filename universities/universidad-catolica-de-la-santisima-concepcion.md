@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Concepción (Biobío) |
 | **Студентів медицини (2026)** | 591 |
 | **Набір 1-го курсу (2026)** | 99 |
-| **Кампусів з медициною** | 1 — CASA CENTRAL (CONCEPCION) (CONCEPCION) |
+| **Де викладають медицину** | 1 програма у 1 місті: Concepción |
 | **Акредитація програми (CNA)** | 4 років, до 13-08-2029 |
 | **Медичний факультет** | [Facultad de Medicina](https://medicina.ucsc.cl/) |
 | **Декан** | Dr. Patricio Manzárraga Valencia |

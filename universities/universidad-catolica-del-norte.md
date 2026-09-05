@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Coquimbo (Coquimbo) |
 | **Студентів медицини (2026)** | 443 |
 | **Набір 1-го курсу (2026)** | 62 |
-| **Кампусів з медициною** | 1 — SEDE COQUIMBO (COQUIMBO) |
+| **Де викладають медицину** | 1 програма у 1 місті: Coquimbo |
 | **Акредитація програми (CNA)** | 6 років, до 24-07-2030 |
 | **Медичний факультет** | [Facultad de Medicina](https://www.ucn.cl/universidad/facultades-escuelas-y-departamentos/facultad-de-medicina/) |
 | **Декан** | Paula Ligeti Stuardo |

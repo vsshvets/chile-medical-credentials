@@ -1,6 +1,6 @@
 # Джерела
 
-Усі 152 джерел, на які спирається цей звіт. Кожне було завантажене й **збережене**, щоб будь-яку цитату можна було перевірити пізніше, а не лише в момент дослідження.
+Джерел, на які спирається цей звіт: **152**. Кожне було завантажене й **збережене**, щоб будь-яку цитату можна було перевірити пізніше, а не лише в момент дослідження.
 
 **Придатних до перевірки: 145 з 152.** Причини недоступності вказані окремо нижче.
 
@@ -23,15 +23,15 @@
 | [bcn.cl/leychile/navegar?i=1002799](https://www.bcn.cl/leychile/navegar?i=1002799) | ✅ | 2026-09-04 |
 | [bcn.cl/leychile/navegar?i=1213603](https://www.bcn.cl/leychile/navegar?i=1213603) | ✅ | 2026-09-04 |
 | [bcn.cl/leychile/navegar?idNorma=1158549](https://www.bcn.cl/leychile/navegar?idNorma=1158549) | ✅ · LEY DE MIGRACIÓN Y EXTRANJERÍA | 2026-09-04 |
-| [bcn.cl/leychile/navegar?idNorma=1221118&idParte=10582304&idVersion=2026-02-05](https://www.bcn.cl/leychile/navegar?idNorma=1221118&idParte=10582304&idVersion=2026-02-05) | ✅ · OTORGA REAJUSTE GENERAL DE REMUNERACIONES A  | 2026-09-04 |
-| [bcn.cl/leychile/navegar?idNorma=1221526](https://www.bcn.cl/leychile/navegar?idNorma=1221526) | ✅ · APRUEBA REGLAMENTO QUE REGULA EL RECONOCIMIE | 2026-09-04 |
-| [bcn.cl/leychile/navegar?idNorma=1226114](https://www.bcn.cl/leychile/navegar?idNorma=1226114) | ✅ · FIJA ARANCELES PARA LOS TRÁMITES REFERIDOS A | 2026-09-04 |
-| [bcn.cl/leychile/navegar?idNorma=270584](https://www.bcn.cl/leychile/navegar?idNorma=270584) | ✅ · CREA EXAMEN ÚNICO NACIONAL DE CONOCIMIENTOS  | 2026-09-04 |
-| [bcn.cl/leychile/navegar?idNorma=28031](https://www.bcn.cl/leychile/navegar?idNorma=28031) | ✅ · FIJA EL TEXTO REFUNDIDO DEL ESTATUTO PARA LO | 2026-09-04 |
-| [bcn.cl/leychile/navegar?idNorma=5219&idParte=8825103&idVersion=1960-04-06](https://www.bcn.cl/leychile/navegar?idNorma=5219&idParte=8825103&idVersion=1960-04-06) | ✅ · FIJA EL NUEVO ESTATUTO ADMINISTRATIVO PARA L | 2026-09-04 |
+| [bcn.cl/leychile/navegar?idNorma=1221118&idParte=10582304&idVersion=2026-02-05](https://www.bcn.cl/leychile/navegar?idNorma=1221118&idParte=10582304&idVersion=2026-02-05) | ✅ · OTORGA REAJUSTE GENERAL DE REMUNERACIONES A… | 2026-09-04 |
+| [bcn.cl/leychile/navegar?idNorma=1221526](https://www.bcn.cl/leychile/navegar?idNorma=1221526) | ✅ · APRUEBA REGLAMENTO QUE REGULA EL… | 2026-09-04 |
+| [bcn.cl/leychile/navegar?idNorma=1226114](https://www.bcn.cl/leychile/navegar?idNorma=1226114) | ✅ · FIJA ARANCELES PARA LOS TRÁMITES REFERIDOS AL… | 2026-09-04 |
+| [bcn.cl/leychile/navegar?idNorma=270584](https://www.bcn.cl/leychile/navegar?idNorma=270584) | ✅ · CREA EXAMEN ÚNICO NACIONAL DE CONOCIMIENTOS… | 2026-09-04 |
+| [bcn.cl/leychile/navegar?idNorma=28031](https://www.bcn.cl/leychile/navegar?idNorma=28031) | ✅ · FIJA EL TEXTO REFUNDIDO DEL ESTATUTO PARA LOS… | 2026-09-04 |
+| [bcn.cl/leychile/navegar?idNorma=5219&idParte=8825103&idVersion=1960-04-06](https://www.bcn.cl/leychile/navegar?idNorma=5219&idParte=8825103&idVersion=1960-04-06) | ✅ · FIJA EL NUEVO ESTATUTO ADMINISTRATIVO PARA… | 2026-09-04 |
 | [bcn.cl/leychile/navegar?idNorma=5595&idVersion=2025-11-18](https://www.bcn.cl/leychile/navegar?idNorma=5595&idVersion=2025-11-18) | ✅ · CODIGO SANITARIO | 2026-09-04 |
 | [leychile.cl/Consulta/obtxml?opt=7&idNorma=1119253](https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1119253) | ✅ · SOBRE UNIVERSIDADES ESTATALES | 2026-09-04 |
-| [leychile.cl/navegar?idNorma=1052275](https://www.leychile.cl/navegar?idNorma=1052275) | ✅ · REGLAMENTO DE CERTIFICACIÓN DE LAS ESPECIALI | 2026-09-04 |
+| [leychile.cl/navegar?idNorma=1052275](https://www.leychile.cl/navegar?idNorma=1052275) | ✅ · REGLAMENTO DE CERTIFICACIÓN DE LAS… | 2026-09-04 |
 | [leychile.cl/navegar?idNorma=1158549&tipoVersion=0](https://www.leychile.cl/navegar?idNorma=1158549&tipoVersion=0) | ✅ · LEY DE MIGRACIÓN Y EXTRANJERÍA | 2026-09-04 |
 
 ## Державні органи Чилі
@@ -197,10 +197,10 @@
 
 | Джерело | Причина |
 |---|---|
-| `apostille.in.ua/attachments/4all/%D0%A6%D1%96%D0%BD%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%8` | HTTP 404 |
+| `apostille.in.ua/attachments/4all/%D0%A6%D1%96%D0%BD%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D…` | HTTP 404 |
 | `libre-eleccion.fonasa.gob.cl/` | сторінка віддає порожній HTML (JavaScript-застосунок) |
 | `prorrectoria.simplybook.me/v2/` | сторінка віддає порожній HTML (JavaScript-застосунок) |
-| `uchile.cl/dam/jcr:181ced88-33e1-465d-9935-2616181edd08/DEX%20384%20Aranceles%202026.pd` | pdf: no extractable text |
+| `uchile.cl/dam/jcr:181ced88-33e1-465d-9935-2616181edd08/DEX%20384%20Aranceles%202026…` | pdf: no extractable text |
 | `zakon.rada.gov.ua/laws/show/1556-18/ed20150529/print` | URLError: <urlopen error timed out> |
 | `zakon.rada.gov.ua/laws/show/1556-18/ed20170105/print/sp%3Adark` | URLError: <urlopen error timed out> |
 | `zakon.rada.gov.ua/laws/show/en/1556-18/ed20220512/comp20190101?dark=1&lang=en` | URLError: <urlopen error timed out> |

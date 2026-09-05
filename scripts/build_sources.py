@@ -35,7 +35,7 @@ for u, m in sorted(idx.items()):
 usable = sum(1 for m in idx.values() if m.get("chars", 0) > 200)
 lines = [
  "# Джерела", "",
- f"Усі {len(idx)} джерел, на які спирається цей звіт. Кожне було завантажене й **збережене**, "
+ f"Джерел, на які спирається цей звіт: **{len(idx)}**. Кожне було завантажене й **збережене**, "
  f"щоб будь-яку цитату можна було перевірити пізніше, а не лише в момент дослідження.", "",
  f"**Придатних до перевірки: {usable} з {len(idx)}.** Причини недоступності вказані окремо нижче.", "",
  "> ⚠️ Сторінки `bcn.cl/leychile` — це JavaScript-оболонки: у їхньому HTML **немає тексту закону**.",
@@ -54,7 +54,12 @@ for name, _ in TIERS:
         label = re.sub(r"^https?://(www\.)?", "", u)
         if len(label) > 88:
             label = label[:85] + "…"
-        extra = f" · {m['titulo'][:44]}" if m.get("titulo") else (f" · {note}" if note else "")
+        # Truncating a Spanish title mid-word produced "APRUEBA REGLAMENTO QUE REGULA EL RECONOCIMIE".
+        # Cut on a word boundary and mark the cut.
+        ttl = m.get("titulo") or ""
+        if len(ttl) > 46:
+            ttl = ttl[:46].rsplit(" ", 1)[0] + "…"
+        extra = f" · {ttl}" if ttl else (f" · {note}" if note else "")
         lines.append(f"| [{label}]({u}) | {st}{extra} | {m.get('fetched_at','')[:10]} |")
     lines.append("")
 
@@ -67,7 +72,10 @@ if dead:
     for u, m in dead:
         why = m.get("error") or ("сторінка віддає порожній HTML (JavaScript-застосунок)"
                                  if m.get("status") == 200 else f"HTTP {m.get('status')}")
-        lines.append(f"| `{re.sub(r'^https?://(www\\.)?', '', u)[:86]}` | {why} |")
+        short = re.sub(r"^https?://(www\\.)?", "", u)
+        if len(short) > 86:
+            short = short[:83] + "…"      # never cut inside a percent-escape without marking it
+        lines.append(f"| `{short}` | {why} |")
     lines.append("")
 
 lines += ["## Як це перебудувати", "", "```bash",

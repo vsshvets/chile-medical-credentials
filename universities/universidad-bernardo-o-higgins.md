@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Santiago (Metropolitana) |
 | **Студентів медиини (2026)** | 342 |
 | **Набір 1-го курсу (2026)** | 62 |
-| **Кампусів з медициною** | 1 — CASA CENTRAL (SANTIAGO) (SANTIAGO) |
+| **Де викладають медицину** | 1 програма у 1 місті: Santiago |
 | **Акредитація програми (CNA)** | 3 років, до 11-10-2026 |
 | **Медичний факультет** | [Facultad de Ciencias Médicas](https://admision.ubo.cl/facultades/facultad-de-ciencias-medicas/) |
 | **Декан** | Dr. Jorge Rodríguez Díaz |

@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Antofagasta (Antofagasta) |
 | **Студентів медицини (2026)** | 392 |
 | **Набір 1-го курсу (2026)** | 48 |
-| **Кампусів з медициною** | 1 — SEDE CAMPUS COLOSO (ANTOFAGASTA) |
+| **Де викладають медицину** | 1 програма у 1 місті: Sede Campus Coloso — Antofagasta |
 | **Акредитація програми (CNA)** | 5 років, до 21-09-2027 |
 | **Медичний факультет** | [Facultad de Medicina y Odontología](https://www.uantof.cl/facultades/facultad-de-medicina-y-odontologia/) |
 | **Декан** | Dr. Joel Enrique Bravo Bown |

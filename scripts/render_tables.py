@@ -36,7 +36,12 @@ def build(prefix):
         f"{th(r['matricula_total_2026'])} | {th(r['matricula_primer_ano_2026'])} | "
         f"{r['campuses_with_medicina']} | [деталі]({prefix}{r['slug']}.md) |"
     )
-  lines.append(f"| | **Разом: {len(rows)} університетів** | з них {state} державних | | "
+  # Ukrainian numeral agreement: 31 takes the singular ("31 університет"), not "31 університетів"
+  a = len(rows) % 100
+  b = len(rows) % 10
+  word = ("університетів" if 11 <= a <= 14 else
+          "університет" if b == 1 else "університети" if 2 <= b <= 4 else "університетів")
+  lines.append(f"| | **Разом: {len(rows)} {word}** | з них {state} державних | | "
                f"**{th(tot)}** | **{th(p1)}** | {camp} | |")
   return "\n".join(lines)
 

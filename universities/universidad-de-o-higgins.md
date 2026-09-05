@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Rancagua (Lib. Gral. B. O'Higgins) |
 | **Студентів медицини (2026)** | 629 |
 | **Набір 1-го курсу (2026)** | 86 |
-| **Кампусів з медициною** | 1 — SEDE RANCAGUA (RANCAGUA) |
+| **Де викладають медицину** | 1 програма у 1 місті: Rancagua |
 | **Акредитація програми (CNA)** | 4 років, до 03-09-2029 |
 | **Медичний факультет** | [Escuela de Salud](https://www.uoh.cl/escuela-de-salud/) |
 | **Декан** | Daniela Flores Meza, Directora de la Escuela de Salud |

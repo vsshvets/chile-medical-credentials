@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Temuco (La Araucanía) |
 | **Студентів медицини (2026)** | 177 |
 | **Набір 1-го курсу (2026)** | 60 |
-| **Кампусів з медициною** | 1 — CASA CENTRAL (TEMUCO) (TEMUCO) |
+| **Де викладають медицину** | 1 програма у 1 місті: Temuco |
 | **Акредитація програми (CNA)** | немає в реєстрі CNA |
 | **Медичний факультет** | [Facultad de Ciencias de la Salud](https://www.uct.cl/facultades/facultad-de-ciencias-de-la-salud/) |
 | **Декан** | Mg. Claudia Bascuñán Valdés |

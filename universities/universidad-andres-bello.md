@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Metropolitana, Valparaíso, Biobío |
 | **Студентів медицини (2026)** | 2362 |
 | **Набір 1-го курсу (2026)** | 410 |
-| **Кампусів з медициною** | 6 |
+| **Де викладають медицину** | 6 програм у 3 містах: Santiago · Viña del Mar · Concepción |
 | **Акредитація програми (CNA)** | 5 років, до 20-01-2027 |
 | **Медичний факультет** | [Facultad de Medicina](https://facultades.unab.cl/medicina/) |
 | **Декан** | Dr. Patricio Burdiles |

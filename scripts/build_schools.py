@@ -27,6 +27,52 @@ def slug(s):
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
 
 
+def comuna_forms():
+    """SIES strips Spanish diacritics: it ships "Concepcion", "Valparaiso", "Viña Del Mar".
+    Printing those in a document she will quote to a Chilean office is wrong, so they are mapped
+    back to the real spelling in data/comunas.csv."""
+    f = REPO / "data/comunas.csv"
+    if not f.exists():
+        return {}
+    return {r["sies_form"].upper(): r["proper_form"] for r in csv.DictReader(f.open(encoding="utf-8"))}
+
+
+COMUNAS = None
+
+
+def campus_label(s):
+    """Render one campus as "Sede — Comuna", readably.
+
+    Two problems with the raw SIES fields. The sede name often already carries a city in
+    parentheses ("CASA CENTRAL (SANTIAGO)"), so appending the comuna produced nested brackets —
+    "CASA CENTRAL (SANTIAGO) (SANTIAGO)" — on six pages. And everything arrives in capitals,
+    which reads as shouting in running Ukrainian text.
+    """
+    sede = re.sub(r"\s*\([^)]*\)", "", s["sede"]).strip()
+    comuna = s["comuna"].strip()
+    sede = " ".join(w.capitalize() if w.isupper() else w for w in sede.split())
+    comuna = " ".join(w.capitalize() if w.isupper() else w for w in comuna.split())
+    if not comuna:
+        return sede
+    # "Sede Concepción — Concepción" says the place twice; the comuna alone is the useful half.
+    if comuna.upper() in sede.upper() or sede.upper() in comuna.upper():
+        return comuna
+    if sede.lower() in ("casa central", "sede", "campus"):
+        return comuna
+    return f"{sede} — {comuna}"
+
+
+def pretty(label):
+    """Restore diacritics on any campus label, part by part."""
+    global COMUNAS
+    if COMUNAS is None:
+        COMUNAS = comuna_forms()
+    out = []
+    for part in label.split(" — "):
+        out.append(COMUNAS.get(part.strip().upper(), part.strip()))
+    return " — ".join(out)
+
+
 def display_names():
     """Official Spanish names with accents. SIES ships ALL CAPS unaccented; .title() mangles them
     ('Universidad De Chile'), and a mangled institution name is the entity-verification failure."""
@@ -86,7 +132,8 @@ def main():
             "is_cruch": "yes" if "CRUCH" in d["type1"].upper() else "no",
             "regions": " | ".join(sorted(d["regions"])),
             "campuses_with_medicina": len(d["sedes"]),
-            "campus_list": " | ".join(f"{s['sede']} ({s['comuna']})" for s in d["sedes"]),
+            "campus_list": " · ".join(dict.fromkeys(pretty(campus_label(s)) for s in d["sedes"])),
+            "campus_cities": len(dict.fromkeys(pretty(campus_label(s)) for s in d["sedes"])),
             "matricula_total_2026": d["total"],
             "matricula_primer_ano_2026": d["first_year"],
             "women_2026": d["women"],

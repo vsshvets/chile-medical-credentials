@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Temuco (La Araucanía), Talca (Maule), Providencia (Metropolitana) |
 | **Студентів медицини (2026)** | 853 |
 | **Набір 1-го курсу (2026)** | 156 |
-| **Кампусів з медициною** | 3 |
+| **Де викладають медицину** | 3 програми у 3 містах: Temuco · Talca · Providencia |
 | **Акредитація програми (CNA)** | 4 роки, до 18-01-2027 |
 | **Медичний факультет** | [Facultad de Ciencias de la Salud](https://www.uautonoma.cl/facultades/ciencias-de-la-salud/) |
 | **Декан** | Dr. Luis Castillo Fuenzalida |

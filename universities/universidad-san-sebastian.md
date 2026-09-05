@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Biobío, Los Lagos, Los Ríos, Metropolitana |
 | **Студентів медицини (2026)** | 2899 |
 | **Набір 1-го курсу (2026)** | 422 |
-| **Кампусів з медициною** | 4 |
+| **Де викладають медицину** | 4 програми у 4 містах: Concepción · Santiago · Valdivia · Sede Patagonia — Puerto Montt |
 | **Акредитація програми (CNA)** | 5 років, до 15-05-2029 |
 | **Медичний факультет** | [Facultad de Medicina](https://www.uss.cl/facultades-y-carreras/medicina/) |
 | **Декан** | Carlos Miguel Pérez Cortes |

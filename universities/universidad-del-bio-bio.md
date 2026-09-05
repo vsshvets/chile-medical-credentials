@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Chillán (Ñuble) |
 | **Студентів медицини (2026)** | 153 |
 | **Набір 1-го курсу (2026)** | 48 |
-| **Кампусів з медициною** | 1 — SEDE CHILLAN (CHILLAN) |
+| **Де викладають медицину** | 1 програма у 1 місті: Chillán |
 | **Акредитація програми (CNA)** | немає в реєстрі CNA |
 | **Медичний факультет** | [Facultad de Ciencias de la Salud y de los Alimentos](https://webfacsa.ubiobio.cl/index.php/facultad/) |
 | **Декан** | Dra. María Pía Gianelli Barra |

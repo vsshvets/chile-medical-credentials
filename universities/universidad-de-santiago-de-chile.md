@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Santiago (Metropolitana) |
 | **Студентів медицини (2026)** | 525 |
 | **Набір 1-го курсу (2026)** | 50 |
-| **Кампусів з медициною** | 1 — CASA CENTRAL (SANTIAGO) (ESTACION CENTRAL) |
+| **Де викладають медицину** | 1 програма у 1 місті: Estación Central |
 | **Акредитація програми (CNA)** | 5 років, до 06-08-2030 |
 | **Медичний факультет** | [Facultad de Ciencias Médicas](https://fcm.usach.cl/) |
 | **Декан** | Dr. Alejandro Guajardo Córdoba |

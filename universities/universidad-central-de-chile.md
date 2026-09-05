@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Santiago (Metropolitana) |
 | **Студентів медицини (2026)** | 147 |
 | **Набір 1-го курсу (2026)** | 50 |
-| **Кампусів з медициною** | 1 — Santiago |
+| **Де викладають медицину** | 1 програма у 1 місті: Santiago |
 | **Акредитація програми (CNA)** | 3 роки, до 02-09-2029 |
 | **Медичний факультет** | [Facultad de Medicina y Ciencias de la Salud (FAMEDSA)](https://famedsa.ucentral.cl/) |
 | **Декан** | Dra. Gisela Alarcón Rojas (Decana (I)) |

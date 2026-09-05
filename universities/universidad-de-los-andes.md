@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Santiago (Metropolitana) |
 | **Студентів медицини (2026)** | 905 |
 | **Набір 1-го курсу (2026)** | 72 |
-| **Кампусів з медициною** | 2 |
+| **Де викладають медицину** | 2 програми у 1 місті: Las Condes |
 | **Акредитація програми (CNA)** | 6 років, до 23-02-2028 |
 | **Медичний факультет** | [Facultad de Medicina](https://www.uandes.cl/universidad/facultades/medicina/) |
 | **Декан** | Enrique Oyarzún Ebensperger |

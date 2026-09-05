@@ -33,6 +33,24 @@ def adjacent_repeat(p: str):
 
 def dupes(text):
     out = []
+    # TABLE CELLS FIRST. Skipping tables hid six corrupted rows reading
+    # "CASA CENTRAL (SANTIAGO) (SANTIAGO)". Each cell is checked on its own, because a whole
+    # table row legitimately repeats scaffolding that a cell does not.
+    for line in text.split("\n"):
+        if not line.lstrip().startswith("|"):
+            continue
+        for cell in line.strip().strip("|").split("|"):
+            # A URL path legitimately repeats a segment ("eunacom.cl/inscripcion/inscripcion.html")
+            # and a code span legitimately lists similar column names. Neither is prose.
+            c = re.sub(r"\]\([^)]*\)", "]", cell)
+            c = re.sub(r"`[^`]*`", " ", c)
+            c = re.sub(r"https?://\S+|\b[\w.-]+\.(?:cl|ua|com|org|net|gob\.cl)\S*", " ", c)
+            c = " ".join(c.split())
+            if len(c) < KMIN * 2:
+                continue
+            frag = adjacent_repeat(c)
+            if frag:
+                out.append((frag, c[:130]))
     for para in re.split(r"\n\s*\n", text):
         if para.lstrip().startswith("|") or "\n|" in para:
             continue

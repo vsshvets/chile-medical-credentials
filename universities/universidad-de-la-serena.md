@@ -10,7 +10,7 @@
 | **Місто (регіони)** | La Serena (Coquimbo) |
 | **Студентів медицини (2026)** | 38 |
 | **Набір 1-го курсу (2026)** | 38 |
-| **Кампусів з медициною** | 1 — LA SERENA (LA SERENA) |
+| **Де викладають медицину** | 1 програма у 1 місті: La Serena |
 | **Акредитація програми (CNA)** | немає в реєстрі CNA |
 | **Медичний факультет** | [Departamento de Medicina USerena](https://userena.cl/actualidad/8225-estudiantes-de-medicina-de-la-userena-visitan-el-cdt-del-hospital-de-la-serena-en-su-primer-acercamiento-a-la-red-asistencial.html) |
 | **Декан** | не вдалося підтвердити |

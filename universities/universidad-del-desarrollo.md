@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Santiago (Metropolitana) |
 | **Студентів медицини (2026)** | 764 |
 | **Набір 1-го курсу (2026)** | 111 |
-| **Кампусів з медициною** | 2 |
+| **Де викладають медицину** | 2 програми у 1 місті: Sede Santiago — Las Condes |
 | **Акредитація програми (CNA)** | 7 років, до 20-07-2029 |
 | **Медичний факультет** | [Facultad de Medicina Clínica Alemana Universidad del Desarrollo](https://medicina.udd.cl/) |
 | **Декан** | Marcela Castillo Franzoy |

@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Temuco (La Araucanía), Huechuraba (Metropolitana) |
 | **Студентів медицини (2026)** | 1099 |
 | **Набір 1-го курсу (2026)** | 148 |
-| **Кампусів з медициною** | 2 — SEDE TEMUCO (TEMUCO), SEDE HUECHURABA (HUECHURABA) |
+| **Де викладають медицину** | 2 програми у 2 містах: Temuco · Huechuraba |
 | **Акредитація програми (CNA)** | 5 років, до 17-06-2031 |
 | **Медичний факультет** | [Facultad de Medicina y Ciencias de la Salud](https://www.umayor.cl/um/facultades/facultad-de-medicina-y-ciencias-de-la-salud) |
 | **Декан** | Dr. Álvaro Erazo |

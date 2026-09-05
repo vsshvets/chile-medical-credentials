@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Santiago (Metropolitana) |
 | **Студентів медицини (2026)** | 745 |
 | **Набір 1-го курсу (2026)** | 102 |
-| **Кампусів з медициною** | 1 — CASA CENTRAL (SANTIAGO) |
+| **Де викладають медицину** | 1 програма у 1 місті: Santiago |
 | **Акредитація програми (CNA)** | 7 років, до 21-08-2031 |
 | **Медичний факультет** | [Facultad de Medicina](https://facultadmedicina.uc.cl/) |
 | **Декан** | Dr. Bruno Nervi Nattero |
@@ -29,7 +29,7 @@ Facultad de Medicina створено 17 червня 1929 року; занят�
 
 ## Чи наймають
 
-Станом на 3 вересня 2026 року в UC відкрито чотири конкурси на академічні посади: один у Biology and Sustainability, один у Comparative Politics і два викладацькі конкурси в Physics. У Facultad de Medicina, Medicina Interna та ревматології відкритих конкурсів немає.
+Станом на 3 вересня 2026 року в UC відкрито чотири конкурси на академічні посади: один у галузі біології та сталого розвитку, один із порівняльної політології та два викладацькі конкурси в Instituto de Física. У Facultad de Medicina, Medicina Interna та ревматології відкритих конкурсів немає.
 
 Поточні оголошення не вимагають чилійського громадянства й не містять вимоги щодо ревалідації іноземного диплома; для відібраної іноземної кандидатки потрібна відповідна віза.
 
@@ -42,4 +42,4 @@ Facultad de Medicina створено 17 червня 1929 року; занят�
 - [Клінічні бази факультету](https://facultadmedicina.uc.cl/campos-clinicos/)
 - [Поточні конкурси на академічні посади](https://cargosacademicos.uc.cl/)
 - [Вимога щодо візи для іноземних кандидатів](https://cargosacademicos.uc.cl/oferta/llamado-a-concurso-profesor-a-asistente-o-asociado-en-biologia-y-sustentabilidad/)
-- [Два викладацькі конкурси в Physics](https://cargosacademicos.uc.cl/oferta/llamado-a-concurso-2-profesorases-docentes-planta-especial-instituto-de-fisica/)
+- [Два викладацькі конкурси в Instituto de Física](https://cargosacademicos.uc.cl/oferta/llamado-a-concurso-2-profesorases-docentes-planta-especial-instituto-de-fisica/)

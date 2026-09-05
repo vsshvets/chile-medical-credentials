@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Arica (Arica y Parinacota) |
 | **Студентів медицини (2026)** | 260 |
 | **Набір 1-го курсу (2026)** | 44 |
-| **Кампусів з медициною** | 1 — CASA CENTRAL (ARICA) (ARICA) |
+| **Де викладають медицину** | 1 програма у 1 місті: Arica |
 | **Акредитація програми (CNA)** | 5 років, до 19-03-2030 |
 | **Медичний факультет** | [Facultad de Medicina](https://www.uta.cl/index.php/portada-facultad-de-medicina/) |
 | **Декан** | Andrea Larrazábal Miranda |

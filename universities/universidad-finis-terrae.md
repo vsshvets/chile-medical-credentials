@@ -10,7 +10,7 @@
 | **Місто (регіони)** | Santiago (Metropolitana) |
 | **Студентів медицини (2026)** | 661 |
 | **Набір 1-го курсу (2026)** | 95 |
-| **Кампусів з медициною** | 1 — CASA CENTRAL (SANTIAGO) (PROVIDENCIA) |
+| **Де викладають медицину** | 1 програма у 1 місті: Providencia |
 | **Акредитація програми (CNA)** | 7 років, до 19-08-2033 |
 | **Медичний факультет** | [Facultad de Medicina y Salud](https://facultadmedicina.finis.cl/) |
 | **Декан** | Dr. Ernesto Vega Asún |
