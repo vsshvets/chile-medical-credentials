@@ -1,0 +1,41 @@
+{
+  "type": "object",
+  "properties": {
+    "routes": {
+      "type": "array",
+      "description": "EVERY distinct legal route by which a foreign medical degree becomes usable in Chile. Include routes that do not apply to a Ukrainian, marked as such.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name_es": {"type": "string"},
+          "what_it_produces": {"type": "string", "description": "Exactly what you hold at the end and what it entitles you to do"},
+          "who_runs_it": {"type": "string"},
+          "applies_to_ukrainian": {"type": "string", "enum": ["yes", "no", "conditional"]},
+          "why_not": {"type": "string", "description": "If no or conditional, the precise reason"},
+          "online_portal_url": {"type": "string", "description": "The exact URL where an applicant creates an account or files, or NONE"},
+          "account_creation": {"type": "string", "description": "What identity is needed to open an account: passport / RUT / ClaveUnica / none"},
+          "steps": {"type": "array", "items": {"type": "string"}},
+          "cost": {"type": "string"},
+          "duration": {"type": "string"},
+          "evidence_url": {"type": "string"},
+          "evidence_quote": {"type": "string", "description": "VERBATIM Spanish from that page"},
+          "status": {"type": "string", "enum": ["live", "discontinued", "unclear"]},
+          "history_note": {"type": "string", "description": "If this route existed differently in the past, say how and when it changed"}
+        },
+        "required": ["name_es","what_it_produces","who_runs_it","applies_to_ukrainian","why_not","online_portal_url","account_creation","steps","cost","duration","evidence_url","evidence_quote","status","history_note"]
+      }
+    },
+    "portals_that_are_not_routes": {
+      "type": "array",
+      "description": "Chilean online platforms an applicant might FIND and mistake for a degree-recognition route, with what each actually does",
+      "items": {
+        "type": "object",
+        "properties": {"url": {"type": "string"}, "what_it_actually_is": {"type": "string"}, "who_it_is_for": {"type": "string"}},
+        "required": ["url","what_it_actually_is","who_it_is_for"]
+      }
+    },
+    "bottom_line": {"type": "string"},
+    "unknowns": {"type": "array", "items": {"type": "string"}}
+  },
+  "required": ["routes","portals_that_are_not_routes","bottom_line","unknowns"]
+}
