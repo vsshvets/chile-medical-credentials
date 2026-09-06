@@ -10,7 +10,7 @@
 **📑 Зміст:** [Головне](#-головне) · [1. Викладання](#1-викладання-в-чилійському-університеті) ·
 [2. Диплом лікаря](#2-диплом-лікаря-два-шляхи) · [3. Ревматологія](#3-ревматологія--найважча-частина) ·
 [4. Документи з України](#4-документи-з-україни) · [5. Чи можна почати з України](#5-чи-можна-почати-з-україни) ·
-[6. Університети](#6-університети-чилі-зі-спеціальністю-медицина) · [7. Конкурси](#7-конкурси-на-академічні-посади) · [Гроші й час](#-гроші-й-час-три-сценарії) · [Що каже інтернет](#-що-ви-знайдете-в-інтернеті--і-чому-це-вже-неправда) ·
+[6. Університети](#6-університети-чилі-зі-спеціальністю-медицина) · [7. Конкурси](#7-конкурси-на-академічні-посади) · [Гроші й час](#-гроші-й-час-три-сценарії) · [Усі шляхи](#-усі-знайдені-шляхи--повний-перелік) · [Що каже інтернет](#-що-ви-знайдете-в-інтернеті--і-чому-це-вже-неправда) ·
 [Поширені уявлення](#---поширені-уявлення--перевірено) · [Що робити зараз](#-що-робити-зараз) · [Чого не підтверджено](#-що-ми-не-підтвердили--і-кому-писати)
 
 ---
@@ -268,6 +268,42 @@ EUNACOM — і навпаки, етапи EUNACOM зараховують у ре
 **Найдешевша перевірка перед вибором:** написати на медичний факультет Universidad de Chile і
 попросити попередню оцінку навчального плану. Якщо збіг високий — університетський шлях коротший,
 ніж здається. Якщо низький — EUNACOM однозначно вигідніший.
+
+### 🔑 Той сайт, який ви пам’ятаєте
+
+Це майже напевно **Cuenta UChile → Ucampus** — той самий вхід на шлях А. Історія збігається: до
+2019 року Universidad de Chile приймала документи поштою й через Google Drive, у грудні 2021-го
+зробила обов’язковим обліковий запис, а раніше він називався **«Pasaporte UChile»**. Це був не інший
+орган визнання, а попередня назва тієї самої системи входу.
+
+Другий можливий кандидат — **портал міграційної служби**: заяву на дозвіл на проживання подають
+саме *«desde el extranjero, ingresando con la cuenta creada por el postulante»* — з-за кордону,
+через створений заявником обліковий запис. Це теж «створити акаунт і підтвердити документи», але
+йдеться про візу, а не про диплом.
+
+**Окремої державної системи визнання дипломів із власним обліковим записом у Чилі не існувало —
+ані зараз, ані раніше.** Ми шукали спеціально.
+
+### Портали, які легко сплутати
+
+| Сайт | Що це насправді | Чи стосується її |
+|---|---|---|
+| **cuenta.uchile.cl** → **ucampus.uchile.cl** | Вхід і модуль подання Universidad de Chile | ✅ **Так — це шлях А** |
+| **reservas.eunacom.cl** | Запис на обов’язкову першу реєстрацію EUNACOM | ✅ **Так — це шлях Б** |
+| **reconocimientodetitulos.minrel.gob.cl** | Портал МЗС для країн, що мають угоду з Чилі | ❌ Ні. Угода є з Бразилією, Перу й Уругваєм. **України немає** |
+| …/ValidarCertificado.aspx на тому ж порталі | Перевірка вже виданого сертифіката | ❌ Ні, це не подання заяви |
+| **chileatiende.gob.cl/fichas/2461** | Інформаційна сторінка, що веде на портал МЗС | ❌ Ні, подати звідти не можна |
+| **educacionsuperior.mineduc.cl/tramite-digital** | Перелік посилань на три різні канали | ❌ Ні, це довідник, а не портал |
+| **ayudamineduc.cl** | Служба звернень громадян, вимагає **RUN** | ❌ Ні |
+| **portal-certificados.mineduc.cl** | Визнання **шкільної** освіти | ❌ Ні, не вищої |
+| **claveunica.gob.cl** | Державний цифровий підпис; потрібне чилійське посвідчення | ❌ Ні, і отримати його з України не можна |
+| **conacem.cl/registro.asp** | Реєстрація для сертифікації спеціальності | ⚠️ Згодом — але **вимагає RUT**, якого в неї немає |
+| **webserver.superdesalud.gob.cl** (frmsoltitulo) | Внесення **вже визнаного** титулу до реєстру надавачів | ⚠️ Лише після ревалідації |
+| **pes.mineduc.cl**, **mifuturo.cl** | Для чилійських ВНЗ і абітурієнтів | ❌ Ні |
+
+> ⚠️ **Одна пастка на самому eunacom.cl.** Сторінка `eunacom.cl/inscripcion/` застаріла — на ній
+> досі написано *«Próximo EUNACOM se rendirá en enero 2023»*. Чинні правила — на
+> `eunacom.cl/inscripcion/inscripcion.html`. Не звіряйте дати за першою.
 
 ### Чого жоден із цих шляхів НЕ дає
 
@@ -630,6 +666,54 @@ varsovia@consulado.gob.cl, +48 22 858 23 30.
   а не цитата.
 - **Даних про фактичну тривалість процедури не опубліковано** — є лише нормативні строки.
 - **Дані про конкурси на академічні посади — це зріз одного дня**, 3 вересня 2026 року.
+
+---
+
+## 📋 Усі знайдені шляхи — повний перелік
+
+Щоб не лишалося відчуття, що щось пропущено: нижче **всі 25 шляхів**, які вдалося
+знайти в чинному чилійському праві, разом із тими, що їй **не** підходять, і поясненням чому.
+З них 2 доступні прямо, 15 — за умов, 8 закриті.
+
+| Шлях | Що дає | Чи доступний їй |
+|---|---|---|
+| **Revalidación del título profesional de Médico Cirujano por la Univers…** | A Universidad de Chile diploma/resolution certifying equivalence between the Ukrainian medic… | ✅ |
+| **EUNACOM completo como revalidación automática** | After passing both the theoretical and practical sections, the applicant holds an EUNACOM ce… | ✅ |
+| **Revalidación del título profesional de Médico Cirujano por otra unive…** | A revalidation diploma identifying the foreign medical title and the equivalent Chilean Médi… | ⚠️ Nationality is not a barrier. A particular State university must be legally eligible, m… |
+| **Facultad discrecional del MINEDUC del artículo 143 de la Ley 21.325** | If activated for a listed qualification, MINEDUC could itself recognise, revalidate or conva… | ⚠️ The statute requires an updated published list of eligible titles. No live list or appl… |
+| **Reconocimiento del grado académico de Doctor por la Universidad de Chile** | A certificate accepting the foreign academic degree and assimilating it to the Chilean acade… | ⚠️ Universidad de Chile must decide that the Ukrainian Candidate of Medical Sciences quali… |
+| **Revalidación del grado académico de Doctor por la Universidad de Chile** | A diploma certifying equivalence between the foreign academic degree and a specific academic… | ⚠️ The applicant must select a corresponding Universidad de Chile degree, and the universi… |
+| **Reconocimiento del grado académico por otra universidad estatal** | A recognition certificate stating that the foreign degree is assimilable to Licenciado, Magí… | ⚠️ The university must accept the application and decide that the Candidate of Medical Sci… |
+| **Revalidación del grado académico por otra universidad estatal** | A revalidation diploma certifying equivalence with a specific Chilean degree awarded by that… | ⚠️ It depends on a university offering and accepting comparison with an appropriate Chilea… |
+| **Convalidación de actividades curriculares y obtención posterior de un…** | Convalidación alone produces recognition of specified foreign courses, not recognition of th… | ⚠️ The university must admit the person, accept enough foreign courses and require complet… |
+| **Certificación ordinaria de especialidad médica obtenida en el extranj…** | A CONACEM diploma certifying the medical specialty, potentially rheumatology. With a separat… | ⚠️ CONACEM currently permits registration only with a Chilean RUT. The applicant must also… |
+| **Certificación excepcional de especialidad bajo el artículo 2 bis de l…** | Certification of a specific specialty or subspecialty by a MINSAL-authorised entity. Even wi… | ⚠️ She must prove a certifiable foreign specialty—not merely teaching experience—and satis… |
+| **Inscripción en el Registro Nacional de Prestadores Individuales de Sa…** | A public RNPI entry recording the already validated professional title and, where applicable… | ⚠️ She must first obtain a qualifying Chilean title recognition/revalidation, EUNACOM resu… |
+| **Autorización sanitaria del artículo 112 del Código Sanitario para bar…** | An individual sanitary-authority resolution permitting work as a doctor at the specified shi… | ⚠️ It requires proof of the foreign medical title, a genuinely remote qualifying post and … |
+| **Contratación pública excepcional por escasez imprescindible de médico…** | A temporary public-health contract/administrative authorisation despite not having passed EU… | ⚠️ A public employer must establish actual exceptional scarcity and indispensability. The … |
+| **Exención territorial y temporal de EUNACOM durante la alerta sanitari…** | No new credential. It temporarily allows designated public Health Services to contract docto… | ⚠️ She must first revalidate the medical title through Universidad de Chile or another val… |
+| **Ingreso directo a docencia universitaria con diploma extranjero apost…** | An academic appointment or employment contract, not a Chilean degree-recognition certificate… | ⚠️ She must win the relevant academic competition and obtain lawful immigration/work statu… |
+| **Actividad académica breve de extranjero domiciliado fuera de Chile — …** | A statutory exemption from requesting the special remunerated-activity authorisation for qua… | ⚠️ She must remain resident/domiciled abroad, be invited for a university-organised academ… |
+| **Reconocimiento — no revalidación — del título profesional médico bajo…** | Nothing for a medical-practice application: simple reconocimiento would merely certify that … | ❌ The obstacle is the regulated nature of medicine, not Ukrainian nationality. Médico Cir… |
+| **Reconocimiento y registro por convenios bilaterales ante MINREL** | A Ministry of Foreign Affairs recognition-and-registration certificate which permits profess… | ❌ The current bilateral route covers titles obtained in Brazil, Peru and Uruguay. A medic… |
+| **Convención de México: reconocimiento de título médico previo examen g…** | After the Universidad de Chile general health-profession examination is passed and MINREL co… | ❌ The degree must have been issued in Bolivia, Costa Rica, El Salvador, Honduras, Nicarag… |
+| **Reconocimiento por convenios administrados por MINEDUC** | An official MINEDUC recognition of an eligible title from Argentina, Ecuador, Spain or the U… | ❌ The person’s medical and academic degrees were obtained in Ukraine, which is covered by… |
+| **Homologación de la sección práctica del EUNACOM para titulares de rec…** | After passing EUNACOM-ST and obtaining approval to homologate EUNACOM-SP, the candidate rece… | ❌ The current EUNACOM page limits practical-section homologation to recognised titles lis… |
+| **Reconocimiento excepcional de la Ley 19.074 para retornados/exiliados…** | Historically, a special commission could issue recognition authorising nationwide profession… | ❌ It was restricted to specified Chilean returnees, certain naturalised Chileans and fore… |
+| **Habilitación temporal de especialistas de la Ley 21.274** | Historically, it temporarily authorised specified doctors with pending specialty-certificati… | ❌ New entrants had to have their hiring reported before 10 April 2023. The three-year sta… |
+| **Contratación de médicos con título extranjero no revalidado durante l…** | Historically, an emergency public-sector authorisation and special RNPI entry for foreign do… | ❌ The COVID sanitary alert ended, and the post-alert continuation period under Law 21.274… |
+
+Кілька з цих шляхів варто пояснити окремо, бо вони не очевидні:
+
+- **Стаття 112 Санітарного кодексу** дозволяє санітарному органу окремим рішенням дозволити роботу
+  лікарем **на судні, острові або у віддаленій місцевості**. Диплом це не ревалідує, але дає право
+  практикувати в конкретному місці.
+- **Виняткове наймання за браком лікарів**: державний роботодавець може взяти лікаря без EUNACOM,
+  якщо доведе справжній дефіцит. Рішення дискреційне й тимчасове.
+- **Стаття 143 Ley 21.325** дає MINEDUC право визнавати дипломи **самостійно**, за окремим
+  переліком. Переліку, який охоплював би український медичний диплом, наразі не опубліковано.
+- **Ley 19.074 (репатріанти) і Ley 21.274 (тимчасова допуск спеціалістів)** — обидві історичні:
+  строки минули, нових заяв не приймають. Якщо натрапите на них у старих порадах — вони мертві.
 
 ---
 

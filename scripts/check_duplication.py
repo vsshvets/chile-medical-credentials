@@ -56,7 +56,10 @@ def dupes(text):
             continue
         clean = re.sub(r"(?m)^>\s?", "", para)          # blockquotes hid the shipped defect
         clean = re.sub(r"\]\([^)]*\)", "]", clean)
-        clean = re.sub(r"https?://\S+", " ", clean)
+        # Code spans and bare hostnames are stripped in table cells; prose needs the same, or a
+        # real URL path like `eunacom.cl/inscripcion/inscripcion.html` reads as duplication.
+        clean = re.sub(r"`[^`]*`", " ", clean)
+        clean = re.sub(r"https?://\S+|\b[\w.-]+\.(?:cl|ua|com|org|net)\S*", " ", clean)
         p = " ".join(clean.split())
         if len(p) < KMIN * 2:
             continue
